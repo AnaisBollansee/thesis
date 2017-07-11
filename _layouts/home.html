@@ -1,4 +1,5 @@
 ---
+coverflow_index: 0
 ---
 
 <html>
@@ -28,6 +29,34 @@
 	</body>
 
 	<script>
-		$('.coverflow').coverflow();
+		$('.coverflow').coverflow({
+			index: {{ page.coverflow_index | default: 0 }},
+			density: {{ page.coverflow_density | default: 3 }},
+			duration: "{{ page.coverflow_duration | default: 'normal' }}",
+			innerOffset: {{ page.coverflow_inner_offset | default: 50 }},
+			outerOffset: {{ page.coverflow_outer_offset | default: 50 }},
+			innerScale: {{ page.coverflow_inner_scale | default: 0.8 }},
+			outerScale: {{ page.coverflow_outer_scale | default: 0.8 }},
+			innerAngle: {{ page.coverflow_inner_angle | default: -30 }},
+			outerAngle: {{ page.coverflow_outer_angle | default: -30 }},
+			animateStep:	function(event, cover, offset, isVisible, isMiddle, sin, cos) {
+				if (isVisible) {
+					if (isMiddle) {
+						$(cover).css({
+							'filter':			'none',
+							'-webkit-filter':	'none'
+						});
+					} else {
+						var brightness	= 1 + Math.abs(sin),
+							contrast	= 1 - Math.abs(sin),
+							filter		= 'contrast('+contrast+') brightness('+brightness+')';
+						$(cover).css({
+							'filter':			filter,
+							'-webkit-filter':	filter
+						});
+					}
+				}
+			}
+		});
     </script>
 </html>
