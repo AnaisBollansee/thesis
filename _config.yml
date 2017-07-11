@@ -1,2 +1,7 @@
 collections:
-- artists
+  artists:
+    output: true
+    permalink: /:collection/:path/
+  albums:
+    output: true
+    permalink: /:collection/:path/

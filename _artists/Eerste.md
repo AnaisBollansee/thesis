@@ -2,7 +2,6 @@
 layout: artist
 title:  "De eerste artiest!"
 artist: eerste
-categories: jekyll update
 image: images/gnome.jpg
 ---
 
