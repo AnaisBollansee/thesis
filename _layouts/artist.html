@@ -14,7 +14,7 @@
 			{% for info in site.artist_info %}
 			{% if info.artist == page.artist %}
 				<li>
-					<a href="{{ site.baseurl }}/{{ info.url }}">{{ info.link-title }}</a>
+					<a href="{{ site.baseurl }}{{ info.url }}">{{ info.link-title }}</a>
 				</li>
 			{% endif %}
 			{% endfor %}

@@ -2,7 +2,7 @@
 {% for artist in site.artists %}
 	<div class="cover">
 		<img src="{{ site.baseurl }}/{{ artist.image }}">
-		<a href="{{ site.baseurl }}/{{ artist.url }}">{{ artist.title }}</a>
+		<a href="{{ site.baseurl }}{{ artist.url }}">{{ artist.title }}</a>
 	</div>
 {% endfor %}
 </div>
