@@ -10,16 +10,6 @@
 	</head>
 
 	<body>
-		<ul>
-			{% for info in site.artist_info %}
-			{% if info.artist == page.artist %}
-				<li>
-					<a href="{{ info.url }}">{{ info.link-title }}</a>
-				</li>
-			{% endif %}
-			{% endfor %}
-		</ul>
-
 		{{ content }}
 
         {% include footer.html %}

@@ -1,8 +1,6 @@
 ---
-layout: artist
-title:  "En een tweede artiest."
 artist: tweede
-categories: jekyll update
+title:  "En een tweede artiest."
 image: images/piggy-bank.png
 ---
 

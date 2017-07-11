@@ -5,3 +5,24 @@ collections:
   albums:
     output: true
     permalink: /:collection/:path/
+  artist_info:
+    output: true
+    permalink: /:collection/:path/
+
+
+defaults:
+  - scope:
+      path: ""
+      type: artists
+    values:
+      layout: artist
+  - scope:
+      path: ""
+      type: artist_info
+    values:
+      layout: artist_info
+  - scope:
+      path: ""
+      type: albums
+    values:
+      layout: album

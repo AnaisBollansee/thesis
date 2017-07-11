@@ -1,7 +1,9 @@
 ---
-layout: album
-title:  "Een album van de eerste artiest!"
 artist: eerste
-categories: jekyll update
+title:  "Een album van de eerste artiest!"
 image: images/gnome.jpg
 ---
+
+# Titel
+
+informatie over albumke

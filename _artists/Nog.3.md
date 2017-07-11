@@ -1,8 +1,6 @@
 ---
-layout: artist
-title:  "Nog een artiest 3"
 artist: nog3
-categories: jekyll update
+title:  "Nog een artiest 3"
 image: images/piggy-bank.png
 ---
 

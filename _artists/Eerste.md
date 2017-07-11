@@ -1,7 +1,6 @@
 ---
-layout: artist
-title:  "De eerste artiest!"
 artist: eerste
+title:  "De eerste artiest!"
 image: images/gnome.jpg
 ---
 
@@ -24,8 +23,6 @@ Eén hashtag is een titel, twee een ondertitel, drie een onder-ondertitel, enz..
 Zo voeg je foto's toe:
 
 ![Beschrijving]({{ site.url }}/images/piggy-bank.png)
-
-Vergeet de `{{ site.url }}` niet ;)
 
 ## De rest
 
