@@ -1,6 +1,6 @@
 ---
 artist: eerste
-title:  "De tweede artiest zijn albumkes"
+title:  "De eerste artiest zijn albumkes"
 link-title: "Albums"
 ---
 
