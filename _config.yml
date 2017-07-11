@@ -1,3 +1,5 @@
+baseurl: /thesis-anais
+
 collections:
   artists:
     output: true
