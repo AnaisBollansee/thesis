@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<title>{{ page.title }}</title>
 
-		<link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/images/icon.png"/>
+		<link rel="shortcut icon" type="image/png" href="{% include fix_url.html url='/images/icon.png' %}"/>
 	</head>
 
 	<body>
@@ -14,7 +14,7 @@
 			{% for info in site.artist_info %}
 			{% if info.artist == page.artist %}
 				<li>
-					<a href="{{ site.baseurl }}{{ info.url }}">{{ info.link-title }}</a>
+					<a href="{% include fix_url.html url=info.url %}">{{ info.link-title }}</a>
 				</li>
 			{% endif %}
 			{% endfor %}

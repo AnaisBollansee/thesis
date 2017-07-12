@@ -22,7 +22,7 @@ Eén hashtag is een titel, twee een ondertitel, drie een onder-ondertitel, enz..
 
 Zo voeg je foto's toe:
 
-![Beschrijving]({{ site.baseurl }}/images/piggy-bank.png)
+![Beschrijving]({% include fix_url.html url='/images/piggy-bank.png' %})
 
 ## De rest
 
