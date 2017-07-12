@@ -1,5 +1,5 @@
 ---
-title:  "Anais's Thesis Home TEST"
+title:  "Anais's Thesis Home"
 layout: home
 ---
 
