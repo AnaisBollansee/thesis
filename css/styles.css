@@ -1,3 +1,17 @@
 h1 {
+    text-align: center;
     color: red;
+}
+
+footer ul {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+footer li {
+    flex: 0 1 auto; /* Default */
+    list-style-type: none;
 }
