@@ -1,7 +1,7 @@
 ---
 artist: eerste
 title:  "Nog een album van de eerste artiest!"
-image: images/piggy-bank.png
+image: /images/piggy-bank.png
 ---
 
 # Tralalala

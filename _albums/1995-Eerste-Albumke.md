@@ -1,7 +1,7 @@
 ---
 artist: eerste
 title:  "Een album van de eerste artiest!"
-image: images/gnome.jpg
+image: /images/gnome.jpg
 ---
 
 # Titel

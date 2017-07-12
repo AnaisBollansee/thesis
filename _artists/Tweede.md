@@ -1,7 +1,7 @@
 ---
 artist: tweede
 title:  "En een tweede artiest."
-image: images/piggy-bank.png
+image: /images/piggy-bank.png
 ---
 
 # h1 Heading 8-)

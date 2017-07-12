@@ -1,7 +1,7 @@
 <div class="coverflow">
 {% for artist in site.artists %}
 	<div class="cover">
-		<img src="{{ site.baseurl }}/{{ artist.image }}">
+		<img src="{{ site.baseurl }}{{ artist.image }}">
 		<a href="{{ site.baseurl }}{{ artist.url }}">{{ artist.title }}</a>
 	</div>
 {% endfor %}

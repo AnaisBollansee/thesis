@@ -1,7 +1,7 @@
 ---
 artist: eerste
 title:  "De eerste artiest!"
-image: images/gnome.jpg
+image: /images/gnome.jpg
 ---
 
 # Dit is een hoofding

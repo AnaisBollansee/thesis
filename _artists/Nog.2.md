@@ -1,7 +1,7 @@
 ---
 artist: nog2
 title:  "Nog een artiest 2"
-image: images/piggy-bank.png
+image: /images/piggy-bank.png
 ---
 
 # h1 Heading 8-)
