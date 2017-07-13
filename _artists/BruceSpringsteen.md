@@ -1,10 +1,10 @@
 ---
-artist: nog2
-title:  "Nog een artiest 2"
+artist: Bruce Springsteen
+title:  "Bruce Springsteen"
 image: /images/piggy-bank.png
 ---
 
-# h1 Heading 8-)
+# Bruce Springsteen
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading

@@ -1,10 +1,10 @@
 ---
-artist: tweede
-title:  "En een tweede artiest."
+artist: Sting
+title:  "Sting"
 image: /images/piggy-bank.png
 ---
 
-# h1 Heading 8-)
+# Sting
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading

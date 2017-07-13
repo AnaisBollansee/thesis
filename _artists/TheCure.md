@@ -1,10 +1,10 @@
 ---
-artist: nog3
-title:  "Nog een artiest 3"
+artist: The Cure
+title:  "The Cure"
 image: /images/piggy-bank.png
 ---
 
-# h1 Heading 8-)
+# The Cure
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading

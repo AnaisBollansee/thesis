@@ -1,10 +1,10 @@
 ---
-artist: nog1
-title:  "Nog een artiest 1"
+artist: Sinéad O'Connor
+title:  "Sinéad O'Connor"
 image: /images/piggy-bank.png
 ---
 
-# h1 Heading 8-)
+# Sinéad O'Connor
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
