@@ -1,6 +1,6 @@
 ---
 artist: Marc Bolan
-title:  "De eerste artiest zijn cijfers"
+title:  "Marc Bolan in de hitlijsten"
 link-title: "Cijfers"
 ---
 
