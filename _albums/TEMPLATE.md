@@ -1,6 +1,6 @@
 ---
-artist: Marc Bolan
-title: Unicorn
+artist: artiest
+title: "...."
 image: /images/piggy-bank.png
 ---
 
