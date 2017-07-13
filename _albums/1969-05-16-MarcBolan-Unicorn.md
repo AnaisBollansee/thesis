@@ -6,8 +6,7 @@ image: /images/piggy-bank.png
 
 # Unicorn
 
-TODO FOTO
-{% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/64119361&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 <span class="bio-cd">
 {% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}<br>
@@ -18,7 +17,6 @@ TODO FOTO
 
 <span class="engels">Unicorn</span> is het eerste Tyrannosaurus Rex TODO LINK album dat zijn weg vindt naar Amerika. Toch is <span class="engels">Unicorn</span> al hun derde album op één jaar tijd. Maar een échte hoogvlieger kan je het album niet noemen. Ze bereiken een twaalfde plaats in de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %}. Maar na slechts drie weken is het album niet meer te vinden in de top 100. 
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/64119361&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ## Kuikentjes
 
