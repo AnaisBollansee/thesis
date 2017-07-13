@@ -36,7 +36,19 @@ Maar, <span class="engels">All that glitters is not gold</span>. En dat is ook h
 
 Toegegeven, <span class="engels">My People were Fair</span> is niet 100% mijn ding. Ik denk dat ik te opgejaagd ben geworden om er nog ten volle van te kunnen genieten. Toch is het een niet te missen klassieker die thuis hoort in de platenkast van iedereen die serieus met muziek bezig is. Want dit geluid ga je niet snel ergens anders vinden. 
 
+<table>
+	<tr>
+		<td>Hot Rod Mama</td>
+		<td>03:09</td>
+	</tr>
+	<tr>
+		<td>Scenescof</td>
+		<td>01:41</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>tijd</td>
+	</tr>
+</table>
+
 <div class="witregel"> </div>
-
-
-
