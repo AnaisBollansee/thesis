@@ -1,6 +1,6 @@
 ---
 artist: Marc Bolan
-title:  "De eerste artiest!"
+title:  "Marc Bolan"
 image: /images/gnome.jpg
 ---
 
