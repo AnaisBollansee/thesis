@@ -10,11 +10,11 @@ TODO FOTO
 {% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
 
 <span class="bio-cd">
-Marc Bolan TODO LINK, {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}<br>
-{% include link.html url="/artist_info/Label/RegalZonophone/" tekst="Regal Zonophone" new_tab=true %}/{% include link.html url="/artist_info/Label/BlueThumb/" tekst="Blue Thumb" new_tab=true %}<br>
+{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}<br>
+{% include link.html url="/artist_info/Label/RegalZonophone/" tekst="Regal Zonophone" new_tab=true %}<br>
 {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %}<br>
 </span>
-16 mei 1969<br>Studio album
+05 juli 1968<br>Studio album
 
 
 <span class="engels">
