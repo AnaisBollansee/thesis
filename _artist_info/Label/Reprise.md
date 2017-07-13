@@ -5,5 +5,5 @@ link-title: "Label"
 ---
 
 # Reprise
-
-a b c
+## Reprise
+werd in 1960 opgericht als deel van {% include link.html url="http://www.wmg.com/" tekst="Warner Music Group" new_tab=true %}. Het werd opgericht door de Amerikaanse zanger en acteur Frank Sinatra. Onder andere <span class="extra uitleg">Fleetwood Mac </span>, <span class="extra uitleg">Depeche Mode</span> en <span class="extra uitleg">Frank Zappa</span> werkten samen met Reprise. 
