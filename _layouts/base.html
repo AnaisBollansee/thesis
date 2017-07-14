@@ -23,7 +23,23 @@
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 		<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 		<script>
-			$(".carousel").slick()
+			$(".carousel").each(function(index) {
+				var slick = $( this )
+				slick.slick()
+				var slideIndex = 0;
+				slick.on('beforeChange', function(event, slick, currentSlide, nextSlide) {
+					//console.log("Change " + currentSlide + " -> " + nextSlide)
+					slideIndex = currentSlide
+				})
+				slick.click(function(event) {
+					var index = $('.slick-current').data('slick-index')
+					var url = $('.slick-current').data('artist-url')
+					//console.log(slideIndex + " -> " + index + " -> " + url)
+					if (url && index == slideIndex) {
+						window.location.href = url
+					}
+				})
+			})
 		</script>
 		{% include live_js.html %}
 	</body>
