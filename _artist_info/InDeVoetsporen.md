@@ -26,6 +26,32 @@ Ik laat de slapende stad achter me om een paar uur later toe te komen in een and
 
 TODO FOTO GALERIJ
 
+<div class="carousel" data-slick='{"dots": true, "centerMode": true}'>
+	<div>
+		{% include image.html url="/images/gnome.jpg" %}
+		Hallo
+	</div>
+	<div>
+		{% include image.html url="/images/gnome.jpg" %}
+		2
+	</div>
+	<div>
+		{% include image.html url="/images/gnome.jpg" %}
+		3
+	</div>
+	<div>
+		{% include image.html url="/images/gnome.jpg" %}
+		4
+	</div>
+	<div>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/SIdnkFTIGds" frameborder="0" allowfullscreen></iframe>
+	</div>
+		<div>
+		tekst alleen
+	</div>
+</div>
+
+
 #### 142 Upper Richmond Road West
 
 Een beetje verward wandel ik uiteindelijk verder richting <span class="engels">Upper Richmond Road West</span>. Ik neem geen binnenwegen of mooie bospadjes. Neen, ik blijf vlak naast de auto’s. Want dit is waar Bolan reed op 16 september 1977 TODO LINK. Tot {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} op minder dan 1,5 km van hun woonst de controle over de paarse MINI verliest.  
