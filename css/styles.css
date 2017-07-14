@@ -1,7 +1,7 @@
 body {
 	width: 90%;
 	margin:0 auto;
-	font-family: "Verdana", Times, Sans-serif;
+	font-family: "Verdana", Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -83,6 +83,10 @@ ul.navigation_bar {
 	width: 95%;
 	margin:0 auto;
 	font-family: "Times New Roman", Times, serif;
+}
+
+.slick-slide {
+	height: auto;
 }
 
 footer ul {

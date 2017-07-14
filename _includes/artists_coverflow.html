@@ -1,6 +1,6 @@
-<div class="coverflow">
+<div class="carousel owl-carousel owl-theme" data-settings='{"items": 4}'>
 {% for artist in site.artists %}
-	<div class="cover">
+	<div>
 		<img src="{% include fix_url.html url=artist.image %}">
 		<a href="{% include fix_url.html url=artist.url %}">{{ artist.title }}</a>
 	</div>

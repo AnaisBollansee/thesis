@@ -1,0 +1,39 @@
+---
+---
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{{ page.title }}</title>
+
+		<link rel="shortcut icon" type="image/png" href="{% include fix_url.html url='/images/icon.png' %}"/>
+
+		<link rel="stylesheet" href="{% include fix_url.html url='/owl.carousel/owl.carousel.min.css' %}" />
+		<link rel="stylesheet" href="{% include fix_url.html url='/owl.carousel/owl.carousel.min.css' %}" />
+
+		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/css/styles.css' %}">
+	</head>
+
+	<body>
+		{{ content }}
+
+		{% include footer.html %}
+	
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<script src="{% include fix_url.html url='/owl.carousel/owl.carousel.min.js' %}"></script>
+		<script>
+			var def_settings = {
+				center: true,
+				items: 1,
+				loop: true,
+				margin:10,
+				autoWidth:true,
+			}
+			$(".carousel").each(function(index) {
+				var settings = $.extend({}, def_settings, $( this ).data("settings"))
+				$( this ).owlCarousel(settings)
+			})
+		</script>
+		{% include live_js.html %}
+	</body>
+</html>

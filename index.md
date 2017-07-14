@@ -1,6 +1,6 @@
 ---
 title:  "Anais's Thesis Home"
-layout: home
+layout: base
 ---
 
 # Home :D
