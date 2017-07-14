@@ -14,7 +14,10 @@
 	</head>
 
 	<body>
-		<ul>
+		<ul class="navigation_bar">
+			<li>
+				<a href="{% include fix_url.html url='/' %}">< Home</a>
+			</li>
 			{% for info in site.artist_info %}
 			{% if info.artist == page.artist %}
 				<li>
