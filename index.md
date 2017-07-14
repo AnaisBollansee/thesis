@@ -5,7 +5,7 @@ layout: base
 
 # Home :D
 
-{% include artists_coverflow.html %}
+{% include artists_coverflow.html settings='{"swipeToSlide": true, "variableWidth": true, "centerMode": true, "slidesToShow": 4, "dots": true}'%}
 
 ## Titeltje
 
