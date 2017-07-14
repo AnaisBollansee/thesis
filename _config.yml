@@ -22,9 +22,9 @@ defaults:
       path: ""
       type: artist_info
     values:
-      layout: artist_info
+      layout: default
   - scope:
       path: ""
       type: albums
     values:
-      layout: album
+      layout: default

@@ -1,6 +1,58 @@
+body {
+    width: 90%;
+    margin:0 auto;
+}
+
 h1 {
     text-align: center;
     color: red;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    text-align: justify;
+}
+
+.bio-cd {
+    font-weight: bold;
+}
+
+.engels {
+    font-style: italic;
+}
+
+.dialect {
+    font-style: italic;
+}
+
+.witregel {
+    padding-top: 10px;
+}
+
+.uitgelicht {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 150%;
+}
+
+.extra_uitleg {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.lead {
+    font-weight: bold;
+}
+
+.dagboek {
+    font-style: italic;
+    width: 90%;
+    margin:0 auto;
 }
 
 footer ul {
