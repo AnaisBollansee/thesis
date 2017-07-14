@@ -89,6 +89,10 @@ ul.navigation_bar {
 	height: auto;
 }
 
+.slick-prev::before, .slick-next::before {
+	color: black;
+}
+
 footer ul {
 	display: flex;
 	justify-content: space-around;
