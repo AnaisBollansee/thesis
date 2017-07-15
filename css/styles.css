@@ -1,5 +1,5 @@
 body {
-	max-width: 800px;
+	max-width: 580pt;
 	margin:0 auto;
 	font-family: "Verdana", Arial, Helvetica, sans-serif;
 }
@@ -100,7 +100,7 @@ ul.navigation_bar {
 }
 
 footer {
-	margin-top: 10pt;
+	margin-top: 15pt;
 }
 
 footer ul {
