@@ -20,10 +20,18 @@ Studio album
 
 ‘<span class="dialect">Mwaaaaaaa- aaaaah- ah- yeeeeaaaah’</span>. Dat is het eerste dat je van Bolan te horen krijgt. En meer hoef je niet te weten. Dit is dé beste eerste zin ooit geschreven. Welkom. 
 
-<span class="engels">The Slider</span> is het zevende album van T.Rex TODO LINK. En opvolger van de <span class="extra_uitleg">best verkochte platen van 1971</span>: {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %}. Deze, <span class="engels">The Slider</span>, doet het in de
+<span class="engels">The Slider</span> is het zevende album van T.Rex TODO LINK. En opvolger van een van de <span class="extra_uitleg">best verkochte platen van 1971</span>:
+
+TODO LINK: Official Charts, All The Numer 1 Albums, Auteur onbekend, geraadpleegd op 20/06/2017 (http://www.officialcharts.com/chart-news/all-the-number-1-albums__7949/)
+
+ {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %}. Deze, <span class="engels">The Slider</span>, doet het in de
 {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} minder goed. Al is zeven weken in de top tien iets waar velen alleen maar van kunnen dromen. 
 
-Volgens de credits zou {% include link.html url="/artist_info/minor/RingoStarr/" tekst="Ringo Starr" new_tab=true %} de coverfoto’s gemaakt hebben. Al vertelt Tony Visconti een heel ander verhaal: <span class="extra_uitleg">‘The cover credits Ringo Starr as the photographer of the front and back covers, when in fact Marc handed me his motorized Nikon and asked me to fire off two rolls of black and white film while we were on the set of "Born To Boogie". Ringo, the director of the film, was busy all day lining up shots’.</span> TODO LINK Klinkt best geloofwaardig, niet?
+Volgens de credits zou {% include link.html url="/artist_info/minor/RingoStarr/" tekst="Ringo Starr" new_tab=true %} de coverfoto’s gemaakt hebben. Al vertelt Tony Visconti een heel ander verhaal: <span class="extra_uitleg">‘The cover credits Ringo Starr as the photographer of the front and back covers, when in fact Marc handed me his motorized Nikon and asked me to fire off two rolls of black and white film while we were on the set of "Born To Boogie". Ringo, the director of the film, was busy all day lining up shots’.</span> 
+
+TODO LINK: WayBackMachine, T.Rex: The Slider / Bolan Boogie, Auteur onbekend, geraadpleegd op 17/02/2017 (https://web.archive.org/web/20040318082434/http://www.tonyvisconti.com/artists/trex/slider.htm) 
+
+Klinkt best geloofwaardig, niet?
 
 ## Babeli-babeli-boo
 

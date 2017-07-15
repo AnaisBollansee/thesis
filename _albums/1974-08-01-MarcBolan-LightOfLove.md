@@ -21,7 +21,7 @@ Augustus 1974<br>Studio album
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bfMMSnSOzKI" frameborder="0" allowfullscreen></iframe>
 
-En alsof dat allemaal nog niet genoeg was, moest Bolan het ook voor het eerst doen zonder zijn goede vriend en producer Tony Visconti. Visconti vertelt in zijn autobiografie dat het Bolan’s enorme ego, zielige gedrag en druggebruik waren die leidden tot deze verandering. Dus besluit Bolan om het dan maar zelf te doen, al had hij op dat moment waarschijnlijk niet veel andere opties.
+En alsof dat allemaal nog niet genoeg was, moest Bolan het ook voor het eerst doen zonder zijn goede vriend en producer Tony Visconti. Visconti vertelt in zijn autobiografie, <span class="engels">Bowie, Bolan and the Brooklyn Boy</span>, dat het Bolan’s enorme ego, zielige gedrag en druggebruik waren die leidden tot deze verandering. Dus besluit Bolan om het dan maar zelf te doen, al had hij op dat moment waarschijnlijk niet veel andere opties.
 
 ## 3 + 8 = album
 
