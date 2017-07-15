@@ -27,7 +27,7 @@ Hoeveel mensen heb je nodig om een album te maken? Blijkbaar enorm veel. Niet mi
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_rqllYBAJt8" frameborder="0" allowfullscreen></iframe>
 En het album is nog niet voorbij. <span class="engels">Jason B. Sad</span> verwent met het soort mysterieuse sprookjes-tekst die alleen Bolan kan schrijven. ‘<span class="engels">Jason got weird and he pierced his ears/A gypsy alone in his gallantry/He met Shaky Sue, who wore only blue/And they shared in their teenage misery.</span>’ En ook het zingen laat je best aan hem over. 
 
-<div class="uitgelicht">‘‘An ancient Lord in wonder rung upon my bell/I fed him with my nightmares And he ate my dreams as well’ – Teen Riot Structure</div>
+<div class="uitgelicht">‘An ancient Lord in wonder rung upon my bell/I fed him with my nightmares And he ate my dreams as well’ – Teen Riot Structure</div>
 
 ## Wat als
 

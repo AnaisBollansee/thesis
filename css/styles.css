@@ -1,5 +1,5 @@
 body {
-	width: 90%;
+	max-width: 800px;
 	margin:0 auto;
 	font-family: "Verdana", Arial, Helvetica, sans-serif;
 }
@@ -7,6 +7,10 @@ body {
 h1 {
 	text-align: center;
 	font-size: 300%;
+}
+
+h2 {
+	font-size: 130%
 }
 
 a {
@@ -60,13 +64,15 @@ ul.navigation_bar {
 }
 
 .witregel {
-	padding-top: 10px;
+	padding-top: 10pt;
 }
 
 .uitgelicht {
-	font-weight: bold;
+	font-weight: normal;
 	font-style: italic;
 	font-size: 150%;
+	width: 85%;
+	margin:0 auto;
 }
 
 .extra_uitleg {
@@ -91,6 +97,10 @@ ul.navigation_bar {
 
 .slick-prev::before, .slick-next::before {
 	color: black;
+}
+
+footer {
+	margin-top: 10pt;
 }
 
 footer ul {
