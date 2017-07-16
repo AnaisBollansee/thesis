@@ -34,6 +34,7 @@
 			$( document ).tooltip({
 				hide: { effect: "" }, //fadeOut
 				items: '[tooltip]',
+				track: true,
 				content: function () {
 					return $(this).attr('tooltip');
 				},
@@ -68,12 +69,12 @@
 				})
 			})
 		</script>
-		<script src="{% include fix_url.html url='js/lazysizes.min.js' %}" async=""></script>
 		{% if layout.extra_js %}
 		{% for js_file in layout.extra_js %}
 		<script src="{% include fix_url.html url=js_file %}" type="text/javascript"></script>
 		{% endfor %}
 		{% endif %}
+		<script src="{% include fix_url.html url='js/lazysizes.min.js' %}" async=""></script>
 		{% include live_js.html %}
 	</body>
 </html>
