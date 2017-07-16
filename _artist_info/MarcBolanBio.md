@@ -210,6 +210,44 @@ In october van dat jaar scoort Bolan zijn eerste {% include link.html url="/arti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9rFoPyqFoA" frameborder="0" allowfullscreen></iframe>
 
+{% include next_section.html anchor="T.Rex" %}
+
+### T.Rex
+
+Vanaf dan begint de groep aan haar gloriejaren. <iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=238&end=274" frameborder="0" allowfullscreen></iframe>
+
+{% include next_section.html %}
+
+{% include link.html url="/albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.rex" new_tab=true %} is het eerste album dat zijn weg vindt naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in de {% include link.html url="http://www.officialcharts.com//" tekst="Britse hitlijsten" new_tab=true %}. En met {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} breken ze helemaal door. Dit album staat maar liefst acht weken op nummer 1, en 44 weken in de top 100. <span tooltip="Official Charts, All The Numer 1 Albums, Auteur onbekend, geraadpleegd op 20/06/2017, {% include link.html tekst='Bron' url='http://www.officialcharts.com/chart-news/all-the-number-1-albums__7949/' escaped=true new_tab=true %}">Zo is het een van de best scorende platen uit 1971</span>.
+
+{% include next_section.html %}
+{% include start_slides.html %}
+
+Ook de twee volgende albums, {% include link.html url="/albums/1972-07-21-MarcBolan-TheSlider/" tekst="The Slider" new_tab=true %} en {% include link.html url="/albums/1973-01-28-MarcBolan-Tanx/" tekst="Tanx" new_tab=true %}, vinden vlot hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %}. En tussen alles door vindt Marc Bolan de tijd om een film te maken: <span class="engles">Born to Boogie</span>. De film werd geregisseerd door {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="Ringo Starr" new_tab=true %}. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en {% include link.html url="/artist_info/Minor/EltonJohn/" tekst="Elton John" new_tab=true %} samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="John Lennon" new_tab=true %}. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k9Md9AGcMbA" frameborder="0" allowfullscreen></iframe>
+{% include next_slide.html %}
+
+### T.Rextasy
+
+Deze periode van glorie en krijsende tienermeisjes kreeg de naam <span class="engels">T.Rextasy</span>. Het was geleden van het begin van de <span class="engels">Beatlemania</span>, ongeveer tien jaar eerder, dat jonge meisjes (en jongens) zo vielen voor een artiest.<iframe width="560" height="315" src="https://www.youtube.com/embed/VMAUkldhseI?start=44&end=120" frameborder="0" allowfullscreen></iframe>
+{% include end_slides.html %}{% include next_section.html %}
+
+Hierna vallen de platen van Marc Bolan en T.Rex uit de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} en zullen ze nooit terugkeren. <span tooltip="Marc Bolan – The Final Word, Mark Tinkler, Universal, 2007, 57:53-58:19">Volgens producer Tony Visconti veranderde Bolan zijn muziek niet vaak genoeg. En verloor Bolan’s publiek interesse. Bolan aan de andere kant vond het belangrijk om platen te blijven maken ‘for the kids’. Want het waren deze tieners die zijn platen kochten. Een te drastische verandering zou er volgens hem voor zorgen dat zijn publiek helemaal zou afhaken.</span>
+
+{% include next_section.html %}
+{% include start_slides.html %}
+
+Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constante stress en druk begint zijn tol te eisen. En ook de T.Rex line-up begint te veranderen. Bolan begint een samenwerking met {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %} en maakt steeds vaker gebruik van studio-artiesten tijdens het opnemen van zijn muziek. Aan de andere kant verlaat {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %} de band in 1973 en {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} eind 1974.  En ook voor producer en vriend {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} is het over en uit. Visconti herinnert zich de dag dat Bolan verschillende groupies, cocaïne en cognac meenam naar de studio. Door deze dodelijke combinatie krijg Bolan zijn gitaar niet juist gestemd. En Visconti besluit om hem hierop te wijzen. 
+
+<span class="quote" tooltip="‘”Fuck you! Mijn gitaar staat niet vals – ik heb hem juist gestemd.” Iedereen schrok en Marc stormde naar buiten – mijn wangen werden lichtjes rood. Ik glipte snel de studio in en stemde zijn gitaar, iets wat ik al vaker had gedaan. (…) Ik had hem al mijn energie gegeven, maar een team-speler zijn voor een waanzinnige leider was niet wat ik me voorstelde bij een rijke, creatieve ervaring – of een ‘vriendschap’.’”>‘“Fuck you! My guitar isn’t out of tune – I just tuned it.”Everyone froze and Marc stormed out – my cheeks went slightly rouge. I quickly moved from the control room into the studio and tuned his guitar properly, as I’d done many times in the past. (…) I’d given him my all, but being a team player to a maniacal leader wans’t my idea of a rich, creative experience – or a so-called friendship.’</span>
+
+<span class="bronvermelding"> Bowie,Bolan and the Brooklyn Boy: Tony Visconti the autobiography – Tony Visconti, HarperCollins (2007), p.208-209</span>
+
+Zinc Alloy is het laatste album waaraan Visconti en Bolan samenwerkten. 
+{% include next_slide.html %}ZIJVERHAAL{% include end_slides.html %}{% include next_section.html %}
+
+
 {% include next_section.html %}
 
 {% include start_slides.html %}{% include next_slide.html %}{% include next_slide.html %}{% include end_slides.html %}{% include next_section.html %}
