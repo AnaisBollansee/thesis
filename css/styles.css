@@ -138,6 +138,10 @@ font-size: 80%;
 	color: black !important;
 }
 
+.fp-tableCell {
+	vertical-align: top;
+}
+
 footer {
 	margin-top: 15pt;
 	max-width: 580pt;
