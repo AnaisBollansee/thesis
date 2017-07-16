@@ -1,7 +1,11 @@
 body {
+	font-family: "Verdana", Arial, Helvetica, sans-serif;
+	margin: 0;
+}
+
+.content {
 	max-width: 580pt;
 	margin:0 auto;
-	font-family: "Verdana", Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -103,8 +107,18 @@ ul.navigation_bar {
 	color: black;
 }
 
+.fp-controlArrow.fp-prev {
+	border-right-color: black;
+}
+
+.fp-controlArrow.fp-next {
+	border-left-color: black;
+}
+
 footer {
 	margin-top: 15pt;
+	max-width: 580pt;
+	margin:0 auto;
 }
 
 footer ul {
