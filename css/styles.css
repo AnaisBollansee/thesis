@@ -140,6 +140,7 @@ font-size: 80%;
 
 .fp-tableCell {
 	vertical-align: top;
+	padding-top: 20pt;
 }
 
 footer {
