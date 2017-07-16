@@ -10,4 +10,4 @@ image: /images/gnome.jpg
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kBenVkdMCgA" frameborder="0" allowfullscreen></iframe>
 
 
-TEKST <span tooltip="Hallo :D {% include link.html tekst='test' url='http://www.google.com' escaped=true %}">hier tooltip</span> tralal
+TEKST <span tooltip="dit is uw extra tekst {% include link.html tekst='hier is uw website onder' url='http://www.google.com' escaped=true new_tab=true %}">dit is uw tekst</span> tralal
