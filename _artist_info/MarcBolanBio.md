@@ -20,7 +20,7 @@ Marc Bolan, geboren als Mark Feld op 30 september 1947, is de zoon van Simeon en
 
 {% include next_section.html %}
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/CgCNm6eNLAw?start=90&end=165" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="100%" height="400" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=90&end=165" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
@@ -43,26 +43,26 @@ Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie &
 Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de manier waarop hij zich kleedde. Als jonge tiener geraakte Bolan geobsedeerd door kleren en zag hij er altijd piekfijn uit. Zo werd hij in 1962 gespot door het <span class="engels">lifestyle</span> magazine <span class="engels">Town</span>. En iets later, op 16 jarige leeftijd, is hij te zien in een aflevering van de Britse TV-serie <span class="engels">Orlando</span>
 <div class="witregel"> </div>
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CgCNm6eNLAw?start=274&end=356" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=274&end=356" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van Bob Dylan: <span class="engels">Blowin’ In The Wind</span>.
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe class="lazyload"  width="100%" height="450" scrolling="no" frameborder="no" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 {% include next_section.html %}
 
 Maar het nummer slaat niet aan. Dus trekt Bolan naar Parijs met de Amerikaanse acteur Riggs O’Hara TODO EXTRA UITLEG, op zoek naar inspiratie. Op deze trip zou Bolan (naar eigen zeggen) in contact zijn gekomen met een tovenaar. 
 <span class="witregel"> </span>
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vShOZjYqWZk?start=580&end=630" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/vShOZjYqWZk?start=580&end=630" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 De ontmoeting leidt tot het nummer <span class="engels">The Wizard</span>, zijn debuut single als Marc Bolan (toen nog geschreven als Bölan), in 1965.
 <div class="witregel"></div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mfSSmy8B5GA" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/mfSSmy8B5GA" frameborder="0" allowfullscreen></iframe>
 <div class="witregel"></div>
 In 1970 komt het nummer terecht komt op het eerste T.Rex album {% include link.html url="/ albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.Rex" new_tab=true %}.
 
@@ -93,7 +93,7 @@ Zo gezegd, zo gedaan. Bolan begint met spelen en na een klein uur beslist {% inc
 Bolan’s nieuwe manager besluit dat hij een hit nodig heeft. En hoewel dit niet is zoals Marc Bolan het wou, besluit hij uiteindelijk om toch toe te geven. En hij begint te werken aan het nummer <span class="engels">Hippo Gumbo</span>.
 <div class="witregel"> </div>
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aibZLwN2GWM" frameborder="0" allowfullscreen></iframe> 
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/aibZLwN2GWM" frameborder="0" allowfullscreen></iframe> 
 
 {% include next_section.html %}
 
@@ -130,7 +130,7 @@ Zijn vroegere manager {% include link.html url="/artist_info/Minor/TonySecunda/"
 
 Toch herinnert {% include link.html url="/artist_info/ Minor/JuneChild/" tekst="June Child" new_tab=true %} (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze Marc Bolan zijn eerste en enige rijles gaf.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=344&end=421" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/aEhtfNmceaE?start=344&end=421" frameborder="0" allowfullscreen></iframe>
 
 {% include end_slides.html %}
 
@@ -138,13 +138,13 @@ Toch herinnert {% include link.html url="/artist_info/ Minor/JuneChild/" tekst="
 
 Uiteindelijk stapt Marc Bolan in de groep en schrijft hij verschillende van hun nummers. Een van de die nummers is<span class="engels"> Desdemona</span>, dat in 1967 uitgebracht wordt als single. Het nummer wordt veel gedraaid door piratenzenders. Maar de <span tooltip="De Britse publieke omroep.">BBC</span> bant het al snel, omdat in het refrein de woorden ‘<span class="engels">lift up your skirt and fly </span>’ voorkomen. Wat zoveel betekend als ‘til je rok op en vlieg’.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VGtgacHMIec" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/VGtgacHMIec" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 Marc’s laatste optrede met de band was tijdens een benefietconcert: <span class="engels">The 14 Hour Technicolor Dream</span>. Dat vond plaats in <span class="engels">Alexandra Palace</span>, een zaal in Londen. De headliner van het event was de Londense band {% include link.html url="/ artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ysSPIKriAg" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/0ysSPIKriAg" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html anchor="TyrannosaurusRex" %}
 
@@ -153,62 +153,89 @@ Marc’s laatste optrede met de band was tijdens een benefietconcert: <span clas
 Na zo’n vier maanden verlaat Bolan John’s Children. 
 In augustus 1967 richt hij Tyrannosaurus Rex op, een duo met Percussionist {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LWYP0V-UDnc" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/LWYP0V-UDnc" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
-In 1968 brengt het duo hun eerste plaat uit: {% include link.html url="/albums/1968-07-05-MarcBolan-MyPeopleWereFair/" tekst="My People Were Fair And Had Sky In Their Hair... But Now They’re Content To Wear Stars In Their Brows" new_tab=true %}. Later dat jaar volgt {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %}. En een klein jaar later {% include link.html url="/albums/1969-05-16-MarcBolan-Unicorn/" tekst="Unicorn" new_tab=true %}.Voor het eerst proeft Bolan het succes en scoort hij enkele {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hits" new_tab=true %}. Maar hoger dan een vijftiende plaats in de hitlijsten geraakt de band op dat moment nog niet.TODO TIJDLIJN
+In 1968 brengt het duo hun eerste plaat uit: {% include link.html url="/albums/1968-07-05-MarcBolan-MyPeopleWereFair/" tekst="My People Were Fair And Had Sky In Their Hair... But Now They’re Content To Wear Stars In Their Brows" new_tab=true %}. Later dat jaar volgt {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %}. En een klein jaar later {% include link.html url="/albums/1969-05-16-MarcBolan-Unicorn/" tekst="Unicorn" new_tab=true %}.
+
+Voor het eerst proeft Bolan het succes en scoort hij enkele {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hits" new_tab=true %}. Maar hoger dan een vijftiende plaats in de hitlijsten geraakt de band op dat moment nog niet.
+
+TODO TIJDLIJN
 
 {% include next_section.html %}
 
 Een grote Tyrannosaurus Rex-fan is radiopersoonlijkheid {% include link.html url="/artist_info/Minor/JohnPeel/" tekst="John Peel" new_tab=true %}, die hun nummers vaak speelt in zijn radioprogramma.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vShOZjYqWZk?start=942&end=1000" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/vShOZjYqWZk?start=942&end=1000" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 En tijdens dat alles vindt Bolan ook de tijd om poëzie te schrijven. Zo komt in 1969 zijn eerste poëziebundel, <span class="engels">The Warlock of Love</span>, uit. En hoewel de critici niet allemaal even enthousiast zijn, vliegen de kopiën de deur uit.
 
-<p class="quote">The closet eye.Dove skims the sky.<br>A silver penance,<br>a wrong wicked and shorn<br>assulted his majesty exalted.<br>My rams foot hexagonals on,<br>and O for the ice king a twitter in the storm.<br>The eloquence of blue juliped tents<br>and a crown of dark swansdown.<br>O Elaina, child soothsayer,<br>cheetah sleeper,<br>laden legs like a god —<br>a fools everglade like the seasons slave,<br>and your quince everlasting horn-lamp<br>made of wheat<br>at your tiny rivered feet.</p>
+<p class="quote">The closet eye.
+Dove skims the sky.<br>
+A silver penance,<br>
+a wrong wicked and shorn<br>
+assulted his majesty exalted.<br>
+My rams foot hexagonals on,<br>
+and O for the ice king a twitter in the storm.<br>
+The eloquence of blue juliped tents<br>
+and a crown of dark swansdown.<br>
+O Elaina, child soothsayer,<br>
+cheetah sleeper,<br>
+laden legs like a god —<br>
+a fools everglade like the seasons slave,<br>
+and your quince everlasting horn-lamp<br>
+made of wheat<br>
+at your tiny rivered feet.</p>
 
 <div class="bronvermelding"> The Warlock Of Love – Marc Bolan, Lupus Music (1969), P. 14</div> 
 
 {% include next_section.html %}
 
-Maar de relatie tussen Marc Bolan en {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %} werd steeds slechter. En na de Amerikaanse tournee in 1969 was de maat voor Bolan vol. En vervangt hij Took door {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}. Producer {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} herinnert de split als volgt: <span class="quote" tooltip="‘Steve had makkelijk deel kunnen uitmaken van T.Rex, maar als persoon was hij beschadigd. Hij was van een andere planeet. Van tijd tot tijd leefde hij op straat, hij nam drugs en hij werd betrapt. Dit is waar het voor Marc veranderde – Steve zat twee weken of een maand vast, en dat was dat. Marc zei: “Mijn publiek zijn tieners, ik kan niet langer een drugsverslaafde in mijn band hebben.” De druppel was toen Steve zei: “ik zou nu graag enkele van mijn eigen nummers brengen.” Zijn druggebruik en het feit dat hij 50% van de nummers wou schrijven was te veel, Marc kon dit niet meer aan. Maar ik hield van hem.’">‘Steve could have lasted right into the T Rex days, but he was kind of a damaged person. He was from another planet. He lived on the street occasionally, he used drugs a lot, and he got busted. That was the turning point for Marc – Steve had to do two weeks or a month in remand, and that was it. Marc said: “My audience are teenagers, I can’t have a drug addict in my band anymore.” The last straw was when Steve said: “I’d like to do some of my own songs now.” His drug abuse and wanting to be a 50/50 creator was too much, Marc couldn’t take it, but I loved him.’</span>
+Maar de relatie tussen Marc Bolan en {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %} werd steeds slechter. En na de Amerikaanse tournee in 1969 was de maat voor Bolan vol. En vervangt hij Took door {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}. Producer {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} herinnert de split als volgt: 
+
+<span class="quote" tooltip="‘Steve had makkelijk deel kunnen uitmaken van T.Rex, maar als persoon was hij beschadigd. Hij was van een andere planeet. Van tijd tot tijd leefde hij op straat, hij nam drugs en hij werd betrapt. Dit is waar het voor Marc veranderde – Steve zat twee weken of een maand vast, en dat was dat. Marc zei: “Mijn publiek zijn tieners, ik kan niet langer een drugsverslaafde in mijn band hebben.” De druppel was toen Steve zei: “ik zou nu graag enkele van mijn eigen nummers brengen.” Zijn druggebruik en het feit dat hij 50% van de nummers wou schrijven was te veel, Marc kon dit niet meer aan. Maar ik hield van hem.’">‘Steve could have lasted right into the T Rex days, but he was kind of a damaged person. He was from another planet. He lived on the street occasionally, he used drugs a lot, and he got busted. That was the turning point for Marc – Steve had to do two weeks or a month in remand, and that was it. Marc said: “My audience are teenagers, I can’t have a drug addict in my band anymore.” The last straw was when Steve said: “I’d like to do some of my own songs now.” His drug abuse and wanting to be a 50/50 creator was too much, Marc couldn’t take it, but I loved him.’</span>
 
 <span class="bronvermelding">{% include link.html url="https://www.theguardian.com/music/2015/feb/09/tony-visconti-marc-bolan-was-raw-talent-i-saw-genius/" tekst="Bron" new_tab=true %}: The Guardian, Tony Visconti: ‘What I saw in Marc Bolan was raw talent. I saw genius’, Marc Burrows, geraadpleegd opt 14/07/2017</span>
 
 {% include next_section.html %}
 {% include start_slides.html %}
 
-Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_tab=true %} aan zijn zij begint een nieuw tijdperk. Elektrische gitaren zijn steeds meer aanwezig in de muziek. En na een laatste album onder de naam Tyrannosaurus Rex ({% include link.html url="/albums/1970-03-13-MarcBolan-ABeardOfStars/" tekst="A Beard of Stars" new_tab=true %}), wordt de groepsnaam officieel T.Rex. Bolan smijt zijn hippielook uit het raam en vindt zichzelf opnieuw uit met make-up en boa’s. <iframe width="560" height="315" src="https://www.youtube.com/embed/EiYxPFitUz4?start=07&end=174" frameborder="0" allowfullscreen></iframe>
+Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_tab=true %} aan zijn zij begint een nieuw tijdperk. Elektrische gitaren zijn steeds meer aanwezig in de muziek. En na een laatste album onder de naam Tyrannosaurus Rex ({% include link.html url="/albums/1970-03-13-MarcBolan-ABeardOfStars/" tekst="A Beard of Stars" new_tab=true %}), wordt de groepsnaam officieel T.Rex. Bolan smijt zijn hippielook uit het raam en vindt zichzelf opnieuw uit met make-up en boa’s. 
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/EiYxPFitUz4?start=07&end=174" frameborder="0" allowfullscreen></iframe>
 
 {% include next_slide.html %}
 ### Glamrock
 
 Begin jaren ‘70 begint Marc Bolan zijn hippie-stijl te veranderen. En hij zet een nieuw genre in gang: GlamRock. De kleding van de muzikanten wordt steeds belangrijker. Bolan verschijnt op het podium in hakken en kleurrijke boa’s. En hij is ook niet vies van een beetje make-up of glitters op zijn gezicht. 
-{% include next_slide.html %}
+
+{% include next_slide.html %}
 
 GlamRock of glitterrock was vooral populair in de jaren ’70 in Groot Britannië. Maar ook in Amerika verschijnen steeds vaker opgetutte artiesten op het podium. Maar anders dan in Groot Britannië, wordt hier {% include link.html url="/artists/10_AliceCooper/" tekst="Alice Cooper" new_tab=true %} aanzien als het begin van de Glamrock, toen hij in 1970 zijn eerste hit I’m Eighteen uitbracht.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OSxuXsyanCI" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/OSxuXsyanCI" frameborder="0" allowfullscreen></iframe>
 
 {% include next_slide.html %}
 
 De eerste helft van de jaren ‘70 staat bekend als de hoogdagen van Marc Bolan. En dat is het moment waarop hij opnieuw een verrassende voorspelling doet. Net zoals enkele jaren eerder spreekt hij over zijn dood en voorspelt hij (onbewust) dat hij niet lang zal leven. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZ6PxuhnGUg?start=215&end=240" frameborder="0" allowfullscreen></iframe>{% include end_slides.html %}{% include next_section.html %}
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/fZ6PxuhnGUg?start=215&end=240" frameborder="0" allowfullscreen></iframe>
+
+{% include end_slides.html %}
+{% include next_section.html %}
 
 Op 30 januari 1970 trouwt Marc Bolan met {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Child" new_tab=true %}. Zij was de ex-secretaresse van Syd Barrett ({% include link.html url="/artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}) en wist dus wel wat van de muziekwereld af. Dit gaf haar de kans om haar man een handje te helpen bij zijn carrière die niet veel later in een stroomversnelling komt. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=0&end=76" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/aEhtfNmceaE?start=0&end=76" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 In october van dat jaar scoort Bolan zijn eerste {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10 hit" new_tab=true %}: <span class="engels">Ride A White Swan</span>.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y9rFoPyqFoA" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/y9rFoPyqFoA" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html anchor="T.Rex" %}
 
@@ -250,7 +277,11 @@ Zinc Alloy is het laatste album waaraan Visconti en Bolan samenwerkten.
 
 {% include next_section.html %}
 
-{% include start_slides.html %}{% include next_slide.html %}{% include next_slide.html %}{% include end_slides.html %}{% include next_section.html %}
+{% include start_slides.html %}
+{% include next_slide.html %}
+{% include next_slide.html %}
+{% include end_slides.html %}
+{% include next_section.html %}
 
 {% include next_section.html %}
 
