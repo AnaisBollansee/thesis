@@ -70,7 +70,16 @@ In 1970 komt het nummer terecht komt op het eerste T.Rex album {% include link.h
 
 ### John's Children
  
-<span class="quote" tooltip="‘‘Niemand was ooit zo zeker van zichzelf, of zo rechtuit als Marc Bolan. Hij had mijn nummer te pakken gekregen en belde me vroeg op een avond. ‘Ik ben een zanger en ik ga de grootste Britse rockster ooit worden. Dus ik heb een goede manager nodig om alles te regelen.’Ik zei hem dat hij een demo moest opsturen naar mijn kantoor, maar hij zei dat hij toevallig in de buurt was en of hij niet even mocht langskomen? Tien minuten later ging de deurbel en wandelde hij binnen met een gitaar rond zijn nek.Hij zei ‘om eerlijk te zijn, ik heb geen demo, maar ik kan nu voor je zingen.’’">’There was never anyone more sure of himself or to the point than Marc Bolan. He got hold of my phone number and called me early one evening. ‘I’m a singer and I’m going to be the biggest British rock star ever, so I need a good manager to make all the arrangements.’ I told him to send a tape to the office, but he said he just happened to be near where I lived and could he drop it in? Ten minutes later he rang the bell and walked through the door with a guitar round his neck.He said, ‘To tell the truth, I don’t have a tape, but I could sing for you right now.’’</span>
+<span class="quote" tooltip="‘‘Niemand was ooit zo zeker van zichzelf, of zo rechtuit als Marc Bolan. 
+Hij had mijn nummer te pakken gekregen en belde me vroeg op een avond. 
+‘Ik ben een zanger en ik ga de grootste Britse rockster ooit worden. Dus ik heb een goede manager nodig om alles te regelen.’
+Ik zei hem dat hij een demo moest opsturen naar mijn kantoor, maar hij zei dat hij toevallig in de buurt was en of hij niet even mocht langskomen? Tien minuten later ging de deurbel en wandelde hij binnen met een gitaar rond zijn nek.
+Hij zei ‘om eerlijk te zijn, ik heb geen demo, maar ik kan nu voor je zingen.’’">’There was never anyone more sure of himself or to the point than Marc Bolan. 
+He got hold of my phone number and called me early one evening. 
+‘I’m a singer and I’m going to be the biggest British rock star ever, so I need a good manager to make all the arrangements.’ 
+I told him to send a tape to the office, but he said he just happened to be near where I lived and could he drop it in? Ten minutes later he rang the bell and walked through the door with a guitar round his neck.
+He said, ‘To tell the truth, I don’t have a tape, but I could sing for you right now.’’
+</span>
 <div class="witregel"> </div>
  
 <span class="bronvermelding">Bron: You don’t have to say you love me – Simon Napier-Bell, New English Library (1983), P.75</span>
@@ -97,23 +106,33 @@ Althans dat is hoe Marc Bolan er zelf over dacht. De platenmaatschappijen in Lon
 
 {% include next_section.html %}
 
-<div class="slide"> Simon Napier-Bell had ook John’s Children onder zijn vleugels. De groep had geen al te beste gitarist en niemand die het talent bezat om goede nummers te schrijven. Tijdens een etentje besluit Napier-Bell om Bolan te overtuigen deel te worden van de groep:
-<div class="witregel"> </div>
-<span class="quote"><span tooltip="‘‘De groep vervolledigen zal je een duwtje in de rug geven richting grote bekendheid. En je moet beginnen met rijk worden als je een Porsche wil kopen en zijn zoals James Dean.’ ‘O nee,’ zei Marc. ‘Een Porsche is niets voor mij. Ik ben te klein. Ik denk dat een Mini een betere auto voor mij is. Als ik zou sterven in een auto-ongeluk, zou het in een Mini moeten zijn. Ik denk dat ik dat goed zou vinden. Het zou leuk zijn.’’">‘’Joining the group will start you off on the path to eventual stardom. And you gotta start getting rich soon if you’re going to be like James dean and buy a Porsche.’  ‘On no,’ Marc told me. ‘A Porsche wouldn’t be right for me. I’m too small. I think a Mini is the right car for me. If I was going to die in a car crash, it ought to be a Mini. I think I’d like that. It’d be nice.’’</span></span>
-<div class="witregel"> </div>
+{% include start_slides.html %}
+
+Simon Napier-Bell had ook John’s Children onder zijn vleugels. De groep had geen al te beste gitarist en niemand die het talent bezat om goede nummers te schrijven. Tijdens een etentje besluit Napier-Bell om Bolan te overtuigen deel te worden van de groep:
+
+<span class="quote" tooltip="‘‘De groep vervolledigen zal je een duwtje in de rug geven richting grote bekendheid. En je moet beginnen met rijk worden als je een Porsche wil kopen en zijn zoals James Dean.’
+‘O nee,’ zei Marc. ‘Een Porsche is niets voor mij. Ik ben te klein. Ik denk dat een Mini een betere auto voor mij is. Als ik zou sterven in een auto-ongeluk, zou het in een Mini moeten zijn. Ik denk dat ik dat goed zou vinden. Het zou leuk zijn.’’">‘’Joining the group will start you off on the path to eventual stardom. And you gotta start getting rich soon if you’re going to be like James dean and buy a Porsche.’ 
+‘On no,’ Marc told me. ‘A Porsche wouldn’t be right for me. I’m too small. I think a Mini is the right car for me. If I was going to die in a car crash, it ought to be a Mini. I think I’d like that. It’d be nice.’’</span>
+
 <span class="bronvermelding">Bron: You don’t have to say you love me – Simon Napier-Bell, New English Library (1983), P.98</span>
-</div>
-<div class="slide"> En hoewel Bolan zelf niet kon rijden, zou deze voorspelling tien jaar later uitkomen.
-<div class="witregel"> </div>
+
+{% include next_slide.html %}
+
+En hoewel Bolan zelf niet kon rijden, zou deze voorspelling tien jaar later uitkomen.
+
 Zijn vroegere manager {% include link.html url="/artist_info/Minor/TonySecunda/" tekst="Tony Secunda" new_tab=true %} zei hierover: 
-<div class="witregel"> </div>
-<h1><span tooltip="‘Hij reedt nooit met de auto, hij had altijd schrik. Marc heeft nooit een rijbewijs gehad en hij weigerde om te leren rijden’">‘‘He would never drive a car, he was always scared - Marc never had a driving licence, he refused to learn’</span></h1> <div class="witregel"> </div>  <span class="bronvermelding">{% include link.html url="http://news.bbc.co.uk/onthisday/ hi/dates/stories/september/16/ newsid_2519000/2519173.stm" tekst="bron" new_tab=true %}: BBC, 1977: T-Rex singer killed in car smash, auteur onbekend, geraadpleegd op 10/07/2017 </span>
-</div>
-<div class="slide"> 
- Toch herinnert {% include link.html url="/artist_info/ Minor/JuneChild/" tekst="June Child" new_tab=true %} (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze Marc Bolan zijn eerste en enige rijles gaf.
- <div class="witregel"> </div> 
- <iframe width="560" height="315" src="https:// www.youtube.com/embed/aEhtfNmceaE? start=344&end=421" frameborder="0" allowfullscreen></iframe>
-</div>
+
+<h1 tooltip="‘Hij reedt nooit met de auto, hij had altijd schrik. Marc heeft nooit een rijbewijs gehad en hij weigerde om te leren rijden’">‘‘He would never drive a car, he was always scared - Marc never had a driving licence, he refused to learn’</h1>
+
+<span class="bronvermelding">{% include link.html url="http://news.bbc.co.uk/onthisday/hi/dates/stories/september/16/newsid_2519000/2519173.stm" tekst="bron" new_tab=true %}: BBC, 1977: T-Rex singer killed in car smash, auteur onbekend, geraadpleegd op 10/07/2017 </span>
+
+{% include next_slide.html %}
+
+Toch herinnert {% include link.html url="/artist_info/ Minor/JuneChild/" tekst="June Child" new_tab=true %} (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze Marc Bolan zijn eerste en enige rijles gaf.
+
+<iframe width="560" height="315" src="https:// www.youtube.com/embed/aEhtfNmceaE? start=344&end=421" frameborder="0" allowfullscreen></iframe>
+
+{% include end_slides.html %}
 
 {% include next_section.html %}
 
@@ -129,7 +148,8 @@ Marc’s laatste optrede met de band was tijdens een benefietconcert: <span clas
 
 {% include next_section.html anchor="TyrannosaurusRex" %}
 
-Na zo’n vier maanden verlaat Bolan John’s Children. In augustus 1967 richt hij Tyrannosaurus Rex op, een duo met Percussionist {% include link.html url="/artist_info/Minor/ StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}.
+Na zo’n vier maanden verlaat Bolan John’s Children. 
+In augustus 1967 richt hij Tyrannosaurus Rex op, een duo met Percussionist {% include link.html url="/artist_info/Minor/ StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWYP0V-UDnc" frameborder="0" allowfullscreen></iframe>
 
