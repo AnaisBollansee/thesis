@@ -128,10 +128,12 @@ font-size: 80%;
 
 .fp-controlArrow.fp-prev {
 	border-right-color: black;
+	left: -30pt;
 }
 
 .fp-controlArrow.fp-next {
 	border-left-color: black;
+	right: -30pt;
 }
 
 .fp-tooltip {
