@@ -1,9 +1,15 @@
 $(document).ready(function() {
-    /*var sections = []
+    var sections = []
     $('.section').each(function(index, value) {
-        sections.push($( this ).attr('menu-name'))
+        var attr = $(this).attr('anchor');
+        if (typeof attr !== typeof undefined && attr !== false) {
+            sections.push($( this ).attr('anchor'))
+        }
+        else {
+            sections.push("" + (index+1))
+        }
     })
-    console.log(sections)*/
+    console.log(sections)
 
     /*$.each(sections, function(index, value) {
         $('#menu').append('<li data-menuanchor="' + value + '"><a href="#' + value + '">' + value + '</a></li>')
@@ -11,7 +17,7 @@ $(document).ready(function() {
 
     $('#fullpage').fullpage({
         //menu: '#menu',
-        //anchors: sections,
+        anchors: sections,
         navigation: true,
         navigationPosition: 'right',
         showActiveTooltip: true
