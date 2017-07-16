@@ -68,6 +68,7 @@
 				})
 			})
 		</script>
+		<script src="{% include fix_url.html url='js/lazysizes.min.js' %}" async=""></script>
 		{% if layout.extra_js %}
 		{% for js_file in layout.extra_js %}
 		<script src="{% include fix_url.html url=js_file %}" type="text/javascript"></script>

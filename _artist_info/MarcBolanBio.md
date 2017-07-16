@@ -20,7 +20,7 @@ Marc Bolan, geboren als Mark Feld op 30 september 1947, is de zoon van Simeon en
 
 {% include next_section.html %}
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/CgCNm6eNLAw?start=90&end=165" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="100%" height="400" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=90&end=165" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
@@ -43,26 +43,26 @@ Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie &
 Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de manier waarop hij zich kleedde. Als jonge tiener geraakte Bolan geobsedeerd door kleren en zag hij er altijd piekfijn uit. Zo werd hij in 1962 gespot door het <span class="engels">lifestyle</span> magazine <span class="engels">Town</span>. En iets later, op 16 jarige leeftijd, is hij te zien in een aflevering van de Britse TV-serie <span class="engels">Orlando</span>
 <div class="witregel"> </div>
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CgCNm6eNLAw?start=274&end=356" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=274&end=356" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van Bob Dylan: <span class="engels">Blowin’ In The Wind</span>.
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe class="lazyload"  width="100%" height="450" scrolling="no" frameborder="no" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 {% include next_section.html %}
 
 Maar het nummer slaat niet aan. Dus trekt Bolan naar Parijs met de Amerikaanse acteur Riggs O’Hara TODO EXTRA UITLEG, op zoek naar inspiratie. Op deze trip zou Bolan (naar eigen zeggen) in contact zijn gekomen met een tovenaar. 
 <span class="witregel"> </span>
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vShOZjYqWZk?start=580&end=630" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/vShOZjYqWZk?start=580&end=630" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 De ontmoeting leidt tot het nummer <span class="engels">The Wizard</span>, zijn debuut single als Marc Bolan (toen nog geschreven als Bölan), in 1965.
 <div class="witregel"></div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mfSSmy8B5GA" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/mfSSmy8B5GA" frameborder="0" allowfullscreen></iframe>
 <div class="witregel"></div>
 In 1970 komt het nummer terecht komt op het eerste T.Rex album {% include link.html url="/ albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.Rex" new_tab=true %}.
 
@@ -93,7 +93,7 @@ Zo gezegd, zo gedaan. Bolan begint met spelen en na een klein uur beslist {% inc
 Bolan’s nieuwe manager besluit dat hij een hit nodig heeft. En hoewel dit niet is zoals Marc Bolan het wou, besluit hij uiteindelijk om toch toe te geven. En hij begint te werken aan het nummer <span class="engels">Hippo Gumbo</span>.
 <div class="witregel"> </div>
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aibZLwN2GWM" frameborder="0" allowfullscreen></iframe> 
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/aibZLwN2GWM" frameborder="0" allowfullscreen></iframe> 
 
 {% include next_section.html %}
 
@@ -130,7 +130,7 @@ Zijn vroegere manager {% include link.html url="/artist_info/Minor/TonySecunda/"
 
 Toch herinnert {% include link.html url="/artist_info/ Minor/JuneChild/" tekst="June Child" new_tab=true %} (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze Marc Bolan zijn eerste en enige rijles gaf.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=344&end=421" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/aEhtfNmceaE?start=344&end=421" frameborder="0" allowfullscreen></iframe>
 
 {% include end_slides.html %}
 
@@ -138,20 +138,20 @@ Toch herinnert {% include link.html url="/artist_info/ Minor/JuneChild/" tekst="
 
 Uiteindelijk stapt Marc Bolan in de groep en schrijft hij verschillende van hun nummers. Een van de die nummers is<span class="engels"> Desdemona</span>, dat in 1967 uitgebracht wordt als single. Het nummer wordt veel gedraaid door piratenzenders. Maar de <span tooltip="De Britse publieke omroep.">BBC</span> bant het al snel, omdat in het refrein de woorden ‘<span class="engels">lift up your skirt and fly </span>’ voorkomen. Wat zoveel betekend als ‘til je rok op en vlieg’.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VGtgacHMIec" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/VGtgacHMIec" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 Marc’s laatste optrede met de band was tijdens een benefietconcert: <span class="engels">The 14 Hour Technicolor Dream</span>. Dat vond plaats in <span class="engels">Alexandra Palace</span>, een zaal in Londen. De headliner van het event was de Londense band {% include link.html url="/ artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ysSPIKriAg" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/0ysSPIKriAg" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html anchor="TyrannosaurusRex" %}
 
 Na zo’n vier maanden verlaat Bolan John’s Children. 
 In augustus 1967 richt hij Tyrannosaurus Rex op, een duo met Percussionist {% include link.html url="/artist_info/Minor/ StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LWYP0V-UDnc" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/LWYP0V-UDnc" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
