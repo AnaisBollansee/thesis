@@ -114,13 +114,15 @@ layout: long_read
 		<div class="witregel"> </div>
 		<h1><span tooltip="‘Hij reedt nooit met de 		auto, hij had altijd schrik. Marc heeft nooit 		een rijbewijs gehad en hij weigerde om te leren 		rijden’">‘‘He would never drive a car, he was 		always scared - Marc never had a driving 		licence, he refused to learn’</span></h1>		<div class="witregel"> </div>				<span class="bronvermelding">{% include 		link.html url="http://news.bbc.co.uk/onthisday/		hi/dates/stories/september/16/			newsid_2519000/2519173.stm" tekst="bron" 		new_tab=true %}: BBC, 1977: T-Rex singer killed 		in car smash, auteur onbekend, geraadpleegd op 		10/07/2017 </span>
 		</div>
-		<div class="slide"> Toch herinnert {% include 		link.html url="/artist_info/Minor/JuneChild/" 		tekst="June Child" new_tab=true %} (de vrouw 		met wie hij in 1970 trouwt) zich nog hoe ze 		Marc Bolan zijn eerste en enige rijles gaf.
-		<div class="witregel"> </div>	
-		<iframe width="560" height="315" src="https://		www.youtube.com/embed/aEhtfNmceaE?		start=344&end=421" frameborder="0" 		allowfullscreen></iframe>
+		<div class="slide"> 
+			Toch herinnert {% include link.html url="/artist_info/			Minor/JuneChild/" tekst="June Child" new_tab=true %} (de 			vrouw met wie hij in 1970 trouwt) zich nog hoe ze 			Marc Bolan zijn eerste en enige rijles gaf.
+			<div class="witregel"> </div>	
+			<iframe width="560" height="315" src="https://			www.youtube.com/embed/aEhtfNmceaE?			start=344&end=421" frameborder="0" 			allowfullscreen></iframe>
 		</div>
+	</div>
 		
 	<div class="section">
-		Uiteindelijk stapt Marc Bolan in de groep en 		schrijft hij verschillende van hun nummers. Een 		van de die nummers is<span class="engels"> 		Desdemona</span>, dat in 1967 uitgebracht wordt 		als single. Het nummer wordt veel gedraaid door 		piratenzenders. Maar de <span tooltip="De 		Britse publieke omroep.">BBC</span> bant het al 		snel, omdat in het refrein de woorden ‘<span 		class="engels">lift up your skirt and fly		</span>’ voorkomen. Wat zoveel betekend als 		‘til je rok op en vlieg’.
+		Uiteindelijk stapt Marc Bolan in de groep en 		schrijft hij verschillende van hun nummers. Een 		van de die nummers is<span class="engels"> 		Desdemona</span>, dat in 1967 uitgebracht wordt 		als single. Het nummer wordt veel gedraaid door 		piratenzenders. Maar de <span tooltip="De 		Britse publieke omroep.">BBC</span> bant het al 		snel, omdat in het refrein de woorden ‘<span 		class="engels">lift up your skirt and fly	</span>’ voorkomen. Wat zoveel betekend als 		‘til je rok op en vlieg’.
 		<div class="witregel"> </div>
 		<iframe width="560" height="315" src="https://		www.youtube.com/embed/VGtgacHMIec" 		frameborder="0" allowfullscreen></iframe>
 	</div>
@@ -129,6 +131,12 @@ layout: long_read
 		Marc’s laatste optrede met de band was tijdens 		een benefietconcert: 						<span class="engels">The 14 Hour Technicolor 		Dream</span>. Dat vond plaats in <span 		class="engels">Alexandra Palace</span>, een 		zaal in Londen. De headliner van het event was 		de Londense band {% include link.html url="/		artists/06_PinkFloyd/" tekst="Pink Floyd" 		new_tab=true %}.
 		<div class="witregel"> </div>
 		<iframe width="560" height="315" src="https://		www.youtube.com/embed/0ysSPIKriAg" 		frameborder="0" allowfullscreen></iframe>
+	</div>
+	
+	<div class="section" anchor="TyrannosaurusRex">
+		Na zo’n vier maanden verlaat Bolan John’s 		Children. 		In augustus 1967 richt hij Tyrannosaurus Rex 		op, een duo met Percussionist {% include 		link.html url="/artist_info/Minor/		StevePeregrinTook/" tekst="Steve Peregrin Took" 		new_tab=true %}.
+		<div class="witregel"> </div>
+		<iframe width="560" height="315" src="https://		www.youtube.com/embed/LWYP0V-UDnc" 		frameborder="0" allowfullscreen></iframe>
 	</div>
 	
 	<div class="section">
