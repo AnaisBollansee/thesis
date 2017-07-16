@@ -130,7 +130,7 @@ Zijn vroegere manager {% include link.html url="/artist_info/Minor/TonySecunda/"
 
 Toch herinnert {% include link.html url="/artist_info/ Minor/JuneChild/" tekst="June Child" new_tab=true %} (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze Marc Bolan zijn eerste en enige rijles gaf.
 
-<iframe width="560" height="315" src="https:// www.youtube.com/embed/aEhtfNmceaE? start=344&end=421" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=344&end=421" frameborder="0" allowfullscreen></iframe>
 
 {% include end_slides.html %}
 
