@@ -115,6 +115,10 @@ ul.navigation_bar {
 	border-left-color: black;
 }
 
+.fp-tooltip {
+	color: black !important;
+}
+
 footer {
 	margin-top: 15pt;
 	max-width: 580pt;
