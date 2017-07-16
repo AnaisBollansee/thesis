@@ -1,1 +1,1 @@
-<a href="{% include fix_url.html url=include.url %}"{% if include.new_tab %} target="_blank"{% endif %}>{{ include.tekst }}</a>
+{% if include.escaped %}<a href=&quot;{% include fix_url.html url=include.url %}&quot;{% if include.new_tab %} target=&quot;_blank&quot;{% endif %}>{{ include.tekst }}</a>{% else %}<a href="{% include fix_url.html url=include.url %}"{% if include.new_tab %} target="_blank"{% endif %}>{{ include.tekst }}</a>{% endif %}

@@ -8,6 +8,7 @@
 
 		<link rel="shortcut icon" type="image/png" href="{% include fix_url.html url='/images/icon.png' %}"/>
 
+		<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 		<!-- Add the slick-theme.css if you want default styling -->
 		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/>
@@ -21,8 +22,28 @@
 		{% include footer.html %}
 	
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 		<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 		<script>
+			$( document ).tooltip({
+				hide: { effect: "" }, //fadeOut
+				items: '[tooltip]',
+				content: function () {
+					return $(this).attr('tooltip');
+				},
+				close: function(event, ui){
+					ui.tooltip.hover(
+						function () {
+							$(this).stop(true).fadeTo(400, 1); 
+						},
+						function () {
+							$(this).fadeOut("400", function(){
+								$(this).remove(); 
+							})
+						}
+					);
+				}  
+			});
 			$(".carousel").each(function(index) {
 				var slick = $( this )
 				slick.slick()
