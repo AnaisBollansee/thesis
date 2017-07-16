@@ -1,10 +1,8 @@
-<ul>
-{% for album in site.albums %}
-{% if album.artist == include.artist %}
+<ul class="album_list">{% for album in site.albums %}{% if album.artist == include.artist %}
 	<li class="cover">
-		<img src="{% include fix_url.html url=album.image %}">
-		<a href="{% include fix_url.html url=album.url %}">{{ album.title }}</a>
-	</li>
-{% endif %}
-{% endfor %}
+		<a href="{% include fix_url.html url=album.url %}">
+			<img src="{% include fix_url.html url=album.image %}">
+			<p class="title">{{ album.title }}</p>
+		</a>
+	</li>{% endif %}{% endfor %}
 </ul>
