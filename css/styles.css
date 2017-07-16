@@ -89,6 +89,12 @@ ul.navigation_bar {
 	text-align: center;
 }
 
+.quote {
+	text-align: center;
+	font-size: 165%;
+	font-weight: bold;
+}
+
 .extra_uitleg {
 	font-weight: bold;
 	font-style: italic;

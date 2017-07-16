@@ -10,6 +10,7 @@ layout: long_read
 <div id="fullpage">	
 	<div class="section">
 		<h1> Marc Bolan</h1>
+		<h2> ondertitel</h2>
 	</div>
 	
 	
@@ -67,6 +68,20 @@ layout: long_read
 		<iframe width="560" height="315" src="https://		www.youtube.com/embed/mfSSmy8B5GA" 		frameborder="0" allowfullscreen></iframe>
 		<div class="witregel"></div>
 		In 1970 komt het nummer terecht komt op het 		eerste T.Rex album {% include link.html url="/		albums/1970-12-18-MarcBolan-T.Rex/" 		tekst="T.Rex" new_tab=true %}.
+	</div>
+	
+	<div class="section">
+		<h3> John's Children </h3>
+		<div class="witregel"> </div>
+		
+		<span class="quote"><span tooltip="‘‘Niemand was ooit zo zeker 		van zichzelf, of zo rechtuit als Marc Bolan. 		Hij had mijn nummer te pakken gekregen en belde 		me vroeg op een avond. 		‘Ik ben een zanger en ik ga de grootste Britse 		rockster ooit worden. Dus ik heb een goede 		manager nodig om alles te regelen.’		Ik zei hem dat hij een demo moest opsturen naar 		mijn kantoor, maar hij zei dat hij toevallig in 		de buurt was en of hij niet even mocht 		langskomen? Tien minuten later ging de deurbel 		en wandelde hij binnen met een gitaar rond zijn 		nek.		Hij zei ‘om eerlijk te zijn, ik heb geen demo, 		maar ik kan nu voor je zingen.’’">’There was 		never anyone more sure of himself or to the 		point than Marc Bolan. 		He got hold of my phone number and called me 		early one evening. 		‘I’m a singer and I’m going to be the biggest 		British rock star ever, so I need a good 		manager to make all the arrangements.’ 		I told him to send a tape to the office, but he 		said he just happened to be near where I lived 		and could he drop it in? Ten minutes later he 		rang the bell and walked through the door with 		a guitar round his neck.		He said, ‘To tell the truth, I don’t have a 		tape, but I could sing for you right now.’’		</span></span>
+		<div class="witregel"> </div>
+		
+		<span class="bronvermelding">Bron: You don’t 		have to say you love me – Simon Napier-Bell, 		New English Library (1983), P.75</span>
+		<div class="witregel"> </div>
+		
+		Zo gezegd, zo gedaan. Bolan begint met spelen 		en na een klein uur beslist {% include 		link.html url="/artist_info/Minor/SimonNapier-		Bell/" tekst="Simon Napier-Bell" new_tab=true 		%} dat hij genoeg heeft gehoord. Nog diezelfde 		avond belanden Bolan en Simon Napier-Bell in 		een opnamestudio. 
+		
 	</div>
 	
 	<div class="section">
