@@ -2,8 +2,19 @@
 artist: Marc Bolan
 title:  "Biografie Marc Bolan"
 link-title: "Bio"
+layout: long_read
 ---
 
 # Bio Marc Bolan
 
-1 2 3
+<div id="fullpage">
+	<div class="section">Some section</div>
+	<div class="section">
+		<div class="slide"> Slide 1 </div>
+		<div class="slide"> Slide 2 </div>
+		<div class="slide"> Slide 3 </div>
+		<div class="slide"> Slide 4 </div>
+	</div>
+	<div class="section">Some section</div>
+	<div class="section">Some section</div>
+</div>
