@@ -316,22 +316,165 @@ Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst=
 {% include end_slides.html %}
 {% include next_section.html %}
 
-In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige T.Rex album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. % include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
+In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige T.Rex album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
 
 {% include next_section.html %}
 
-Na zo’n drie jaar in een dip te hebben gezeten, lijkt ineens terug alles mogelijk voor Marc Bolan & T.Rex. En de groep begint aan hun laatste tour met als voorprogramma de Britse punkband {% include link.html url="/artist_info/Minor_TheDamned/" tekst="The Damned" new_tab=true %}. 
+Na zo’n drie jaar in een dip te hebben gezeten, lijkt ineens terug alles mogelijk voor Marc Bolan & T.Rex. En de groep begint aan hun laatste tour met als voorprogramma de Britse punkband {% include link.html url="/artist_info/Minor/TheDamned/" tekst="The Damned" new_tab=true %}. 
 
-Op het eerste zicht misschien een vreemde combinatie. <span tooltip="marc bolan music, An Interview with CAPTAIN SENSIBLE, Marc Arscott, geraadpleegd op 14/07/2017 {% include link.html tekst='bron' url='http://www.marcbolanmusic.com/captain-sensible.aspx' escaped=true new_tab=true %}">Maar Captain Sensible ,zanger van The Damned, was al een hele tijd fan van T.Rex. En droeg hun T-shirts wel eens tijdens optredens. Een foto van zo’n optrede kwam terecht in Sounds magazine < Brits muziekmagazine van 1970 tot 1991>. Bolan zag deze foto en besloot om contact op te nemen met The Damned. </span>
+Op het eerste zicht misschien een vreemde combinatie. <span tooltip="marc bolan music, An Interview with CAPTAIN SENSIBLE, Marc Arscott, geraadpleegd op 14/07/2017 {% include link.html tekst='bron' url='http://www.marcbolanmusic.com/captain-sensible.aspx' escaped=true new_tab=true %}">Maar Captain Sensible ,zanger van The Damned, was al een hele tijd fan van T.Rex. En droeg hun T-shirts wel eens tijdens optredens. Een foto van zo’n optrede kwam terecht in het Brits muziektijdschrift Sounds magazine. Bolan zag deze foto en besloot om contact op te nemen met The Damned. </span>
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/pOss9PYsPvg" frameborder="0" allowfullscreen></iframe>
 
+{% include next_section.html achor="16/09/1977"%}
+
+Nadat {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} een periode heeft doorgebracht in Amerika, komt ze op 16 september 1977 opnieuw aan in Londen. Bolan was een gelukkig man. Jones is opnieuw in het land en zijn TV show <span class="engels">Marc</span> was een succes. 
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Q0NEfm_Y-io" frameborder="0" allowfullscreen></iframe>
+
 {% include next_section.html %}
 
-
+Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een restaurant op Berkeley Square in Londen. Op weg naar huis verliest {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} controle over de auto. En het koppel belandt in de balustrade. Marc Bolan overleeft het ongeluk niet en sterft 2 weken voor zijn 30ste verjaardag. Gloria Jones belandt in een coma. Ze word ervan beschuldigd dat ze dronken was toen ze met de auto reed. Maar dit is nooit bewezen. Jones zelf ontkent dit. 
 
 {% include next_section.html %}
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/li6bNrZrmGw?start=163&end=236" frameborder="0" allowfullscreen></iframe>
+
 {% include next_section.html %}
+### Inbraken
+
+Niet lang na Bolan’s dood word er ingebroken in zijn huis. Verschillende van zijn persoonlijke spullen, zoals zijn gitaren en kleren, waren plots verdwenen. En ook de begrafenis-ondernemer waagde zijn kans. In
+<span tooltip="The Telegraph – Behind the glitter, gepubliseerd op 31/08/2002, geraadpleegd op 07/07/2017 {% include link.html tekst='bron' url='http://www.telegraph.co.uk/culture/4728611/Behind-the-glitter.html' escaped=true new_tab=true %}">The Telegraph </span> staat te lezen hoe Marc Bolan’s broer, Harry Feld, in 1987 op de hoogte werd gebracht over het feit dat deze de kleren probeerde te verkopen waarin Bolan overleden was. Feld had nochtans opgedragen om de kleren na Bolan’s crematie te vernietigen. De begrafenis-ondernemer zegt dat hij de kleren gevonden heeft toen hij met pensioen ging. Hij wilde ze verkopen om de kas te spijzen van een goed doel. Harry Feld heeft dan het heft in eigen handen genomen en de kleren verbrand. 
+
+{% include next_section.html %}
+{% include start_slides.html %}
+
+### Begrafenis
+
+Vier dagen na het ongeluk, op dinsdag 20 september 1977, ontwaakt {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} uit haar coma. Pas dan komt ze te weten dat haar geliefde, Marc Bolan, gestorven is en dat diezelfde dag zijn assen nog worden uitgestrooid. Jones is op dat moment nog niet sterk genoeg om de plechtigheid bij te wonen. Het nieuws dat superster Marc Bolan overleden is komt bij fans over de hele wereld hard aan. En velen weten nog exact wat ze aan het doen waren op het moment dat ze het nieuws vernomen. 
+
+{% include next_slide.html %}
+
+Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener superfan werd van Marc Bolan. In haar brief vertelt ze hoe ze fan werd en hoe ze de dood van haar idool ervaren heeft.
+
+<p class="dagboek"><span tooltip="‘Ik ben een T.Rex-fan sinds ik van mijn nonkel zijn oude platenspeler gekregen heb. Ik had zelf nog geen platen dus besloot ik om een bezoek te brengen aan onze lokale platenwinkel. Hier vroeg ik de verkoper naar de laatste nummer één hit.  Zijn antwoord was Get It On van T.Rex. Ik had dit nummer al op de radio gehoord, maar kende toen de band T.Rex nog niet. Ik wist alleen dat ik het een goed nummer vond.'">‘I became a T. Rex fan after my uncle gave me his old mono record player. I needed to build up a record collection so I walked into our local tiny record store and asked for the latest no 1. He said its Get It On by T. Rex. I had heard it on the radio but didn't really know who the group was at that time but knew that I liked it. '</span></p>
+
+<div class="witregel"> </div>
+
+<p class="dagboek"><span tooltip="'Later die week verscheen T.Rex in (het Britse muziekprogramma)Top of the Pops. Marc’s charisma maakte meteen indruk op me en ik werd op slag verliefd, ook al was ik amper 13 jaar oud. Vanaf dan ben ik elk artikel dat ik over hem vond beginnen verzamelen. Ik was helemaal weg van hem en zijn muziek. Ik werd lid van een fanclub en had verschillende pennevrienden uit Londen die me op de hoogte hielden van Marc’s doen en laten. Maar ik was nog te jong om naar zijn optredens te gaan en het was ook onmogelijk voor mij om er te geraken. Mijn alleenstaande moeder kon namelijk geen auto rijden. En geen van m’n vrienden was fan van T.Rex, dus kon ik hen ook niet vragen of hun ouders met ons naar een concert wilden gaan. Erg frustrerend!'">'That week when T.Rex played on Top of the Pops I was instantly drawn into the charisma of Marc and fell in love with everything about him even though I was only 13! After that I started to collect every newspaper and magazine article I could find.  I was completely drawn into them and also loved the music too. I joined the fan club and wrote to pen pals that lived in London who kept me informed of Marc's whereabouts etc. but I was too young to go to any of the concerts and had no means of getting to any as my single mum didn't drive. Also none of my local friends were fans so I couldn't persuade them to go with me or get their parents to take us. So frustrating.'</span></p>
+
+{% include next_slide.html %}
+
+<p class="dagboek"><span tooltip="'In mei 1972 hield de Londense Marc Bolan fanclub een tekenwedstrijd waarmee je een T-shirt van Marc kon winnen. Ik was toen nog steeds maar 13 jaar, maar wou deze kans voor geen geld van de wereld missen. Ik was niet meteen de beste tekenaar, maar ook niet de slechtste. Ik bleef een hele dag thuis van school en gebruikte deze tijd om mijn tekening te maken. Ik heb mijn tekening toen verzonden en er niet meer echt aan terug gedacht. Maar een paar dagen na mijn veertiende verjaardag kreeg ik van mijn zus een pakketje. Ik had geen idee wat erin kon zitten, tot ik het pakketje open maakte en Marc’s T-shirt zag verschijnen. Ik was dolgelukkig. Ik las de bijgevoegde brief opnieuw en opnieuw. Ik was in de zevende hemel en kon maar niet geloven dat ze mijn tekening van Marc hadden gekozen.'">‘In May 1972 when I was still 13 the London fan club held a competition to win Marc's shirt. I wasn't the best at drawing but wasn't too bad either. I certainly wasn't going to miss this opportunity. I took the day off school and spent ages perfecting my picture until I thought it was acceptable. I sent it off and thought no more of it. Then two or three days after my 14th birthday in July my sister handed a parcel to me from the postman. I had no idea what it was until I opened it and out came Marcs shirt! I nearly died! I read the letter over and over again and just could not believe that they had picked my drawing of Marc. It took a very long time before I came off cloud 9!’</span></p>
+
+<div class="witregel"> </div>
+
+<p class="dagboek"><span tooltip="‘In januari 1974 zag ik T.Rex voor de eerste keer live aan het werk in de Free Trade Hall in Manchester. Het was geweldig. Tijdens het concert kon ik zelfs een tambourine vangen, maar iemand anders is erin geslaagd om deze uit mijn handen te trekken.’">'I finally got to see T. Rex live at the Free Trade Hall in Manchester in Jan 1974. It was fantastic. I even managed to catch a tambourine but someone a lot stronger than me managed to wrestle it out of my grip.'</span></p>
+
+<div class="witregel"> </div>
+
+<p class="dagboek"><span tooltip="‘Sindsdien ging ik naar zo veel mogelijk concerten en TV shows. Ik zorgde ervoor dat ik altijd één of twee studentenjobs had waarmee ik genoeg geld verdiende om platen, T-shirt en andere memorabilia te kopen. Mijn eerste échte job zorgde ervoor dat ik concerten kon bijwonen in heel Groot-Britannië. Zo ging ik in 1975 helemaal in mijn eentje naar Hastings (zuidoost Engeland). Ik zocht uit waar hij verbleef en zocht hem op voor foto’s en handtekeningen. Mijn hele leven draaide rond Marc.’">‘After that I continued to go to as many concerts, TV shows as I could. I always had some sort of a job even taking on two jobs to earn enough money while I was at school to buy T-shirts, records and any other memorabilia that I could find. When I left school and was finally earning a wage I travelled all over the UK to concerts, even going to Hastings on my own in 75, finding out where he was staying and meeting him for a picture and autograph. My whole life revolved around Marc.’</span></p>
+
+{% include next_slide.html %}
+
+<p class="dagboek"><span tooltip="‘Tijdens hun tour in 1976 verzon ik allerlei excuses om niet te moeten werken zodat ik opnieuw de meeste concerten kon bijwonen. Het was toch maar een tijdelijke job, want in september 1977 zou ik mijn verpleegsteropleiding starten.’">‘On the 76 tour I took time off work to attend most of the concerts too. I came up with all sorts of excuses to the company I worked for at the time as it was only a temporary job as I waited to start my nurse training on 5th September 1977.’</span></p>
+
+<div class="witregel"> </div>
+
+<p class="dagboek"><span tooltip="‘In augustus van dat jaar filmde Marc zijn TV serie Marc. Op dat moment had ik mijn tijdelijke job beindigd en kon in bijna elke dag naar Manchester (Noordwest Engeland) reizen om hem te zien. Tijdens deze trips ontmoette ik verschillende van zijn fans uit Manchester. Ook tijdens de laatste opnamedag ging ik naar Manchester. Toen we ’s avonds aan het wachten waren op de trein zag ik David Bowie staan. Hij was aan het wachten op zijn trein en rookte ondertussen een sigaret. Ik zei tegen mijn vrienden ‘David Bowie is daar!’, maar iedereen dacht dat het om een lookalike ging. Dus liep ik in mijn eentje op hem af voor een foto en een handtekening. Pas hierna hadden de anderen door dat het écht David Bowie was die stond te wachten.’">‘In August Marc was filming his Granada TV series Marc and as I had finished my temporary job by then I was able to go to Manchester most days to see him. I met a few other fans from Manchester. On his last day of filming I went as usual and as we waited at the train station for him I spotted David Bowie on the platform having a cigarette. I said David Bowie is there! but everyone thought he was just a lookalike so I ran down to him to get a picture and autograph. The others soon came running down when they realised who it was!’</span></p>
+
+<div class="witregel"> </div>
+
+<p class="dagboek"><span tooltip="‘David Bowie nam die avond een vroegere trein terug naar Londen, dus wij bleven wachten op Marc die pas een trein om middernacht zou nemen. Zelf miste ik mijn laatste trein terug naar huis. Omdat ik de volgende ochtend mijn opleiding begon stelde een vriendin voor dat ik bij haar bleef slapen, zodat ik da volgende ochtend een taxi kon nemen naar school. Ik zou deze avond voor geen geld van de wereld missen. En hier ben ik blij om, want op dat moment was het al 7 september. Het was de laatste keer dat we Marc zagen.’">‘David went back to London on an earlier train than Marc. We then waited for Marc. He was getting the midnight train. By then I had missed my last train back home and I was a bit worried as I was due in class the following morning. My friend offered for me to stay at her house and I would need to get a taxis early morning back to the school. I would not have missed that evening for the world and so glad I didn't as it was the 7th of Sept. and was to be the last time we saw Marc alive.’</span></p>
+
+{% include next_slide.html %}
+
+<p class="dagboek"><span tooltip="‘We wisten dat Marc die avond best wat had gedronken. Maar hij had een goede reden, aangezien hij net de laatste aflevering van zijn TV serie had opgenomen. Hij gaf ons allemaal een kus. En wij namen zoals gewoonlijk verschillende foto’s.’">‘That night we knew Marc had been drinking and why not he was celebrating the filming of his last show for that series. He kissed us all and we took pictures as usual.’</span></p>
+
+<div class="witregel"> </div>
+
+<p class="dagboek"><span tooltip="‘De volgende ochtend nam ik zoals gepland een taxi naar school. Ik was vijf minuten te laat en kan me nog zo herinneren hoe de hoofdverpleger door zijn gordijnen naar me keek. Op dat moment was een verpleegsteropleiding nog erg strict en was te laat komen uit de boze.’">‘I got my taxi back to the school the following morning but was about 5 mins late. I can still remember the head of nursing standing up from his seat and moving the blind to see who was running in at that time of the morning. Nurse training was very strict in those days.’</span></p>
+
+<div class="witregel"> </div>
+
+<p class="dagboek"><span tooltip="‘Ik vertelde mijn medestudenten meteen waarom ik te laat was en wat ik de avond voordien had gedaan. En zij wisten meteen dat ik een echte superfan was toen ik hen de foto’s toonde die ik had gemaakt.’">‘I excitedly told all my fellow students about what I had been doing the previous evening. They knew I was a super fan as I showed them pictures I'd previously taken!’</span></p>
+
+{% include next_slide.html %}
+
+<p class="dagboek"><span tooltip="‘Op 16 september begon ik mijn schooldag vol goede moed, omdat ik ’s avonds eindelijk naar huis kon. Op dat moment had ik de eerste van vier weken internaat overleefd. Het vervolg van mijn opleiding bestond uit praktijk. Die ochtend keken mijn medestudenten me vreemd aan. En waren ze verdacht stil. Ik wist nog helemaal niet wat er vroeg die ochtend gebeurd was, want ik had nog geen televisie of radio op mijn kamer.’">‘On the morning of Fri 16 Sept I went into school and was looking forward to going home that evening as I had just finished my first week in class of my initial 4 week school based training. The rest of the training then took place on the wards. My fellow students kept looking at me and they seemed unusually quiet. I was oblivious to the tragic event that took place in the early hours of that morning because I'd only moved in that week and didn't have a TV or radio with me yet.’</span></p>
+
+<div class="witregel"> </div>
+
+<p class="dagboek"><span tooltip="‘Later in de cafetaria besloot een van m’n medestudenten om Marc’s dood ter sprake te brengen. Ik herinner me dat ik meteen ben opgestaan. Ik ben zo snel als ik kon teruggewandeld naar het internaat. Mijn benen voelden aan als flubber. Terug aangekomen op mijn kamer hoorde ik muziek van T.Rex op de radio in een andere kamer. Op dat moment wist ik dat Marc echt gestorven was.’">‘Then later when we were sat having a coffee in the canteen someone decided to mention it. I could not believe what they were saying. I remember I just got up from my chair and walked quickly back to the nurses home. I don't think I could have run as my legs were too week! I rang the London Offices but they would not tell me anything apart from yes there had been an accident. I knew it was true as I could hear T. Rex on the radio in someone's room.’</span></p>
+
+<div class="witregel"> </div>
+
+<p class="dagboek"><span tooltip="‘Op de een of andere manier moest ik mijn schooldag toch nog afwerken. Dit was surrealistisch, het voelde aan als een droom. Thuis sprak ik met andere fans over het nieuws. Die avond ging ik op bezoek bij enkele vrienden. Ik was niet in staat om naar het nieuws te kijken en ik bleef in tranen uitbarsten elke keer ik me realiseerde dat Marc gestorven was.’">‘I had to somehow complete the rest of the day but it was surreal, I felt like I was in a dream. I went home and after speaking to other fans I went to my friends but I could not bear to watch any of the news. My friend kindly turned the T.V off. I just kept bursting into tears as the realisation dawned on me that Marc had died.’</span></p>
+
+{% include next_slide.html %}
+
+<p class="dagboek"><span tooltip="‘Ik ging twee dagen niet naar school, zodat ik naar de begrafenis kon gaan. Toen ik hiervoor toestemming vroeg op school moest ik natuurlijk vertellen waarom ik twee dagen vrijaf wou. Wanneer ik hen vertelde dat het voor Marc’s begrafenis was, vloog ik bijna meteen terug naar mijn klaslokaal. Maar gelukkig kon ik hen overtuigen door te beloven dat ik geen enkele andere dag meer zou missen. En zo gezegd, zo gedaan. Ik had hierna geen reden meer om lessen te missen aangezien mijn held toch al gestorven was.’">‘I managed to take time off for the funeral but needed to take two days off as the funeral was held on the Tuesday. I had to explain why I was off and they nearly put me back in class but luckily as promised I took no more time off. My hero had died so there would be no reason to.’</span></p>
+
+<div class="witregel"> </div>
+
+{% include image.html url="/images/Daborah&Marc.jpg" alt="Marc Bolan en Deborah in 1975. De foto werd gemaakt door bandlid Steve Currie" %}
+
+<div class="witregel"> </div>
+
+<span class="bronvermelding"> Tekst: Deborah Loads, vertaling: Anaïs Bollansée</span>
+
+{% include end_slides.html %}
+{% include next_section.html %}
+
+Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis niet alleen bijgewoond door familie en fans, maar ook door verschillende bevriende muzikanten zoals {% include link.html url="/artist_info/Minor/DavidBowie/" tekst="David Bowie" new_tab=true %} en {% include link.html url="/artists/09_RodStewart/" tekst="Rod Stewart" new_tab=true %}.
+
+{% include next_section.html %}
+
+### Na zijn dood
+
+Bolan werd gecremeerd en uitgestrooid op dezelfde plek waar 14 jaar later ook zijn ouders, Simeon en Phyllis Feld, hun laatste rustplek vinden. Van Bolan’s erfenis ging slechts een klein stuk naar {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} omdat hij toen hij stierf nog steeds getrouwd was met {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %}. 
+
+Jones en hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} verhuisden naar Amerika van zodra ze hersteld was van het ongeluk. 
+
+{% include next_section.html %}
+
+{% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} sterft in 1994 in Turkije aan een hartaanval. Haar relatie met Marc Bolan is ze nooit vergeten. 
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/dOEZdK6woGI" frameborder="0" allowfullscreen></iframe>
+
+{% include next_section.html %}
+
+{% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}  trouwt in 1995 Jones en verhuist naar Sierra Leone in West-Afrika, waar ze <span tooltip="{% include link.html tekst='http://www.marcbolanschool.com' url='http://www.marcbolanschool.com' escaped=true new_tab=true %}">The Marc Bolan School of Music and film</span> start. Een project dat lokale kinderen de kans geeft om een instrument te leren spelen en hen indien nodig onderdak biedt. 
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/bn7DV1EC9BM" frameborder="0" allowfullscreen></iframe>
+
+{% include next_section.html %}
+
+Hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} woont in Los Angeles (California), waar hij als muzikant in de voetsporen van zijn ouders treedt. <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Xx1UZg0Px8Q" frameborder="0" allowfullscreen></iframe>
+{% include next_section.html %}
+
+20 jaar na zijn dood, in 1997, wordt een herdenksteen geplaats onder aan de heuvel waar Marc Bolan stierf.
+
+<div class="witregel"> </div> 
+
+{% include image.html url="/images/Herdenksteen1.jpg" alt="Herdenksteen voor Marc Bolan ©Anaïs Bollansée" %}
+
+{% include next_section.html %}
+
+In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij stierf. Zijn zoon, {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %}, liet deze voor hem maken. 
+
+<div class="witregel"> </div>
+
+{% include image.html url="/images/Buste1.jpg" alt="Bronze buste van Marc Bolan ©Anaïs Bollansée" %}
+
+{% include next_section.html %}
+
+{% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} en {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %} (vier leden die een belangrijke invloed hadden op de muziek van T.Rex) kregen er herdenkplaten. 
+
+En ook voor {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} werd er in 2005 een plaat toegevoegd. TODO FOTO
+
+{% include next_section.html %}
+
 
 {% include next_section.html %}
 {% include start_slides.html %}
