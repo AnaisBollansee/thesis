@@ -267,16 +267,73 @@ Hierna vallen de platen van Marc Bolan en T.Rex uit de {% include link.html url=
 
 Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constante stress en druk begint zijn tol te eisen. En ook de T.Rex line-up begint te veranderen. Bolan begint een samenwerking met {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %} en maakt steeds vaker gebruik van studio-artiesten tijdens het opnemen van zijn muziek. Aan de andere kant verlaat {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %} de band in 1973 en {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} eind 1974.  En ook voor producer en vriend {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} is het over en uit. Visconti herinnert zich de dag dat Bolan verschillende groupies, cocaïne en cognac meenam naar de studio. Door deze dodelijke combinatie krijg Bolan zijn gitaar niet juist gestemd. En Visconti besluit om hem hierop te wijzen. 
 
-<span class="quote" tooltip="‘”Fuck you! Mijn gitaar staat niet vals – ik heb hem juist gestemd.” Iedereen schrok en Marc stormde naar buiten – mijn wangen werden lichtjes rood. Ik glipte snel de studio in en stemde zijn gitaar, iets wat ik al vaker had gedaan. (…) Ik had hem al mijn energie gegeven, maar een team-speler zijn voor een waanzinnige leider was niet wat ik me voorstelde bij een rijke, creatieve ervaring – of een ‘vriendschap’.’”>‘“Fuck you! My guitar isn’t out of tune – I just tuned it.”Everyone froze and Marc stormed out – my cheeks went slightly rouge. I quickly moved from the control room into the studio and tuned his guitar properly, as I’d done many times in the past. (…) I’d given him my all, but being a team player to a maniacal leader wans’t my idea of a rich, creative experience – or a so-called friendship.’</span>
+<span class="quote" tooltip="”Fuck you! Mijn gitaar staat niet vals – ik heb hem juist gestemd.” Iedereen schrok en Marc stormde naar buiten – mijn wangen werden lichtjes rood. Ik glipte snel de studio in en stemde zijn gitaar, iets wat ik al vaker had gedaan. (…) Ik had hem al mijn energie gegeven, maar een team-speler zijn voor een waanzinnige leider was niet wat ik me voorstelde bij een rijke, creatieve ervaring – of een ‘vriendschap’.’”>‘“Fuck you! My guitar isn’t out of tune – I just tuned it.”Everyone froze and Marc stormed out – my cheeks went slightly rouge. I quickly moved from the control room into the studio and tuned his guitar properly, as I’d done many times in the past. (…) I’d given him my all, but being a team player to a maniacal leader wans’t my idea of a rich, creative experience – or a so-called friendship.’</span>
 
 <span class="bronvermelding"> Bowie,Bolan and the Brooklyn Boy: Tony Visconti the autobiography – Tony Visconti, HarperCollins (2007), p.208-209</span>
 
-Zinc Alloy is het laatste album waaraan Visconti en Bolan samenwerkten. 
-{% include next_slide.html %}ZIJVERHAAL{% include end_slides.html %}{% include next_section.html %}
+{% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zinc Alloy" new_tab=true %} is het laatste album waaraan Visconti en Bolan samenwerkten. 
+{% include next_slide.html %}### Alter ego
 
+Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend {% include link.html url="/artist_info/Minor/DavidBowie/" tekst="David Bowie" new_tab=true %} het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. Met {% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zinc Alloy and the Hidden Riders of Tomorrow" new_tab=true %} probeert een hopeloze Marc mee te surfen op het succes van Bowie. Maar slaagt hier niet in. {% include end_slides.html %}{% include next_section.html %}
+
+En niet alleen zijn platen scoren steeds minder, ook in Bolan’s huwelijk loopt het mis. Het is al de derde keer dat Bolan het gezelschap zoekt van een andere vrouw. Maar dit keer is het serieus. Uiteindelijk ruilt hij zijn vrouw {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} in voor zijn achtergrondzangeres {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}. Al zal het paar nooit scheiden. 
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=3386&end=3464" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
+Bolan stort zich op drank en drugs. En op korte tijd komt hij heel wat bij. Bolan’s team raadt hem aan om Groot Britannië (tijdelijk) te verlaten en zo taxes te ontlopen. Bolan trekt naar Amerika en Monte Carlo in Monaco. Hier neemt hij de tijd om tot rust te komen.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23256435&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+TODO TIJDSCODE 2:33-3:58
+
+{% include next_section.html %}
+
+Tot hij gevraagd wordt om te verschijnen op de Britse TV-show <span tooltip="Britse Muziek-serie voor kinderen.">Supersonic</span> Bolan beslist hier op in te gaan. En keert, na ongeveer een jaar, terug naar Engeland. 
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/qs9raocclnk" frameborder="0" allowfullscreen></iframe>
+
+{% include next_section.html %}
+{% include start_slides.html %}
+
+### Rolan Bolan
+
+Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaat op zoek naar hulp en laat zich opnemen in een ontwenningkliniek. Maar een echte doorbraak komt er pas wanneer zijn vriendin, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, zwanger blijkt te zijn. 
+
+{% include next_slide.html %}
+
+<h1><span tooltip="‘Jones werd zwanger in 1975. Dit veroorzaakte een drastische verandering in Bolan. Hij had zichzelf nog maar net laten opnemen in een ontwenningskliniek waar hem verteld werd dat hij de “harslag van een 70 jarige man had” (hij was toen 25).’">‘in 1975, Jones became pregnant. The change in Bolan was dramatic. It was only recently that he had checked into a health farm and been told that he had “the heartbeat of a 70-year-old” (he was 25).’</span></h1>
+
+<span class="bronvermelding">{% include link.html url="http://www.telegraph.co.uk/culture/4728611/Behind-the-glitter.html" tekst="Bron" new_tab=true %}: Telegraph, Behind the glitter, Mick Brown, geraadpleegd op 15/07/2017</span>
+
+{% include next_slide.html %}
+
+Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria" new_tab=true %}’s zwangerschap ontsteekt een nieuw vuur in Marc Bolan. Op 26 september 1975 wordt {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} geboren. Vier dagen voor Bolan’s 28ste verjaardag.
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/UHYuGMGXeKc?start=63&end=100" frameborder="0" allowfullscreen></iframe>
+
+{% include end_slides.html %}
+{% include next_section.html %}
+
+In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige T.Rex album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. % include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
+
+{% include next_section.html %}
+
+Na zo’n drie jaar in een dip te hebben gezeten, lijkt ineens terug alles mogelijk voor Marc Bolan & T.Rex. En de groep begint aan hun laatste tour met als voorprogramma de Britse punkband {% include link.html url="/artist_info/Minor_TheDamned/" tekst="The Damned" new_tab=true %}. 
+
+Op het eerste zicht misschien een vreemde combinatie. <span tooltip="marc bolan music, An Interview with CAPTAIN SENSIBLE, Marc Arscott, geraadpleegd op 14/07/2017 {% include link.html tekst='bron' url='http://www.marcbolanmusic.com/captain-sensible.aspx' escaped=true new_tab=true %}">Maar Captain Sensible ,zanger van The Damned, was al een hele tijd fan van T.Rex. En droeg hun T-shirts wel eens tijdens optredens. Een foto van zo’n optrede kwam terecht in Sounds magazine < Brits muziekmagazine van 1970 tot 1991>. Bolan zag deze foto en besloot om contact op te nemen met The Damned. </span>
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/pOss9PYsPvg" frameborder="0" allowfullscreen></iframe>
+
+{% include next_section.html %}
+
+
+
+{% include next_section.html %}
+{% include next_section.html %}
+
+{% include next_section.html %}
 {% include start_slides.html %}
 {% include next_slide.html %}
 {% include next_slide.html %}
