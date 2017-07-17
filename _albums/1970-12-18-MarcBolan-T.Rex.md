@@ -10,7 +10,7 @@ TODO FOTO
 {% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
 
 <span class="bio-cd">
-{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %}, {% include link.html url="/artist_info/Minor/Flo&Eddie/" tekst="Flo & Eddie" new_tab=true %}, {% include link.html url="/artist_info/Minor/RoyThomasBaker/" tekst="Roy Thomas Baker" new_tab=true %}<br>
+{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %}, {% include link.html url="/artist_info/Minor/Flo&Eddie/" tekst="Flo & Eddie" new_tab=true %}<br>
 {% include link.html url="/artist_info/Label/Fly/" tekst="Fly Records" new_tab=true %} / {% include link.html url="/artist_info/Label/Reprise/" tekst="Reprise" new_tab=true %}<br>
 Tony Visconti<br>
 </span>
