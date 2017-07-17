@@ -24,30 +24,26 @@ Ik laat de slapende stad achter me om een paar uur later toe te komen in een and
 
 <p class="dagboek">Ik kan niet anders dan een enorme leegte voelen, een immense droefheid om deze shrine die op amper zes maanden tijd veranderde in een klein stort. Het is als of ook Bolan’s standbeeld dit voelt. Want waar eerst een Electric Warrior stond, staat nu een lege man die met een dode blik eindeloos in de verte straat.’</p>
 
-TODO FOTO GALERIJ
+TODO FOTOBIJSCHRIFT
 
 <div class="carousel" data-slick='{"dots": true, "centerMode": true}'>
 	<div>
-		{% include image.html url="/images/gnome.jpg" %}
-		Hallo
+		{% include image.html url="/images/Herdenksteen1.jpg" %}
 	</div>
 	<div>
-		{% include image.html url="/images/gnome.jpg" %}
-		2
+	{% include image.html url="/images/Herdenksteen2.jpg" %}
 	</div>
 	<div>
-		{% include image.html url="/images/gnome.jpg" %}
-		3
+		{% include image.html url="/images/Buste2.jpg" %}
 	</div>
 	<div>
-		{% include image.html url="/images/gnome.jpg" %}
-		4
+		{% include image.html url="/images/Buste3.jpg" %}
 	</div>
 	<div>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/SIdnkFTIGds" frameborder="0" allowfullscreen></iframe>
+		{% include image.html url="/images/Bolan1.jpg" %}
 	</div>
-		<div>
-		tekst alleen
+	<div>
+		{% include image.html url="/images/Note1.jpg" %}
 	</div>
 </div>
 
@@ -77,7 +73,15 @@ Uiteindelijk vind ik Marc Bolan, naast {% include link.html url="/artist_info/Mi
 
 <p class="dagboek">Nog steeds een beetje teleurgesteld zet ik me neer op de white swan, een bank toegewijd aan Marc Bolan. Hier maakt de teleurstelling plaats voor innerlijke rust. En de schoonheid wordt eindelijk zichtbaar.’</p>
 
-TODO FOTOGALERIJ
+TODO FOTOBIJSCHRIFT
+<div class="carousel" data-slick='{"dots": true, "centerMode": true}'>
+	<div>
+		{% include image.html url="/images/Green2.jpg" %}
+	</div>
+	<div>
+	{% include image.html url="/images/Green3.jpg" %}
+	</div>
+</div>
 
 Het is al laat wanneer ik mezelf terug van het bankje gerukt krijg. En inmiddels begint ook Londen terug tot ‘rust’ te komen. De schreeuwende schoolkinderen zijn van de straten verdwenen. En jonge zakenmannen komen uit hun chique auto’s gekropen en dwalen de straten in. Tijd voor een pitstop dus. Een moment om even na te denken in een typische Britse pub. Al lijkt de echtheid van deze pubs in Londen even ver weg als Bolan. Genoeg emoties voor één dag. Morgen probeer ik opnieuw.
 
@@ -95,7 +99,8 @@ Uiteindelijk spendeer ik voor de zoveelste keer het geld voor mijn avond eten aa
 
 <p class="dagboek">‘Er is iets rustgevends aan CD’s. Ik kan uren genieten van een CD, zelfs wanneer deze niet op staat. Aleen al de geur van zo’n rond schijfje kan mijn dag doen opklaren. Net zoals wanneer ik voor mijn collectie ga zitten en mijn vingers over de hoesjes laat glijden. Elke CD heeft een verhaal, een herinnering. En Muziekwinkels  zijn als grote dozen vol nieuwe herinneringen die staan te popelen om eindelijk te gebeuren. Dit is waarom ik zo van CD-winkels hou.</p>
 
-TODO FOTOGALERIJ
+TODO FOTOBIJSCHRIFT
+{% include image.html url="/images/2iCoffee.jpg" alt="Piggy Bank" %}
 
 #### {% include link.html url="https://www.itsonlyrocknrolllondon.co.uk//" tekst="It's Only Rock 'N' Roll" new_tab=true %}
 
