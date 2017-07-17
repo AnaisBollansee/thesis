@@ -417,7 +417,7 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 <div class="witregel"> </div>
 
-{% include image.html url="/images/Daborah&Marc.jpg" alt="Marc Bolan en Deborah in 1975. De foto werd gemaakt door bandlid Steve Currie" %}
+{% include image.html url="/images/DaborahMarc.jpg" alt="Marc Bolan en Deborah in 1975. De foto werd gemaakt door bandlid Steve Currie" %}
 
 <div class="witregel"> </div>
 
