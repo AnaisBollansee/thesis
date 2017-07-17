@@ -455,15 +455,11 @@ Hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan 
 
 20 jaar na zijn dood, in 1997, wordt een herdenksteen geplaats onder aan de heuvel waar Marc Bolan stierf.
 
-<div class="witregel"> </div> 
-
 {% include image.html url="/images/Herdenksteen1.jpg" alt="Herdenksteen voor Marc Bolan ©Anaïs Bollansée" %}
 
 {% include next_section.html %}
 
 In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij stierf. Zijn zoon, {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %}, liet deze voor hem maken. 
-
-<div class="witregel"> </div>
 
 {% include image.html url="/images/Buste1.jpg" alt="Bronze buste van Marc Bolan ©Anaïs Bollansée" %}
 
