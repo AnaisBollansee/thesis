@@ -51,7 +51,7 @@ Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby
 
 {% include next_section.html %}
 
-Maar het nummer slaat niet aan. Dus trekt Bolan naar Parijs met de Amerikaanse acteur Riggs O’Hara TODO EXTRA UITLEG, op zoek naar inspiratie. Op deze trip zou Bolan (naar eigen zeggen) in contact zijn gekomen met een tovenaar. 
+Maar het nummer slaat niet aan. Dus trekt Bolan naar Parijs met de Britse acteur Riggs O’Hara, op zoek naar inspiratie. Op deze trip zou Bolan (naar eigen zeggen) in contact zijn gekomen met een tovenaar. 
 <span class="witregel"> </span>
  
 <iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/vShOZjYqWZk?start=580&end=630" frameborder="0" allowfullscreen></iframe>
@@ -122,7 +122,7 @@ Zijn vroegere manager {% include link.html url="/artist_info/Minor/TonySecunda/"
 
 <h1 tooltip="‘Hij reedt nooit met de auto, hij had altijd schrik. Marc heeft nooit een rijbewijs gehad en hij weigerde om te leren rijden’">‘‘He would never drive a car, he was always scared - Marc never had a driving licence, he refused to learn’</h1>
 
-<span class="bronvermelding">{% include link.html url="http://news.bbc.co.uk/onthisday/hi/dates/stories/september/16/newsid_2519000/2519173.stm" tekst="bron" new_tab=true %}: BBC, 1977: T-Rex singer killed in car smash, auteur onbekend, geraadpleegd op 10/07/2017 </span>
+<span class="bronvermelding">{% include link.html url="http://news.bbc.co.uk/onthisday/hi/dates/stories/september/16/newsid_2519000/2519173.stm" tekst="Bron" new_tab=true %}: BBC, 1977: T-Rex singer killed in car smash, auteur onbekend, geraadpleegd op 10/07/2017 </span>
 
 {% include next_slide.html %}
 
