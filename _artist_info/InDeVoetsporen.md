@@ -6,7 +6,7 @@ link-title: "In de voetsporen van Marc Bolan"
 
 # In de voetsporen van Marc Bolan
 
-### reisverlsag: dwars door Londen
+### reisverslag: dwars door Londen
 
 <p class="lead"> Waar kan je het best sporen van iemand terug vinden? Op de wegen die hij zelf bewandeld heeft, dacht ik. Dus trek ik vol goede moed naar Londen. Als {% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %} ergens nog leeft, dan zal het hier zijn. 
 </p>
