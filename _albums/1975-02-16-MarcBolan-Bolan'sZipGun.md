@@ -31,7 +31,7 @@ Als je van een bestaand album een nieuw album kan maken, zou dit dan niet makkel
 
 ## Farse snoet
 
-De muziek op <span class="engels">Bolan’s Zip Gun</span> kun je dan misschien niet meteen benoemen als een schot uit een <span class="extra_uitleg">zip gun</span>, maar met de <span class="engels">coverart</span> schiet T.Rex wel raak. Het heerlijke, dikke, 70’s lettertype en de <span class="engels">farse snoet</span> van Bolan zorgen ervoor dat dit altijd een van mijn favoriete hoezen is geweest. TODO TABEL
+De muziek op <span class="engels">Bolan’s Zip Gun</span> kun je dan misschien niet meteen benoemen als een schot uit een <span tooltip="Een zip gun is een zelfgemaakt geweer.">zip gun</span>, maar met de <span class="engels">coverart</span> schiet T.Rex wel raak. Het heerlijke, dikke, 70’s lettertype en de <span class="engels">farse snoet</span> van Bolan zorgen ervoor dat dit altijd een van mijn favoriete hoezen is geweest. TODO TABEL
 <table>
 	<tr>
 		<td>Hot Rod Mama</td>
