@@ -33,9 +33,7 @@ Op zijn negende krijgt hij zijn eerste gitaar. Broer Harry herinnert zich nog ho
 
 {% include next_section.html %}
 
-Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige {% include link.html url="/ artist_info/minor/HelenShapiro/" tekst="Helen Shapiro" new_tab=true %}
-
-<span tooltip="Ultimate Marc Bolan: The Legendary Years – John Bramley & Shan Bramley, 27 juli 1992, P., uitgeverij">En speelde hij gitaar op de speelplaats voor zijn vrienden </span>. TODO BRON Tot hij op 14jarige leeftijd geschorst wordt.
+Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige {% include link.html url="/ artist_info/minor/HelenShapiro/" tekst="Helen Shapiro" new_tab=true %}. Tot hij op 14jarige leeftijd geschorst wordt.
 <span tooltip="Marc Bolan The Final Word, Mark Tinkler, Universal, 2007, 6:05 – 6:32">Bolan zelf zegt dat hij op school geen dingen leerde die hij de moeite waard vond om te leren. Waardoor hij niet vaak naar school ging tot zijn school hier genoeg van had. En dat was het einde van zijn schoolcarrière. Nu hij niet meer naar school ging had hij verschillende jobs, maar bleef Bolan werken aan zijn doel om muzikant te worden.</span> 
 
 {% include next_section.html %}
