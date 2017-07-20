@@ -40,6 +40,11 @@ iframe[src*="youtube.com"] {
 	height: 300pt;
 }
 
+img {
+	display: block;
+	margin: 0 auto;
+}
+
 ul.navigation_bar {
 	list-style-type: none;
 	margin: 0;
