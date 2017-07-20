@@ -9,7 +9,9 @@ layout: long_read
 {% include start_long_read.html %}
 
 # Marc Bolan
-## ondertitel
+## Het leven van een 20th century boy
+
+filmpje
  
 {% include next_section.html %}
  

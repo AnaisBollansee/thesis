@@ -11,7 +11,8 @@ link-title: "In de voetsporen van Marc Bolan"
 <p class="lead"> Waar kan je het best sporen van iemand terug vinden? Op de wegen die hij zelf bewandeld heeft, dacht ik. Dus trek ik vol goede moed naar Londen. Als {% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %} ergens nog leeft, dan zal het hier zijn. 
 </p>
 
-TODO GOOGLE MAPS
+<iframe src="https://www.google.com/maps/d/embed?mid=1SM3HVW3nHsB3kIVTnUgSA-VVWY0" width="100%" height="480"></iframe>
+
 
 Maandag 27 maart 2017. 03uur 30, de wekker gaat. Op elke andere dag is dat een onmogelijk uur om recht te springen. Maar niet vandaag. Want als ik nog wat langer treuzel dan mis ik mijn trein naar Londen. Even later loop ik door de straten van Aalst. Ik zag de stad nooit zo rustig. Zeker niet als ik terug denk  aan het carnavalsfeest een paar weken geleden. 
 
