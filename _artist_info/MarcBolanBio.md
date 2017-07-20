@@ -9,10 +9,11 @@ layout: long_read
 {% include start_long_read.html %}
 
 # Marc Bolan
-## Het leven van een 20th century boy
+##### Het leven van een 20th century boy
 
-filmpje
- 
+<iframe id="ytplayer" type="text/html" width="640" height="390"
+  src="https://www.youtube.com/embed/Iv2JA1fshgg?autoplay=1" frameborder="0" allowfullscreen></iframe>  
+  
 {% include next_section.html %}
  
 ### Jeugdjaren
@@ -47,7 +48,7 @@ Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de m
 
 {% include next_section.html %}
 
-Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van Bob Dylan: <span class="engels">Blowin’ In The Wind</span>.
+Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van {% include link.html url="/artist_info/Minor/BobDylan/" tekst="Bob Dylan" new_tab=true %}: <span class="engels">Blowin’ In The Wind</span>.
 
 <iframe class="lazyload"  width="100%" height="450" scrolling="no" frameborder="no" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -142,7 +143,7 @@ Uiteindelijk stapt Marc Bolan in de groep en schrijft hij verschillende van hun 
 
 {% include next_section.html %}
 
-Marc’s laatste optrede met de band was tijdens een benefietconcert: <span class="engels">The 14 Hour Technicolor Dream</span>. Dat vond plaats in <span class="engels">Alexandra Palace</span>, een zaal in Londen. De headliner van het event was de Londense band {% include link.html url="/ artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}.
+Marc’s laatste optrede met de band was tijdens een benefietconcert: <span class="engels">The 14 Hour Technicolor Dream</span>. Dat vond plaats in <span class="engels">Alexandra Palace</span>, een zaal in Londen. De headliner van het event was de Londense band {% include link.html url="/artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}.
 
 <iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/0ysSPIKriAg" frameborder="0" allowfullscreen></iframe>
 
@@ -343,13 +344,13 @@ In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-M
 
 {% include next_section.html %}
 
-Na zo’n drie jaar in een dip te hebben gezeten, lijkt ineens terug alles mogelijk voor Marc Bolan & T.Rex. En de groep begint aan hun laatste tour met als voorprogramma de Britse punkband {% include link.html url="/artist_info/Minor/TheDamned/" tekst="The Damned" new_tab=true %}. 
+Na zo’n drie jaar in een dip te hebben gezeten, lijkt ineens terug alles mogelijk voor Marc Bolan & T.Rex. En de groep begint aan hun laatste tour met als voorprogramma de Britse punkband <span class="engels">The Damned</span>. 
 
 Op het eerste zicht misschien een vreemde combinatie. <span tooltip="marc bolan music, An Interview with CAPTAIN SENSIBLE, Marc Arscott, geraadpleegd op 14/07/2017 {% include link.html tekst='bron' url='http://www.marcbolanmusic.com/captain-sensible.aspx' escaped=true new_tab=true %}">Maar Captain Sensible ,zanger van The Damned, was al een hele tijd fan van T.Rex. En droeg hun T-shirts wel eens tijdens optredens. Een foto van zo’n optrede kwam terecht in het Brits muziektijdschrift Sounds magazine. Bolan zag deze foto en besloot om contact op te nemen met The Damned. </span>
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/pOss9PYsPvg" frameborder="0" allowfullscreen></iframe>
 
-{% include next_section.html achor="16/09/1977"%}
+{% include next_section.html achor="16091977" %}
 
 ### 16 september 1977
 

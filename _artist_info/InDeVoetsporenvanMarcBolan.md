@@ -50,7 +50,7 @@ Ik laat de slapende stad achter me om een paar uur later toe te komen in een and
 
 #### 142 Upper Richmond Road West
 
-Een beetje verward wandel ik uiteindelijk verder richting <span class="engels">Upper Richmond Road West</span>. Ik neem geen binnenwegen of mooie bospadjes. Neen, ik blijf vlak naast de auto’s. Want dit is waar Bolan reed op 16 september 1977 TODO LINK. Tot {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} op minder dan 1,5 km van hun woonst de controle over de paarse MINI verliest.  
+Een beetje verward wandel ik uiteindelijk verder richting <span class="engels">Upper Richmond Road West</span>. Ik neem geen binnenwegen of mooie bospadjes. Neen, ik blijf vlak naast de auto’s. Want dit is waar Bolan reed op {% include link.html url="/artist_info/MarcBolanBio#36" tekst="16 september 1977" new_tab=true %}. Tot {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} op minder dan 1,5 km van hun woonst de controle over de paarse MINI verliest.  
 
 1,5 km. Amper 10 minuutjes wandelen. De gedachte dat een paar minuten de hele geschiedenis hadden kunnen veranderen maakt me slecht gehumeurd. Een beetje kwaad zelfs. Al mopperend loop ik verder en lees ik de huisnummers in mijn hoofd. 138, 140, 144. Het grootste huis van de straat loop ik zonder dat ik het opmerk voorbij. 
 
@@ -67,19 +67,26 @@ Na deze nuloperatie trek ik naar het graf van Marc Bolan, op een van de mooiste 
 
 Aangezien ik geen geduld heb, begin ik meteen aan m’n zoektocht naar Bolan’s gedenksteen die er ergens aan een muur zou moeten hangen. Want, hoeveel muren kunnen er op zo’n kerkhof zijn? Veel blijkbaar. Héél veel. Allemaal tot in de kleinste hoekjes gevuld met gedenkplaten. Met een stijve nek en lichte hoofdpijn geef ik uiteindelijk op. En dan valt mijn oog op een klein huisje met daarin een vrouw die me maar al te graag wil helpen. 
 
-Uiteindelijk vind ik Marc Bolan, naast {% include link.html url="/artist_info/Minor/TheWho/" tekst="Keith Moon" new_tab=true %}, op zo’n vijf stappen van waar ik oorspronkelijk begonnen ben. In het enige hoekje dat ik over het hoofd zag. 
+Uiteindelijk vind ik Marc Bolan, naast {% include link.html url="/artists/13_TheWho/" tekst="Keith Moon" new_tab=true %}, op zo’n vijf stappen van waar ik oorspronkelijk begonnen ben. In het enige hoekje dat ik over het hoofd zag. 
 
 <p class="dagboek">‘Met een beetje hulp vind ik uiteindelijk niet één, maar twee gedenkplaten. En hoewel ik blij ben dat ik niet de enige persoon ben die vindt dat Bolan meer dan één gedenkplaat verdient, ben ik best teleurgesteld. En vraag ik me af ‘is dit het?!’. Gelukkig voor mij, is dit maar een begin. Want ongeveer aan de andere kant van het ‘kerkhof’ vind ik Bolan’s graf. Hij ligt er begraven in een rosebed, naast zijn ouders. In de zomer is dit ongetwijfeld erg mooi. Maar eind maart is het eerder een triestige zaak.</p>
 
 <p class="dagboek">Nog steeds een beetje teleurgesteld zet ik me neer op de white swan, een bank toegewijd aan Marc Bolan. Hier maakt de teleurstelling plaats voor innerlijke rust. En de schoonheid wordt eindelijk zichtbaar.’</p>
 
-TODO FOTOBIJSCHRIFT
-<div class="carousel" data-slick='{"dots": true, "centerMode": true}'>
+<span class="witregel">
+
+<div class="carousel">
 	<div>
-		{% include image.html url="/images/Green2.jpg" %}
+		{% include image.html url="/images/Green2.jpg" tooltip="Nog steeds erg veel fans bezoeken de laatste rustplaats van Marc Bolan." %}
 	</div>
 	<div>
-	{% include image.html url="/images/Green3.jpg" %}
+	{% include image.html url="/images/Green3.jpg" tooltip="tijdens de memorialservice 25jaar na zijn dood, krijgt Marc Bolan een tweede herdenkplaat."%}
+	</div>
+	<div>
+	{% include image.html url="/images/Swan.jpg" tooltip="'Nog steeds een beetje teleurgesteld zet ik me neer op de white Swan. Hier maakt de teleurstelling plaats voor innerlijke rust.' foto: ©Sebastien Baete" %}
+	</div>
+	<div>
+	{% include image.html url="/images/Green1.jpg" tooltip="Marc Bolan werd begraven op de plek waar 14 jaar later ook zijn ouders hun laatste rustplaats vinden." %}
 	</div>
 </div>
 
@@ -89,22 +96,30 @@ Het is al laat wanneer ik mezelf terug van het bankje gerukt krijg. En inmiddels
 
 Ik begin mijn tweede dag met een bezoekje aan The Birthplace of rock n roll. Of de vroegere 2i’s Coffee Bar. Een koffiehuis waar menig britse rockartiesten ontdekt werd in de jaren ’50. Maar nu moet je het stellen met een groene plaat die je nog maar eens verteld waar je bent. 
 
-Hierna trek ik naar Middle Earth, een hippie-club waar Bolan en Took met Tyrannosaurus Rex TODO LINK nog al eens op bezoek kwamen. Beide plaatsen maken weinig indruk op mij en geven me het gevoel dat niets of niemand in Londen leeft.
+Hierna trek ik naar Middle Earth, een hippie-club waar Bolan en Took met {% include link.html url="/artist_info/MarcBolanBio#TyrannosaurusRex/" tekst="Tyrannosaurus Rex" new_tab=true %} nog al eens op bezoek kwamen. Beide plaatsen maken weinig indruk op mij en geven me het gevoel dat niets of niemand in Londen leeft.
 
 <p class="dagboek">'Een beetje verloren slenter ik verder door Londen. ‘Ga ik hier nu echt niets meer tegenkomen dat me terug een beetje hoop geeft?’ vraag ik me af. Ik kan toch niet de enige zijn die nog van deze geweldige muzikant houdt'</p>
 
-Gelukkig zijn er ook voor mij enkele dingen die me gelukkig maken wanneer ik <span class="engels">down</span> ben. Nee, geen drukke winkelstraten voor mij. Maar muziekwinkels. Heerlijk. Uren  vingers over cd-hoesjes laten wandelen, tot ik elke CD in de winkel bekeken heb. En vandaag heb ik geluk. Want in het midden van mijn dipje zie ik mijn favoriet soort winkel. Daar ga ik dan. Aangekomen bij de T zie ik in grote letters T.Rex TODO LINK. Ik ben dus toch niet alleen. En ik ben toevallig nog op zoek naar enkele plaatjes die in België enkel te vinden zijn als je beschikt over internet, een bankkaart en geen vrees dat de cd niet heelhuids je brievenbus haalt. 
+Gelukkig zijn er ook voor mij enkele dingen die me gelukkig maken wanneer ik <span class="engels">down</span> ben. Nee, geen drukke winkelstraten voor mij. Maar muziekwinkels. Heerlijk. Uren  vingers over cd-hoesjes laten wandelen, tot ik elke CD in de winkel bekeken heb. En vandaag heb ik geluk. Want in het midden van mijn dipje zie ik mijn favoriet soort winkel. Daar ga ik dan. Aangekomen bij de T zie ik in grote letters {% include link.html url="/artist_info/MarcBolanBio#T.Rex/" tekst="T.Rex" new_tab=true %}. Ik ben dus toch niet alleen. En ik ben toevallig nog op zoek naar enkele plaatjes die in België enkel te vinden zijn als je beschikt over internet, een bankkaart en geen vrees dat de cd niet heelhuids je brievenbus haalt. 
 
 Uiteindelijk spendeer ik voor de zoveelste keer het geld voor mijn avond eten aan CD’s. Met mijn buit in de hand huppel ik door de straten van <span class="extra_uitleg">Soho</span>. Ik kom er de ene platenwinkel na de andere tegen. Overal ga ik even binnen, en vind er tot mijn groot jolijt overal een reeks T.Rex CD’s! 
 
 <p class="dagboek">‘Er is iets rustgevends aan CD’s. Ik kan uren genieten van een CD, zelfs wanneer deze niet op staat. Aleen al de geur van zo’n rond schijfje kan mijn dag doen opklaren. Net zoals wanneer ik voor mijn collectie ga zitten en mijn vingers over de hoesjes laat glijden. Elke CD heeft een verhaal, een herinnering. En Muziekwinkels  zijn als grote dozen vol nieuwe herinneringen die staan te popelen om eindelijk te gebeuren. Dit is waarom ik zo van CD-winkels hou.</p>
 
-TODO FOTOBIJSCHRIFT
-{% include image.html url="/images/2iCoffee.jpg" alt="Piggy Bank" %}
+<div class="carousel">
+	<div>
+		{% include image.html url="/images/2iCoffee.jpg" alt=" " tooltip="2i's Coffee Bar was ooit the place to be. Nu moet je het stellen met een groene plaat die je verteld waar je bent." %}
+	</div>
+	<div>
+	TODO FOTO CDS
+	{% include image.html url="/images/.jpg" tooltip="onderschrift"%}
+	</div>
+</div>
+
 
 #### {% include link.html url="https://www.itsonlyrocknrolllondon.co.uk//" tekst="It's Only Rock 'N' Roll" new_tab=true %}
 
-Maar, mooie liedjes duren niet lang. En ook mijn tripje zit er al weer bijna op. Op weg naar de underground passeer ik Baker Street en een winkeltje genaamd: It’s only rock n roll. Ik steek mijn neus even binnen. En meteen valt mijn oog op T-shirts van {% include link.html url="/artist_info/Minor/TheWho/" tekst="The Who" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheDoors/" tekst="The Doors" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheRollingStones/" tekst="The Rolling Stones" new_tab=true %} en andere geniale muziekgroepen. Hier moet ik even binnen gaan. En die trein zal wel op me wachten. 
+Maar, mooie liedjes duren niet lang. En ook mijn tripje zit er al weer bijna op. Op weg naar de underground passeer ik Baker Street en een winkeltje genaamd: It’s only rock n roll. Ik steek mijn neus even binnen. En meteen valt mijn oog op T-shirts van {% include link.html url="/artists/13_TheWho/" tekst="The Who" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheDoors/" tekst="The Doors" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheRollingStones/" tekst="The Rolling Stones" new_tab=true %} en andere geniale muziekgroepen. Hier moet ik even binnen gaan. En die trein zal wel op me wachten. 
 
 Als een opgeleide speurhond snuffel ik door de winkel. Tot ik opeens Marc Bolan vind. En ik maak even, samen met mijn hart, een klein vreugdesprongetje.
 
