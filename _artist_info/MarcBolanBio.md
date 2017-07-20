@@ -165,6 +165,36 @@ Voor het eerst proeft Bolan het succes en scoort hij enkele {% include link.html
 
 TODO TIJDLIJN
 
+<div class="timeline">
+	{% include image.html url="/images/FOTO.jpg" marker="05/07/1968" title="My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows" content="Image content" %}
+	
+	{% include image.html url="/images/FOTO.jpg" marker="15/10/1968" title="Prophets, Seers & Sages: The Angel Of The Ages" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="16/05/1969" title="Unicorn" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="13/03/1970" title="A Beard Of Stars" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="18/12/1970" title="T.Rex" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="14/09/1971" title="Electric Warrior" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="21/07/1971" title="The Slider" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="16/03/1973" title="Tanx" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="01/02/1974" title="Zinc Alloy And The Hidden Riders Of Tomorrow" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="?/08/1974" title="Light Of Love" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="15/02/1975" title="Bolan's Zip Gun" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="30/01/1976" title="Futuristic Dragon" content="Image content" %}
+	
+	{% include image.html url="/images/FOTO.jpg" marker="11/03/1977" title="Dandy In The Underworld" content="Image content" %}
+	
+</div>
+
+
 {% include next_section.html %}
 
 Een grote Tyrannosaurus Rex-fan is radiopersoonlijkheid {% include link.html url="/artist_info/Minor/JohnPeel/" tekst="John Peel" new_tab=true %}, die hun nummers vaak speelt in zijn radioprogramma.
