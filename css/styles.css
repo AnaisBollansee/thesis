@@ -131,16 +131,18 @@ font-size: 80%;
 	color: black;
 }
 
+.fp-controlArrow {
+	top: 40%;
+}
+
 .fp-controlArrow.fp-prev {
 	border-right-color: black;
 	left: -30pt;
-	top: -10pt;
 }
 
 .fp-controlArrow.fp-next {
 	border-left-color: black;
 	right: -30pt;
-	top: -10pt;
 }
 
 .fp-tooltip {
