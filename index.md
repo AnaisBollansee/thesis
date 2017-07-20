@@ -5,7 +5,7 @@ layout: base
 
 <div class="content" markdown="1">
 
-# De muziek die mijn leven vormde
+# De muziek die mijn leven vorm gaf
 
 </div>
 
