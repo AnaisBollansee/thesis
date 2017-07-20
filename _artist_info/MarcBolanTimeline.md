@@ -12,3 +12,11 @@ link-title: "Timeline"
     <iframe src="https://www.youtube.com/embed/dOEZdK6woGI" frameborder="0" allowfullscreen marker="YT" title="Nog Titel" content="Onder YT"></iframe>
 
 </div>
+
+
+
+<div class="timeline">
+	{% include image.html url="/images/FOTO.jpg" marker="DATUM" title="ALBUM" content="Image content" %}
+	{% include image.html url="/images/FOTO.jpg" marker="DATUM" title="ALBUM" content="Image content" %}
+	
+</div>
