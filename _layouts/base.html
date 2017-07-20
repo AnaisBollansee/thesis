@@ -19,6 +19,7 @@
 		{% endfor %}
 		{% endif %}
 
+		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/juanma_aguero_fancy_timeline/css/ftl-default/fancy-timeline.css' %}">
 		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/css/styles.css' %}">
 	</head>
 
@@ -30,6 +31,7 @@
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 		<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+		<script src="{% include fix_url.html url='/juanma_aguero_fancy_timeline/js/fancy-timeline.min.js' %}"></script>
 		<script>
 			$( document ).tooltip({
 				hide: { effect: "" }, //fadeOut
@@ -68,6 +70,68 @@
 					if (url && index == slideIndex) {
 						window.location.href = url
 					}
+				})
+			})
+			$(".timeline").each(function(index){
+				var timeline = $( this )
+
+				var dates = [];
+				timeline.children().each(function(index) {
+					element = $( this )
+					if (element.is('div')) {
+						dates.push({
+							marker: element.attr('marker'),
+							type: "default",
+							title: element.attr('title'),
+							content: element.attr('content') || element.text()
+						})
+					}
+					else if (element.is('img')) {
+						dates.push({
+							marker: element.attr('marker'),
+							type: "image",
+							title: element.attr('title'),
+							img: element.attr('src'),
+							content: element.attr('content')
+						})
+					}
+					else if (element.is('iframe')) {
+						var url = element.attr('src') || element.attr('data-src')
+						var reg = new RegExp('(?:https?://)?(?:www\\.)?(?:youtu\\.be/|youtube\\.com(?:/embed/))([\\w-]{10,12})', 'g')
+						var videoid = reg.exec(url)[1]
+						if(videoid != null) {
+							dates.push({
+								marker: element.attr('marker'),
+								type: "youtube-video",
+								title: element.attr('title'),
+								youtubeId: videoid,
+								content: element.attr('content')
+							})
+						} else { 
+							dates.push({
+								marker: element.attr('marker') || 'FAILED',
+								type: "default",
+								title: element.attr('title') || 'FAILED',
+								content: element.attr('content') || element.text() || 'FAILED'
+							})
+						}
+					}
+					else {
+						dates.push({
+							marker: element.attr('marker') || 'FAILED',
+							type: "default",
+							title: element.attr('title') || 'FAILED',
+							content: element.attr('content') || element.text() || 'FAILED'
+						})
+					}
+				})
+
+				console.log(dates)
+
+				timeline.empty()
+				timeline.fancyTimeline({
+					initPos: 0,
+					data: dates
 				})
 			})
 		</script>

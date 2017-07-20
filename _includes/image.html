@@ -1,1 +1,8 @@
-<img  src="{% include fix_url.html url=include.url %}" alt="{{ include.alt | default: 'Image' }}"{% if include.width %} width="{{ include.width }}"{% endif %}{% if include.height %} height="{{ include.height }}"{% endif %}{% if include.tooltip %} tooltip="{{ include.tooltip }}"{% endif %}>
+<img  src="{% include fix_url.html url=include.url 
+    %}" alt="{{ include.alt | default: 'Image' }}"{% 
+    if include.width %} width="{{ include.width }}"{% endif %}{% 
+    if include.height %} height="{{ include.height }}"{% endif %}{% 
+    if include.tooltip %} tooltip="{{ include.tooltip }}"{% endif %}{% 
+    if include.marker %} marker="{{ include.marker }}"{% endif %}{% 
+    if include.title %} title="{{ include.title }}"{% endif %}{% 
+    if include.content %} content="{{ include.content }}"{% endif %}>
