@@ -121,6 +121,7 @@ font-size: 80%;
 .slick-slide {
 	height: auto;
 	overflow: hidden;
+	margin: 0 10pt;
 }
 
 .slick-slide > img {
