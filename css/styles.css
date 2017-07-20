@@ -160,6 +160,21 @@ font-size: 80%;
 	padding-top: 20pt;
 }
 
+.timeline-item-content {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+}
+
+.timeline-item-content > img {
+	height: 163pt;
+}
+
+.timeline-item-content > iframe {
+	height: 163pt;
+}
+
 footer {
 	margin-top: 15pt;
 	max-width: 580pt;
