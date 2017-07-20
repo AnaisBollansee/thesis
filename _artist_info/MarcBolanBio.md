@@ -9,10 +9,11 @@ layout: long_read
 {% include start_long_read.html %}
 
 # Marc Bolan
-## Het leven van een 20th century boy
+##### Het leven van een 20th century boy
 
-filmpje
- 
+<iframe id="ytplayer" type="text/html" width="640" height="390"
+  src="https://www.youtube.com/embed/Iv2JA1fshgg?autoplay=1" frameborder="0" allowfullscreen></iframe>  
+  
 {% include next_section.html %}
  
 ### Jeugdjaren
@@ -349,7 +350,7 @@ Op het eerste zicht misschien een vreemde combinatie. <span tooltip="marc bolan 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/pOss9PYsPvg" frameborder="0" allowfullscreen></iframe>
 
-{% include next_section.html achor="16/09/1977"%}
+{% include next_section.html achor="16091977" %}
 
 ### 16 september 1977
 

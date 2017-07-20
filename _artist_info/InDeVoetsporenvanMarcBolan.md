@@ -50,7 +50,7 @@ Ik laat de slapende stad achter me om een paar uur later toe te komen in een and
 
 #### 142 Upper Richmond Road West
 
-Een beetje verward wandel ik uiteindelijk verder richting <span class="engels">Upper Richmond Road West</span>. Ik neem geen binnenwegen of mooie bospadjes. Neen, ik blijf vlak naast de auto’s. Want dit is waar Bolan reed op 16 september 1977 TODO LINK. Tot {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} op minder dan 1,5 km van hun woonst de controle over de paarse MINI verliest.  
+Een beetje verward wandel ik uiteindelijk verder richting <span class="engels">Upper Richmond Road West</span>. Ik neem geen binnenwegen of mooie bospadjes. Neen, ik blijf vlak naast de auto’s. Want dit is waar Bolan reed op {% include link.html url="/artist_info/MarcBolanBio#36" tekst="16 september 1977" new_tab=true %}. Tot {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} op minder dan 1,5 km van hun woonst de controle over de paarse MINI verliest.  
 
 1,5 km. Amper 10 minuutjes wandelen. De gedachte dat een paar minuten de hele geschiedenis hadden kunnen veranderen maakt me slecht gehumeurd. Een beetje kwaad zelfs. Al mopperend loop ik verder en lees ik de huisnummers in mijn hoofd. 138, 140, 144. Het grootste huis van de straat loop ik zonder dat ik het opmerk voorbij. 
 
@@ -74,7 +74,7 @@ Uiteindelijk vind ik Marc Bolan, naast {% include link.html url="/artist_info/Mi
 <p class="dagboek">Nog steeds een beetje teleurgesteld zet ik me neer op de white swan, een bank toegewijd aan Marc Bolan. Hier maakt de teleurstelling plaats voor innerlijke rust. En de schoonheid wordt eindelijk zichtbaar.’</p>
 
 TODO FOTOBIJSCHRIFT
-<div class="carousel" data-slick='{"dots": true, "centerMode": true}'>
+<div class="carousel">
 	<div>
 		{% include image.html url="/images/Green2.jpg" %}
 	</div>
@@ -89,17 +89,18 @@ Het is al laat wanneer ik mezelf terug van het bankje gerukt krijg. En inmiddels
 
 Ik begin mijn tweede dag met een bezoekje aan The Birthplace of rock n roll. Of de vroegere 2i’s Coffee Bar. Een koffiehuis waar menig britse rockartiesten ontdekt werd in de jaren ’50. Maar nu moet je het stellen met een groene plaat die je nog maar eens verteld waar je bent. 
 
-Hierna trek ik naar Middle Earth, een hippie-club waar Bolan en Took met Tyrannosaurus Rex TODO LINK nog al eens op bezoek kwamen. Beide plaatsen maken weinig indruk op mij en geven me het gevoel dat niets of niemand in Londen leeft.
+Hierna trek ik naar Middle Earth, een hippie-club waar Bolan en Took met {% include link.html url="/artist_info/MarcBolanBio#TyrannosaurusRex/" tekst="Tyrannosaurus Rex" new_tab=true %} nog al eens op bezoek kwamen. Beide plaatsen maken weinig indruk op mij en geven me het gevoel dat niets of niemand in Londen leeft.
 
 <p class="dagboek">'Een beetje verloren slenter ik verder door Londen. ‘Ga ik hier nu echt niets meer tegenkomen dat me terug een beetje hoop geeft?’ vraag ik me af. Ik kan toch niet de enige zijn die nog van deze geweldige muzikant houdt'</p>
 
-Gelukkig zijn er ook voor mij enkele dingen die me gelukkig maken wanneer ik <span class="engels">down</span> ben. Nee, geen drukke winkelstraten voor mij. Maar muziekwinkels. Heerlijk. Uren  vingers over cd-hoesjes laten wandelen, tot ik elke CD in de winkel bekeken heb. En vandaag heb ik geluk. Want in het midden van mijn dipje zie ik mijn favoriet soort winkel. Daar ga ik dan. Aangekomen bij de T zie ik in grote letters T.Rex TODO LINK. Ik ben dus toch niet alleen. En ik ben toevallig nog op zoek naar enkele plaatjes die in België enkel te vinden zijn als je beschikt over internet, een bankkaart en geen vrees dat de cd niet heelhuids je brievenbus haalt. 
+Gelukkig zijn er ook voor mij enkele dingen die me gelukkig maken wanneer ik <span class="engels">down</span> ben. Nee, geen drukke winkelstraten voor mij. Maar muziekwinkels. Heerlijk. Uren  vingers over cd-hoesjes laten wandelen, tot ik elke CD in de winkel bekeken heb. En vandaag heb ik geluk. Want in het midden van mijn dipje zie ik mijn favoriet soort winkel. Daar ga ik dan. Aangekomen bij de T zie ik in grote letters {% include link.html url="/artist_info/MarcBolanBio#T.Rex/" tekst="T.Rex" new_tab=true %}. Ik ben dus toch niet alleen. En ik ben toevallig nog op zoek naar enkele plaatjes die in België enkel te vinden zijn als je beschikt over internet, een bankkaart en geen vrees dat de cd niet heelhuids je brievenbus haalt. 
 
 Uiteindelijk spendeer ik voor de zoveelste keer het geld voor mijn avond eten aan CD’s. Met mijn buit in de hand huppel ik door de straten van <span class="extra_uitleg">Soho</span>. Ik kom er de ene platenwinkel na de andere tegen. Overal ga ik even binnen, en vind er tot mijn groot jolijt overal een reeks T.Rex CD’s! 
 
 <p class="dagboek">‘Er is iets rustgevends aan CD’s. Ik kan uren genieten van een CD, zelfs wanneer deze niet op staat. Aleen al de geur van zo’n rond schijfje kan mijn dag doen opklaren. Net zoals wanneer ik voor mijn collectie ga zitten en mijn vingers over de hoesjes laat glijden. Elke CD heeft een verhaal, een herinnering. En Muziekwinkels  zijn als grote dozen vol nieuwe herinneringen die staan te popelen om eindelijk te gebeuren. Dit is waarom ik zo van CD-winkels hou.</p>
 
 TODO FOTOBIJSCHRIFT
+
 {% include image.html url="/images/2iCoffee.jpg" alt="Piggy Bank" %}
 
 #### {% include link.html url="https://www.itsonlyrocknrolllondon.co.uk//" tekst="It's Only Rock 'N' Roll" new_tab=true %}
