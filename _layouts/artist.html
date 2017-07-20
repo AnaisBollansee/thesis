@@ -5,7 +5,9 @@ layout: base
 <ul class="navigation_bar">
 	<li>
 		<a href="{% include fix_url.html url='/' %}">◄ Home</a>
-	</li>{% for info in site.artist_info %}{% if info.artist == page.artist %}
+	</li>{% assign ordered = site.artist_info | sort: 'order' %}{% 
+	for info in ordered %}{% 
+	if info.artist == page.artist %}
 	<li>
 		<a href="{% include fix_url.html url=info.url %}">{{ info.link-title }}</a>
 	</li>{% endif %}{% endfor %}
