@@ -1,11 +1,11 @@
 ---
-title:  "Anais's Thesis Home"
+title:  "Thesis Anaïs Bollansée"
 layout: base
 ---
 
 <div class="content" markdown="1">
 
-# Home :D
+# De muziek die mijn leven vormde
 
 </div>
 
@@ -13,8 +13,6 @@ layout: base
 
 <div class="content" markdown="1">
 
-## Titeltje
-
-Wat meer uitleg
+TEKST
 
 </div>
