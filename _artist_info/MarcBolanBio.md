@@ -351,6 +351,8 @@ Op het eerste zicht misschien een vreemde combinatie. <span tooltip="marc bolan 
 
 {% include next_section.html achor="16/09/1977"%}
 
+### 16 september 1977
+
 Nadat {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} een periode heeft doorgebracht in Amerika, komt ze op 16 september 1977 opnieuw aan in Londen. Bolan was een gelukkig man. Jones is opnieuw in het land en zijn TV show <span class="engels">Marc</span> was een succes. 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Q0NEfm_Y-io" frameborder="0" allowfullscreen></iframe>
