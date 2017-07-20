@@ -120,6 +120,11 @@ font-size: 80%;
 
 .slick-slide {
 	height: auto;
+	overflow: hidden;
+}
+
+.slick-slide > img {
+	margin:0 auto;
 }
 
 .slick-prev::before, .slick-next::before {

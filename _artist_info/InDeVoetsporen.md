@@ -26,7 +26,7 @@ Ik laat de slapende stad achter me om een paar uur later toe te komen in een and
 
 TODO FOTOBIJSCHRIFT
 
-<div class="carousel" data-slick='{"dots": true, "centerMode": true}'>
+<div class="carousel">
 	<div>
 		{% include image.html url="/images/Herdenksteen1.jpg" %}
 	</div>
