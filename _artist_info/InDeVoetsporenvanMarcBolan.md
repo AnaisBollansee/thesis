@@ -126,7 +126,7 @@ Als een opgeleide speurhond snuffel ik door de winkel. Tot ik opeens Marc Bolan 
 
 <p class="dagboek">‘Wanneer ik de deur open val ik bijna omver. Een kudde T-shirts van muzieklegendes komt op me af gestormd. Hier kan ik niet meer aan ontkomen. En eerlijk gezegd, ik ben zelden zo blij geweest.’</p> 
 
-TODO FOTO
+TODO FOTO SHIRTS
 
 Moe, maar voldaan stap ik met een zak vol Britse karamel, CD’s en T-shirts de Eurostar richting Brussel op. Je vindt Marc Bolan niet meer op elke Londense straathoek, zoals het 50 jaar geleden misschien was. Maar als je naar de juiste plekken gaat, voel je toch nog zijn aanwezigheid. En daar kan ik alleen maar blij om zijn.
 

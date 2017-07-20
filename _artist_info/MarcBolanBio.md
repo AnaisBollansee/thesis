@@ -13,7 +13,7 @@ order: 1
 ##### Het leven van een 20th century boy
 
 <iframe id="ytplayer" type="text/html" width="640" height="390"
-  src="https://www.youtube.com/embed/Iv2JA1fshgg?autoplay=1" frameborder="0" allowfullscreen></iframe>  
+  src="https://www.youtube.com/embed/Iv2JA1fshgg" frameborder="0" allowfullscreen></iframe>  
   
 {% include next_section.html %}
  
@@ -339,8 +339,6 @@ Bolan stort zich op drank en drugs. En op korte tijd komt hij heel wat bij.
 Bolan’s team raadt hem aan om Groot Britannië (tijdelijk) te verlaten en zo taxes te ontlopen. Bolan trekt naar Amerika en Monte Carlo in Monaco. Hier neemt hij de tijd om tot rust te komen.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23256435&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-TODO TIJDSCODE 2:33-3:58
 
 {% include next_section.html %}
 
