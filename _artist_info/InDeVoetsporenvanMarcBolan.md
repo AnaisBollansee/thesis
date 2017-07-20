@@ -25,26 +25,25 @@ Ik laat de slapende stad achter me om een paar uur later toe te komen in een and
 
 <p class="dagboek">Ik kan niet anders dan een enorme leegte voelen, een immense droefheid om deze shrine die op amper zes maanden tijd veranderde in een klein stort. Het is als of ook Bolan’s standbeeld dit voelt. Want waar eerst een Electric Warrior stond, staat nu een lege man die met een dode blik eindeloos in de verte straat.’</p>
 
-TODO FOTOBIJSCHRIFT
-
+<span class="witregel"> </span>
 <div class="carousel">
 	<div>
-		{% include image.html url="/images/Herdenksteen1.jpg" %}
+		{% include image.html url="/images/Herdenksteen1.jpg" tooltip="20jaar na Bolan's dood werd de eerste herdenkingsplaat geïnstalleerd op de plek waar hij overleed." %}
 	</div>
 	<div>
-	{% include image.html url="/images/Herdenksteen2.jpg" %}
+	{% include image.html url="/images/Herdenksteen2.jpg" tooltip="Het onderschrift van de bronze buste die Rolan Bolan in 2002 liet plaatsen op de plek waar zijn vader om het leven kwam."%}
 	</div>
 	<div>
-		{% include image.html url="/images/Buste2.jpg" %}
+		{% include image.html url="/images/Buste2.jpg" tooltip="Bolan trad vaak op in kleurrijke boa's. Een fan liet deze voor hem achter." %}
 	</div>
 	<div>
-		{% include image.html url="/images/Buste3.jpg" %}
+		{% include image.html url="/images/Buste3.jpg" tooltip="'Waar eerst een Electric Warrior stond, staat nu een lege man die met een dode blik eindeloos in de verte straat.'"%}
 	</div>
 	<div>
-		{% include image.html url="/images/Bolan1.jpg" %}
+		{% include image.html url="/images/Bolan1.jpg" tooltip="Nog steeds bezoeken fans de plek waar Marc Bolan stierf." %}
 	</div>
 	<div>
-		{% include image.html url="/images/Note1.jpg" %}
+		{% include image.html url="/images/Note1.jpg" tooltip="Fans van over de hele wereld laten briefjes acter voor Bolan. Ook ik waagde mijn kans." %}
 	</div>
 </div>
 
