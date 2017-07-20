@@ -3,6 +3,7 @@ artist: Marc Bolan
 title: "Biografie Marc Bolan"
 link-title: "Bio"
 layout: long_read
+order: 1
 ---
 
 

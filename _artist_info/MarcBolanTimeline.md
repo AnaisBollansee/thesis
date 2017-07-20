@@ -2,6 +2,7 @@
 artist: Marc Bolan
 title:  "Timeline"
 link-title: "Timeline"
+order: 7
 ---
 
 <div class="timeline">
@@ -14,9 +15,18 @@ link-title: "Timeline"
 </div>
 
 
+FOTOS
 
 <div class="timeline">
 	{% include image.html url="/images/FOTO.jpg" marker="DATUM" title="ALBUM" content="Image content" %}
 	{% include image.html url="/images/FOTO.jpg" marker="DATUM" title="ALBUM" content="Image content" %}
 	
+</div>
+
+
+FILMPJES
+
+<div class="timeline">
+<iframe src="https://www.youtube.com/embed/dOEZdK6woGI" frameborder="0" allowfullscreen marker="DATUM" title="NUMMER" content="EXTRA UITLEG"></iframe>
+
 </div>

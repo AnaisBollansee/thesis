@@ -2,6 +2,7 @@
 artist: Marc Bolan
 title:  "Marc Bolan Legacy"
 link-title: "Legacy"
+order: 3
 ---
 
 # 5 niet te missen films met muziek van T.Rex
