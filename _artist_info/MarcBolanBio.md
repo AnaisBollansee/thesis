@@ -241,7 +241,9 @@ In october van dat jaar scoort Bolan zijn eerste {% include link.html url="/arti
 
 ### T.Rex
 
-Vanaf dan begint de groep aan haar gloriejaren. <iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=238&end=274" frameborder="0" allowfullscreen></iframe>
+Vanaf dan begint de groep aan haar gloriejaren. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=238&end=274" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
@@ -250,31 +252,51 @@ Vanaf dan begint de groep aan haar gloriejaren. <iframe width="560" height="31
 {% include next_section.html %}
 {% include start_slides.html %}
 
-Ook de twee volgende albums, {% include link.html url="/albums/1972-07-21-MarcBolan-TheSlider/" tekst="The Slider" new_tab=true %} en {% include link.html url="/albums/1973-01-28-MarcBolan-Tanx/" tekst="Tanx" new_tab=true %}, vinden vlot hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %}. En tussen alles door vindt Marc Bolan de tijd om een film te maken: <span class="engles">Born to Boogie</span>. De film werd geregisseerd door {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="Ringo Starr" new_tab=true %}. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en {% include link.html url="/artist_info/Minor/EltonJohn/" tekst="Elton John" new_tab=true %} samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="John Lennon" new_tab=true %}. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
+Ook de twee volgende albums, {% include link.html url="/albums/1972-07-21-MarcBolan-TheSlider/" tekst="The Slider" new_tab=true %} en {% include link.html url="/albums/1973-01-28-MarcBolan-Tanx/" tekst="Tanx" new_tab=true %}, vinden vlot hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %}. 
+En tussen alles door vindt Marc Bolan de tijd om een film te maken: <span class="engles">Born to Boogie</span>. 
+
+De film werd geregisseerd door {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="Ringo Starr" new_tab=true %}. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en {% include link.html url="/artist_info/Minor/EltonJohn/" tekst="Elton John" new_tab=true %} samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="John Lennon" new_tab=true %}. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9Md9AGcMbA" frameborder="0" allowfullscreen></iframe>
-{% include next_slide.html %}
+
+{% include next_slide.html %}
 
 ### T.Rextasy
 
-Deze periode van glorie en krijsende tienermeisjes kreeg de naam <span class="engels">T.Rextasy</span>. Het was geleden van het begin van de <span class="engels">Beatlemania</span>, ongeveer tien jaar eerder, dat jonge meisjes (en jongens) zo vielen voor een artiest.<iframe width="560" height="315" src="https://www.youtube.com/embed/VMAUkldhseI?start=44&end=120" frameborder="0" allowfullscreen></iframe>
-{% include end_slides.html %}{% include next_section.html %}
+Deze periode van glorie en krijsende tienermeisjes kreeg de naam <span class="engels">T.Rextasy</span>. Het was geleden van het begin van de <span class="engels">Beatlemania</span>, ongeveer tien jaar eerder, dat jonge meisjes (en jongens) zo vielen voor een artiest.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VMAUkldhseI?start=44&end=120" frameborder="0" allowfullscreen></iframe>
+
+{% include end_slides.html %}
+{% include next_section.html %}
 
 Hierna vallen de platen van Marc Bolan en T.Rex uit de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} en zullen ze nooit terugkeren. <span tooltip="Marc Bolan – The Final Word, Mark Tinkler, Universal, 2007, 57:53-58:19">Volgens producer Tony Visconti veranderde Bolan zijn muziek niet vaak genoeg. En verloor Bolan’s publiek interesse. Bolan aan de andere kant vond het belangrijk om platen te blijven maken ‘for the kids’. Want het waren deze tieners die zijn platen kochten. Een te drastische verandering zou er volgens hem voor zorgen dat zijn publiek helemaal zou afhaken.</span>
 
 {% include next_section.html %}
 {% include start_slides.html %}
 
-Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constante stress en druk begint zijn tol te eisen. En ook de T.Rex line-up begint te veranderen. Bolan begint een samenwerking met {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %} en maakt steeds vaker gebruik van studio-artiesten tijdens het opnemen van zijn muziek. Aan de andere kant verlaat {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %} de band in 1973 en {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} eind 1974.  En ook voor producer en vriend {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} is het over en uit. Visconti herinnert zich de dag dat Bolan verschillende groupies, cocaïne en cognac meenam naar de studio. Door deze dodelijke combinatie krijg Bolan zijn gitaar niet juist gestemd. En Visconti besluit om hem hierop te wijzen. 
+Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constante stress en druk begint zijn tol te eisen. En ook de T.Rex line-up begint te veranderen. Bolan begint een samenwerking met {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %} en maakt steeds vaker gebruik van studio-artiesten tijdens het opnemen van zijn muziek. Aan de andere kant verlaat {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %} de band in 1973 en {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} eind 1974.  
 
-<span class="quote" tooltip="”Fuck you! Mijn gitaar staat niet vals – ik heb hem juist gestemd.” Iedereen schrok en Marc stormde naar buiten – mijn wangen werden lichtjes rood. Ik glipte snel de studio in en stemde zijn gitaar, iets wat ik al vaker had gedaan. (…) Ik had hem al mijn energie gegeven, maar een team-speler zijn voor een waanzinnige leider was niet wat ik me voorstelde bij een rijke, creatieve ervaring – of een ‘vriendschap’.’”>‘“Fuck you! My guitar isn’t out of tune – I just tuned it.”Everyone froze and Marc stormed out – my cheeks went slightly rouge. I quickly moved from the control room into the studio and tuned his guitar properly, as I’d done many times in the past. (…) I’d given him my all, but being a team player to a maniacal leader wans’t my idea of a rich, creative experience – or a so-called friendship.’</span>
+En ook voor producer en vriend {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} is het over en uit. Visconti herinnert zich de dag dat Bolan verschillende groupies, cocaïne en cognac meenam naar de studio. Door deze dodelijke combinatie krijg Bolan zijn gitaar niet juist gestemd. En Visconti besluit om hem hierop te wijzen. 
+
+<span class="quote" tooltip="”Fuck you! Mijn gitaar staat niet vals – ik heb hem juist gestemd.” 
+Iedereen schrok en Marc stormde naar buiten – mijn wangen werden lichtjes rood. Ik glipte snel de studio in en stemde zijn gitaar, iets wat ik al vaker had gedaan. (…) Ik had hem al mijn energie gegeven, maar een team-speler zijn voor een waanzinnige leider was niet wat ik me voorstelde bij een rijke, creatieve ervaring – of een ‘vriendschap’.’”>‘“Fuck you! My guitar isn’t out of tune – I just tuned it.”
+Everyone froze and Marc stormed out – my cheeks went slightly rouge. I quickly moved from the control room into the studio and tuned his guitar properly, as I’d done many times in the past. (…) I’d given him my all, but being a team player to a maniacal leader wans’t my idea of a rich, creative experience – or a so-called friendship.’</span>
 
 <span class="bronvermelding"> Bowie,Bolan and the Brooklyn Boy: Tony Visconti the autobiography – Tony Visconti, HarperCollins (2007), p.208-209</span>
 
 {% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zinc Alloy" new_tab=true %} is het laatste album waaraan Visconti en Bolan samenwerkten. 
-{% include next_slide.html %}### Alter ego
 
-Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend {% include link.html url="/artist_info/Minor/DavidBowie/" tekst="David Bowie" new_tab=true %} het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. Met {% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zinc Alloy and the Hidden Riders of Tomorrow" new_tab=true %} probeert een hopeloze Marc mee te surfen op het succes van Bowie. Maar slaagt hier niet in. {% include end_slides.html %}{% include next_section.html %}
+{% include next_slide.html %}
+
+### Alter ego
+
+Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend {% include link.html url="/artist_info/Minor/DavidBowie/" tekst="David Bowie" new_tab=true %} het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. 
+
+Met {% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zinc Alloy and the Hidden Riders of Tomorrow" new_tab=true %} probeert een hopeloze Marc mee te surfen op het succes van Bowie. Maar slaagt hier niet in. 
+
+{% include end_slides.html %}
+{% include next_section.html %}
 
 En niet alleen zijn platen scoren steeds minder, ook in Bolan’s huwelijk loopt het mis. Het is al de derde keer dat Bolan het gezelschap zoekt van een andere vrouw. Maar dit keer is het serieus. Uiteindelijk ruilt hij zijn vrouw {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} in voor zijn achtergrondzangeres {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}. Al zal het paar nooit scheiden. 
 
@@ -282,7 +304,9 @@ En niet alleen zijn platen scoren steeds minder, ook in Bolan’s huwelijk loopt
 
 {% include next_section.html %}
 
-Bolan stort zich op drank en drugs. En op korte tijd komt hij heel wat bij. Bolan’s team raadt hem aan om Groot Britannië (tijdelijk) te verlaten en zo taxes te ontlopen. Bolan trekt naar Amerika en Monte Carlo in Monaco. Hier neemt hij de tijd om tot rust te komen.
+Bolan stort zich op drank en drugs. En op korte tijd komt hij heel wat bij. 
+
+Bolan’s team raadt hem aan om Groot Britannië (tijdelijk) te verlaten en zo taxes te ontlopen. Bolan trekt naar Amerika en Monte Carlo in Monaco. Hier neemt hij de tijd om tot rust te komen.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23256435&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -303,7 +327,8 @@ Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaa
 
 {% include next_slide.html %}
 
-<h1><span tooltip="‘Jones werd zwanger in 1975. Dit veroorzaakte een drastische verandering in Bolan. Hij had zichzelf nog maar net laten opnemen in een ontwenningskliniek waar hem verteld werd dat hij de “harslag van een 70 jarige man had” (hij was toen 25).’">‘in 1975, Jones became pregnant. The change in Bolan was dramatic. It was only recently that he had checked into a health farm and been told that he had “the heartbeat of a 70-year-old” (he was 25).’</span></h1>
+<h1><span tooltip="‘Jones werd zwanger in 1975. Dit veroorzaakte een drastische verandering in Bolan. Hij had zichzelf nog maar net laten opnemen in een ontwenningskliniek waar hem verteld werd dat hij de “harslag van een 70 jarige man had” (hij was toen 25).’
+">‘in 1975, Jones became pregnant. The change in Bolan was dramatic. It was only recently that he had checked into a health farm and been told that he had “the heartbeat of a 70-year-old” (he was 25).’</span></h1>
 
 <span class="bronvermelding">{% include link.html url="http://www.telegraph.co.uk/culture/4728611/Behind-the-glitter.html" tekst="Bron" new_tab=true %}: Telegraph, Behind the glitter, Mick Brown, geraadpleegd op 15/07/2017</span>
 
@@ -351,13 +376,16 @@ Niet lang na Bolan’s dood word er ingebroken in zijn huis. Verschillende van z
 
 ### Begrafenis
 
-Vier dagen na het ongeluk, op dinsdag 20 september 1977, ontwaakt {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} uit haar coma. Pas dan komt ze te weten dat haar geliefde, Marc Bolan, gestorven is en dat diezelfde dag zijn assen nog worden uitgestrooid. Jones is op dat moment nog niet sterk genoeg om de plechtigheid bij te wonen. Het nieuws dat superster Marc Bolan overleden is komt bij fans over de hele wereld hard aan. En velen weten nog exact wat ze aan het doen waren op het moment dat ze het nieuws vernomen. 
+Vier dagen na het ongeluk, op dinsdag 20 september 1977, ontwaakt {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} uit haar coma. Pas dan komt ze te weten dat haar geliefde, Marc Bolan, gestorven is en dat diezelfde dag zijn assen nog worden uitgestrooid. Jones is op dat moment nog niet sterk genoeg om de plechtigheid bij te wonen. 
+
+Het nieuws dat superster Marc Bolan overleden is komt bij fans over de hele wereld hard aan. En velen weten nog exact wat ze aan het doen waren op het moment dat ze het nieuws vernomen. 
 
 {% include next_slide.html %}
 
 Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener superfan werd van Marc Bolan. In haar brief vertelt ze hoe ze fan werd en hoe ze de dood van haar idool ervaren heeft.
 
-<p class="dagboek"><span tooltip="‘Ik ben een T.Rex-fan sinds ik van mijn nonkel zijn oude platenspeler gekregen heb. Ik had zelf nog geen platen dus besloot ik om een bezoek te brengen aan onze lokale platenwinkel. Hier vroeg ik de verkoper naar de laatste nummer één hit.  Zijn antwoord was Get It On van T.Rex. Ik had dit nummer al op de radio gehoord, maar kende toen de band T.Rex nog niet. Ik wist alleen dat ik het een goed nummer vond.'">‘I became a T. Rex fan after my uncle gave me his old mono record player. I needed to build up a record collection so I walked into our local tiny record store and asked for the latest no 1. He said its Get It On by T. Rex. I had heard it on the radio but didn't really know who the group was at that time but knew that I liked it. '</span></p>
+<p class="dagboek"><span tooltip="‘Ik ben een T.Rex-fan sinds ik van mijn nonkel zijn oude platenspeler gekregen heb. Ik had zelf nog geen platen dus besloot ik om een bezoek te brengen aan onze lokale platenwinkel. Hier vroeg ik de verkoper naar de laatste nummer één hit.  Zijn antwoord was Get It On van T.Rex. Ik had dit nummer al op de radio gehoord, maar kende toen de band T.Rex nog niet. Ik wist alleen dat ik het een goed nummer vond.'">‘I became a T. Rex fan after my uncle gave me his old mono record player. I needed to build up a record collection so I walked into our local tiny record store and asked for the latest no 1. He said its Get It On by T. Rex. I had heard it on the radio but didn't really know who the group was at that time but knew that I liked it. 
+'</span></p>
 
 <div class="witregel"> </div>
 
@@ -381,7 +409,9 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 <div class="witregel"> </div>
 
-<p class="dagboek"><span tooltip="‘In augustus van dat jaar filmde Marc zijn TV serie Marc. Op dat moment had ik mijn tijdelijke job beindigd en kon in bijna elke dag naar Manchester (Noordwest Engeland) reizen om hem te zien. Tijdens deze trips ontmoette ik verschillende van zijn fans uit Manchester. Ook tijdens de laatste opnamedag ging ik naar Manchester. Toen we ’s avonds aan het wachten waren op de trein zag ik David Bowie staan. Hij was aan het wachten op zijn trein en rookte ondertussen een sigaret. Ik zei tegen mijn vrienden ‘David Bowie is daar!’, maar iedereen dacht dat het om een lookalike ging. Dus liep ik in mijn eentje op hem af voor een foto en een handtekening. Pas hierna hadden de anderen door dat het écht David Bowie was die stond te wachten.’">‘In August Marc was filming his Granada TV series Marc and as I had finished my temporary job by then I was able to go to Manchester most days to see him. I met a few other fans from Manchester. On his last day of filming I went as usual and as we waited at the train station for him I spotted David Bowie on the platform having a cigarette. I said David Bowie is there! but everyone thought he was just a lookalike so I ran down to him to get a picture and autograph. The others soon came running down when they realised who it was!’</span></p>
+<p class="dagboek"><span tooltip="‘In augustus van dat jaar filmde Marc zijn TV serie Marc. Op dat moment had ik mijn tijdelijke job beindigd en kon in bijna elke dag naar Manchester (Noordwest Engeland) reizen om hem te zien. Tijdens deze trips ontmoette ik verschillende van zijn fans uit Manchester. Ook tijdens de laatste opnamedag ging ik naar Manchester. Toen we ’s avonds aan het wachten waren op de trein zag ik David Bowie staan. Hij was aan het wachten op zijn trein en rookte ondertussen een sigaret. Ik zei tegen mijn vrienden ‘David Bowie is daar!’, maar iedereen dacht dat het om een lookalike ging. Dus liep ik in mijn eentje op hem af voor een foto en een handtekening. Pas hierna hadden de anderen door dat het écht David Bowie was die stond te wachten.’
+">‘In August Marc was filming his Granada TV series Marc and as I had finished my temporary job by then I was able to go to Manchester most days to see him. I met a few other fans from Manchester. On his last day of filming I went as usual and as we waited at the train station for him I spotted David Bowie on the platform having a cigarette. I said David Bowie is there! but everyone thought he was just a lookalike so I ran down to him to get a picture and autograph. The others soon came running down when they realised who it was!’
+</span></p>
 
 <div class="witregel"> </div>
 
@@ -417,7 +447,7 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 <div class="witregel"> </div>
 
-{% include image.html url="/images/DaborahMarc.jpg" alt="Marc Bolan en Deborah in 1975. De foto werd gemaakt door bandlid Steve Currie" %}
+{% include image.html url="/images/DeborahMarc.jpg" alt="Marc Bolan en Deborah in 1975. De foto werd gemaakt door bandlid Steve Currie" %}
 
 <div class="witregel"> </div>
 
@@ -450,7 +480,10 @@ Jones en hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" teks
 
 {% include next_section.html %}
 
-Hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} woont in Los Angeles (California), waar hij als muzikant in de voetsporen van zijn ouders treedt. <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Xx1UZg0Px8Q" frameborder="0" allowfullscreen></iframe>
+Hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} woont in Los Angeles (California), waar hij als muzikant in de voetsporen van zijn ouders treedt. 
+
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Xx1UZg0Px8Q" frameborder="0" allowfullscreen></iframe>
+
 {% include next_section.html %}
 
 20 jaar na zijn dood, in 1997, wordt een herdenksteen geplaats onder aan de heuvel waar Marc Bolan stierf.
@@ -467,7 +500,10 @@ In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij sti
 
 {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} en {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %} (vier leden die een belangrijke invloed hadden op de muziek van T.Rex) kregen er herdenkplaten. 
 
-En ook voor {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} werd er in 2005 een plaat toegevoegd. TODO FOTO
+En ook voor {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} werd er in 2005 een plaat toegevoegd. 
+
+
+TODO FOTO
 
 {% include next_section.html %}
 
