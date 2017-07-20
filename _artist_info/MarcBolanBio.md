@@ -48,7 +48,7 @@ Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de m
 
 {% include next_section.html %}
 
-Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van Bob Dylan: <span class="engels">Blowin’ In The Wind</span>.
+Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van {% include link.html url="/artist_info/Minor/BobDylan/" tekst="Bob Dylan" new_tab=true %}: <span class="engels">Blowin’ In The Wind</span>.
 
 <iframe class="lazyload"  width="100%" height="450" scrolling="no" frameborder="no" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 

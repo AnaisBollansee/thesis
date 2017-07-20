@@ -67,19 +67,26 @@ Na deze nuloperatie trek ik naar het graf van Marc Bolan, op een van de mooiste 
 
 Aangezien ik geen geduld heb, begin ik meteen aan m’n zoektocht naar Bolan’s gedenksteen die er ergens aan een muur zou moeten hangen. Want, hoeveel muren kunnen er op zo’n kerkhof zijn? Veel blijkbaar. Héél veel. Allemaal tot in de kleinste hoekjes gevuld met gedenkplaten. Met een stijve nek en lichte hoofdpijn geef ik uiteindelijk op. En dan valt mijn oog op een klein huisje met daarin een vrouw die me maar al te graag wil helpen. 
 
-Uiteindelijk vind ik Marc Bolan, naast {% include link.html url="/artist_info/Minor/TheWho/" tekst="Keith Moon" new_tab=true %}, op zo’n vijf stappen van waar ik oorspronkelijk begonnen ben. In het enige hoekje dat ik over het hoofd zag. 
+Uiteindelijk vind ik Marc Bolan, naast {% include link.html url="/artists/13_TheWho/" tekst="Keith Moon" new_tab=true %}, op zo’n vijf stappen van waar ik oorspronkelijk begonnen ben. In het enige hoekje dat ik over het hoofd zag. 
 
 <p class="dagboek">‘Met een beetje hulp vind ik uiteindelijk niet één, maar twee gedenkplaten. En hoewel ik blij ben dat ik niet de enige persoon ben die vindt dat Bolan meer dan één gedenkplaat verdient, ben ik best teleurgesteld. En vraag ik me af ‘is dit het?!’. Gelukkig voor mij, is dit maar een begin. Want ongeveer aan de andere kant van het ‘kerkhof’ vind ik Bolan’s graf. Hij ligt er begraven in een rosebed, naast zijn ouders. In de zomer is dit ongetwijfeld erg mooi. Maar eind maart is het eerder een triestige zaak.</p>
 
 <p class="dagboek">Nog steeds een beetje teleurgesteld zet ik me neer op de white swan, een bank toegewijd aan Marc Bolan. Hier maakt de teleurstelling plaats voor innerlijke rust. En de schoonheid wordt eindelijk zichtbaar.’</p>
 
-TODO FOTOBIJSCHRIFT
+<span class="witregel">
+
 <div class="carousel">
 	<div>
-		{% include image.html url="/images/Green2.jpg" %}
+		{% include image.html url="/images/Green2.jpg" tooltip="Nog steeds erg veel fans bezoeken de laatste rustplaats van Marc Bolan." %}
 	</div>
 	<div>
-	{% include image.html url="/images/Green3.jpg" %}
+	{% include image.html url="/images/Green3.jpg" tooltip="tijdens de memorialservice 25jaar na zijn dood, krijgt Marc Bolan een tweede herdenkplaat."%}
+	</div>
+	<div>
+	{% include image.html url="/images/Swan.jpg" tooltip="'Nog steeds een beetje teleurgesteld zet ik me neer op de white Swan. Hier maakt de teleurstelling plaats voor innerlijke rust.' foto: ©Sebastien Baete" %}
+	</div>
+	<div>
+	{% include image.html url="/images/Green1.jpg" tooltip="Marc Bolan werd begraven op de plek waar 14 jaar later ook zijn ouders hun laatste rustplaats vinden." %}
 	</div>
 </div>
 
@@ -99,13 +106,20 @@ Uiteindelijk spendeer ik voor de zoveelste keer het geld voor mijn avond eten aa
 
 <p class="dagboek">‘Er is iets rustgevends aan CD’s. Ik kan uren genieten van een CD, zelfs wanneer deze niet op staat. Aleen al de geur van zo’n rond schijfje kan mijn dag doen opklaren. Net zoals wanneer ik voor mijn collectie ga zitten en mijn vingers over de hoesjes laat glijden. Elke CD heeft een verhaal, een herinnering. En Muziekwinkels  zijn als grote dozen vol nieuwe herinneringen die staan te popelen om eindelijk te gebeuren. Dit is waarom ik zo van CD-winkels hou.</p>
 
-TODO FOTOBIJSCHRIFT
+<div class="carousel">
+	<div>
+		{% include image.html url="/images/2iCoffee.jpg" alt=" " tooltip="2i's Coffee Bar was ooit the place to be. Nu moet je het stellen met een groene plaat die je verteld waar je bent." %}
+	</div>
+	<div>
+	TODO FOTO CDS
+	{% include image.html url="/images/.jpg" tooltip="onderschrift"%}
+	</div>
+</div>
 
-{% include image.html url="/images/2iCoffee.jpg" alt="Piggy Bank" %}
 
 #### {% include link.html url="https://www.itsonlyrocknrolllondon.co.uk//" tekst="It's Only Rock 'N' Roll" new_tab=true %}
 
-Maar, mooie liedjes duren niet lang. En ook mijn tripje zit er al weer bijna op. Op weg naar de underground passeer ik Baker Street en een winkeltje genaamd: It’s only rock n roll. Ik steek mijn neus even binnen. En meteen valt mijn oog op T-shirts van {% include link.html url="/artist_info/Minor/TheWho/" tekst="The Who" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheDoors/" tekst="The Doors" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheRollingStones/" tekst="The Rolling Stones" new_tab=true %} en andere geniale muziekgroepen. Hier moet ik even binnen gaan. En die trein zal wel op me wachten. 
+Maar, mooie liedjes duren niet lang. En ook mijn tripje zit er al weer bijna op. Op weg naar de underground passeer ik Baker Street en een winkeltje genaamd: It’s only rock n roll. Ik steek mijn neus even binnen. En meteen valt mijn oog op T-shirts van {% include link.html url="/artists/13_TheWho/" tekst="The Who" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheDoors/" tekst="The Doors" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheRollingStones/" tekst="The Rolling Stones" new_tab=true %} en andere geniale muziekgroepen. Hier moet ik even binnen gaan. En die trein zal wel op me wachten. 
 
 Als een opgeleide speurhond snuffel ik door de winkel. Tot ik opeens Marc Bolan vind. En ik maak even, samen met mijn hart, een klein vreugdesprongetje.
 
