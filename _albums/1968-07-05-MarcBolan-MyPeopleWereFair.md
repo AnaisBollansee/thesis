@@ -18,7 +18,7 @@ TODO FOTO
 
 Er zijn twee dingen die van deze plaat een meesterwerk maken, noch voor je ook maar één noot gehoord hebt: de geniale titel en de bijna bewegende cover. Veel mensen kijken raar op wanneer ik ‘de geniale titel’ zeg. Vaak wordt deze net iets te snel geklasseerd als ‘belachelijk’ en ‘onnodig veel te lang’. Oké, het is een lange titel. Maar als je <span class="engels">‘But now They’re Content to Wear Stars on Their Brows’</span> zou wegnemen, verandert heel de betekenis. Dan zou het bijna een arrogante uitspraak worden. Het tweede deel zet net aan tot nadenken. Moeten we zomaar ‘content’ zijn, of misschien toch terug wat meer moeiten doen voor <span class="engels">‘the sky in our hair’?</span> 
 
-<span class="engels">My People Were Fair and Had Sky in Their Hair… But Now They’re Content to Wear Stars on Their Brows</span> is het eerste album van Tyrannosaurus Rex TODO LINK. Op het album verschijnen twee nummers die Bolan al vroeger opnam met zijn band John’s Children TODO LINK: <span class="engels">Mustang Ford</span> en <span class="engels">Hot Rod Mama</span>. In deze twee nummers vind je nog duidelijk de elektrische gitaren terug waar Bolan vanaf wil. Met Tyrannosaurus Rex gaat hij voor een psychedelisch folk geluid met de sprookjeswereld van Lord of the Rings altijd vlakbij.  
+<span class="engels">My People Were Fair and Had Sky in Their Hair… But Now They’re Content to Wear Stars on Their Brows</span> is het eerste album van {% include link.html url="/artist_info/MarcBolanBio#TyrannosaurusRex" tekst="Tyrannosaurus Rex" new_tab=true %}. Op het album verschijnen twee nummers die Bolan al vroeger opnam met zijn band {% include link.html url="/artist_info/MarcBolanBio#JohnsChildren" tekst="John's Children" new_tab=true %}: <span class="engels">Mustang Ford</span> en <span class="engels">Hot Rod Mama</span>. In deze twee nummers vind je nog duidelijk de elektrische gitaren terug waar Bolan vanaf wil. Met Tyrannosaurus Rex gaat hij voor een psychedelisch folk geluid met de sprookjeswereld van Lord of the Rings altijd vlakbij.  
 
 ## Goud
 
@@ -35,6 +35,9 @@ Maar, <span class="engels">All that glitters is not gold</span>. En dat is ook h
 ## Klassieker
 
 Toegegeven, <span class="engels">My People were Fair</span> is niet 100% mijn ding. Ik denk dat ik te opgejaagd ben geworden om er nog ten volle van te kunnen genieten. Toch is het een niet te missen klassieker die thuis hoort in de platenkast van iedereen die serieus met muziek bezig is. Want dit geluid ga je niet snel ergens anders vinden. 
+
+
+TODO TABEL
 
 <table>
 	<tr>

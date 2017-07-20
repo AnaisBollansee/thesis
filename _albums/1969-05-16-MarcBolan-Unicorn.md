@@ -15,7 +15,7 @@ image: /images/piggy-bank.png
 </span>
 16 mei 1969<br>Studio album
 
-<span class="engels">Unicorn</span> is het eerste Tyrannosaurus Rex TODO LINK album dat zijn weg vindt naar Amerika. Toch is <span class="engels">Unicorn</span> al hun derde album op één jaar tijd. Maar een échte hoogvlieger kan je het album niet noemen. Ze bereiken een twaalfde plaats in de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %}. Maar na slechts drie weken is het album niet meer te vinden in de top 100. 
+<span class="engels">Unicorn</span> is het eerste {% include link.html url="/artist_info/MarcBolanBio#TyrannosaurusRex" tekst="Tyrannosaurus Rex" new_tab=true %} album dat zijn weg vindt naar Amerika. Toch is <span class="engels">Unicorn</span> al hun derde album op één jaar tijd. Maar een échte hoogvlieger kan je het album niet noemen. Ze bereiken een twaalfde plaats in de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %}. Maar na slechts drie weken is het album niet meer te vinden in de top 100. 
 
 
 ## Kuikentjes
@@ -31,7 +31,7 @@ Een persoonlijke favoriet is <span class="engels">Cat Black</span>. En niet alle
 ## Zomerbries
 
 Wel geef ik graag nog een kleine tip. De beste manier om dit album te beluisteren is met een extra geluidsdichte koptelefoon en een redelijk hoog volume. Om de ervaring echt af te werken, luister je best met je ogen dicht, in het gras, met een zomerbries die zacht je gezicht en haren streelt. Met andere woorden, je kiest best voor een moment waarop je echt de tijd kan nemen om te genieten. Oh, en bewegen mag. 
-
+TODO TABEL
 <table>
 	<tr>
 		<td>Hot Rod Mama</td>

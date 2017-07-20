@@ -22,7 +22,7 @@ Marc Bolan is een niet te stoppen sneltrein. Slechts drie maanden had hij nodig 
 
 <div class="uitgelicht">‘Oh he's a nice cat’ – Stacey Grove</div>
 
-Opnieuw begint het album direct goed, met mijn favoriet: <span class="engels">Deboraarobed</span>. Een simpel nummer, waar muzikaal gezien eigenlijk niet zo veel aan is. Maar laat het net die formule, van simpele muziek met magische songteksten, zijn die Bolan doet aanslaan bij het publiek. Zo zorgt het nummer voor Bolan en Took’s eerste top 100 nummer TODO LINK. Al moest het nummer daar wel eerst voor hernoemd worden tot <span class="engels">Debora</span>. En voor wie het nog niet door had, ‘arobed’ is gewoon ‘Debora’ achterstevoor gespeld. Dit trekt zich dan weer door in het nummer, want ook het tweede deel van het lied is een omgedraaide versie van het eerste deel. Wat een ingenieuze jongens toch!
+Opnieuw begint het album direct goed, met mijn favoriet: <span class="engels">Deboraarobed</span>. Een simpel nummer, waar muzikaal gezien eigenlijk niet zo veel aan is. Maar laat het net die formule, van simpele muziek met magische songteksten, zijn die Bolan doet aanslaan bij het publiek. Zo zorgt het nummer voor Bolan en Took’s eerste {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 100" new_tab=true %} nummer. Al moest het nummer daar wel eerst voor hernoemd worden tot <span class="engels">Debora</span>. En voor wie het nog niet door had, ‘arobed’ is gewoon ‘Debora’ achterstevoor gespeld. Dit trekt zich dan weer door in het nummer, want ook het tweede deel van het lied is een omgedraaide versie van het eerste deel. Wat een ingenieuze jongens toch!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngShAssaH4s" frameborder="0" allowfullscreen></iframe>
 

@@ -16,9 +16,9 @@ TODO FOTO
 </span>
 13 maart 1970<br>Studio album
 
-Als je niet van al dat zweverige gedoe houdt, dan is dit een goede plaat om mee aan je liefde voor T.Rex TODO LINK te beginnen bouwen. Het is ook hier dat ik het écht goed begin te vinden. Eindelijk is de rockkant iets meer aanwezig. Gedaan met de toeters en bellen. Minder <span class="dialect">tralala</span>, maar wel nog steeds met geweldige, poëtische teksten. En als je echt goed luistert kan je horen hoe Bolan verandert van een hippie op een tapijt naar een <span class="engels">glamorous rockstar</span>.
+Als je niet van al dat zweverige gedoe houdt, dan is dit een goede plaat om mee aan je liefde voor {% include link.html url="/artist_info/MarcBolanBio#T.Rex" tekst="T.Rex" new_tab=true %} te beginnen bouwen. Het is ook hier dat ik het écht goed begin te vinden. Eindelijk is de rockkant iets meer aanwezig. Gedaan met de toeters en bellen. Minder <span class="dialect">tralala</span>, maar wel nog steeds met geweldige, poëtische teksten. En als je echt goed luistert kan je horen hoe Bolan verandert van een hippie op een tapijt naar een <span class="engels">glamorous rockstar</span>.
 
-Nadat Bolan {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %} uit zijn band gewerkt heeft, is er plaats voor nieuw talent. In het vierde Tyrannosaurus Rex TODO LINK album, <span class="engels">A Beard of Stars</span>, debuteert {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}. Dit zorgt niet alleen voor een nieuw geluid, waarin plaats is voor een elektrische gitaar, maar ook voor een eeuwig durende discussie tussen fans. Wie is de betere <span class="engels">sidekick</span>? Took of Finn? 
+Nadat Bolan {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %} uit zijn band gewerkt heeft, is er plaats voor nieuw talent. In het vierde {% include link.html url="/artist_info/MarcBolanBio#TyrannosaurusRex" tekst="Tyrannosaurus Rex" new_tab=true %} album, <span class="engels">A Beard of Stars</span>, debuteert {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}. Dit zorgt niet alleen voor een nieuw geluid, waarin plaats is voor een elektrische gitaar, maar ook voor een eeuwig durende discussie tussen fans. Wie is de betere <span class="engels">sidekick</span>? Took of Finn? 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/64121201&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -35,6 +35,8 @@ Een ander absoluut hoogtepunt is <span class="engels">By the Light of the Magica
 Over het algemeen heb ik bij dit album al minder last van overheersende bongo’s. Op één nummer na: <span class="engels">Pavilions of Sun</span>. Hier zorgen ze ervoor dat het nummer onnodig druk wordt. Ik vrees dat de bongo niet echt mijn muziekinstrument is. Geef mij dan maar Bolan’s dansende gitaar.<div class="uitgelicht">‘All my fears are water clear/When I'm not with you’ - Dove</div>## Verandering
 
 <span class="engels">A Beard of Stars</span> is waar het geluid van Tyrannosaurus Rex begint te veranderen. En de legendarische T.Rex <span class="engels">sound</span> is eindelijk niet ver meer weg. Dit maakt het album perfect voor avonden waarop je net iets rustigere muziek kan gebruiken. Al kan je er evengoed mee door de straten dansen op weg naar school. 
+
+TODO TABEL
 
 <table>
 	<tr>
