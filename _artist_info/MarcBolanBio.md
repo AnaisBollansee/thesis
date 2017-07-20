@@ -443,11 +443,7 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 <p class="dagboek"><span tooltip="‘Ik ging twee dagen niet naar school, zodat ik naar de begrafenis kon gaan. Toen ik hiervoor toestemming vroeg op school moest ik natuurlijk vertellen waarom ik twee dagen vrijaf wou. Wanneer ik hen vertelde dat het voor Marc’s begrafenis was, vloog ik bijna meteen terug naar mijn klaslokaal. Maar gelukkig kon ik hen overtuigen door te beloven dat ik geen enkele andere dag meer zou missen. En zo gezegd, zo gedaan. Ik had hierna geen reden meer om lessen te missen aangezien mijn held toch al gestorven was.’">‘I managed to take time off for the funeral but needed to take two days off as the funeral was held on the Tuesday. I had to explain why I was off and they nearly put me back in class but luckily as promised I took no more time off. My hero had died so there would be no reason to.’</span></p>
 
-<div class="witregel"> </div>
-
-{% include image.html url="/images/DeborahMarc.jpg" alt="Marc Bolan en Deborah in 1975. De foto werd gemaakt door bandlid Steve Currie" %}
-
-<div class="witregel"> </div>
+{% include image.html url="/images/DeborahMarc.jpg" alt=" " height="400pt" tooltip="Marc Bolan en Deborah in 1975. De foto werd gemaakt door bandlid Steve Currie"%}
 
 <span class="bronvermelding"> Tekst: Deborah Loads, vertaling: Anaïs Bollansée</span>
 
