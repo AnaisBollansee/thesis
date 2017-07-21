@@ -120,7 +120,7 @@ Uiteindelijk spendeer ik voor de zoveelste keer het geld voor mijn avond eten aa
 
 #### {% include link.html url="https://www.itsonlyrocknrolllondon.co.uk//" tekst="It's Only Rock 'N' Roll" new_tab=true %}
 
-Maar, mooie liedjes duren niet lang. En ook mijn tripje zit er al weer bijna op. Op weg naar de underground passeer ik Baker Street en een winkeltje genaamd: It’s only rock n roll. Ik steek mijn neus even binnen. En meteen valt mijn oog op T-shirts van {% include link.html url="/artists/13_TheWho/" tekst="The Who" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheDoors/" tekst="The Doors" new_tab=true %}, {% include link.html url="/artist_info/Minor/TheRollingStones/" tekst="The Rolling Stones" new_tab=true %} en andere geniale muziekgroepen. Hier moet ik even binnen gaan. En die trein zal wel op me wachten. 
+Maar, mooie liedjes duren niet lang. En ook mijn tripje zit er al weer bijna op. Op weg naar de underground passeer ik Baker Street en een winkeltje genaamd: It’s only rock n roll. Ik steek mijn neus even binnen. En meteen valt mijn oog op T-shirts van {% include link.html url="/artists/13_TheWho/" tekst="The Who" new_tab=true %}, EXTRA_UITLEG : The Doors, EXTRA_UITLEG The Rolling Stones en andere geniale muziekgroepen. Hier moet ik even binnen gaan. En die trein zal wel op me wachten. 
 
 Als een opgeleide speurhond snuffel ik door de winkel. Tot ik opeens Marc Bolan vind. En ik maak even, samen met mijn hart, een klein vreugdesprongetje.
 

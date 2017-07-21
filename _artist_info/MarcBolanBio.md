@@ -37,7 +37,7 @@ Op zijn negende krijgt hij zijn eerste gitaar. Broer Harry herinnert zich nog ho
 
 {% include next_section.html %}
 
-Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige {% include link.html url="/ artist_info/minor/HelenShapiro/" tekst="Helen Shapiro" new_tab=true %}. Tot hij op 14jarige leeftijd geschorst wordt.
+Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige EXTRA UITLEG: Helen Shapiro. Tot hij op 14jarige leeftijd geschorst wordt.
 <span tooltip="Marc Bolan The Final Word, Mark Tinkler, Universal, 2007, 6:05 – 6:32">Bolan zelf zegt dat hij op school geen dingen leerde die hij de moeite waard vond om te leren. Waardoor hij niet vaak naar school ging tot zijn school hier genoeg van had. En dat was het einde van zijn schoolcarrière. Nu hij niet meer naar school ging had hij verschillende jobs, maar bleef Bolan werken aan zijn doel om muzikant te worden.</span> 
 
 {% include next_section.html %}
@@ -49,7 +49,7 @@ Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de m
 
 {% include next_section.html %}
 
-Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van {% include link.html url="/artist_info/Minor/BobDylan/" tekst="Bob Dylan" new_tab=true %}: <span class="engels">Blowin’ In The Wind</span>.
+Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van EXTRA UITLEG: Bob Dylan: <span class="engels">Blowin’ In The Wind</span>.
 
 <iframe class="lazyload"  width="100%" height="450" scrolling="no" frameborder="no" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -87,7 +87,7 @@ He said, ‘To tell the truth, I don’t have a tape, but I could sing for you r
 <span class="bronvermelding">Bron: You don’t have to say you love me – Simon Napier-Bell, New English Library (1983), P.75</span>
 <div class="witregel"> </div>
  
-Zo gezegd, zo gedaan. Bolan begint met spelen en na een klein uur beslist {% include link.html url="/artist_info/Minor/SimonNapier- Bell/" tekst="Simon Napier-Bell" new_tab=true %} dat hij genoeg heeft gehoord. Nog diezelfde avond belanden Bolan en Simon Napier-Bell in een opnamestudio. 
+Zo gezegd, zo gedaan. Bolan begint met spelen en na een klein uur beslist EXTRA UITLEG: Simon Napier-Bell dat hij genoeg heeft gehoord. Nog diezelfde avond belanden Bolan en Simon Napier-Bell in een opnamestudio. 
 <div class="witregel"> </div>
 
 {% include next_section.html %}
@@ -122,7 +122,7 @@ Simon Napier-Bell had ook John’s Children onder zijn vleugels. De groep had ge
 
 En hoewel Bolan zelf niet kon rijden, zou deze voorspelling tien jaar later uitkomen.
 
-Zijn vroegere manager {% include link.html url="/artist_info/Minor/TonySecunda/" tekst="Tony Secunda" new_tab=true %} zei hierover: 
+Zijn vroegere manager EXTRA UITLEG: Tony Secunda zei hierover: 
 
 <h1 tooltip="‘Hij reedt nooit met de auto, hij had altijd schrik. Marc heeft nooit een rijbewijs gehad en hij weigerde om te leren rijden’">‘‘He would never drive a car, he was always scared - Marc never had a driving licence, he refused to learn’</h1>
 
@@ -287,7 +287,7 @@ Vanaf dan begint de groep aan haar gloriejaren.
 Ook de twee volgende albums, {% include link.html url="/albums/1972-07-21-MarcBolan-TheSlider/" tekst="The Slider" new_tab=true %} en {% include link.html url="/albums/1973-01-28-MarcBolan-Tanx/" tekst="Tanx" new_tab=true %}, vinden vlot hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %}. 
 En tussen alles door vindt Marc Bolan de tijd om een film te maken: <span class="engles">Born to Boogie</span>. 
 
-De film werd geregisseerd door {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="Ringo Starr" new_tab=true %}. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en {% include link.html url="/artist_info/Minor/EltonJohn/" tekst="Elton John" new_tab=true %} samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="John Lennon" new_tab=true %}. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
+De film werd geregisseerd door EXTRA UITLEG: Ringo Starr. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en {% include link.html url="/artist_info/Minor/EltonJohn/" tekst="Elton John" new_tab=true %} samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van EXTRA UITLEG: John Lennon. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9Md9AGcMbA" frameborder="0" allowfullscreen></iframe>
 
@@ -321,7 +321,7 @@ En ook voor producer en vriend {% include link.html url="/artist_info/Minor/Tony
 
 ### Alter ego
 
-Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend {% include link.html url="/artist_info/Minor/DavidBowie/" tekst="David Bowie" new_tab=true %} het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. 
+Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend EXTRA UITLEG: David Bowie het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. 
 
 Met {% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zinc Alloy and the Hidden Riders of Tomorrow" new_tab=true %} probeert een hopeloze Marc mee te surfen op het succes van Bowie. Maar slaagt hier niet in. 
 
@@ -482,7 +482,7 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 {% include end_slides.html %}
 {% include next_section.html %}
 
-Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis niet alleen bijgewoond door familie en fans, maar ook door verschillende bevriende muzikanten zoals {% include link.html url="/artist_info/Minor/DavidBowie/" tekst="David Bowie" new_tab=true %} en {% include link.html url="/artists/09_RodStewart/" tekst="Rod Stewart" new_tab=true %}.
+Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis niet alleen bijgewoond door familie en fans, maar ook door verschillende bevriende muzikanten zoals EXTRA UITLEG: David Bowie en {% include link.html url="/artists/09_RodStewart/" tekst="Rod Stewart" new_tab=true %}.
 
 {% include next_section.html %}
 
@@ -532,6 +532,9 @@ En ook voor {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June
 TODO FOTO
 
 {% include next_section.html %}
+
+TODO CDs NA ZIJN DOOD
+tijdlijn?
 
 
 {% include next_section.html %}
