@@ -15,7 +15,7 @@ image: /images/Dandy.jpg
 Marc Bolan<br>
 11 maart 1977<br>Studio album
 
-Hoeveel mensen heb je nodig om een album te maken? Blijkbaar enorm veel. Niet minder dan achttien helpende handen heeft Marc Bolan dit keer nodig. Of zijn dat dan 36 handen? Hoe meer handen, hoe meer applaus moet hij gedacht hebben. Eindelijk terug wat goed nieuws voor {% include link.html url="/artist_info/MarcBolanBio#T.Rex" tekst="T.Rex" new_tab=true %}. <span class="engels">Dandy in the Underworld</span> staat drie weken in de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst=" Britse hitlijsten" new_tab=true %} en piekt op nummer 26. Een <span class="engels">comeback</span> lijkt ineens niet meer onmogelijk. Bolan lijkt opnieuw inspiratie gevonden te hebben en tovert de ene geniale tekst na de andere uit zijn mouw. 
+Hoeveel mensen heb je nodig om een album te maken? Blijkbaar enorm veel. Niet minder dan veertien helpende handen heeft Marc Bolan dit keer nodig. Of zijn dat dan 28 handen? Hoe meer handen, hoe meer applaus moet hij gedacht hebben. Eindelijk terug wat goed nieuws voor {% include link.html url="/artist_info/MarcBolanBio#T.Rex" tekst="T.Rex" new_tab=true %}. <span class="engels">Dandy in the Underworld</span> staat drie weken in de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst=" Britse hitlijsten" new_tab=true %} en piekt op nummer 26. Een <span class="engels">comeback</span> lijkt ineens niet meer onmogelijk. Bolan lijkt opnieuw inspiratie gevonden te hebben en tovert de ene geniale tekst na de andere uit zijn mouw. 
 
 ## Gerecycleerd
 
