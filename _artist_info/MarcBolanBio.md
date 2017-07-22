@@ -488,9 +488,15 @@ Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis nie
 
 Bolan werd gecremeerd en uitgestrooid op dezelfde plek waar 14 jaar later ook zijn ouders, Simeon en Phyllis Feld, hun laatste rustplek vinden. Van Bolan’s erfenis ging slechts een klein stuk naar {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} omdat hij toen hij stierf nog steeds getrouwd was met {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %}. 
 
-Jones en hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} verhuisden naar Amerika van zodra ze hersteld was van het ongeluk. 
+Jones en hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} verhuisen naar Amerika van zodra ze hersteld is van het ongeluk. 
 
 {% include next_section.html %}
+
+TODO POSTUUM
+
+{% include next_section.html %}
+
+### Sleutelfiguren
 
 {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} sterft in 1994 in Turkije aan een hartaanval. Haar relatie met Marc Bolan is ze nooit vergeten. 
 
