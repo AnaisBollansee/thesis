@@ -19,6 +19,7 @@
 		{% endfor %}
 		{% endif %}
 
+		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/css/jquery.quiz-min.css' %}">
 		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/juanma_aguero_fancy_timeline/css/ftl-default/fancy-timeline.css' %}">
 		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/css/styles.css' %}">
 	</head>
@@ -32,6 +33,7 @@
 		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 		<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 		<script src="{% include fix_url.html url='/juanma_aguero_fancy_timeline/js/fancy-timeline.min.js' %}"></script>
+		<script src="{% include fix_url.html url='/js/jquery.quiz-min.js' %}"></script>
 		<script>
 			$( document ).tooltip({
 				hide: { effect: "" }, //fadeOut
@@ -132,6 +134,72 @@
 				timeline.fancyTimeline({
 					initPos: 0,
 					data: dates
+				})
+			})
+			$(".quiz").each(function(index){
+				var quiz = $( this )
+
+				var question = ""
+				var corrResp = ""
+				var incorrResp = ""
+				var answers = []
+				var correctAnswer = -1
+
+				var questions = []
+
+				console.log(quiz.children(".questions"))
+				quiz.children(".questions").each(function(index){
+					console.log($( this ))
+					$( this ).children().each(function(index){
+						console.log($( this ))
+						var child = $( this )
+						if (index % 2 == 0) { //even are (should be) questions, odd answer list
+							if (child.is('p')) { // what it should be
+								question = child.text()
+							}
+							else {
+								question = "Incorrect format"
+							}
+						}
+						else {
+							if (child.is('ul')) {
+								answers = []
+								child.children().each(function(index){
+									if (index == 0){
+										corrResp = $( this ).text()
+									}
+									else if (index == 1) {
+										incorrResp = $( this ).text()
+									}
+									else {
+										var text = $( this ).text().trim()
+										if (text.startsWith("=")) {
+											answers.push(text.substr(1).trim())
+											correctAnswer = index - 2 //-2 for the corr and incorr response
+										}
+										else {
+											answers.push(text)
+										}
+									}
+								})
+								questions.push({
+									q: question,
+									options: answers,
+									correctIndex: correctAnswer,
+									correctResponse: corrResp,
+									incorrectResponse: incorrResp
+								})
+								answers = []
+								correctAnswer = -1
+							}
+						}
+					})
+				})
+
+				console.log(questions)
+				quiz.children(".questions").empty()
+				quiz.quiz({
+					questions: questions
 				})
 			})
 		</script>
