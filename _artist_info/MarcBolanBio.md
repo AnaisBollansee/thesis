@@ -412,7 +412,7 @@ Het nieuws dat superster Marc Bolan overleden is komt bij fans over de hele were
 
 {% include next_slide.html %}
 
-Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener superfan werd van Marc Bolan. In haar brief vertelt ze hoe ze fan werd en hoe ze de dood van haar idool ervaren heeft.
+Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener superfan werd van Marc Bolan. Ze vertelt hoe ze fan werd en hoe ze de dood van haar idool ervaren heeft.
 
 <p class="dagboek"><span tooltip="‘Ik ben een T.Rex-fan sinds ik van mijn nonkel zijn oude platenspeler gekregen heb. Ik had zelf nog geen platen dus besloot ik om een bezoek te brengen aan onze lokale platenwinkel. Hier vroeg ik de verkoper naar de laatste nummer één hit.  Zijn antwoord was Get It On van T.Rex. Ik had dit nummer al op de radio gehoord, maar kende toen de band T.Rex nog niet. Ik wist alleen dat ik het een goed nummer vond.'">‘I became a T. Rex fan after my uncle gave me his old mono record player. I needed to build up a record collection so I walked into our local tiny record store and asked for the latest no 1. He said its Get It On by T. Rex. I had heard it on the radio but didn't really know who the group was at that time but knew that I liked it. 
 '</span></p>
@@ -476,8 +476,6 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 <p class="dagboek"><span tooltip="‘Ik ging twee dagen niet naar school, zodat ik naar de begrafenis kon gaan. Toen ik hiervoor toestemming vroeg op school moest ik natuurlijk vertellen waarom ik twee dagen vrijaf wou. Wanneer ik hen vertelde dat het voor Marc’s begrafenis was, vloog ik bijna meteen terug naar mijn klaslokaal. Maar gelukkig kon ik hen overtuigen door te beloven dat ik geen enkele andere dag meer zou missen. En zo gezegd, zo gedaan. Ik had hierna geen reden meer om lessen te missen aangezien mijn held toch al gestorven was.’">‘I managed to take time off for the funeral but needed to take two days off as the funeral was held on the Tuesday. I had to explain why I was off and they nearly put me back in class but luckily as promised I took no more time off. My hero had died so there would be no reason to.’</span></p>
 
 {% include image.html url="/images/DeborahMarc.jpg" alt=" " height="400pt" tooltip="Marc Bolan en Deborah in 1975. De foto werd gemaakt door bandlid Steve Currie"%}
-
-<span class="bronvermelding"> Tekst: Deborah Loads, vertaling: Anaïs Bollansée</span>
 
 {% include end_slides.html %}
 {% include next_section.html %}
