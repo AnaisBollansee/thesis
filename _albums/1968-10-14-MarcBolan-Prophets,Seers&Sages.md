@@ -1,13 +1,13 @@
 ---
 artist: Marc Bolan 
 title:  "Prophets, Seers & Sages: The Angels of the Ages"
-image: /images/test.jpg
+image: /images/Prophets.jpg
 ---
 
 # Prophets, Seers & Sages: The Angels of the Ages
 
-TODO FOTO
-{% include image.html url="/images/test2.jpg" alt="Piggy Bank" %}
+
+{% include image.html url="/images/Prophets_Plat.jpg" alt=" " %}
 
 <span class="bio-cd">
 {% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}<br>

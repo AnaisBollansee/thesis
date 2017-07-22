@@ -1,16 +1,15 @@
 ---
 artist: Marc Bolan
 title: "Bolan's Zip Gun"
-image: /images/piggy-bank.png
+image: /images/ZipGun.jpg
 ---
 
 # Bolan's Zip Gun
 
-TODO FOTO
-{% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
+{% include image.html url="/images/ZipGun_plat.jpg" alt=" " %}
 
 <span class="bio-cd">
-{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %}, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/HarryNilsson/" tekst="Harry Nilsson" new_tab=true %}, {% include link.html url="/artist_info/Minor/DaveyLutton/" tekst="Davey Lutton" new_tab=true %}, {% include link.html url="/artist_info/Minor/PaulFenton/" tekst="Paul Fenton" new_tab=true %}, {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %}<br>
+{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %}, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/DaveyLutton/" tekst="Davey Lutton" new_tab=true %}, {% include link.html url="/artist_info/Minor/PaulFenton/" tekst="Paul Fenton" new_tab=true %}, {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %}, {% include link.html url="/artist_info/Minor/DannyThompson/" tekst="Danny Thompson" new_tab=true %}, {% include link.html url="/artist_info/Minor/B.J.Cole/" tekst="B.J. Cole" new_tab=true %}, {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %}, {% include link.html url="/artist_info/Minor/LonnieJordan/" tekst="Lonnie Jordan" new_tab=true %}, {% include link.html url="/artist_info/Minor/BigRichard/" tekst="Big Richard" new_tab=true %}, {% include link.html url="/artist_info/Minor/SisterPatHall/" tekst="Sister Pat Hall" new_tab=true %}<br>
 {% include link.html url="/artist_info/Label/EMI/" tekst="EMI" new_tab=true %}<br>
 </span>
 Marc Bolan<br>

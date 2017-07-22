@@ -1,18 +1,17 @@
 ---
 artist: Marc Bolan
 title: T.Rex
-image: /images/piggy-bank.png
+image: /images/T.RexCD.jpg
 ---
 
 # T.Rex
 
-TODO FOTO
-{% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
+{% include image.html url="/images/T.RexCD_plat.jpg" alt=" " %}
 
 <span class="bio-cd">
-{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %}, {% include link.html url="/artist_info/Minor/Flo&Eddie/" tekst="Flo & Eddie" new_tab=true %}<br>
+{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/Flo&Eddie/" tekst="Howard Kaylan, Mark Volman" new_tab=true %}<br>
 {% include link.html url="/artist_info/Label/Fly/" tekst="Fly Records" new_tab=true %} / {% include link.html url="/artist_info/Label/Reprise/" tekst="Reprise" new_tab=true %}<br>
-Tony Visconti<br>
+{% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %}<br>
 </span>
 05 juli 1968<br>Studio album
 

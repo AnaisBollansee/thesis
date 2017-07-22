@@ -1,16 +1,15 @@
 ---
 artist: Marc Bolan
 title: "Futuristic Dragon"
-image: /images/piggy-bank.png
+image: /images/Dragon.jpg
 ---
 
 # Futuristic Dragon
 
-TODO FOTO
-{% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
+{% include image.html url="/images/Dragon_Plat.jpg" alt=" " %}
 
 <span class="bio-cd">
-{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/DaveyLutton/" tekst="Davey Lutton" new_tab=true %}, {% include link.html url="/artist_info/Minor/JimmieHaskell/" tekst="Jimmie Haskell" new_tab=true %}<br>
+{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/DaveyLutton/" tekst="Davey Lutton" new_tab=true %}, {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %}<br>
 {% include link.html url="/artist_info/Label/EMI/" tekst="EMI" new_tab=true %}<br>
 </span>
 Marc Bolan<br>

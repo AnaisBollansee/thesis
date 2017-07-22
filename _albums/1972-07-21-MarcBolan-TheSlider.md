@@ -1,19 +1,18 @@
 ---
 artist: Marc Bolan
 title: "The Slider"
-image: /images/piggy-bank.png
+image: /images/TheSlider.jpg
 ---
 
 # The Slider
 
-TODO FOTO
-{% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
+{% include image.html url="/images/TheSlider_Plat.jpg" alt=" " %}
 
 <span class="bio-cd">
-{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %}, {% include link.html url="/artist_info/Minor/Flo&Eddie/" tekst="Flo & Eddie" new_tab=true %}, {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %}<br>
+{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %}, {% include link.html url="/artist_info/Minor/Flo&Eddie/" tekst="Howard Kaylan, Mark Volman" new_tab=true %}<br>
 {% include link.html url="/artist_info/Label/EMI/" tekst="EMI" new_tab=true %} / {% include link.html url="/artist_info/Label/Reprise/" tekst="Reprise" new_tab=true %}
 <br>
-Tony Visconti<br>
+{% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %}<br>
 </span>
 21 juli 1972<br>
 Studio album

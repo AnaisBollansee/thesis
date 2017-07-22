@@ -9,11 +9,9 @@ image: /images/piggy-bank.png
 TODO FOTO
 {% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
 
-<span class="bio-cd">
-{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, {% include link.html url="/artist_info/Minor/DaveyLutton/" tekst="Davey Lutton" new_tab=true %}, {% include link.html url="/artist_info/Minor/PaulFenton/" tekst="Paul Fenton" new_tab=true %}<br>
+{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/DaveyLutton/" tekst="Davey Lutton" new_tab=true %}, {% include link.html url="/artist_info/Minor/PaulFenton/" tekst="Paul Fenton" new_tab=true %}, {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %}, {% include link.html url="/artist_info/Minor/DannyThompson/" tekst="Danny Thompson" new_tab=true %}, {% include link.html url="/artist_info/Minor/B.J.Cole/" tekst="B.J. Cole" new_tab=true %}, {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %}, {% include link.html url="/artist_info/Minor/LonnieJordan/" tekst="Lonnie Jordan" new_tab=true %}, {% include link.html url="/artist_info/Minor/BigRichard/" tekst="Big Richard" new_tab=true %}, {% include link.html url="/artist_info/Minor/SisterPatHall/" tekst="Sister Pat Hall" new_tab=true %}<br>
 {% include link.html url="/artist_info/Label/Casablanca/" tekst="Casablanca Records" new_tab=true %}<br>
 {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %}<br>
-</span>
 Augustus 1974<br>Studio album
 
 

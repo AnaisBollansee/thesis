@@ -1,16 +1,15 @@
 ---
 artist: Marc Bolan
 title: Electric Warrior
-image: /images/piggy-bank.png
+image: /images/Electric.jpg
 ---
 
 # Electric Warrior
 
-TODO FOTO
-{% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
+{% include image.html url="/images/Warrior_plat.jpg" alt=" " %}
 
 <span class="bio-cd">
-{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %}, {% include link.html url="/artist_info/Minor/Flo&Eddie/" tekst="Flo & Eddie" new_tab=true %}, {% include link.html url="/artist_info/Minor/RickWakeman/" tekst="Rick Wakeman" new_tab=true %}, {% include link.html url="/artist_info/Minor/IanMcDonald/" tekst="Ian McDonald" new_tab=true %}, {% include link.html url="/artist_info/Minor/BurtCollins/" tekst="Burt Collins" new_tab=true %}
+{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %}, {% include link.html url="/artist_info/Minor/Flo&Eddie/" tekst="Howard Kaylan, Mark Volman" new_tab=true %}, {% include link.html url="/artist_info/Minor/IanMcDonald/" tekst="Ian McDonald" new_tab=true %}, {% include link.html url="/artist_info/Minor/BurtCollins/" tekst="Burt Collins" new_tab=true %}
 <br>
 {% include link.html url="/artist_info/Label/Fly/" tekst="Fly Records" new_tab=true %}
 <br>

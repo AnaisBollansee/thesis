@@ -1,16 +1,15 @@
 ---
 artist: Marc Bolan
 title: "Dandy in the Underworld"
-image: /images/piggy-bank.png
+image: /images/Dandy.jpg
 ---
 
 # Dandy in the Underworld
 
-TODO FOTO
-{% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
+{% include image.html url="/images/Dandy_plat.jpg" alt=" " %}
 
 <span class="bio-cd">
-{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveHarley/" tekst="Steve Harley" new_tab=true %}, {% include link.html url="/artist_info/Minor/Alfalpha/" tekst="Alfalpha" new_tab=true %}, {% include link.html url="/artist_info/Minor/NickLaird-Clowes/" tekst="Nick Laird-Clowes" new_tab=true %}, {% include link.html url="/artist_info/Minor/AndyHarley/" tekst="Andy Harley" new_tab=true %}, {% include link.html url="/artist_info/Minor/SamHarley/" tekst="Sam Harley" new_tab=true %}, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, {% include link.html url="/artist_info/Minor/ColinJacas/" tekst="Colin Jacas" new_tab=true %}, {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %}, {% include link.html url="/artist_info/Minor/TonyNewman/" tekst="Tony Newman" new_tab=true %}, {% include link.html url="/artist_info/Minor/HerbieFlowers/" tekst="Herbie Flowers" new_tab=true %},{% include link.html url="/artist_info/Minor/ScottEdwards/" tekst="Scott Edwards" new_tab=true %}, {% include link.html url="/artist_info/Minor/PaulHumphrey/" tekst="Paul Humphrey" new_tab=true %}, {% include link.html url="/artist_info/Minor/MillerAnderson/" tekst="Miller Anderson" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/DaveyLutton/" tekst="Davey Lutton" new_tab=true %}, {% include link.html url="/artist_info/Minor/ChrisMercer/" tekst="Chris Mercer" new_tab=true %}, {% include link.html url="/artist_info/Minor/BudBeadle/" tekst="Bud Beadle" new_tab=true %}, {% include link.html url="/artist_info/Minor/J.B.Long/" tekst="J.B. Long" new_tab=true %}<br>
+{% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveHarley/" tekst="Steve Harley" new_tab=true %}, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, {% include link.html url="/artist_info/Minor/ColinJacas/" tekst="Colin Jacas" new_tab=true %}, {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %}, {% include link.html url="/artist_info/Minor/TonyNewman/" tekst="Tony Newman" new_tab=true %}, {% include link.html url="/artist_info/Minor/HerbieFlowers/" tekst="Herbie Flowers" new_tab=true %}, {% include link.html url="/artist_info/Minor/ScottEdwards/" tekst="Scott Edwards" new_tab=true %}, {% include link.html url="/artist_info/Minor/PaulHumphrey/" tekst="Paul Humphrey" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/DaveyLutton/" tekst="Davey Lutton" new_tab=true %}, {% include link.html url="/artist_info/Minor/ChrisMercer/" tekst="Chris Mercer" new_tab=true %}, {% include link.html url="/artist_info/Minor/BudBeadle/" tekst="Bud Beadle" new_tab=true %}, {% include link.html url="/artist_info/Minor/J.B.Long/" tekst="J.B. Long" new_tab=true %}<br>
 {% include link.html url="/artist_info/Label/EMI/" tekst="EMI" new_tab=true %}<br>
 </span>
 Marc Bolan<br>

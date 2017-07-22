@@ -1,7 +1,7 @@
 ---
 artist: Marc Bolan
 title: Unicorn
-image: /images/piggy-bank.png
+image: /images/Unicorn.jpg
 ---
 
 # Unicorn
