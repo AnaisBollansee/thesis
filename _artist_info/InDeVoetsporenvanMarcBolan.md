@@ -112,8 +112,7 @@ Uiteindelijk spendeer ik voor de zoveelste keer het geld voor mijn avond eten aa
 		{% include image.html url="/images/2iCoffee.jpg" alt=" " tooltip="2i's Coffee Bar was ooit the place to be. Nu moet je het stellen met een groene plaat die je verteld waar je bent." %}
 	</div>
 	<div>
-	TODO FOTO CDS
-	{% include image.html url="/images/.jpg" tooltip="onderschrift"%}
+	{% include image.html url="/images/SisterRay.jpg" tooltip="In Soho heb je verschillende platenwinkels. Hier zijn vaak parels te vinden, die je nergens anders tegen komt."%}
 	</div>
 </div>
 
@@ -126,11 +125,10 @@ Als een opgeleide speurhond snuffel ik door de winkel. Tot ik opeens Marc Bolan 
 
 <p class="dagboek">‘Wanneer ik de deur open val ik bijna omver. Een kudde T-shirts van muzieklegendes komt op me af gestormd. Hier kan ik niet meer aan ontkomen. En eerlijk gezegd, ik ben zelden zo blij geweest.’</p> 
 
-TODO FOTO SHIRTS
+{% include image.html url="/images/T-shirts.jpg" tooltip="It's Only Rock 'N' Roll is de hemel op aarde voor muziekliefhebbers."%}
 
 Moe, maar voldaan stap ik met een zak vol Britse karamel, CD’s en T-shirts de Eurostar richting Brussel op. Je vindt Marc Bolan niet meer op elke Londense straathoek, zoals het 50 jaar geleden misschien was. Maar als je naar de juiste plekken gaat, voel je toch nog zijn aanwezigheid. En daar kan ik alleen maar blij om zijn.
 
-foto's: ©Anaïs Bollansée
 
 
 
