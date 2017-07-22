@@ -8,9 +8,9 @@ order: 7
 
 
 <div class="timeline">
-    <div marker="1967-1969" title="Tyrannosaurus Rex">
+    <div marker="1967-1969" title="Tyrannosaurus Rex"> 
 <span class="witregel"> </span> 
-De eerste opstelling van Tyrannosaurus Rex bestaat uit Marc Bolan als gitarist en zanger. En Steve Peregrin Took als percussionist.
+De eerste opstelling van Tyrannosaurus Rex bestaat uit Marc Bolan als gitarist en zanger. En Steve Peregrin Took als percussionist. 
 <span class="witregel"> </span> Samen maken ze de albums: My People Were Fair and Had Sky in Their Hair... But Now They're Content to Wear Stars on Their Brows, Prophets, Seers & Sages en Unicorn.
 	</div>
 	

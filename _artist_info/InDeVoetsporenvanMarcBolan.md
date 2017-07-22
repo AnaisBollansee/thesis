@@ -29,7 +29,7 @@ Ik laat de slapende stad achter me om een paar uur later toe te komen in een and
 <span class="witregel"> </span>
 <div class="carousel">
 	<div>
-		{% include image.html url="/images/Herdenksteen1.jpg" tooltip="20jaar na Bolan's dood werd de eerste herdenkingsplaat geïnstalleerd op de plek waar hij overleed." %}
+		{% include image.html url="/images/Herdenksteen1.jpg" tooltip="20jaar na Bolan's dood word de eerste herdenkingsplaat geïnstalleerd op de plek waar hij overleed." %}
 	</div>
 	<div>
 	{% include image.html url="/images/Herdenksteen2.jpg" tooltip="Het onderschrift van de bronze buste die Rolan Bolan in 2002 liet plaatsen op de plek waar zijn vader om het leven kwam."%}

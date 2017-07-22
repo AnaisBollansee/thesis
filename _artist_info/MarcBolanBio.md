@@ -163,34 +163,34 @@ In 1968 brengt het duo hun eerste plaat uit: {% include link.html url="/albums/1
 
 Voor het eerst proeft Bolan het succes en scoort hij enkele {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hits" new_tab=true %}. Maar hoger dan een vijftiende plaats in de hitlijsten geraakt de band op dat moment nog niet.
 
-TODO TIJDLIJN
+TODO TIJDLIJN IMAGE
 
 <div class="timeline">
-	{% include image.html url="/images/FOTO.jpg" marker="05/07/1968" title="My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows" content="Image content" %}
+	{% include image.html url="/images/FOTO.jpg" marker="05/07/1968" title="My People Were Fair And Had Sky In Their Hair...<br> But Now They're Content To Wear Stars On Their Brows" content=" " %}
 	
-	{% include image.html url="/images/FOTO.jpg" marker="15/10/1968" title="Prophets, Seers & Sages: The Angel Of The Ages" content="Image content" %}
+	{% include image.html url="/images/Prophets.jpg" marker="15/10/1968" title="Prophets, Seers & Sages: The Angel Of The Ages" content=" " %}
 	
-		{% include image.html url="/images/FOTO.jpg" marker="16/05/1969" title="Unicorn" content="Image content" %}
+		{% include image.html url="/images/Unicorn.jpg" marker="16/05/1969" title="Unicorn" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="13/03/1970" title="A Beard Of Stars" content="Image content" %}
+	{% include image.html url="/images/FOTO.jpg" marker="13/03/1970" title="A Beard Of Stars" content=" " %}
 	
-		{% include image.html url="/images/FOTO.jpg" marker="18/12/1970" title="T.Rex" content="Image content" %}
+		{% include image.html url="/images/T.RexCD.jpg" marker="18/12/1970" title="T.Rex" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="14/09/1971" title="Electric Warrior" content="Image content" %}
+	{% include image.html url="/images/FOTO.jpg" marker="14/09/1971" title="Electric Warrior" content=" " %}
 	
-		{% include image.html url="/images/FOTO.jpg" marker="21/07/1971" title="The Slider" content="Image content" %}
+		{% include image.html url="/images/FOTO.jpg" marker="21/07/1971" title="The Slider" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="16/03/1973" title="Tanx" content="Image content" %}
+	{% include image.html url="/images/Tanx.jpg" marker="16/03/1973" title="Tanx" content=" " %}
 	
-		{% include image.html url="/images/FOTO.jpg" marker="01/02/1974" title="Zinc Alloy And The Hidden Riders Of Tomorrow" content="Image content" %}
+		{% include image.html url="/images/ZincAlloy.jpg" marker="01/02/1974" title="Zinc Alloy And The Hidden Riders Of Tomorrow" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="?/08/1974" title="Light Of Love" content="Image content" %}
+	{% include image.html url="/images/FOTO.jpg" marker="?/08/1974" title="Light Of Love" content=" " %}
 	
-		{% include image.html url="/images/FOTO.jpg" marker="15/02/1975" title="Bolan's Zip Gun" content="Image content" %}
+		{% include image.html url="/images/ZipGun.jpg" marker="15/02/1975" title="Bolan's Zip Gun" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="30/01/1976" title="Futuristic Dragon" content="Image content" %}
+	{% include image.html url="/images/Dargon.jpg" marker="30/01/1976" title="Futuristic Dragon" content=" " %}
 	
-	{% include image.html url="/images/FOTO.jpg" marker="11/03/1977" title="Dandy In The Underworld" content="Image content" %}
+	{% include image.html url="/images/Dandy.jpg" marker="11/03/1977" title="Dandy In The Underworld" content=" " %}
 	
 </div>
 
@@ -518,7 +518,7 @@ Hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan 
 
 20 jaar na zijn dood, in 1997, wordt een herdenksteen geplaats onder aan de heuvel waar Marc Bolan stierf.
 
-{% include image.html url="/images/Herdenksteen1.jpg" alt="Herdenksteen voor Marc Bolan ©Anaïs Bollansée" %}
+{% include image.html url="/images/Herdenksteen1.jpg" alt="Herdenksteen voor Marc Bolan"%}
 
 {% include next_section.html %}
 
@@ -532,28 +532,4 @@ In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij sti
 
 En ook voor {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} werd er in 2005 een plaat toegevoegd. 
 
-
 TODO FOTO
-
-{% include next_section.html %}
-
-TODO CDs NA ZIJN DOOD
-tijdlijn?
-
-
-{% include next_section.html %}
-{% include start_slides.html %}
-{% include next_slide.html %}
-{% include next_slide.html %}
-{% include end_slides.html %}
-{% include next_section.html %}
-
-{% include next_section.html %}
-
-Some section
-
-{% include next_section.html %}
-
-Some section
-
-{% include end_long_read.html %}
