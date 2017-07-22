@@ -33,10 +33,8 @@ Maar, <span class="engels">All that glitters is not gold</span>. En dat is ook h
 
 ## Klassieker
 
-Toegegeven, <span class="engels">My People were Fair</span> is niet 100% mijn ding. Ik denk dat ik te opgejaagd ben geworden om er nog ten volle van te kunnen genieten. Toch is het een niet te missen klassieker die thuis hoort in de platenkast van iedereen die serieus met muziek bezig is. Want dit geluid ga je niet snel ergens anders vinden. 
-
-
-TODO TABEL
+Toegegeven, <span class="engels">My People were Fair</span> is niet 100% mijn ding. Ik denk dat ik te opgejaagd ben geworden om er nog ten volle van te kunnen genieten. Toch is het een niet te missen klassieker die thuis hoort in de platenkast van iedereen die serieus met muziek bezig is. Want dit geluid ga je niet snel ergens anders vinden.
+<div class="witregel"> </div> 
 
 <table>
 	<tr>
@@ -48,9 +46,47 @@ TODO TABEL
 		<td>01:41</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>Child Star</td>
+		<td>02:52</td>
+	</tr>
+	<tr>
+		<td>Strange Orchestras</td>
+		<td>01:47</td>
+	</tr>
+	<tr>
+		<td>Chateau in Virginia Water</td>
+		<td>02:38</td>
+	</tr>
+	<tr>
+		<td>Dwarfish Trumpet Blues</td>
+		<td>02:47</td>
+	</tr>
+	<tr>
+		<td>Mustang Ford</td>
+		<td>02:56</td>
+	</tr>
+	<tr>
+		<td>Afghan Woman</td>
+		<td>01:59</td>
+	</tr>
+	<tr>
+		<td>Knight</td>
+		<td>02:38</td>
+	</tr>
+	<tr>
+		<td>Graceful Dat Sheba</td>
+		<td>01:28</td>
+	</tr>
+	<tr>
+		<td>Wielder of Words</td>
+		<td>03:19</td>
+	</tr>
+	<tr>
+		<td>Frowning Atahuallpa (My Inca Love)</td>
+		<td>05:55</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>33:18</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>

@@ -35,21 +35,55 @@ Laat me beginnen bij het begin: <span class="engels">Mambo Sun</span>. Een numme
 ## Eiland
 
 Na het beluisteren van deze plaat is de enige conclusie die ik kan trekken: ‘ik moet deze plaat opnieuw beluisteren’. Dat is dan ook wat ik altijd meteen weer doe. <span class="engels">Electric Warrior</span> is het ene muzikale orgasme na het andere. Met het hoogtepunt op <span class="engels">Life’s A Gas</span> en de heerlijke oergeluiden waarmee Bolan verwent. Eén ding is zeker. Als ik ooit verbannen wordt naar een onbewoond eiland en ik mag slechts slechts vijf platen meenemen, dan is deze <span class="engels">Electric Warrior</span> er één van!
+<div class="witregel"> </div>
 
-TODO TABEL
 <table>
 	<tr>
-		<td>Hot Rod Mama</td>
-		<td>03:09</td>
+		<td>Mambo Sun</td>
+		<td>03:40</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
-		<td>01:41</td>
+		<td>Cosmic Dancer</td>
+		<td>04:30</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>Jeepster</td>
+		<td>04:12</td>
+	</tr>
+	<tr>
+		<td>Monolith</td>
+		<td>03:49</td>
+	</tr>
+	<tr>
+		<td>Lean Woman Blues</td>
+		<td>03:02</td>
+	</tr>
+	<tr>
+		<td>Bang a Gong (Get It On)</td>
+		<td>04:27</td>
+	</tr>
+	<tr>
+		<td>Planet Queen</td>
+		<td>03:13</td>
+	</tr>
+	<tr>
+		<td>Girl</td>
+		<td>02:32</td>
+	</tr>
+	<tr>
+		<td>The Motivator</td>
+		<td>04:00</td>
+	</tr>
+	<tr>
+		<td>Life's A Gas</td>
+		<td>02:24</td>
+	</tr>
+	<tr>
+		<td>Rip Off</td>
+		<td>03:40</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>39:02</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>

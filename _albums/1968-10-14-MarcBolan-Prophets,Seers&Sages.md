@@ -31,6 +31,66 @@ Opnieuw begint het album direct goed, met mijn favoriet: <span class="engels">De
 <div class="uitgelicht">‘The unicorn bids you stay’ – Trelawney Lawn</div>
 
 ## Hulpmiddel
-Met nummers als deze kan je je afvragen of er niet wat meer is komen kijken dan alleen maar een goede verbeelding. En ja, Bolan was geen tegenstander van ‘een beetje’ drugs. <span class="engels">Prophets, Seers & Sages</span> laat je binnenkijken in de gedachten van een geniaal songwriter. Ik geloof dat al deze magie uit Bolan’s gedachten komt en niet uit de hulpmiddelen. En als dat wel het geval is? Dan was Bolan een van de enige mensen waarvoor drugs ooit iets goed heeft gedaan. TODO TABEL
-
-<div class="witregel"> </div>
+Met nummers als deze kan je je afvragen of er niet wat meer is komen kijken dan alleen maar een goede verbeelding. En ja, Bolan was geen tegenstander van ‘een beetje’ drugs. <span class="engels">Prophets, Seers & Sages</span> laat je binnenkijken in de gedachten van een geniaal songwriter. Ik geloof dat al deze magie uit Bolan’s gedachten komt en niet uit de hulpmiddelen. En als dat wel het geval is? Dan was Bolan een van de enige mensen waarvoor drugs ooit iets goed heeft gedaan. 
+<div class="witregel"> </div><table>
+	<tr>
+		<td>Deboraarobed</td>
+		<td>03:33</td>
+	</tr>
+	<tr>
+		<td>Stacey Grove</td>
+		<td>01:59</td>
+	</tr>
+	<tr>
+		<td>Wind Quartets</td>
+		<td>02:57</td>
+	</tr>
+	<tr>
+		<td>Conesuela</td>
+		<td>02:25</td>
+	</tr>
+	<tr>
+		<td>Trelawny Lawn</td>
+		<td>01:46</td>
+	</tr>
+	<tr>
+		<td>Aznageel the Mage</td>
+		<td>01:59</td>
+	</tr>
+	<tr>
+		<td>The Friends</td>
+		<td>01:19</td>
+	</tr>
+	<tr>
+		<td>Salamanda Palaganda</td>
+		<td>02:15</td>
+	</tr>
+	<tr>
+		<td>Our Wonderful Brownskin Man</td>
+		<td>00:51</td>
+	</tr>
+	<tr>
+		<td>O Harley (The Saltimbanques)</td>
+		<td>02:19</td>
+	</tr>
+	<tr>
+		<td>Eastern Spell</td>
+		<td>01:41</td>
+	</tr>
+	<tr>
+		<td>The Travelling Tragition</td>
+		<td>01:48</td>
+	</tr>
+	<tr>
+		<td> Juniper Suction</td>
+		<td>01:13</td>
+	</tr>
+	<tr>
+		<td>Scenescof Dynasty</td>
+		<td>04:07</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>30:22</td>
+	</tr>
+</table>

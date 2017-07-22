@@ -30,20 +30,55 @@ Als je van een bestaand album een nieuw album kan maken, zou dit dan niet makkel
 
 ## Farse snoet
 
-De muziek op <span class="engels">Bolan’s Zip Gun</span> kun je dan misschien niet meteen benoemen als een schot uit een <span tooltip="Een zip gun is een zelfgemaakt geweer.">zip gun</span>, maar met de <span class="engels">coverart</span> schiet T.Rex wel raak. Het heerlijke, dikke, 70’s lettertype en de <span class="engels">farse snoet</span> van Bolan zorgen ervoor dat dit altijd een van mijn favoriete hoezen is geweest. TODO TABEL
-<table>
+De muziek op <span class="engels">Bolan’s Zip Gun</span> kun je dan misschien niet meteen benoemen als een schot uit een <span tooltip="Een zip gun is een zelfgemaakt geweer.">zip gun</span>, maar met de <span class="engels">coverart</span> schiet T.Rex wel raak. Het heerlijke, dikke, 70’s lettertype en de <span class="engels">farse snoet</span> van Bolan zorgen ervoor dat dit altijd een van mijn favoriete hoezen is geweest. 
+<span class="witregel"> </span>
+<table>
 	<tr>
-		<td>Hot Rod Mama</td>
-		<td>03:09</td>
+		<td>Light of Love</td>
+		<td>03:16</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
-		<td>01:41</td>
+		<td>Solid Baby</td>
+		<td>02:37</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>Precious Star</td>
+		<td>02:51</td>
+	</tr>
+	<tr>
+		<td>Token of My Love</td>
+		<td>03:39</td>
+	</tr>
+	<tr>
+		<td>Space Boss</td>
+		<td>02:47</td>
+	</tr>
+	<tr>
+		<td>Think Zinc</td>
+		<td>03:21</td>
+	</tr>
+	<tr>
+		<td>Till Dawn</td>
+		<td>03:01</td>
+	</tr>
+	<tr>
+		<td>Girl in the Thunderbolt Suit</td>
+		<td>02:19</td>
+	</tr>
+	<tr>
+		<td>I Really Love You Babe</td>
+		<td>03:33</td>
+	</tr>
+	<tr>
+		<td>Golden Belt</td>
+		<td>02:41</td>
+	</tr>
+	<tr>
+		<td>Zip Gun Boogie</td>
+		<td>03:26</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>33:42</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>

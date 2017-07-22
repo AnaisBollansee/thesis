@@ -31,21 +31,68 @@ En ja, je kan zeggen dat er nog enkele nummers zijn die ‘wel oké’ zijn. Zoa
 ## cover
 
 Ik denk dat iedereen het er over eens is dat dit niet de beste T.Rex plaat is. En mocht ik zelf niet zo gesteld zijn op de volledigheid van mijn platencollectie, zou deze <span class="engels">Zinc Alloy and the Hidden Riders of Tomorrow</span> waarschijnlijk de eerste zijn die uit mijn T.Rex-collectie vliegt. Al zou ik de coverfoto bijhouden. Want zo’n blik. Hemel!
+<div class="witregel"> </div>
 
-TODO TABEL
 <table>
 	<tr>
-		<td>Hot Rod Mama</td>
-		<td>03:09</td>
+		<td>Venus Loon</td>
+		<td>03:01</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
-		<td>01:41</td>
+		<td>Sound Pit</td>
+		<td>02:50</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>Explosive Mouth</td>
+		<td>02:26</td>
+	</tr>
+	<tr>
+		<td>Galaxy</td>
+		<td>01:48</td>
+	</tr>
+	<tr>
+		<td>Change</td>
+		<td>02:47</td>
+	</tr>
+	<tr>
+		<td>Nameless Wildness</td>
+		<td>03:06</td>
+	</tr>
+	<tr>
+		<td>Teenage Dream</td>
+		<td>05:45</td>
+	</tr>
+	<tr>
+		<td>Liquid Gang</td>
+		<td>03:17</td>
+	</tr>
+	<tr>
+		<td>Carsmile Smith and the Old One</td>
+		<td>03:16</td>
+	</tr>
+	<tr>
+		<td>You've Got to Jive to Stay Alive - Spanish Midnight</td>
+		<td>02:35</td>
+	</tr>
+	<tr>
+		<td>Interstellar Soul</td>
+		<td>03:26</td>
+	</tr>
+	<tr>
+		<td>Painless Persuasion v. The Meathawk Immaculate</td>
+		<td>03:26</td>
+	</tr>
+	<tr>
+		<td>The Avengers (Superbad)</td>
+		<td>04:28</td>
+	</tr>
+	<tr>
+		<td>The Leopards Featuring Gardenia and the Might Slug</td>
+		<td>03:36</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>46:17</td>
 	</tr>
 </table>
 
-<div class="witregel"> </div>

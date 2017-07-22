@@ -35,21 +35,71 @@ Wanneer ik al de T.Rex albums in juiste volgorde beluister, van <span class="eng
 ## Zweverig
 
 <span class="engels">T.Rex</span> is de aanzet tot <span class="engels">Electric Warrior</span>. Wat op haar beurt een van mijn favoriete platen ooit is. Het ligt me moeilijk om dus ook maar één slecht woord te zeggen over dit album. Maar de <span class="engels">sound</span> is nog niet 100% die van de T.Rex waar ik van hou. Het zit nog ergens tussen dat zweverige van Tyranossaurus Rex en het <span class="engels">dirty</span> geluid van T.Rex in. En dan hangt het voor mij nog net iets te hoog in de lucht. 
+<div class="witregel"> </div>
 
-TODO TABEL
 <table>
 	<tr>
-		<td>Hot Rod Mama</td>
-		<td>03:09</td>
+		<td>The Children of Rarn</td>
+		<td>00:53</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
+		<td>Jewel</td>
+		<td>02:46</td>
+	</tr>
+	<tr>
+		<td>The Visit</td>
+		<td>01:55</td>
+	</tr>
+	<tr>
+		<td>Childe</td>
 		<td>01:41</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>The Time of Love is Now</td>
+		<td>02:42</td>
+	</tr>
+	<tr>
+		<td>Diamond Meadows</td>
+		<td>01:58</td>
+	</tr>
+	<tr>
+		<td>Root od Star</td>
+		<td>02:31</td>
+	</tr>
+	<tr>
+		<td>Beltane Walk</td>
+		<td>02:38</td>
+	</tr>
+	<tr>
+		<td>Is It Love?</td>
+		<td>02:34</td>
+	</tr>
+	<tr>
+		<td>One Inch Rock</td>
+		<td>02:28</td>
+	</tr>
+	<tr>
+		<td>Summer Deep</td>
+		<td>01:43</td>
+	</tr>
+	<tr>
+		<td>Seagull Woman</td>
+		<td>02:18</td>
+	</tr>
+	<tr>
+		<td>Suneye</td>
+		<td>02:06</td>
+	</tr>
+	<tr>
+		<td>The Wizard</td>
+		<td>08:50</td>
+	</tr>
+	<tr>
+		<td>The Children of Rarn (Reprise)</td>
+		<td>00:36</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>37:41</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>

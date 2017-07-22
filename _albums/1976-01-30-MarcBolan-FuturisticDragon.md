@@ -34,22 +34,63 @@ Na <span class="engels">Calling All Destroyers</span> valt <span class="engels">
 ## Draak met toekomst
 
 Na de platte band die T.Rex had met <span class="engels">Bolan’s Zip Gun</span>, toont deze <span class="engels">Futuristic Dragon</span> dat er geen reden is tot paniek. T.Rex is nog lang niet klaar om afgeschreven te worden. En Bolan begint opnieuw te vechten voor zijn <span class="engels">stardom</span>. Dit keer met een futuristische draak als hulpmiddel. 
+<div class="witregel"> </div>
 
-
-TODO TABEL
 <table>
 	<tr>
-		<td>Hot Rod Mama</td>
-		<td>03:09</td>
+		<td>Futuristic Dragon (Introduction)</td>
+		<td>01:52</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
-		<td>01:41</td>
+		<td>Jupiter Liar</td>
+		<td>03:40</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>Chrome Sitar</td>
+		<td>03:13</td>
+	</tr>
+	<tr>
+		<td>All Alone</td>
+		<td>02:48</td>
+	</tr>
+	<tr>
+		<td>New York City</td>
+		<td>03:55</td>
+	</tr>
+	<tr>
+		<td>My Little Baby</td>
+		<td>03:06</td>
+	</tr>
+	<tr>
+		<td>Calling All Destroyers</td>
+		<td>03:53</td>
+	</tr>
+	<tr>
+		<td>Theme for a Dragon</td>
+		<td>02:00</td>
+	</tr>
+	<tr>
+		<td>Sensation Boulevard</td>
+		<td>03:48</td>
+	</tr>
+	<tr>
+		<td>Ride My Wheels</td>
+		<td>02:25</td>
+	</tr>
+	<tr>
+		<td>Dreamy Lady</td>
+		<td>02:51</td>
+	</tr>
+	<tr>
+		<td>Dawn Storm</td>
+		<td>03:42</td>
+	</tr>
+	<tr>
+		<td>Casual Agent</td>
+		<td>02:53</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>40:22</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>

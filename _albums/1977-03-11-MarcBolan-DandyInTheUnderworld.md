@@ -31,21 +31,59 @@ En het album is nog niet voorbij. <span class="engels">Jason B. Sad</span> verwe
 ## Wat als
 
 Toch blijf ik op het einde van <span class="engels">Dandy in the Underworld</span> altijd  met een lastig gevoel zitten. Ik kan niet anders dan me de vraag stellen: ‘wat als Bolan niet overleden was, welke muziek zou hij dan nu maken?’. Hierover nadenken is niet goed voor mijn humeur. Dus, probeer ik mijzelf gerust te stellen met het feit dat in zijn laatste werk opnieuw licht tevoorschijn kwam. Gedaan met de duisternis. En wanneer deze gedachte me toch niet gelukkig maakt, heb ik nog steeds de muziek om dat wel te doen.
+<div class="witregel"> </div>
 
-TODO TABEL
 <table>
 	<tr>
-		<td>Hot Rod Mama</td>
-		<td>03:09</td>
+		<td>Dandy in the Underworld</td>
+		<td>04:33</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
-		<td>01:41</td>
+		<td>Crimson Moon</td>
+		<td>03:22</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>Universe</td>
+		<td>02:43</td>
+	</tr>
+		<tr>
+		<td>I'm a Fool for You Girl</td>
+		<td>02:16</td>
+	</tr>
+	<tr>
+		<td>I Love to Boogie</td>
+		<td>02:14</td>
+	</tr>
+	<tr>
+		<td>Visions of Domino</td>
+		<td>02:23</td>
+	</tr>
+		<tr>
+		<td>Jason B. Sad</td>
+		<td>03:22</td>
+	</tr>
+	<tr>
+		<td>Groove a Little</td>
+		<td>03:24</td>
+	</tr>
+	<tr>
+		<td>The Soul of My Suit</td>
+		<td>02:37</td>
+	</tr>
+		<tr>
+		<td>Hang Ups</td>
+		<td>03:28</td>
+	</tr>
+	<tr>
+		<td>Pain and Love</td>
+		<td>03:41</td>
+	</tr>
+	<tr>
+		<td>Teen Riot Structure</td>
+		<td>03:33</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>37:52</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>

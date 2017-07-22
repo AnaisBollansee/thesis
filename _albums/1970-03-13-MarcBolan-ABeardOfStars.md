@@ -35,22 +35,67 @@ Een ander absoluut hoogtepunt is <span class="engels">By the Light of the Magica
 Over het algemeen heb ik bij dit album al minder last van overheersende bongo’s. Op één nummer na: <span class="engels">Pavilions of Sun</span>. Hier zorgen ze ervoor dat het nummer onnodig druk wordt. Ik vrees dat de bongo niet echt mijn muziekinstrument is. Geef mij dan maar Bolan’s dansende gitaar.<div class="uitgelicht">‘All my fears are water clear/When I'm not with you’ - Dove</div>## Verandering
 
 <span class="engels">A Beard of Stars</span> is waar het geluid van Tyrannosaurus Rex begint te veranderen. En de legendarische T.Rex <span class="engels">sound</span> is eindelijk niet ver meer weg. Dit maakt het album perfect voor avonden waarop je net iets rustigere muziek kan gebruiken. Al kan je er evengoed mee door de straten dansen op weg naar school. 
-
-TODO TABEL
+<div class="witregel"> </div>
 
 <table>
 	<tr>
-		<td>Hot Rod Mama</td>
-		<td>03:09</td>
+		<td>Prelude</td>
+		<td>01:04</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
-		<td>01:41</td>
+		<td>A Day Laye</td>
+		<td>01:56</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>Woodland Bop</td>
+		<td>01:39</td>
+	</tr>
+	<tr>
+		<td>Fist Heart Mighty Dawn Dart</td>
+		<td>02:54</td>
+	</tr>
+	<tr>
+		<td>Pavilions of Sun</td>
+		<td>02:49</td>
+	</tr>
+	<tr>
+		<td>Organ Blues</td>
+		<td>02:47</td>
+	</tr>	
+	<tr>
+		<td>By the Light of a Magical Moon</td>
+		<td>02:51</td>
+	</tr>
+	<tr>
+		<td>Wind Cheetah</td>
+		<td>02:38</td>
+	</tr>	
+	<tr>
+		<td>A Beard of Stars</td>
+		<td>01:37</td>
+	</tr>
+	<tr>
+		<td>Great Horse</td>
+		<td>01:42</td>
+	</tr>	
+	<tr>
+		<td>Dragon's Ear</td>
+		<td>02:37</td>
+	</tr>
+	<tr>
+		<td>Lofty Skies</td>
+		<td>02:54</td>
+	</tr>	
+	<tr>
+		<td>Dove</td>
+		<td>02:06</td>
+	</tr>
+	<tr>
+		<td>Elemental Child</td>
+		<td>05:33</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>35:03</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>

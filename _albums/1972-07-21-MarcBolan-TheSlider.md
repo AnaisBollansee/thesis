@@ -45,22 +45,63 @@ Maar ook Bolan’s gevoelige kant is aanwezig. Zoals in <span class="engels">Bal
 ## Oh yeah!
 
 Ah, <span class="engels">The Slider</span>. Een plaat vol heerlijke ‘<span class="engels">yeah’s</span>’ en ‘<span class="engels">oh’s</span>’. Wat wil een mens nog meer?! Misschien wat fascinerende teksten? <span class="engels">Check</span>! Perfect gitaarwerk? Aanwezig! Dansbare nummers? <span class="engels">Dubble Check</span>! Tragere nummers? Dit album heeft alles. Misschien wel hét beste (T.Rex-)album ooit.
+<div class="witregel"> </div>
 
-
-TODO TABEL
 <table>
 	<tr>
-		<td>Hot Rod Mama</td>
+		<td>Metal Guru</td>
+		<td>02:25</td>
+	</tr>
+	<tr>
+		<td>Mystic Lady</td>
 		<td>03:09</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
-		<td>01:41</td>
+		<td>Rock On</td>
+		<td>03:26</td>
+	</tr>
+		<tr>
+		<td>The Slider</td>
+		<td>03:22</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>Baby Boomerang</td>
+		<td>02:17</td>
+	</tr>
+	<tr>
+		<td>Spaceball Ricochet</td>
+		<td>03:37</td>
+	</tr>
+	<tr>
+		<td>Buick Mackane</td>
+		<td>03:31</td>
+	</tr>
+	<tr>
+		<td>Telegram Sam</td>
+		<td>03:42</td>
+	</tr>
+	<tr>
+		<td>Rabbit Fighter</td>
+		<td>03:55</td>
+	</tr>
+	<tr>
+		<td>Baby Strange</td>
+		<td>03:03</td>
+	</tr>
+	<tr>
+		<td>Ballrooms of Mars</td>
+		<td>04:09</td>
+	</tr>
+	<tr>
+		<td>Chariot Choogle</td>
+		<td>02:45</td>
+	</tr>
+	<tr>
+		<td>Main Man</td>
+		<td>04:14</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>43:55</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>

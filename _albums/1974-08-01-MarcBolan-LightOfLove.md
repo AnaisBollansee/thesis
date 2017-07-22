@@ -24,21 +24,55 @@ En alsof dat allemaal nog niet genoeg was, moest Bolan het ook voor het eerst do
 ## 3 + 8 = album
 
 <span class="engels">Light of Love</span> kan je bekijken als een ‘tussenalbum’. Bolan gebruikte drie nummers van zijn vorige album {% include link.html url="/albums/1974-02-01_MarcBolan-ZincAlloy/" tekst="Zinc Alloy and the Hidden Rider of Tommorow" new_tab=true %}. En acht nummers die een jaar later ook zouden verschijnen op <span class="engels">Bolan's Zip Gun</span>. Misschien niet het beste idee. Maar als als je <span class="engels">Light of Love</span> en <span class="engels">Bolan's Zip Gun</span> naast elkaar legt, is deze <span class="engels">Light of Love</span> zeker en vast de betere van de twee.
+<div class="witregel"> </div>
 
-TODO TABEL
 <table>
 	<tr>
-		<td>Hot Rod Mama</td>
-		<td>03:09</td>
+		<td>Light of Love</td>
+		<td>03:16</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
-		<td>01:41</td>
+		<td>Solid Baby</td>
+		<td>02:37</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>Precious Star</td>
+		<td>02:51</td>
+	</tr>
+	<tr>
+		<td>Token of My Love</td>
+		<td>03:39</td>
+	</tr>
+	<tr>
+		<td>Space Boss</td>
+		<td>02:47</td>
+	</tr>
+	<tr>
+		<td>Think Zinc</td>
+		<td>03:21</td>
+	</tr>
+	<tr>
+		<td>Till Dawn</td>
+		<td>03:01</td>
+	</tr>
+	<tr>
+		<td>Teenage Dream</td>
+		<td>04:58</td>
+	</tr>
+	<tr>
+		<td>Girl in the Thunderbolt Suit</td>
+		<td>02:19</td>
+	</tr>
+	<tr>
+		<td>Explosive Mouth</td>
+		<td>02:25</td>
+	</tr>
+	<tr>
+		<td>Venus Loon</td>
+		<td>03:02</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>34:36</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>

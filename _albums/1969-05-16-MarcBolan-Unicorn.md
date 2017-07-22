@@ -30,21 +30,75 @@ Een persoonlijke favoriet is <span class="engels">Cat Black</span>. En niet alle
 
 ## Zomerbries
 
-Wel geef ik graag nog een kleine tip. De beste manier om dit album te beluisteren is met een extra geluidsdichte koptelefoon en een redelijk hoog volume. Om de ervaring echt af te werken, luister je best met je ogen dicht, in het gras, met een zomerbries die zacht je gezicht en haren streelt. Met andere woorden, je kiest best voor een moment waarop je echt de tijd kan nemen om te genieten. Oh, en bewegen mag. 
-TODO TABEL
+Wel geef ik graag nog een kleine tip. De beste manier om dit album te beluisteren is met een extra geluidsdichte koptelefoon en een redelijk hoog volume. Om de ervaring echt af te werken, luister je best met je ogen dicht, in het gras, met een zomerbries die zacht je gezicht en haren streelt. Met andere woorden, je kiest best voor een moment waarop je echt de tijd kan nemen om te genieten. Oh, en bewegen mag. 
+<div class="witregel"> </div>
 <table>
 	<tr>
-		<td>Hot Rod Mama</td>
-		<td>03:09</td>
+		<td>Chariots of Silk</td>
+		<td>02:26</td>
 	</tr>
 	<tr>
-		<td>Scenescof</td>
-		<td>01:41</td>
+		<td>Pon a Hill</td>
+		<td>01:14</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>tijd</td>
+		<td>The Seal of Seasons</td>
+		<td>01:49</td>
+	</tr>
+	<tr>
+		<td>The Throath of Winter</td>
+		<td>01:59</td>
+	</tr>
+	<tr>
+		<td>Cat Black (The Wizard's Hat)</td>
+		<td>02:55</td>
+	</tr>
+	<tr>
+		<td>Stones for Avalon</td>
+		<td>01:37</td>
+	</tr>
+	<tr>
+		<td>She Was Born to Be My Unicorn</td>
+		<td>02:37</td>
+	</tr>
+	<tr>
+		<td>Like a White Star, Tangled and Far, Tulip That's What You Are</td>
+		<td>03:49</td>
+	</tr>
+	<tr>
+		<td>Warlord of the Royal Crocodiles</td>
+		<td>02:11</td>
+	</tr>
+	<tr>
+		<td>Evenings of Damask</td>
+		<td>02:26</td>
+	</tr>
+	<tr>
+		<td>The Sea Beasts</td>
+		<td>02:26</td>
+	</tr>
+	<tr>
+		<td>Iscariot</td>
+		<td>02:53</td>
+	</tr>
+	<tr>
+		<td>Nijinsky Hind</td>
+		<td>02:20</td>
+	</tr>
+	<tr>
+		<td>The Pilgrim's Tale</td>
+		<td>02:07</td>
+	</tr>
+	<tr>
+		<td>The Misty Coast of Albany</td>
+		<td>01:43</td>
+	</tr>
+		<tr>
+		<td>Romany Soup</td>
+		<td>05:40</td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td>39:46</td>
 	</tr>
 </table>
-
-<div class="witregel"> </div>
