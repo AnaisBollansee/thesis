@@ -1,7 +1,7 @@
 ---
 artist: Prince
 title:  "Prince"
-image: /images/gnome.jpg
+image: /images/Prince.jpg
 ---
 
 # Prince

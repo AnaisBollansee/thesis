@@ -1,7 +1,7 @@
 ---
 artist: Rod Stewart
 title:  "Rod Stewart"
-image: /images/piggy-bank.png
+image: /images/RodStewart.jpg
 ---
 
 # Rod Stewart

@@ -1,7 +1,7 @@
 ---
 artist: Bruce Springsteen
 title:  "Bruce Springsteen"
-image: /images/piggy-bank.png
+image: /images/Springsteen.jpg
 ---
 
 # Bruce Springsteen

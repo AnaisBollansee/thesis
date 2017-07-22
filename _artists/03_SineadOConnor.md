@@ -1,7 +1,7 @@
 ---
 artist: Sinéad O'Connor
 title:  "Sinéad O'Connor"
-image: /images/piggy-bank.png
+image: /images/O_Connor.jpg
 ---
 
 # Sinéad O'Connor

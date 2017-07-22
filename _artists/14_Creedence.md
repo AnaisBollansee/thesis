@@ -1,7 +1,7 @@
 ---
 artist: Creedence Clearwater Revival
 title:  "Creedence Clearwater Revival"
-image: /images/piggy-bank.png
+image: /images/Creedence.jpg
 ---
 
 # Creedence Clearwater Revival

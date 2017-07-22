@@ -1,7 +1,7 @@
 ---
 artist: Marc Bolan
 title:  "Marc Bolan"
-image: /images/gnome.jpg
+image: /images/T.Rex.jpg
 ---
 
 # Marc Bolan

@@ -1,7 +1,7 @@
 ---
 artist: The Who
 title:  "The Who"
-image: /images/piggy-bank.png
+image: /images/TheWho.jpg
 ---
 
 # The Who
