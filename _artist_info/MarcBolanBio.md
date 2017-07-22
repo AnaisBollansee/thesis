@@ -3,6 +3,7 @@ artist: Marc Bolan
 title: "Biografie Marc Bolan"
 link-title: "Bio"
 layout: long_read
+order: 1
 ---
 
 
@@ -12,7 +13,7 @@ layout: long_read
 ##### Het leven van een 20th century boy
 
 <iframe id="ytplayer" type="text/html" width="640" height="390"
-  src="https://www.youtube.com/embed/Iv2JA1fshgg?autoplay=1" frameborder="0" allowfullscreen></iframe>  
+  src="https://www.youtube.com/embed/Iv2JA1fshgg" frameborder="0" allowfullscreen></iframe>  
   
 {% include next_section.html %}
  
@@ -36,7 +37,7 @@ Op zijn negende krijgt hij zijn eerste gitaar. Broer Harry herinnert zich nog ho
 
 {% include next_section.html %}
 
-Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige {% include link.html url="/ artist_info/minor/HelenShapiro/" tekst="Helen Shapiro" new_tab=true %}. Tot hij op 14jarige leeftijd geschorst wordt.
+Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige EXTRA UITLEG: Helen Shapiro. Tot hij op 14jarige leeftijd geschorst wordt.
 <span tooltip="Marc Bolan The Final Word, Mark Tinkler, Universal, 2007, 6:05 – 6:32">Bolan zelf zegt dat hij op school geen dingen leerde die hij de moeite waard vond om te leren. Waardoor hij niet vaak naar school ging tot zijn school hier genoeg van had. En dat was het einde van zijn schoolcarrière. Nu hij niet meer naar school ging had hij verschillende jobs, maar bleef Bolan werken aan zijn doel om muzikant te worden.</span> 
 
 {% include next_section.html %}
@@ -48,7 +49,7 @@ Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de m
 
 {% include next_section.html %}
 
-Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van {% include link.html url="/artist_info/Minor/BobDylan/" tekst="Bob Dylan" new_tab=true %}: <span class="engels">Blowin’ In The Wind</span>.
+Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van EXTRA UITLEG: Bob Dylan: <span class="engels">Blowin’ In The Wind</span>.
 
 <iframe class="lazyload"  width="100%" height="450" scrolling="no" frameborder="no" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -86,7 +87,7 @@ He said, ‘To tell the truth, I don’t have a tape, but I could sing for you r
 <span class="bronvermelding">Bron: You don’t have to say you love me – Simon Napier-Bell, New English Library (1983), P.75</span>
 <div class="witregel"> </div>
  
-Zo gezegd, zo gedaan. Bolan begint met spelen en na een klein uur beslist {% include link.html url="/artist_info/Minor/SimonNapier- Bell/" tekst="Simon Napier-Bell" new_tab=true %} dat hij genoeg heeft gehoord. Nog diezelfde avond belanden Bolan en Simon Napier-Bell in een opnamestudio. 
+Zo gezegd, zo gedaan. Bolan begint met spelen en na een klein uur beslist EXTRA UITLEG: Simon Napier-Bell dat hij genoeg heeft gehoord. Nog diezelfde avond belanden Bolan en Simon Napier-Bell in een opnamestudio. 
 <div class="witregel"> </div>
 
 {% include next_section.html %}
@@ -121,7 +122,7 @@ Simon Napier-Bell had ook John’s Children onder zijn vleugels. De groep had ge
 
 En hoewel Bolan zelf niet kon rijden, zou deze voorspelling tien jaar later uitkomen.
 
-Zijn vroegere manager {% include link.html url="/artist_info/Minor/TonySecunda/" tekst="Tony Secunda" new_tab=true %} zei hierover: 
+Zijn vroegere manager EXTRA UITLEG: Tony Secunda zei hierover: 
 
 <h1 tooltip="‘Hij reedt nooit met de auto, hij had altijd schrik. Marc heeft nooit een rijbewijs gehad en hij weigerde om te leren rijden’">‘‘He would never drive a car, he was always scared - Marc never had a driving licence, he refused to learn’</h1>
 
@@ -163,6 +164,36 @@ In 1968 brengt het duo hun eerste plaat uit: {% include link.html url="/albums/1
 Voor het eerst proeft Bolan het succes en scoort hij enkele {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hits" new_tab=true %}. Maar hoger dan een vijftiende plaats in de hitlijsten geraakt de band op dat moment nog niet.
 
 TODO TIJDLIJN
+
+<div class="timeline">
+	{% include image.html url="/images/FOTO.jpg" marker="05/07/1968" title="My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows" content="Image content" %}
+	
+	{% include image.html url="/images/FOTO.jpg" marker="15/10/1968" title="Prophets, Seers & Sages: The Angel Of The Ages" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="16/05/1969" title="Unicorn" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="13/03/1970" title="A Beard Of Stars" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="18/12/1970" title="T.Rex" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="14/09/1971" title="Electric Warrior" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="21/07/1971" title="The Slider" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="16/03/1973" title="Tanx" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="01/02/1974" title="Zinc Alloy And The Hidden Riders Of Tomorrow" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="?/08/1974" title="Light Of Love" content="Image content" %}
+	
+		{% include image.html url="/images/FOTO.jpg" marker="15/02/1975" title="Bolan's Zip Gun" content="Image content" %}
+		
+	{% include image.html url="/images/FOTO.jpg" marker="30/01/1976" title="Futuristic Dragon" content="Image content" %}
+	
+	{% include image.html url="/images/FOTO.jpg" marker="11/03/1977" title="Dandy In The Underworld" content="Image content" %}
+	
+</div>
+
 
 {% include next_section.html %}
 
@@ -256,7 +287,7 @@ Vanaf dan begint de groep aan haar gloriejaren.
 Ook de twee volgende albums, {% include link.html url="/albums/1972-07-21-MarcBolan-TheSlider/" tekst="The Slider" new_tab=true %} en {% include link.html url="/albums/1973-01-28-MarcBolan-Tanx/" tekst="Tanx" new_tab=true %}, vinden vlot hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %}. 
 En tussen alles door vindt Marc Bolan de tijd om een film te maken: <span class="engles">Born to Boogie</span>. 
 
-De film werd geregisseerd door {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="Ringo Starr" new_tab=true %}. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en {% include link.html url="/artist_info/Minor/EltonJohn/" tekst="Elton John" new_tab=true %} samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van {% include link.html url="/artist_info/Minor/TheBeatles/" tekst="John Lennon" new_tab=true %}. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
+De film werd geregisseerd door EXTRA UITLEG: Ringo Starr. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en {% include link.html url="/artist_info/Minor/EltonJohn/" tekst="Elton John" new_tab=true %} samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van EXTRA UITLEG: John Lennon. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9Md9AGcMbA" frameborder="0" allowfullscreen></iframe>
 
@@ -290,7 +321,7 @@ En ook voor producer en vriend {% include link.html url="/artist_info/Minor/Tony
 
 ### Alter ego
 
-Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend {% include link.html url="/artist_info/Minor/DavidBowie/" tekst="David Bowie" new_tab=true %} het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. 
+Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend EXTRA UITLEG: David Bowie het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. 
 
 Met {% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zinc Alloy and the Hidden Riders of Tomorrow" new_tab=true %} probeert een hopeloze Marc mee te surfen op het succes van Bowie. Maar slaagt hier niet in. 
 
@@ -308,8 +339,6 @@ Bolan stort zich op drank en drugs. En op korte tijd komt hij heel wat bij.
 Bolan’s team raadt hem aan om Groot Britannië (tijdelijk) te verlaten en zo taxes te ontlopen. Bolan trekt naar Amerika en Monte Carlo in Monaco. Hier neemt hij de tijd om tot rust te komen.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23256435&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-TODO TIJDSCODE 2:33-3:58
 
 {% include next_section.html %}
 
@@ -383,7 +412,7 @@ Het nieuws dat superster Marc Bolan overleden is komt bij fans over de hele were
 
 {% include next_slide.html %}
 
-Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener superfan werd van Marc Bolan. In haar brief vertelt ze hoe ze fan werd en hoe ze de dood van haar idool ervaren heeft.
+Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener superfan werd van Marc Bolan. Ze vertelt hoe ze fan werd en hoe ze de dood van haar idool ervaren heeft.
 
 <p class="dagboek"><span tooltip="‘Ik ben een T.Rex-fan sinds ik van mijn nonkel zijn oude platenspeler gekregen heb. Ik had zelf nog geen platen dus besloot ik om een bezoek te brengen aan onze lokale platenwinkel. Hier vroeg ik de verkoper naar de laatste nummer één hit.  Zijn antwoord was Get It On van T.Rex. Ik had dit nummer al op de radio gehoord, maar kende toen de band T.Rex nog niet. Ik wist alleen dat ik het een goed nummer vond.'">‘I became a T. Rex fan after my uncle gave me his old mono record player. I needed to build up a record collection so I walked into our local tiny record store and asked for the latest no 1. He said its Get It On by T. Rex. I had heard it on the radio but didn't really know who the group was at that time but knew that I liked it. 
 '</span></p>
@@ -448,12 +477,10 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 {% include image.html url="/images/DeborahMarc.jpg" alt=" " height="400pt" tooltip="Marc Bolan en Deborah in 1975. De foto werd gemaakt door bandlid Steve Currie"%}
 
-<span class="bronvermelding"> Tekst: Deborah Loads, vertaling: Anaïs Bollansée</span>
-
 {% include end_slides.html %}
 {% include next_section.html %}
 
-Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis niet alleen bijgewoond door familie en fans, maar ook door verschillende bevriende muzikanten zoals {% include link.html url="/artist_info/Minor/DavidBowie/" tekst="David Bowie" new_tab=true %} en {% include link.html url="/artists/09_RodStewart/" tekst="Rod Stewart" new_tab=true %}.
+Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis niet alleen bijgewoond door familie en fans, maar ook door verschillende bevriende muzikanten zoals EXTRA UITLEG: David Bowie en {% include link.html url="/artists/09_RodStewart/" tekst="Rod Stewart" new_tab=true %}.
 
 {% include next_section.html %}
 
@@ -503,6 +530,9 @@ En ook voor {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June
 TODO FOTO
 
 {% include next_section.html %}
+
+TODO CDs NA ZIJN DOOD
+tijdlijn?
 
 
 {% include next_section.html %}
