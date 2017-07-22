@@ -10,7 +10,7 @@ Misschien kende je de muziek van Marc Bolan al, of misschien heb je net erg veel
 
 
 1. Wie maakte volgens Tony Visconti de coverfoto van het album The Silder:
-* TODO JUIST
+* Juist! Tony Visconti vertelt in zijn biografie dat eigenlijk hij de foto maakte en niet Ringo Starr.
 * Jammer, het juiste antwoord is: Tony Visconti
 * = Tony Visconti
 * Ringo Starr
@@ -26,7 +26,7 @@ Misschien kende je de muziek van Marc Bolan al, of misschien heb je net erg veel
 * 45
 
 3. Welk T.Rex nummer stond het langst op nummer één in de hitlijsten in het Verenigd Koninkrijk? 
-* TODO JUIST
+* Juist! Hot Love stond zes weken op nummer één.
 * Jammer, het juiste antwoord is: <span class="engels"> Hot Love </span>
 * = Hot Love
 * Telegram Sam
