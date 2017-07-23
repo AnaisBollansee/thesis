@@ -37,7 +37,7 @@ Op zijn negende krijgt hij zijn eerste gitaar. Broer Harry herinnert zich nog ho
 
 {% include next_section.html %}
 
-Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige EXTRA UITLEG: Helen Shapiro. Tot hij op 14jarige leeftijd geschorst wordt.
+Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige <span tooltip="Helen Shapiro is een Britse zangeres, geboren in Londen op 28 september 1946. Haar doorbraak kwam er in 1961 met het nummer Don’t treat me like a child. Shapiro was toen nog geen 15 jaar. Nu organiseert Helen Shapiro muzikale avonden en spreekt ze over haar verbondenheid met  Jezus.">Helen Shapiro</span>. Tot hij op 14jarige leeftijd geschorst wordt.
 <span tooltip="Marc Bolan The Final Word, Mark Tinkler, Universal, 2007, 6:05 – 6:32">Bolan zelf zegt dat hij op school geen dingen leerde die hij de moeite waard vond om te leren. Waardoor hij niet vaak naar school ging tot zijn school hier genoeg van had. En dat was het einde van zijn schoolcarrière. Nu hij niet meer naar school ging had hij verschillende jobs, maar bleef Bolan werken aan zijn doel om muzikant te worden.</span> 
 
 {% include next_section.html %}
@@ -49,7 +49,7 @@ Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de m
 
 {% include next_section.html %}
 
-Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van EXTRA UITLEG: Bob Dylan: <span class="engels">Blowin’ In The Wind</span>.
+Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van <span tooltip="Bob Dylan is een van de belangrijkste Amerikaanse singer-songwriters van de twintigste eeuw. In 2016 kreeg hij de Nobelprijs voor Literatuur. Hij werd op 24 mei 1941 geboren onder de naam Robert Allen Zimmerman.">Bob Dylan</span>: <span class="engels">Blowin’ In The Wind</span>.
 
 <iframe class="lazyload"  width="100%" height="450" scrolling="no" frameborder="no" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -87,7 +87,7 @@ He said, ‘To tell the truth, I don’t have a tape, but I could sing for you r
 <span class="bronvermelding">Bron: You don’t have to say you love me – Simon Napier-Bell, New English Library (1983), P.75</span>
 <div class="witregel"> </div>
  
-Zo gezegd, zo gedaan. Bolan begint met spelen en na een klein uur beslist EXTRA UITLEG: Simon Napier-Bell dat hij genoeg heeft gehoord. Nog diezelfde avond belanden Bolan en Simon Napier-Bell in een opnamestudio. 
+Zo gezegd, zo gedaan. Bolan begint met spelen en na een klein uur beslist <span tooltip="Simon Napier-Bell is een Brits manager, muziekproducent en journalist. Hij is geboren op 22 april 1939 in Ealing, een wijk in Londen. Sinds 2013 werkt hij als adviseur. Zo leert hij (jonge) managers hoe ze hun artiesten kunnen lanceren.">Simon Napier-Bell</span> dat hij genoeg heeft gehoord. Nog diezelfde avond belanden Bolan en Simon Napier-Bell in een opnamestudio. 
 <div class="witregel"> </div>
 
 {% include next_section.html %}
@@ -110,7 +110,7 @@ Althans dat is hoe Marc Bolan er zelf over dacht. De platenmaatschappijen in Lon
 
 {% include start_slides.html %}
 
-Simon Napier-Bell had ook John’s Children onder zijn vleugels. De groep had geen al te beste gitarist en niemand die het talent bezat om goede nummers te schrijven. Tijdens een etentje besluit Napier-Bell om Bolan te overtuigen deel te worden van de groep:
+<span tooltip="Simon Napier-Bell is een Brits manager, muziekproducent en journalist. Hij is geboren op 22 april 1939 in Ealing, een wijk in Londen. Sinds 2013 werkt hij als adviseur. Zo leert hij (jonge) managers hoe ze hun artiesten kunnen lanceren.">Simon Napier-Bell</span> had ook John’s Children onder zijn vleugels. De groep had geen al te beste gitarist en niemand die het talent bezat om goede nummers te schrijven. Tijdens een etentje besluit Napier-Bell om Bolan te overtuigen deel te worden van de groep:
 
 <span class="quote" tooltip="‘‘De groep vervolledigen zal je een duwtje in de rug geven richting grote bekendheid. En je moet beginnen met rijk worden als je een Porsche wil kopen en zijn zoals James Dean.’
 ‘O nee,’ zei Marc. ‘Een Porsche is niets voor mij. Ik ben te klein. Ik denk dat een Mini een betere auto voor mij is. Als ik zou sterven in een auto-ongeluk, zou het in een Mini moeten zijn. Ik denk dat ik dat goed zou vinden. Het zou leuk zijn.’’">‘’Joining the group will start you off on the path to eventual stardom. And you gotta start getting rich soon if you’re going to be like James dean and buy a Porsche.’ 
@@ -122,7 +122,7 @@ Simon Napier-Bell had ook John’s Children onder zijn vleugels. De groep had ge
 
 En hoewel Bolan zelf niet kon rijden, zou deze voorspelling tien jaar later uitkomen.
 
-Zijn vroegere manager EXTRA UITLEG: Tony Secunda zei hierover: 
+Zijn vroegere manager <span tooltip=" Tony Secunda was een manager van rockgroepen. Hij werd geboren op 24 augustus 1940 in Surrey, Engeland. In 1971 startte hij zijn samenwerking met T.Rex en hielp Bolan bij het oprichten van zijn eigen record label T.Rex Wax Co. Tijdens de Jaren ’80 begon hij zijn eigen uitgeverij voor muziekbiografieën in California. Hij overleed op 12 februari 1995 in Californië.">Tony Secunda</span> zei hierover: 
 
 <h1 tooltip="‘Hij reedt nooit met de auto, hij had altijd schrik. Marc heeft nooit een rijbewijs gehad en hij weigerde om te leren rijden’">‘‘He would never drive a car, he was always scared - Marc never had a driving licence, he refused to learn’</h1>
 
@@ -287,7 +287,7 @@ Vanaf dan begint de groep aan haar gloriejaren.
 Ook de twee volgende albums, {% include link.html url="/albums/1972-07-21-MarcBolan-TheSlider/" tekst="The Slider" new_tab=true %} en {% include link.html url="/albums/1973-01-28-MarcBolan-Tanx/" tekst="Tanx" new_tab=true %}, vinden vlot hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %}. 
 En tussen alles door vindt Marc Bolan de tijd om een film te maken: <span class="engles">Born to Boogie</span>. 
 
-De film werd geregisseerd door EXTRA UITLEG: Ringo Starr. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en {% include link.html url="/artist_info/Minor/EltonJohn/" tekst="Elton John" new_tab=true %} samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van EXTRA UITLEG: John Lennon. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
+De film werd geregisseerd door <span tooltip="Ringo Starr was de drummer van de bekende Liverpoolse band The Beatles. Sinds 1970 werkt Starr aan zijn solo-carrière. Hiij werd geboren op 7 july 1940, onder de naam Richard Starkley.">Ringo Starr</span>. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en <span tooltip="Elton John is een Britse zanger, componist en pianist. Hij is een van de bestverkopende artiesten allertijden. Hij staat ook bekend als voorvechter van de holebi en transgender gemeenschap. Elton John is geboren op 25 maart 1947. Hij is actief in de muziekwereld sinds 1967.">Elton John</span> samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van <span tooltip="John Lennon is geboren op 9 oktober 1940. Hij was de zanger en gitarist van de Liverpoolse pop-rockband The Beatles, die actief was van 1960 tot 1970. Na zijn ontmoeting met muzikante Yoko Ono scheurde hij af van de Beatles. Hierna begon hij zijn solo-carrière en werd hij het gezicht van de hippiebeweging. Een van zijn bekendste solo-hits is Imagine. Hij is neergeschoten op 8 december 1980 in New York.">John Lennon</span>. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9Md9AGcMbA" frameborder="0" allowfullscreen></iframe>
 
@@ -321,7 +321,7 @@ En ook voor producer en vriend {% include link.html url="/artist_info/Minor/Tony
 
 ### Alter ego
 
-Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend EXTRA UITLEG: David Bowie het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. 
+Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend <span tooltip="David Bowie is een van de meest invloedrijke rockmuzikanten uit de jaren 60. Dit omdat hij er als geen ander in slaagt om zich elke keer opnieuw uit te vinden en in de huid te kruipen van een nieuw personage. Bowie werd geboren in Londen op 8 januari 1947. En hij stierf in New York, twee dagen na zijn 69ste verjaardag, op 10 januari 2016.">David Bowie</span> het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. 
 
 Met {% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zinc Alloy and the Hidden Riders of Tomorrow" new_tab=true %} probeert een hopeloze Marc mee te surfen op het succes van Bowie. Maar slaagt hier niet in. 
 
@@ -480,7 +480,7 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 {% include end_slides.html %}
 {% include next_section.html %}
 
-Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis niet alleen bijgewoond door familie en fans, maar ook door verschillende bevriende muzikanten zoals EXTRA UITLEG: David Bowie en {% include link.html url="/artists/09_RodStewart/" tekst="Rod Stewart" new_tab=true %}.
+Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis niet alleen bijgewoond door familie en fans, maar ook door verschillende bevriende muzikanten zoals <span tooltip="David Bowie is een van de meest invloedrijke rockmuzikanten uit de jaren 60. Dit omdat hij er als geen ander in slaagt om zich elke keer opnieuw uit te vinden en in de huid te kruipen van een nieuw personage. Bowie werd geboren in Londen op 8 januari 1947. En hij stierf in New York, twee dagen na zijn 69ste verjaardag, op 10 januari 2016.">David Bowie</span> en {% include link.html url="/artists/09_RodStewart/" tekst="Rod Stewart" new_tab=true %}.
 
 {% include next_section.html %}
 
@@ -493,7 +493,7 @@ Jones en hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" teks
 {% include next_section.html %}
 ### Postuum
 
-Ook na de dood van Marc Bolan verschijnen er nog platen van T.Rex. Zo kwam in 1979 Solid Gold uit, een compilatie cd met verschillende grote T.Rex hits op. In 1981 kwam de plaat T.Rex in Concert uit. Een live-album dat werd opgenomen tijdens de Electric Warrior tournee in 1971. In 1980 komt het album The unobtainable T. Rex uit. Met daarop 16 nooit eerder uitgebrachte T.Rex nummers.In 1985 en 1991 verschijnen twee compilatie cd’s: Best of the 20th Century Boy en The Ultimate Collection. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee best of cd’s: The Essential Collection (2002) en Greatest Hits (2007). Deze moeten het doen met een plaats in de top 20.In 2012 werd het best scorende T.Rex album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende bonustracks te vinden zijn. 
+Ook na de dood van Marc Bolan verschijnen er nog platen van T.Rex. Zo kwam in 1979 Solid Gold uit, een <span tooltip="Op een compilatie cd staan nummers die al eerder uitgebracht zijn op andere cd’s. Er wordt dus materiaal van op verschillende cd’s samengebracht op één cd. Meestal gaat het dan om een cd met de grootste hits van de artiest. Of de meest gespeelde liedjes van dat moment.”>compilatie cd</span> met verschillende grote T.Rex hits op. In 1981 kwam de plaat T.Rex in Concert uit. Een live-album dat werd opgenomen tijdens de Electric Warrior tournee in 1971. In 1980 komt het album The unobtainable T. Rex uit. Met daarop 16 nooit eerder uitgebrachte T.Rex nummers.In 1985 en 1991 verschijnen twee compilatie cd’s: Best of the 20th Century Boy en The Ultimate Collection. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee best of cd’s: The Essential Collection (2002) en Greatest Hits (2007). Deze moeten het doen met een plaats in de top 20.In 2012 werd het best scorende T.Rex album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende bonustracks te vinden zijn. 
 
 {% include next_section.html %}
 
