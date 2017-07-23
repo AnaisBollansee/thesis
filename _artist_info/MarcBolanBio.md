@@ -491,8 +491,9 @@ Bolan werd gecremeerd en uitgestrooid op dezelfde plek waar 14 jaar later ook zi
 Jones en hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} verhuisen naar Amerika van zodra ze hersteld is van het ongeluk. 
 
 {% include next_section.html %}
+### Postuum
 
-TODO POSTUUM
+Ook na de dood van Marc Bolan verschijnen er nog platen van T.Rex. Zo kwam in 1979 Solid Gold uit, een compilatie cd met verschillende grote T.Rex hits op. In 1981 kwam de plaat T.Rex in Concert uit. Een live-album dat werd opgenomen tijdens de Electric Warrior tournee in 1971. In 1980 komt het album The unobtainable T. Rex uit. Met daarop 16 nooit eerder uitgebrachte T.Rex nummers.In 1985 en 1991 verschijnen twee compilatie cd’s: Best of the 20th Century Boy en The Ultimate Collection. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee best of cd’s: The Essential Collection (2002) en Greatest Hits (2007). Deze moeten het doen met een plaats in de top 20.In 2012 werd het best scorende T.Rex album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende bonustracks te vinden zijn. 
 
 {% include next_section.html %}
 
