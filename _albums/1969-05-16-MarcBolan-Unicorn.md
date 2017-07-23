@@ -26,7 +26,7 @@ Het goede aan dit album is dat er eigenlijk geen slechte nummers inzitten. Het s
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327449870&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Een persoonlijke favoriet is <span class="engels">Cat Black</span>. En niet alleen omdat ik van zwarte katten hou. Maar vooral omdat dit weer zo een sprookjes-nummer is. Een tijdcapsule terug naar mijn kindertijd. Een ander nummer met dit effect is <span class="engels">She Was Born to be My Unicorn</span>. Luisteren naar dit nummer is als door het sprookjesbos in de EXTRA UITLEG: Efteling wandelen, zonder al de vermoeiende krijsende kinderen. <div class = "uitgelicht">‘The skull of jade was pearl inlaid’ – Cat Black (The Wizard’s Hat)</div>
+Een persoonlijke favoriet is <span class="engels">Cat Black</span>. En niet alleen omdat ik van zwarte katten hou. Maar vooral omdat dit weer zo een sprookjes-nummer is. Een tijdcapsule terug naar mijn kindertijd. Een ander nummer met dit effect is <span class="engels">She Was Born to be My Unicorn</span>. Luisteren naar dit nummer is als door het sprookjesbos in de <span tooltip="De Efteling is een sprookjespark in Kaatsheuvel, Nederland. Het park opende op 31 mei 1952.">Efteling</span> wandelen, zonder al de vermoeiende krijsende kinderen. <div class = "uitgelicht">‘The skull of jade was pearl inlaid’ – Cat Black (The Wizard’s Hat)</div>
 
 ## Zomerbries
 
