@@ -6,6 +6,7 @@ order: 7
 ---
 # De bezetting van T.Rex door de jaren heen
 
+Door de jaren heen is er in de bezetting van {% include link.html url="/artist_info/MarcBolanBio/#TyrannosaurusRex" tekst="Tyrannosaurus Rex" new_tab=true %} en {% include link.html url="/artist_info/MarcBolanBio/#T.Rex" tekst="T.Rex" new_tab=true %} heel wat veranderd. Gitaristen, drummers, achtergrondzangers en zangeressen, iedereen komt en gaat. Maar één man staat altijd centraal: {% include link.html url="/artists/01_MarcBolan/" tekst="Marc Bolan" new_tab=true %}. Om het makkelijk(er) te maken is hier een overzicht van het reilen en zeilen binnen zijn band.
 
 <div class="timeline">
     <div marker="1967-1969" title="Tyrannosaurus Rex"> 
