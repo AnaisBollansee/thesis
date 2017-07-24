@@ -4,10 +4,52 @@ title:  "Marc Bolan in de hitlijsten"
 link-title: "Hitlijsten"
 order: 5
 ---
+# Marc Bolan & T.Rex in de Vlaamse hitlijsten
+
+###### Singles
+In Vlaanderen halen Marc Bolan en T.Rex een aantal keer de hitlijsten. Maar de resultaten in ons land stellen niets voor tegenover die in Groot-Brittanië. Enkele singles doen het goed, maar de albums van T.Rex zijn niet terug te vinden in de hitlijsten.
+
+<table class="grafiek-tabel">
+  <thead>
+    <tr>
+      <th>Voor het eerst in de hitlijst</th>
+      <th>Nummer</th>
+      <th>Aantal weken op #1</th>
+       <th>Aantal weken in hitlijst</th>
+        <th>Hoogste plaats </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1971.08.28</td>
+      <td>Bang a Gong (Get it On)</td>
+      <td>0</td>
+      <td>6</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>1971.05.01</td>
+      <td>Hot Love</td>
+      <td>0</td>
+      <td>10</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>1972.01.29</td>
+      <td>Jeepster</td>
+      <td>0</td>
+      <td>2</td>
+      <td>19</td>
+    </tr>
+   </tbody>
+</table>
+
+<span class="bronvermelding">{% include link.html url="http://www.ultratop.be/nl/search.asp?lang=nl&cat=s&artist=T.Rex&artist_search=starts&title=&title_search=starts/" tekst="Cijfers gebaseerd op Ultratop" new_tab=true %}</span>
+
 
 # Marc Bolan & T.Rex in de Britse hitlijsten
 
-In Groot-Brittanië is Marc Bolan erg populair. Bijna al de hits en albums die hij uitbrengt vliegen meteen de hitlijsten binnen. En verschillende halen ook moeiteloos de top 10, of zelfs een eerste plaats.
+In Groot-Brittanië daarentegen is Marc Bolan erg populair. Bijna al de hits en albums die hij uitbrengt vliegen meteen de hitlijsten binnen. En verschillende halen ook moeiteloos de top 10, of zelfs een eerste plaats.
 
 ###### Singles
 
@@ -426,45 +468,4 @@ In Groot-Brittanië is Marc Bolan erg populair. Bijna al de hits en albums die h
 
 <span class="bronvermelding">{% include link.html url="http://www.officialcharts.com/artist/2746/t-rex/" tekst="Cijfers gebaseerd op Official Charts" new_tab=true %}</span>
 
-# Marc Bolan & T.Rex in de Vlaamse hitlijsten
 
-###### Singles
-
-Ook in Vlaanderen halen Marc Bolan en T.Rex een aantal keer de hitlijsten. Maar de resultaten in ons land stellen niets voor tegenover die in Groot-Brittanië. De albums van T.Rex zijn niet terug te vinden in de hitlijsten.
-
-<table class="grafiek-tabel">
-  <thead>
-    <tr>
-      <th>Voor het eerst in de hitlijst</th>
-      <th>Nummer</th>
-      <th>Aantal weken op #1</th>
-       <th>Aantal weken in hitlijst</th>
-        <th>Hoogste plaats </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1971.08.28</td>
-      <td>Bang a Gong (Get it On)</td>
-      <td>0</td>
-      <td>6</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>1971.05.01</td>
-      <td>Hot Love</td>
-      <td>0</td>
-      <td>10</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>1972.01.29</td>
-      <td>Jeepster</td>
-      <td>0</td>
-      <td>2</td>
-      <td>19</td>
-    </tr>
-   </tbody>
-</table>
-
-<span class="bronvermelding">{% include link.html url="http://www.ultratop.be/nl/search.asp?lang=nl&cat=s&artist=T.Rex&artist_search=starts&title=&title_search=starts/" tekst="Cijfers gebaseerd op Ultratop" new_tab=true %}</span>
