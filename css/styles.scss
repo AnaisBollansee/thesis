@@ -1,6 +1,7 @@
 ---
 ---
 
+$verydark: #111;
 $dark: #333;
 $medium: #666;
 
@@ -84,11 +85,11 @@ ul.navigation_bar {
 }
 
 .navigation_bar li a:hover {
-	background-color: black;
+	background-color: $verydark;
 }
 
 .navigation_bar .current {
-	background-color: black;
+	background-color: $verydark;
 }
 
 .bio-cd {
@@ -156,7 +157,7 @@ font-size: 80%;
 }
 
 .slick-prev::before, .slick-next::before {
-	color: black;
+	color: $verydark;
 }
 
 .fp-controlArrow {
