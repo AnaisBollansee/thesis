@@ -15,7 +15,7 @@ In Vlaanderen halen Marc Bolan en T.Rex een aantal keer de hitlijsten. Maar de r
       <th>Voor het eerst in de hitlijst</th>
       <th>Nummer</th>
       <th>Aantal weken op #1</th>
-      <th>Aantal weken in hitlijst</th>
+      <th data-dynatable-column="integer">Aantal weken in hitlijst</th>
       <th>Hoogste plaats </th>
     </tr>
   </thead>
