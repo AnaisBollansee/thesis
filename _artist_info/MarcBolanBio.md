@@ -130,7 +130,7 @@ Zijn vroegere manager <span tooltip=" Tony Secunda was een manager van rockgroep
 
 {% include next_slide.html %}
 
-Toch herinnert {% include link.html url="/artist_info/ Minor/JuneChild/" tekst="June Child" new_tab=true %} (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze Marc Bolan zijn eerste en enige rijles gaf.
+Toch herinnert June Child (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze Marc Bolan zijn eerste en enige rijles gaf.
 
 <iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/aEhtfNmceaE?start=344&end=421" frameborder="0" allowfullscreen></iframe>
 
@@ -259,7 +259,7 @@ De eerste helft van de jaren ‘70 staat bekend als de hoogdagen van Marc Bolan.
 {% include end_slides.html %}
 {% include next_section.html %}
 
-Op 30 januari 1970 trouwt Marc Bolan met {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Child" new_tab=true %}. Zij was de ex-secretaresse van Syd Barrett ({% include link.html url="/artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}) en wist dus wel wat van de muziekwereld af. Dit gaf haar de kans om haar man een handje te helpen bij zijn carrière die niet veel later in een stroomversnelling komt. 
+Op 30 januari 1970 trouwt Marc Bolan met June Child. Zij was de ex-secretaresse van Syd Barrett ({% include link.html url="/artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}) en wist dus wel wat van de muziekwereld af. Dit gaf haar de kans om haar man een handje te helpen bij zijn carrière die niet veel later in een stroomversnelling komt. 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/aEhtfNmceaE?start=0&end=76" frameborder="0" allowfullscreen></iframe>
 
@@ -328,7 +328,7 @@ Met {% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zi
 {% include end_slides.html %}
 {% include next_section.html %}
 
-En niet alleen zijn platen scoren steeds minder, ook in Bolan’s huwelijk loopt het mis. Het is al de derde keer dat Bolan het gezelschap zoekt van een andere vrouw. Maar dit keer is het serieus. Uiteindelijk ruilt hij zijn vrouw {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} in voor zijn achtergrondzangeres {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}. Al zal het paar nooit scheiden. 
+En niet alleen zijn platen scoren steeds minder, ook in Bolan’s huwelijk loopt het mis. Het is al de derde keer dat Bolan het gezelschap zoekt van een andere vrouw. Maar dit keer is het serieus. Uiteindelijk ruilt hij zijn vrouw June Feld Bolan in voor zijn achtergrondzangeres {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}. Al zal het paar nooit scheiden. 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=3386&end=3464" frameborder="0" allowfullscreen></iframe>
 
@@ -362,14 +362,14 @@ Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaa
 
 {% include next_slide.html %}
 
-Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria" new_tab=true %}’s zwangerschap ontsteekt een nieuw vuur in Marc Bolan. Op 26 september 1975 wordt {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} geboren. Vier dagen voor Bolan’s 28ste verjaardag.
+Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria" new_tab=true %}’s zwangerschap ontsteekt een nieuw vuur in Marc Bolan. Op 26 september 1975 wordt Rolan Bolan geboren. Vier dagen voor Bolan’s 28ste verjaardag.
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/UHYuGMGXeKc?start=63&end=100" frameborder="0" allowfullscreen></iframe>
 
 {% include end_slides.html %}
 {% include next_section.html %}
 
-In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige T.Rex album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
+In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige T.Rex album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. Rolan Bolan is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
 
 {% include next_section.html %}
 
@@ -486,9 +486,9 @@ Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis nie
 
 ### Na zijn dood
 
-Bolan werd gecremeerd en uitgestrooid op dezelfde plek waar 14 jaar later ook zijn ouders, Simeon en Phyllis Feld, hun laatste rustplek vinden. Van Bolan’s erfenis ging slechts een klein stuk naar {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} omdat hij toen hij stierf nog steeds getrouwd was met {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %}. 
+Bolan werd gecremeerd en uitgestrooid op dezelfde plek waar 14 jaar later ook zijn ouders, Simeon en Phyllis Feld, hun laatste rustplek vinden. Van Bolan’s erfenis ging slechts een klein stuk naar {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} omdat hij toen hij stierf nog steeds getrouwd was met June Feld Bolan. 
 
-Jones en hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} verhuisen naar Amerika van zodra ze hersteld is van het ongeluk. 
+Jones en hun zoon Rolan Bolan verhuisen naar Amerika van zodra ze hersteld is van het ongeluk. 
 
 {% include next_section.html %}
 ### Postuum
@@ -499,7 +499,7 @@ Ook na de dood van Marc Bolan verschijnen er nog platen van T.Rex. Zo kwam in 19
 
 ### Sleutelfiguren
 
-{% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} sterft in 1994 in Turkije aan een hartaanval. Haar relatie met Marc Bolan is ze nooit vergeten. 
+June Feld Bolan sterft in 1994 in Turkije aan een hartaanval. Haar relatie met Marc Bolan is ze nooit vergeten. 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/dOEZdK6woGI" frameborder="0" allowfullscreen></iframe>
 
@@ -511,7 +511,7 @@ Ook na de dood van Marc Bolan verschijnen er nog platen van T.Rex. Zo kwam in 19
 
 {% include next_section.html %}
 
-Hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %} woont in Los Angeles (California), waar hij als muzikant in de voetsporen van zijn ouders treedt. 
+Hun zoon Rolan Bolan woont in Los Angeles (California), waar hij als muzikant in de voetsporen van zijn ouders treedt. 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Xx1UZg0Px8Q" frameborder="0" allowfullscreen></iframe>
 
@@ -523,7 +523,7 @@ Hun zoon {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan 
 
 {% include next_section.html %}
 
-In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij stierf. Zijn zoon, {% include link.html url="/artist_info/Minor/RolanBolan/" tekst="Rolan Bolan" new_tab=true %}, liet deze voor hem maken. 
+In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij stierf. Zijn zoon, Rolan Bolan, liet deze voor hem maken. 
 
 {% include image.html url="/images/Buste1.jpg" alt="Bronze buste van Marc Bolan ©Anaïs Bollansée" %}
 
@@ -531,6 +531,6 @@ In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij sti
 
 {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} en {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %} (vier leden die een belangrijke invloed hadden op de muziek van T.Rex) kregen er herdenkplaten. 
 
-En ook voor {% include link.html url="/artist_info/Minor/JuneChild/" tekst="June Feld Bolan" new_tab=true %} werd er in 2005 een plaat toegevoegd. 
+En ook voor June Feld Bolan werd er in 2005 een plaat toegevoegd. 
 
 TODO FOTO
