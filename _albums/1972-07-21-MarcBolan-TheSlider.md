@@ -42,7 +42,7 @@ Maar ook Bolan’s gevoelige kant is aanwezig. Zoals in <span class="engels">Bal
 
 ## Oh yeah!
 
-Ah, <span class="engels">The Slider</span>. Een plaat vol heerlijke ‘<span class="engels">yeah’s</span>’ en ‘<span class="engels">oh’s</span>’. Wat wil een mens nog meer?! Misschien wat fascinerende teksten? <span class="engels">Check</span>! Perfect gitaarwerk? Aanwezig! Dansbare nummers? <span class="engels">Dubble Check</span>! Tragere nummers? Dit album heeft alles. Misschien wel hét beste (T.Rex-)album ooit.
+Ah, <span class="engels">The Slider</span>. Een plaat vol heerlijke ‘<span class="engels">yeah’s</span>’ en ‘<span class="engels">oh’s</span>’. Wat wil een mens nog meer?! Misschien wat fascinerende teksten? <span class="engels">Check</span>! Perfect gitaarwerk? Aanwezig! Dansbare nummers? <span class="engels">Dubble Check</span>! Tragere nummers? Dit album heeft alles. Misschien wel hét beste (<span class="engels">T.Rex</span>-)album ooit.
 <div class="witregel"> </div>
 
 <table>

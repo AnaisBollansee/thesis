@@ -33,7 +33,7 @@ Na <span class="engels">Calling All Destroyers</span> valt <span class="engels">
 
 ## Draak met toekomst
 
-Na de platte band die T.Rex had met <span class="engels">Bolan’s Zip Gun</span>, toont deze <span class="engels">Futuristic Dragon</span> dat er geen reden is tot paniek. T.Rex is nog lang niet klaar om afgeschreven te worden. En Bolan begint opnieuw te vechten voor zijn <span class="engels">stardom</span>. Dit keer met een futuristische draak als hulpmiddel. 
+Na de platte band die <span class="engels">T.Rex</span> had met <span class="engels">Bolan’s Zip Gun</span>, toont deze <span class="engels">Futuristic Dragon</span> dat er geen reden is tot paniek. <span class="engels">T.Rex</span> is nog lang niet klaar om afgeschreven te worden. En Bolan begint opnieuw te vechten voor zijn <span class="engels">stardom</span>. Dit keer met een futuristische draak als hulpmiddel. 
 <div class="witregel"> </div>
 
 <table>
