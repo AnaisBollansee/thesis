@@ -31,7 +31,7 @@ Welk T.Rex nummer stond het langst op nummer één in de hitlijsten in het Veren
 * Jammer, het juiste antwoord is: <span class="engels"> Hot Love </span>
 * = Hot Love
 * Telegram Sam
-* Get it On
+* Bang a Gong (Get it On)
 * Teenage Dream
 
 Waar kan je het graf van Marc Bolan bezoeken?
@@ -45,7 +45,7 @@ Waar kan je het graf van Marc Bolan bezoeken?
 Met welk nummer brak Marc Bolan door?
 * Juist! Ride a White Swan was Bolan's eerste top 10 hit in 1970.
 * Jammer, het juiste antwoord is: <span class="engels"> Ride a White Swan</span>
-* Get it On
+* Bang a Gong (Get it On)
 * Children of the Revolution
 * Teenage Dream
 * = Ride a White Swan
@@ -90,11 +90,11 @@ Wat is de titel van het eerste T.Rex album?
 * The Slider
 
 Wat is de titel van het enige T.Rex nummer dat de top 10 haalde in Amerika?
-* Juist! Alleen het nummer Get it On scoort hoog in Amerika.
-* Jammer, het juiste antwoord is: <span class="engels">Get it On</span>
+* Juist! Alleen het nummer Bang a Gong (Get it On) scoort hoog in Amerika.
+* Jammer, het juiste antwoord is: <span class="engels">Bang a Gong (Get it On)</span>
 * Ride a White Swan
 * Telegram Sam
-* = Get it On
+* = Bang a Gong (Get it On)
 * Children of the Revolution
 
 Hoe heet het genre waarvan Marc Bolan aanzien wordt als de Britse uitvinder en Alice Cooper als de Amerikaanse?
