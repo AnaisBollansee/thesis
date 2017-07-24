@@ -20,11 +20,12 @@
 		{% endif %}
 
 		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/css/jquery.quiz-min.css' %}">
+		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/css/jquery.dynatable.css' %}">
 		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/juanma_aguero_fancy_timeline/css/ftl-default/fancy-timeline.css' %}">
 		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/css/styles.css' %}">
 	</head>
 
-	<body>
+	<body lang="nl">
 		{{ content }}
 
 		{% include footer.html %}
@@ -32,6 +33,7 @@
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 		<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+		<script src="{% include fix_url.html url='/js/jquery.dynatable.js' %}"></script>
 		<script src="{% include fix_url.html url='/juanma_aguero_fancy_timeline/js/fancy-timeline.min.js' %}"></script>
 		<script src="{% include fix_url.html url='/js/jquery.quiz-min.js' %}"></script>
 		<script>
@@ -202,6 +204,7 @@
 					questions: questions
 				})
 			})
+			$(".grafiek-tabel").dynatable();
 		</script>
 		{% if layout.extra_js %}
 		{% for js_file in layout.extra_js %}

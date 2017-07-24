@@ -1,3 +1,15 @@
+---
+---
+
+$dark: #333;
+
+* {
+	-ms-hyphens: auto;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+}
+
 body {
 	font-family: "Verdana", Arial, Helvetica, sans-serif;
 	margin: 0;
@@ -77,7 +89,7 @@ ul.navigation_bar {
 }
 
 .navigation_bar li a:hover {
-	background-color: #111;
+	background-color: black;
 }
 
 .bio-cd {
@@ -153,17 +165,17 @@ font-size: 80%;
 }
 
 .fp-controlArrow.fp-prev {
-	border-right-color: black;
+	border-right-color: $dark;
 	left: -30pt;
 }
 
 .fp-controlArrow.fp-next {
-	border-left-color: black;
+	border-left-color: $dark;
 	right: -30pt;
 }
 
 .fp-tooltip {
-	color: black !important;
+	color: $dark !important;
 }
 
 .fp-tableCell {
@@ -192,6 +204,38 @@ font-size: 80%;
 
 .timeline-item-content > iframe {
 	height: 163pt;
+}
+
+table {
+	width: 100%;
+}
+
+td:first-child {
+	width: 200pt;
+}
+
+td:nth-child(2) {
+	width: 100pt;
+}
+
+td:last-child {
+	width: 100pt;
+}
+
+.grafiek-tabel thead {
+	background-color: $dark;
+}
+
+.grafiek-tabel td:first-child { 
+	width: 100pt;
+}
+
+.grafiek-tabel td:nth-child(2) { 
+	width: 150pt;
+}
+
+.grafiek-tabel td:last-child { 
+	width: 50pt;
 }
 
 footer {
