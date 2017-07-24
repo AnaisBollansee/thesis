@@ -30,7 +30,7 @@ Met <span class="engels">T.Rex</span> start het succes van T.Rex in het Verenigd
 
 Wanneer ik al de T.Rex albums in juiste volgorde beluister, van <span class="engels">My People Were Fair</span> tot en met <span class="engels">Dandy In The Underworld</span>, dan is het bij dit nummer waar ik besef dat T.Rex, en vooral Marc Bolan, meer dan alleen een zomerromance zijn. Vanaf nu kan ik spreken over een soort verliefheid. Het is als het moment waarop je beseft dat je romance meer dan zes weken, zes maanden of zes jaar zal duren. En ineens lijkt zestig jaar niet meer onmogelijk. 
 
-<div class="uitgelicht">‘If I had a throne/You could call it home’ – Diamond Meadows</div>
+<div class="uitgelicht">‘If I had a throne/You could call it home’ <br> – Diamond Meadows</div>
 
 ## Zweverig
 

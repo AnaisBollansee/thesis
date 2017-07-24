@@ -21,7 +21,7 @@ Er zijn twee dingen die van deze plaat een meesterwerk maken, noch voor je ook m
 
 ## Goud
 
-<div class="uitgelicht">‘I don't need anyone/To dictate all my fun’ - Scenescof</div>
+<div class="uitgelicht">‘I don't need anyone/To dictate all my fun’ <br> - Scenescof</div>
 
 Het album begint met het beste nummer: <span class="engels">Hot Rod Mama</span>. Een nummer met een interessante groove. En het is extreem rock n’ roll zonder agressief te zijn. Het is ook zo’n nummer waarop je eigenlijk alleen kan dansen als je op je stoel blijft zitten. Vanaf dat je recht staat krijgen je voeten het al snel knap lastig en kan het wel eens gebeuren dat je kennis maakt met de grond. Hierna kom je terecht in het meer zweverige werk. Nummers als <span class="engels">Scenescof</span> of <span class="engels">Child Star</span> zijn luchtiger en passen beter bij het plaatje van twee <span class="dialect">gasten</span> op een tapijt in kleermakerszit. Het zou me niet verwonderen als ze ineens wegvliegen naar een kasteel ergens in de woestijn. <iframe width="50%" height="50%" src="https://www.youtube.com/embed/rdUZ7XC9oYM" frameborder="0" allowfullscreen></iframe>
 
@@ -29,7 +29,7 @@ Nummers als <span class="engels">Mustang Ford</span> zorgen dan weer voor een an
 
 Maar, <span class="engels">All that glitters is not gold</span>. En dat is ook hier het geval. Sommige nummers slagen de bal echt mis. Zoals bijvoorbeeld <span class="engels">Strange Orchestras</span>. De hele sfeer van dit nummer voelt bijna als eng aan. En hoewel ik van een goede thriller hou, is dit niet echt <span class="engels">the way to go</span>. Op andere momenten klinkt Bolan dan weer meer als een varken dat geslacht wordt. Het beste voorbeeld hiervan is <span class="engels">Knight</span>. Op het einde van dit nummer moet ik altijd even pauze nemen en af en toe overweeg ik een pijnstiller. Zoals mijn moeder zou zeggen: '<span class="engels">trop is te veel</span>'.
 
-<div class="uitgelicht">‘Her one rich wish is to write a book about/A venetian mother's problems on a barge in little Venice’ – Chateau in Virginia Waters</div>
+<div class="uitgelicht">‘Her one rich wish is to write a book about/A venetian mother's problems on a barge in little Venice’ <br> – Chateau in Virginia Waters</div>
 
 ## Klassieker
 
