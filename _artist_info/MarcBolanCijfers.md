@@ -6,7 +6,7 @@ order: 5
 ---
 # Marc Bolan & T.Rex in de Vlaamse hitlijsten
 
-###### Singles
+## Singles
 In Vlaanderen halen Marc Bolan en T.Rex een aantal keer de hitlijsten. Maar de resultaten in ons land stellen niets voor tegenover die in Groot-Brittanië. Enkele singles doen het goed, maar de albums van T.Rex zijn niet terug te vinden in de hitlijsten.
 
 <table class="grafiek-tabel" id="1">
@@ -51,7 +51,7 @@ In Vlaanderen halen Marc Bolan en T.Rex een aantal keer de hitlijsten. Maar de r
 
 In Groot-Brittanië daarentegen is Marc Bolan erg populair. Bijna al de hits en albums die hij uitbrengt vliegen meteen de hitlijsten binnen. En verschillende halen ook moeiteloos de top 10, of zelfs een eerste plaats.
 
-###### Singles
+## Singles
 
 <table class="grafiek-tabel" id="2">
   <thead>
@@ -271,7 +271,7 @@ In Groot-Brittanië daarentegen is Marc Bolan erg populair. Bijna al de hits en 
 </table>
 
 
-###### Albums
+## Albums
 
 <table class="grafiek-tabel" id="3">
   <thead>
