@@ -203,8 +203,32 @@ table {
 	width: 100%;
 }
 
-.grafiek-tabel > thead {
+td:first-child {
+	width: 200pt;
+}
+
+td:nth-child(2) {
+	width: 100pt;
+}
+
+td:last-child {
+	width: 100pt;
+}
+
+.grafiek-tabel thead {
 	background-color: $dark;
+}
+
+.grafiek-tabel td:first-child { 
+	width: 100pt;
+}
+
+.grafiek-tabel td:nth-child(2) { 
+	width: 150pt;
+}
+
+.grafiek-tabel td:last-child { 
+	width: 50pt;
 }
 
 footer {
