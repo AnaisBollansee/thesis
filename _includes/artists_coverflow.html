@@ -2,7 +2,6 @@
 {% for artist in site.artists %}
 	<div data-artist-url="{% include fix_url.html url=artist.url %}">
 		<img src="{% include fix_url.html url=artist.image %}">
-		{{ artist.artist }}
 	</div>
 {% endfor %}
 </div>
