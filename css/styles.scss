@@ -249,6 +249,18 @@ table.grafiek-tabel {
 	width: 120pt;
 }
 
+.dynatable-active-page {
+	background: $dark;
+}
+
+.dynatable-record-count {
+	visibility: hidden;
+}
+
+.dynatable-pagination-links {
+	margin-top: 2pt;
+}
+
 footer {
 	padding-top: 15pt;
 	max-width: 580pt;
