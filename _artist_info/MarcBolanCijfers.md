@@ -120,7 +120,7 @@ In Groot-Brittanië daarentegen is Marc Bolan erg populair. Bijna al de hits en 
       <td>1</td>
     </tr>
        <tr>
-      <td>1971.04.01</td>
+      <td>1972.04.01</td>
       <td>Debora/One Inch Rock</td>
       <td>0</td>
       <td>10</td>
