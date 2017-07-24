@@ -92,6 +92,19 @@ ul.navigation_bar {
 	background-color: $verydark;
 }
 
+album_list {
+	list-style-type: none;
+	wdith: 100%;
+}
+
+.album_list .cover {
+	float: left;
+}
+
+.album_list .cover img {
+	width: (1 / 3) * 579pt;
+}
+
 .bio-cd {
 	font-weight: bold;
 }
