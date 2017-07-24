@@ -22,6 +22,8 @@ order: 1
  
 Marc Bolan, geboren als Mark Feld op 30 september 1947, is de zoon van Simeon en Phyllis Feld. Hij groeit op in het joodse gezin met één oudere broer: Harry. Zijn moeder werkte als marktkramer op Brewicks Street Market, een van de bekendste openlucht markten in Londen. Zijn vader was een van origine pools-russische vrachtwagenchauffeur. 
 
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" href="https://www.pinterest.com/pin/548524429605341196/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
 {% include next_section.html %}
 
 <iframe class="lazyload"  width="100%" height="400" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=90&end=165" frameborder="0" allowfullscreen></iframe>
@@ -39,6 +41,8 @@ Op zijn negende krijgt hij zijn eerste gitaar. Broer Harry herinnert zich nog ho
 
 Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige <span tooltip="Helen Shapiro is een Britse zangeres, geboren in Londen op 28 september 1946. Haar doorbraak kwam er in 1961 met het nummer Don’t treat me like a child. Shapiro was toen nog geen 15 jaar. Nu organiseert Helen Shapiro muzikale avonden en spreekt ze over haar verbondenheid met  Jezus.">Helen Shapiro</span>. Tot hij op 14jarige leeftijd geschorst wordt.
 <span tooltip="Marc Bolan The Final Word, Mark Tinkler, Universal, 2007, 6:05 – 6:32">Bolan zelf zegt dat hij op school geen dingen leerde die hij de moeite waard vond om te leren. Waardoor hij niet vaak naar school ging tot zijn school hier genoeg van had. En dat was het einde van zijn schoolcarrière. Nu hij niet meer naar school ging had hij verschillende jobs, maar bleef Bolan werken aan zijn doel om muzikant te worden.</span> 
+
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-terse="true" href="https://www.pinterest.com/pin/187743878196044449/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
@@ -70,8 +74,6 @@ In 1970 komt het nummer terecht komt op het eerste T.Rex album {% include link.h
 
 {% include next_section.html anchor="JohnsChildren" %}
 
-### John's Children
- 
 <span class="quote" tooltip="‘‘Niemand was ooit zo zeker van zichzelf, of zo rechtuit als Marc Bolan. 
 Hij had mijn nummer te pakken gekregen en belde me vroeg op een avond. 
 ‘Ik ben een zanger en ik ga de grootste Britse rockster ooit worden. Dus ik heb een goede manager nodig om alles te regelen.’
@@ -109,6 +111,8 @@ Althans dat is hoe Marc Bolan er zelf over dacht. De platenmaatschappijen in Lon
 {% include next_section.html %}
 
 {% include start_slides.html %}
+
+### John's Children
 
 <span tooltip="Simon Napier-Bell is een Brits manager, muziekproducent en journalist. Hij is geboren op 22 april 1939 in Ealing, een wijk in Londen. Sinds 2013 werkt hij als adviseur. Zo leert hij (jonge) managers hoe ze hun artiesten kunnen lanceren.">Simon Napier-Bell</span> had ook John’s Children onder zijn vleugels. De groep had geen al te beste gitarist en niemand die het talent bezat om goede nummers te schrijven. Tijdens een etentje besluit Napier-Bell om Bolan te overtuigen deel te worden van de groep:
 
@@ -244,6 +248,8 @@ Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_t
 
 Begin jaren ‘70 begint Marc Bolan zijn hippie-stijl te veranderen. En hij zet een nieuw genre in gang: GlamRock. De kleding van de muzikanten wordt steeds belangrijker. Bolan verschijnt op het podium in hakken en kleurrijke boa’s. En hij is ook niet vies van een beetje make-up of glitters op zijn gezicht. 
 
+<a data-pin-do="embedPin" data-pin-lang="nl" href="https://www.pinterest.com/pin/436004807653537776/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
 {% include next_slide.html %}
 
 GlamRock of glitterrock was vooral populair in de jaren ’70 in Groot Britannië. Maar ook in Amerika verschijnen steeds vaker opgetutte artiesten op het podium. Maar anders dan in Groot Britannië, wordt hier {% include link.html url="/artists/10_AliceCooper/" tekst="Alice Cooper" new_tab=true %} aanzien als het begin van de Glamrock, toen hij in 1970 zijn eerste hit I’m Eighteen uitbracht.
@@ -280,6 +286,8 @@ Vanaf dan begint de groep aan haar gloriejaren.
 {% include next_section.html %}
 
 {% include link.html url="/albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.rex" new_tab=true %} is het eerste album dat zijn weg vindt naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in de {% include link.html url="http://www.officialcharts.com//" tekst="Britse hitlijsten" new_tab=true %}. En met {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} breken ze helemaal door. Dit album staat maar liefst acht weken op nummer 1, en 44 weken in de top 100. <span tooltip="Official Charts, All The Numer 1 Albums, Auteur onbekend, geraadpleegd op 20/06/2017, {% include link.html tekst='Bron' url='http://www.officialcharts.com/chart-news/all-the-number-1-albums__7949/' escaped=true new_tab=true %}">Zo is het een van de best scorende platen uit 1971</span>.
+
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/219761656793315291/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 {% include start_slides.html %}
@@ -353,6 +361,8 @@ Tot hij gevraagd wordt om te verschijnen op de Britse TV-show <span tooltip="Bri
 
 Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaat op zoek naar hulp en laat zich opnemen in een ontwenningkliniek. Maar een echte doorbraak komt er pas wanneer zijn vriendin, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, zwanger blijkt te zijn. 
 
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/454793262360987674/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
 {% include next_slide.html %}
 
 <h1><span tooltip="‘Jones werd zwanger in 1975. Dit veroorzaakte een drastische verandering in Bolan. Hij had zichzelf nog maar net laten opnemen in een ontwenningskliniek waar hem verteld werd dat hij de “harslag van een 70 jarige man had” (hij was toen 25).’
@@ -370,6 +380,8 @@ Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst=
 {% include next_section.html %}
 
 In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige T.Rex album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. Rolan Bolan is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
+
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/31736372355306447/"></a></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
@@ -391,6 +403,12 @@ Nadat {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria J
 
 Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een restaurant op Berkeley Square in Londen. Op weg naar huis verliest {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} controle over de auto. En het koppel belandt in de balustrade. Marc Bolan overleeft het ongeluk niet en sterft 2 weken voor zijn 30ste verjaardag. Gloria Jones belandt in een coma. Ze word ervan beschuldigd dat ze dronken was toen ze met de auto reed. Maar dit is nooit bewezen. Jones zelf ontkent dit. 
 
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-terse="true" href="https://www.pinterest.com/pin/313422455293328317/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+{% include next_section.html %}
+
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" href="https://www.pinterest.com/pin/348677196132704322/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
 {% include next_section.html %}
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/li6bNrZrmGw?start=163&end=236" frameborder="0" allowfullscreen></iframe>
@@ -409,6 +427,8 @@ Niet lang na Bolan’s dood word er ingebroken in zijn huis. Verschillende van z
 Vier dagen na het ongeluk, op dinsdag 20 september 1977, ontwaakt {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} uit haar coma. Pas dan komt ze te weten dat haar geliefde, Marc Bolan, gestorven is en dat diezelfde dag zijn assen nog worden uitgestrooid. Jones is op dat moment nog niet sterk genoeg om de plechtigheid bij te wonen. 
 
 Het nieuws dat superster Marc Bolan overleden is komt bij fans over de hele wereld hard aan. En velen weten nog exact wat ze aan het doen waren op het moment dat ze het nieuws vernomen. 
+
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="large" data-pin-terse="true" href="https://www.pinterest.com/pin/97742254385373254/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_slide.html %}
 
@@ -481,6 +501,8 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 {% include next_section.html %}
 
 Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis niet alleen bijgewoond door familie en fans, maar ook door verschillende bevriende muzikanten zoals <span tooltip="David Bowie is een van de meest invloedrijke rockmuzikanten uit de jaren 60. Dit omdat hij er als geen ander in slaagt om zich elke keer opnieuw uit te vinden en in de huid te kruipen van een nieuw personage. Bowie werd geboren in Londen op 8 januari 1947. En hij stierf in New York, twee dagen na zijn 69ste verjaardag, op 10 januari 2016.">David Bowie</span> en {% include link.html url="/artists/09_RodStewart/" tekst="Rod Stewart" new_tab=true %}.
+
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="large" data-pin-terse="true" href="https://www.pinterest.com/pin/342836590353571337/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
