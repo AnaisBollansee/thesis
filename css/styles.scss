@@ -2,13 +2,7 @@
 ---
 
 $dark: #333;
-
-* {
-	-ms-hyphens: auto;
-	-moz-hyphens: auto;
-	-webkit-hyphens: auto;
-	hyphens: auto;
-}
+$medium: #666;
 
 body {
 	font-family: "Verdana", Arial, Helvetica, sans-serif;
@@ -222,6 +216,21 @@ td:nth-child(2) {
 
 td:last-child {
 	width: 100pt;
+}
+
+table.grafiek-tabel {
+	border-collapse: collapse;
+}
+
+.grafiek-tabel th, {
+	border: 1px solid $dark;
+}
+.grafiek-tabel td {
+	border: 1px solid $medium;
+}
+
+.grafiek-tabel th, .grafiek-tabel td {
+	padding: 0 2pt;
 }
 
 .grafiek-tabel thead {
