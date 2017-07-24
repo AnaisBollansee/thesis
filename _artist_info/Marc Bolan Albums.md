@@ -2,6 +2,7 @@
 artist: Marc Bolan
 title:  "Albums Marc Bolan"
 link-title: "Albums"
+layout: albums
 order: 2
 ---
 

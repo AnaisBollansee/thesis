@@ -16,6 +16,11 @@ body {
 	padding-top: 50pt;
 }
 
+.content_albums {
+	margin:0 auto;
+	padding-top: 50pt;
+}
+
 h1 {
 	text-align: center;
 	font-size: 300%;
@@ -97,18 +102,17 @@ ul.navigation_bar {
 	background-color: $verydark;
 }
 
-album_list {
-	list-style-type: none;
-	width: 100%;
+.album_list {
+	text-align: center;
 }
 
 .album_list .cover {
-	float: left;
+	display: inline-block;
 }
 
 .album_list .cover img {
 	margin: 2pt;
-	width: (1 / 3) * (580pt - 4 * 2 * 2pt);
+	width: 180pt;
 }
 
 .bio-cd {
