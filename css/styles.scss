@@ -3,6 +3,13 @@
 
 $dark: #333;
 
+* {
+	-ms-hyphens: auto;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+}
+
 body {
 	font-family: "Verdana", Arial, Helvetica, sans-serif;
 	margin: 0;
