@@ -9,13 +9,13 @@ layout: base
 	for artist in site.artists %}{% 
 	if artist.artist == page.artist %}
 	<li>
-		<a href="{% include fix_url.html url=artist.url %}">{{ page.artist }}</a>
+		<a href="{% include fix_url.html url=artist.url %}"{% if page.url == artist.url %} class="current"{% endif %}>{{ page.artist }}</a>
 	</li>{% endif %}{% endfor %}{% 
 	assign ordered = site.artist_info | sort: 'order' %}{% 
 	for info in ordered %}{% 
 	if info.artist == page.artist %}
 	<li>
-		<a href="{% include fix_url.html url=info.url %}">{{ info.link-title }}</a>
+		<a href="{% include fix_url.html url=info.url %}"{% if page.url == info.url %} class="current"{% endif %}>{{ info.link-title }}</a>
 	</li>{% endif %}{% endfor %}
 </ul>
 
