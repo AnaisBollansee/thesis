@@ -192,7 +192,7 @@ TODO TIJDLIJN IMAGE
 	
 		{% include image.html url="/images/ZipGun.jpg" marker="15/02/1975" title="Bolan's Zip Gun" content=" " %}
 		
-	{% include image.html url="/images/Dargon.jpg" marker="30/01/1976" title="Futuristic Dragon" content=" " %}
+	{% include image.html url="/images/Dragon.jpg" marker="30/01/1976" title="Futuristic Dragon" content=" " %}
 	
 	{% include image.html url="/images/Dandy.jpg" marker="11/03/1977" title="Dandy In The Underworld" content=" " %}
 	
