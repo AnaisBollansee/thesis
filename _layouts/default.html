@@ -5,12 +5,18 @@ layout: base
 <ul class="navigation_bar">
 	<li>
 		<a href="{% include fix_url.html url='/' %}">◄ Home</a>
-	</li>
+	</li>{% 
+	for artist in site.artists %}{% 
+	if artist.artist == page.artist %}
 	<li>
-		<script>
-			document.write('<a href="' + document.referrer + '">◄ Back</a>');
-		</script>
-	</li>
+		<a href="{% include fix_url.html url=artist.url %}">{{ page.artist }}</a>
+	</li>{% endif %}{% endfor %}{% 
+	assign ordered = site.artist_info | sort: 'order' %}{% 
+	for info in ordered %}{% 
+	if info.artist == page.artist %}
+	<li>
+		<a href="{% include fix_url.html url=info.url %}">{{ info.link-title }}</a>
+	</li>{% endif %}{% endfor %}
 </ul>
 
 <div class="content">
