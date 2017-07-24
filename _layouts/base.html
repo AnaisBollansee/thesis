@@ -201,7 +201,10 @@
 				console.log(questions)
 				quiz.children(".questions").empty()
 				quiz.quiz({
-					questions: questions
+					questions: questions,
+					nextButtonText: 'Volgende',
+					finishButtonText: 'Einde',
+					restartButtonText: 'Herstart'
 				})
 			})
 			$(".grafiek-tabel").dynatable();
