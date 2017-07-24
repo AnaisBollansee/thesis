@@ -11,7 +11,7 @@ order: 7
     <div marker="1967-1969" title="Tyrannosaurus Rex"> 
 <span class="witregel"> </span> 
 De eerste opstelling van Tyrannosaurus Rex bestaat uit Marc Bolan als gitarist en zanger en Steve Peregrin Took als percussionist.
-<span class=”witregel”> </span>Samen maken ze de albums: My People Were Fair and Had Sky in Their Hair... But Now They're Content to Wear Stars on Their Brows, Prophets, Seers & Sages en Unicorn.
+<br><br>Samen maken ze de albums: My People Were Fair and Had Sky in Their Hair... But Now They're Content to Wear Stars on Their Brows, Prophets, Seers & Sages en Unicorn.
 	</div>
 	
 	<div marker="1970-1973" title="Tyrannosaurus Rex"> Nadat Steve Peregrin Took de band verlaat wordt hij vervangen door Mickey Finn. De band maakt als duo nog één album: A Beard of Stars.  	</div>

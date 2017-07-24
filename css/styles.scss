@@ -292,6 +292,15 @@ table.grafiek-tabel {
 	position: unset;
 }
 
+.timeline .arrow {
+	background-image: unset !important;
+}
+
+.timeline .title {
+	padding-bottom: 7pt;
+	padding-top: 3pt;
+}
+
 footer {
 	padding-top: 15pt;
 	max-width: 580pt;
