@@ -315,6 +315,11 @@ table.grafiek-tabel {
 	padding-top: 3pt;
 }
 
+[data-pin-href] {
+	display: block !important;
+	margin:0 auto;
+}
+
 footer {
 	padding-top: 15pt;
 	max-width: 580pt;
