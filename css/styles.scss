@@ -13,6 +13,7 @@ body {
 .content {
 	max-width: 580pt;
 	margin:0 auto;
+	padding-top: 50pt;
 }
 
 h1 {
@@ -65,11 +66,15 @@ img {
 }
 
 ul.navigation_bar {
+	position: fixed;
+	top: 0;
+	width: 100%;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
 	background-color: $dark;
+	z-index: 100;
 }
 
 .navigation_bar li {
@@ -201,6 +206,27 @@ font-size: 80%;
 .fp-tableCell {
 	vertical-align: top;
 	padding-top: 20pt;
+}
+
+/*#fp-nav {
+	margin-top: 0 !important;
+	top: 50pt;
+	bottom: 50pt;
+}
+
+#fp-nav ul {
+	list-style-type: none;
+	width: 60pt;
+}
+
+#fp-nav ul li {
+	display: unset;
+	float: left;
+}*/
+
+#fp-nav ul li {
+	width: 6pt;
+	height: 6pt;
 }
 
 .timeline {
