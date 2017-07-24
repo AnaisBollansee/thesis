@@ -15,9 +15,8 @@ In Vlaanderen halen Marc Bolan en T.Rex een aantal keer de hitlijsten. Maar de r
       <th>Eerste notatie</th>
       <th>Nummer</th>
       <th>Weken op #1</th>
-      <th>Weken in #100</th>
+      <th>Weken in top 100</th>
       <th>Hoogste notatie</th>
-      <th>Aantal weken op #1</th>
     </tr>
   </thead>
   <tbody>
@@ -59,7 +58,7 @@ In Groot-Brittanië daarentegen is Marc Bolan erg populair. Bijna al de hits en 
       <th>Eerste notatie</th>
       <th>Nummer</th>
       <th>Weken op #1</th>
-      <th>Weken in #100</th>
+      <th>Weken in top 100</th>
       <th>Hoogste notatie</th>
      </tr>
   </thead>
@@ -279,7 +278,7 @@ In Groot-Brittanië daarentegen is Marc Bolan erg populair. Bijna al de hits en 
      <th>Eerste notatie</th>
       <th>Nummer</th>
       <th>Weken op #1</th>
-      <th>Weken in #100</th>
+      <th>Weken in top 100</th>
       <th>Hoogste notatie</th>
         <th>Soort album</th>
     </tr>
