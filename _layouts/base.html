@@ -87,7 +87,7 @@
 							marker: element.attr('marker'),
 							type: "default",
 							title: element.attr('title'),
-							content: element.attr('content') || element.text()
+							content: element.attr('content') || element.html()
 						})
 					}
 					else if (element.is('img')) {
