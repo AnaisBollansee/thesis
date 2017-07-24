@@ -20,7 +20,7 @@ Als je van een bestaand album een nieuw album kan maken, zou dit dan niet makkel
 
 <div class="uitgelicht">‘But will you love me like you said in your letters?’<br>– Precious Star</div>
 
-<span class="engels">Light Of Love</span> zal altijd een van mijn favoriete T.Rex nummers blijven. Hiermee zijn we dus alleszins al goed begonnen! Jammer genoeg gaat het even snel ook weer naar beneden. Toch is er voor mij nog een lichtpuntje met <span class="engels">Precious Star</span>. Hier toont Bolan weer dat hij met een simpele tekst een geweldig nummer kan maken. En hoewel het mij normaal niet zo aanspreekt, doet de ‘<span class="engels">ooh</span>’ in dit nummer dat wel. Hoewel ik wel van het bluesy-kantje van <span class="engels">Token of My Love</span> hou, klinkt het toch net iets teveel alsof je op een dronken paard zit. Niet echt een geweldige ervaring. En zo kom je aan geslenterd bij <span class="engels">Space Boss</span>. Een nummer dat ik niet meteen zou beschrijven als 'een persoonlijke favoriet'. Maar als ik het nummer op een <span class="engels">loop</span> afspeel begin ik na de derde of vierde keer toch flink mee te ‘zingen’. 
+<span class="engels">Light Of Love</span> zal altijd een van mijn favoriete <span class="engels">T.Rex</span> nummers blijven. Hiermee zijn we dus alleszins al goed begonnen! Jammer genoeg gaat het even snel ook weer naar beneden. Toch is er voor mij nog een lichtpuntje met <span class="engels">Precious Star</span>. Hier toont Bolan weer dat hij met een simpele tekst een geweldig nummer kan maken. En hoewel het mij normaal niet zo aanspreekt, doet de ‘<span class="engels">ooh</span>’ in dit nummer dat wel. Hoewel ik wel van het bluesy-kantje van <span class="engels">Token of My Love</span> hou, klinkt het toch net iets teveel alsof je op een dronken paard zit. Niet echt een geweldige ervaring. En zo kom je aan geslenterd bij <span class="engels">Space Boss</span>. Een nummer dat ik niet meteen zou beschrijven als 'een persoonlijke favoriet'. Maar als ik het nummer op een <span class="engels">loop</span> afspeel begin ik na de derde of vierde keer toch flink mee te ‘zingen’. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xS1PJt9Xrb8" frameborder="0" allowfullscreen></iframe>
 
@@ -30,7 +30,7 @@ Als je van een bestaand album een nieuw album kan maken, zou dit dan niet makkel
 
 ## Farse snoet
 
-De muziek op <span class="engels">Bolan’s Zip Gun</span> kun je dan misschien niet meteen benoemen als een schot uit een <span tooltip="Een zip gun is een zelfgemaakt geweer.">zip gun</span>, maar met de <span class="engels">coverart</span> schiet T.Rex wel raak. Het heerlijke, dikke, 70’s lettertype en de <span class="engels">farse snoet</span> van Bolan zorgen ervoor dat dit altijd een van mijn favoriete hoezen is geweest. 
+De muziek op <span class="engels">Bolan’s Zip Gun</span> kun je dan misschien niet meteen benoemen als een schot uit een <span tooltip="Een zip gun is een zelfgemaakt geweer.">zip gun</span>, maar met de <span class="engels">coverart</span> schiet <span class="engels">T.Rex</span> wel raak. Het heerlijke, dikke, 70’s lettertype en de <span class="engels">farse snoet</span> van Bolan zorgen ervoor dat dit altijd een van mijn favoriete hoezen is geweest. 
 <span class="witregel"> </span>
 <table>
 	<tr>

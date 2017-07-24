@@ -34,7 +34,7 @@ Een ander absoluut hoogtepunt is <span class="engels">By the Light of the Magica
 
 Over het algemeen heb ik bij dit album al minder last van overheersende bongo’s. Op één nummer na: <span class="engels">Pavilions of Sun</span>. Hier zorgen ze ervoor dat het nummer onnodig druk wordt. Ik vrees dat de bongo niet echt mijn muziekinstrument is. Geef mij dan maar Bolan’s dansende gitaar.<div class="uitgelicht">‘All my fears are water clear/When I'm not with you’<br> - Dove</div>## Verandering
 
-<span class="engels">A Beard of Stars</span> is waar het geluid van Tyrannosaurus Rex begint te veranderen. En de legendarische T.Rex <span class="engels">sound</span> is eindelijk niet ver meer weg. Dit maakt het album perfect voor avonden waarop je net iets rustigere muziek kan gebruiken. Al kan je er evengoed mee door de straten dansen op weg naar school. 
+<span class="engels">A Beard of Stars</span> is waar het geluid van <span class="engels">Tyrannosaurus Rex</span> begint te veranderen. En de legendarische <span class="engels">T.Rex</span> <span class="engels">sound</span> is eindelijk niet ver meer weg. Dit maakt het album perfect voor avonden waarop je net iets rustigere muziek kan gebruiken. Al kan je er evengoed mee door de straten dansen op weg naar school. 
 <div class="witregel"> </div>
 
 <table>
