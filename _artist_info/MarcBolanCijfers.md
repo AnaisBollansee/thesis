@@ -12,11 +12,11 @@ In Vlaanderen halen Marc Bolan en T.Rex een aantal keer de hitlijsten. Maar de r
 <table class="grafiek-tabel" id="1">
   <thead>
     <tr>
-      <th>Voor het eerst in de hitlijst</th>
+      <th>Eerste notatie</th>
       <th>Nummer</th>
-      <th>Aantal weken op #1</th>
-      <th data-dynatable-column="integer">Aantal weken in hitlijst</th>
-      <th>Hoogste plaats </th>
+      <th>Weken op #1</th>
+      <th>Weken in #100</th>
+      <th>Hoogste notatie</th>
     </tr>
   </thead>
   <tbody>
@@ -55,11 +55,11 @@ In Groot-Brittanië daarentegen is Marc Bolan erg populair. Bijna al de hits en 
 <table class="grafiek-tabel" id="2">
   <thead>
     <tr>
-      <th>Voor het eerst in de hitlijst</th>
+      <th>Eerste notatie</th>
       <th>Nummer</th>
-      <th>Aantal weken op #1</th>
-       <th>Aantal weken in hitlijst</th>
-        <th>Hoogste plaats </th>
+      <th>Weken op #1</th>
+      <th>Weken in #100</th>
+      <th>Hoogste notatie</th>
     </tr>
   </thead>
   <tbody>
@@ -275,11 +275,11 @@ In Groot-Brittanië daarentegen is Marc Bolan erg populair. Bijna al de hits en 
 <table class="grafiek-tabel" id="3">
   <thead>
     <tr>
-      <th>Voor het eerst in de hitlijst</th>
-      <th>Album</th>
-      <th>Aantal weken op #1</th>
-       <th>Aantal weken in hitlijst</th>
-        <th>Hoogste plaats </th>
+     <th>Eerste notatie</th>
+      <th>Nummer</th>
+      <th>Weken op #1</th>
+      <th>Weken in #100</th>
+      <th>Hoogste notatie</th>
         <th>Soort album</th>
     </tr>
   </thead>
