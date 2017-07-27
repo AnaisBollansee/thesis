@@ -126,7 +126,7 @@ Althans dat is hoe Marc Bolan er zelf over dacht. De platenmaatschappijen in Lon
 
 En hoewel Bolan zelf niet kon rijden, zou deze voorspelling tien jaar later uitkomen.
 
-Zijn vroegere manager <span tooltip=" Tony Secunda was een manager van rockgroepen. Hij werd geboren op 24 augustus 1940 in Surrey, Engeland. In 1971 startte hij zijn samenwerking met T.Rex en hielp Bolan bij het oprichten van zijn eigen record label T.Rex Wax Co. Tijdens de Jaren ’80 begon hij zijn eigen uitgeverij voor muziekbiografieën in California. Hij overleed op 12 februari 1995 in Californië.">Tony Secunda</span> zei hierover: 
+Zijn vroegere manager <span tooltip=" Tony Secunda was een manager van rockgroepen. Hij werd geboren op 24 augustus 1940 in Surrey, Engeland. In 1971 startte hij zijn samenwerking met T.Rex en hielp Bolan bij het oprichten van zijn eigen record label T.Rex Wax Co. Tijdens de Jaren ’80 begon hij zijn eigen uitgeverij voor muziekbiografieën in Californië. Hij overleed op 12 februari 1995 in Californië.">Tony Secunda</span> zei hierover: 
 
 <h1 tooltip="‘Hij reedt nooit met de auto, hij had altijd schrik. Marc heeft nooit een rijbewijs gehad en hij weigerde om te leren rijden’">‘‘He would never drive a car, he was always scared - Marc never had a driving licence, he refused to learn’</h1>
 

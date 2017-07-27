@@ -12,7 +12,7 @@ Bolan’s muziek inspireert nog steeds mensen. Muzikanten als {% include link.ht
 ## 5) Detroit Rock City 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JBTg_CW9kQQ" frameborder="0" allowfullscreen></iframe>
 
-<span class="engels">Detroit Rock City</span> gaat over vier jonge gasten met een liefde voor de hardrockband TODO EXTRA UITLEG: KISS. Hun ouders zijn hier iets minder blij mee. Zij aanzien <span class="engels">KISS</span> als de muziek van de duivel. Dit kan de jongens geen fluit schelen. En wanneer de band optreedt in Detroit, is het voor hen meteen duidelijk dat ze naar het optreden gaan. Jam, Hawk, Lek en Trip kopen meteen hun tickets. Maar op het optreden geraken is net iets moeilijker dan dat. 
+<span class="engels">Detroit Rock City</span> gaat over vier jonge gasten met een liefde voor de hardrockband <span tooltip="De hardrockgroep KISS is een van de meest succesvolle bands aller tijden. Ze zijn vooral bekend voor hun opvallende make-up en live optredens met erg veel vuur en bloed. Kiss is opgericht in 1973 en werd wereldbekend in 1979 met het nummer I Was Made for Lovin’ You. De originele bezetting bestond uit Paul Stanley (gitaar & zang), Gene Simmons (bass & zang), Ace Frehley (gitaar & zang) en Peter Criss (drums & zang).">KISS</span>. Hun ouders zijn hier iets minder blij mee. Zij aanzien <span class="engels">KISS</span> als de muziek van de duivel. Dit kan de jongens geen fluit schelen. En wanneer de band optreedt in Detroit, is het voor hen meteen duidelijk dat ze naar het optreden gaan. Jam, Hawk, Lek en Trip kopen meteen hun tickets. Maar op het optreden geraken is net iets moeilijker dan dat. 
 
 #### Nummer: <br>
 <span class="engels">20th Century Boy</span>.
