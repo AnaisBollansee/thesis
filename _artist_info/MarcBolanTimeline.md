@@ -2,7 +2,7 @@
 artist: Marc Bolan
 title:  "Timeline"
 link-title: "Door de jaren"
-order: 7
+order: 6
 ---
 # De bezetting van T.Rex door de jaren heen
 

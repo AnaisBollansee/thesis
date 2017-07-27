@@ -2,7 +2,7 @@
 artist: Marc Bolan
 title:  "Test je kennis"
 link-title: "Test je kennis"
-order: 6
+order: 7
 ---
 
 # Hoeveel weet jij over Marc Bolan?
