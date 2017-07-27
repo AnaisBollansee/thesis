@@ -270,10 +270,17 @@ Vanaf dan begint de groep aan haar gloriejaren.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=238&end=274" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
+{% include start_slides.html %}
 
 {% include link.html url="/albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.rex" new_tab=true %} is het eerste album dat zijn weg vindt naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in de {% include link.html url="http://www.officialcharts.com//" tekst="Britse hitlijsten" new_tab=true %}. En met {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} breken ze helemaal door. Dit album staat maar liefst acht weken op nummer 1, en 44 weken in de top 100. <span tooltip="Official Charts, All The Numer 1 Albums, Auteur onbekend, geraadpleegd op 20/06/2017, {% include link.html tekst='Bron' url='http://www.officialcharts.com/chart-news/all-the-number-1-albums__7949/' escaped=true new_tab=true %}">Zo is het een van de best scorende platen uit 1971</span>.
 
 <a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/219761656793315291/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+{% include next_slide.html %}
+Marc Bolan wordt ineens voor vele jongeren een inspiratiebron. Zo ook voor Andy Riff Socratous:
+<span class="quote" tooltip="‘Ik was 15 toen Hot Love en Bang a Gong (Get it On) uitkwamen. Ik werd onmiddelijk verliefd en begon naar al Marc Bolan’s muziek te luisteren. In 1972 kreeg ik mijn eerste gitaar en begon ik mee te spelen met de muziek van T.Rex. In 1978 speelde ik voor het eerst in een band. Onze muziek werd geïnspireerd door alle mensen die op dat moment anders waren. En Marc was daar natuurlijk één van.’">‘I was 15 years old when Hot Love and Bang a Gong (Get It On) came out. I immediately fell in love and started to listen to all of Marc’s stuff. In 1972 I got my first guitar and started to play along to T.Rex. In 1978 I joined my first band. Our music was inspired by all the people that stood out at that time. And Marc, of course, was one of them.’</span><span class="quote" tooltip="‘Marc was anders en uniek. Ik hou van de manier waarop hij beweegt op het podium. En hoe hij bijvoorbeeld zijn gitaar gebruikt als een wapen. Hij schreef geweldige gitaarlijnen en prachtige teksten. Hij was een echte ster. Hij heeft me geïnspireerd om zelf iets te doen. Door hem ben ik muziek beginnen spelen. En door hem speel ik vandaag nog steeds.’">‘Marc was unique and different. I like the way he moved on stage. For example, how he used his guitar as a weapon on stage. He also wrote great riffs and phenomenal lyrics. He was a real star. He inspired me to do something myself. I started playing music because of him. And I still play because of him.’</span>
+
+{% include end_slides.html %}
 
 {% include next_section.html %}
 {% include start_slides.html %}
