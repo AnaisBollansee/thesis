@@ -209,22 +209,8 @@ Een grote Tyrannosaurus Rex-fan is radiopersoonlijkheid {% include link.html url
 
 En tijdens dat alles vindt Bolan ook de tijd om poëzie te schrijven. Zo komt in 1969 zijn eerste poëziebundel, <span class="engels">The Warlock of Love</span>, uit. En hoewel de critici niet allemaal even enthousiast zijn, vliegen de kopiën de deur uit.
 
-<p class="quote">The closet eye.
-Dove skims the sky.<br>
-A silver penance,<br>
-a wrong wicked and shorn<br>
-assulted his majesty exalted.<br>
-My rams foot hexagonals on,<br>
-and O for the ice king a twitter in the storm.<br>
-The eloquence of blue juliped tents<br>
-and a crown of dark swansdown.<br>
-O Elaina, child soothsayer,<br>
-cheetah sleeper,<br>
-laden legs like a god —<br>
-a fools everglade like the seasons slave,<br>
-and your quince everlasting horn-lamp<br>
-made of wheat<br>
-at your tiny rivered feet.</p>
+### The closet eye.<br> Dove skims the sky.<br> A silver penance,<br> a wrong wicked and shorn<br> assulted his majesty exalted.<br> My rams foot hexagonals on,<br> and O for the ice king a twitter in the storm.<br> The eloquence of blue juliped tents<br> and a crown of dark swansdown.<br> O Elaina, child soothsayer,<br> cheetah sleeper,<br> laden legs like a god —<br> a fools everglade like the seasons slave,<br> and your quince everlasting horn-lamp<br> made of wheat<br> at your tiny rivered feet.
+<span class="witregel"> </span>
 
 <div class="bronvermelding"> The Warlock Of Love – Marc Bolan, Lupus Music (1969), P. 14</div> 
 
@@ -381,7 +367,7 @@ Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst=
 
 In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige T.Rex album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. Rolan Bolan is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/31736372355306447/"></a></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/31736372355306447/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
@@ -515,7 +501,7 @@ Jones en hun zoon Rolan Bolan verhuisen naar Amerika van zodra ze hersteld is va
 {% include next_section.html %}
 ### Postuum
 
-Ook na de dood van Marc Bolan verschijnen er nog platen van T.Rex. Zo kwam in 1979 Solid Gold uit, een <span tooltip="Op een compilatie cd staan nummers die al eerder uitgebracht zijn op andere cd’s. Er wordt dus materiaal van op verschillende cd’s samengebracht op één cd. Meestal gaat het dan om een cd met de grootste hits van de artiest. Of de meest gespeelde liedjes van dat moment.”>compilatie cd</span> met verschillende grote T.Rex hits op. In 1981 kwam de plaat T.Rex in Concert uit. Een live-album dat werd opgenomen tijdens de Electric Warrior tournee in 1971. In 1980 komt het album The unobtainable T. Rex uit. Met daarop 16 nooit eerder uitgebrachte T.Rex nummers.In 1985 en 1991 verschijnen twee compilatie cd’s: Best of the 20th Century Boy en The Ultimate Collection. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee best of cd’s: The Essential Collection (2002) en Greatest Hits (2007). Deze moeten het doen met een plaats in de top 20.In 2012 werd het best scorende T.Rex album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende bonustracks te vinden zijn. 
+Ook na de dood van Marc Bolan verschijnen er nog platen van T.Rex. Zo kwam in 1979 Solid Gold uit, een <span tooltip="Op een compilatie cd staan nummers die al eerder uitgebracht zijn op andere cd’s. Er wordt dus materiaal van op verschillende cd’s samengebracht op één cd. Meestal gaat het dan om een cd met de grootste hits van de artiest. Of de meest gespeelde liedjes van dat moment.">compilatie cd</span> met verschillende grote T.Rex hits op. In 1981 kwam de plaat T.Rex in Concert uit. Een live-album dat werd opgenomen tijdens de Electric Warrior tournee in 1971. In 1980 komt het album The unobtainable T. Rex uit. Met daarop 16 nooit eerder uitgebrachte T.Rex nummers.In 1985 en 1991 verschijnen twee compilatie cd’s: Best of the 20th Century Boy en The Ultimate Collection. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee best of cd’s: The Essential Collection (2002) en Greatest Hits (2007). Deze moeten het doen met een plaats in de top 20.In 2012 werd het best scorende T.Rex album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende bonustracks te vinden zijn. 
 
 {% include next_section.html %}
 
@@ -533,7 +519,7 @@ June Feld Bolan sterft in 1994 in Turkije aan een hartaanval. Haar relatie met M
 
 {% include next_section.html %}
 
-Hun zoon Rolan Bolan woont in Los Angeles (California), waar hij als muzikant in de voetsporen van zijn ouders treedt. 
+Hun zoon Rolan Bolan woont in Los Angeles (Californië), waar hij als muzikant in de voetsporen van zijn ouders treedt. 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Xx1UZg0Px8Q" frameborder="0" allowfullscreen></iframe>
 
