@@ -5,8 +5,8 @@ layout: base
 
 <div class="content" markdown="1">
 
-# Music 
-###### over 
+# Music <br> 
+### over <br> 
 # Mind
 
 </div>
