@@ -11,6 +11,6 @@
 
 
 # TODO PABLO
-* 
+* Op de Hompage: te veel witruimte boven de titel
 * 
 * 
