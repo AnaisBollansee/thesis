@@ -1,4 +1,4 @@
-# Website voor de thesis van Anais
+# Website voor de thesis van Anaïs
 
 ## Used plugins:
 
@@ -8,3 +8,9 @@
 * http://juanma-aguero.github.io/fancy-timeline/
 * http://afarkas.github.io/lazysizes/
 * https://alvarotrigo.com/fullPage/
+
+
+# TODO PABLO
+* 
+* 
+* 

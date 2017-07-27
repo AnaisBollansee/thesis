@@ -555,4 +555,4 @@ In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij sti
 
 En ook voor June Feld Bolan werd er in 2005 een plaat toegevoegd. 
 
-TODO FOTO
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="large" href="https://www.pinterest.com/pin/512988213787181568/"></a>
