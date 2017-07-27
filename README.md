@@ -12,5 +12,5 @@
 
 # TODO PABLO
 * Op de Hompage: te veel witruimte boven de titel
-* 
+* Hoe krijg ik weer tekst onder 'Written by'?
 * 
