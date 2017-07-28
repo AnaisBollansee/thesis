@@ -22,7 +22,7 @@ order: 1
  
 Marc Bolan, geboren als Mark Feld op 30 september 1947, is de zoon van Simeon en Phyllis Feld. Hij groeit op in het joodse gezin met één oudere broer: Harry. Zijn moeder werkte als marktkramer op Brewicks Street Market, een van de bekendste openlucht markten in Londen. Zijn vader was een van origine pools-russische vrachtwagenchauffeur. 
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" href="https://www.pinterest.com/pin/548524429605341196/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" href="https://www.pinterest.com/pin/300122762650685337/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
