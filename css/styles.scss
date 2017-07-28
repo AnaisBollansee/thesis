@@ -84,13 +84,15 @@ ul.navigation_bar {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	overflow: hidden;
+	overflow: auto;
 	background-color: $dark;
 	z-index: 100;
+	height: 38pt;
+	//white-space:nowrap;
 }
 
 .navigation_bar li {
-    float: left;
+	display: inline-block;
 }
 
 .navigation_bar li a {
