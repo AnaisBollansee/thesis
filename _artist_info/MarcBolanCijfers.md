@@ -269,6 +269,8 @@ In Groot-Brittanië daarentegen is Marc Bolan erg populair. Bijna al de hits en 
   </tbody>
 </table>
 
+<span class="bronvermelding">{% include link.html url="http://www.officialcharts.com/artist/2746/t-rex/" tekst="Cijfers gebaseerd op Official Charts" new_tab=true %}</span>
+
 
 ## Albums
 
