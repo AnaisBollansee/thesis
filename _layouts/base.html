@@ -211,7 +211,7 @@
 			$(".grafiek-tabel").dynatable()
 			
 			function adjustTop() {
-				var height = $('.navigation_bar').height();
+				var height = $('.navigation_bar').height() || 0;
 				$('body').css({'padding-top': height + 'px'});
 			}
 			adjustTop();
