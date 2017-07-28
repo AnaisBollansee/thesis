@@ -46,7 +46,7 @@ Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie &
 
 {% include next_section.html %}
 
-Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de manier waarop hij zich kleedde. Als jonge tiener geraakte Bolan geobsedeerd door kleren en zag hij er altijd piekfijn uit. Zo werd hij in 1962 gespot door het <span class="engels">lifestyle</span> magazine <span class="engels">Town</span>. En iets later, op 16 jarige leeftijd, is hij te zien in een aflevering van de Britse TV-serie <span class="engels">Orlando</span>
+Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de manier waarop hij zich kleedde. Als jonge tiener geraakte Bolan geobsedeerd door kleren en zag hij er altijd piekfijn uit. Zo werd hij in 1962 gespot door het <span class="engels">lifestyle</span> magazine <span class="engels">Town</span>. En iets later, op 16 jarige leeftijd, is hij te zien in een aflevering van de Britse TV-serie <span class="engels">Orlando</span>.
 <div class="witregel"> </div>
  
 <iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=274&end=356" frameborder="0" allowfullscreen></iframe>
