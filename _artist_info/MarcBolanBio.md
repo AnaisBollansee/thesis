@@ -70,7 +70,7 @@ De ontmoeting leidt tot het nummer <span class="engels">The Wizard</span>, zijn 
 <div class="witregel"></div>
 <iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/mfSSmy8B5GA" frameborder="0" allowfullscreen></iframe>
 <div class="witregel"></div>
-In 1970 komt het nummer terecht komt op het eerste T.Rex album {% include link.html url="/ albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.Rex" new_tab=true %}.
+In 1970 komt het nummer terecht komt op het eerste <span class="engels">T.Rex</span> album {% include link.html url="/ albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.Rex" new_tab=true %}.
 
 {% include next_section.html anchor="JohnsChildren" %}
 
@@ -225,7 +225,7 @@ Maar de relatie tussen Marc Bolan en {% include link.html url="/artist_info/Mino
 {% include next_section.html %}
 {% include start_slides.html %}
 
-Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_tab=true %} aan zijn zij begint een nieuw tijdperk. Elektrische gitaren zijn steeds meer aanwezig in de muziek. En na een laatste album onder de naam Tyrannosaurus Rex ({% include link.html url="/albums/1970-03-13-MarcBolan-ABeardOfStars/" tekst="A Beard of Stars" new_tab=true %}), wordt de groepsnaam officieel T.Rex. Bolan smijt zijn hippielook uit het raam en vindt zichzelf opnieuw uit met make-up en boa’s. 
+Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_tab=true %} aan zijn zij begint een nieuw tijdperk. Elektrische gitaren zijn steeds meer aanwezig in de muziek. En na een laatste album onder de naam Tyrannosaurus Rex ({% include link.html url="/albums/1970-03-13-MarcBolan-ABeardOfStars/" tekst="A Beard of Stars" new_tab=true %}), wordt de groepsnaam officieel <span class="engels">T.Rex</span>. Bolan smijt zijn hippielook uit het raam en vindt zichzelf opnieuw uit met make-up en boa’s. 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/EiYxPFitUz4?start=07&end=174" frameborder="0" allowfullscreen></iframe>
 
@@ -303,12 +303,12 @@ Deze periode van glorie en krijsende tienermeisjes kreeg de naam <span class="en
 {% include end_slides.html %}
 {% include next_section.html %}
 
-Hierna vallen de platen van Marc Bolan en T.Rex uit de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} en zullen ze nooit terugkeren. <span tooltip="Marc Bolan – The Final Word, Mark Tinkler, Universal, 2007, 57:53-58:19">Volgens producer Tony Visconti veranderde Bolan zijn muziek niet vaak genoeg. En verloor Bolan’s publiek interesse. Bolan aan de andere kant vond het belangrijk om platen te blijven maken ‘for the kids’. Want het waren deze tieners die zijn platen kochten. Een te drastische verandering zou er volgens hem voor zorgen dat zijn publiek helemaal zou afhaken.</span>
+Hierna vallen de platen van Marc Bolan en <span class="engels">T.Rex</span> uit de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} en zullen ze nooit terugkeren. <span tooltip="Marc Bolan – The Final Word, Mark Tinkler, Universal, 2007, 57:53-58:19">Volgens producer Tony Visconti veranderde Bolan zijn muziek niet vaak genoeg. En verloor Bolan’s publiek interesse. Bolan aan de andere kant vond het belangrijk om platen te blijven maken ‘for the kids’. Want het waren deze tieners die zijn platen kochten. Een te drastische verandering zou er volgens hem voor zorgen dat zijn publiek helemaal zou afhaken.</span>
 
 {% include next_section.html %}
 {% include start_slides.html %}
 
-Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constante stress en druk begint zijn tol te eisen. En ook de T.Rex line-up begint te veranderen. Bolan begint een samenwerking met {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %} en maakt steeds vaker gebruik van studio-artiesten tijdens het opnemen van zijn muziek. Aan de andere kant verlaat {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %} de band in 1973 en {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} eind 1974.  
+Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constante stress en druk begint zijn tol te eisen. En ook de <span class="engels">T.Rex</span> line-up begint te veranderen. Bolan begint een samenwerking met {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %} en maakt steeds vaker gebruik van studio-artiesten tijdens het opnemen van zijn muziek. Aan de andere kant verlaat {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %} de band in 1973 en {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} eind 1974.  
 
 En ook voor producer en vriend {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} is het over en uit. Visconti herinnert zich de dag dat Bolan verschillende groupies, cocaïne en cognac meenam naar de studio. Door deze dodelijke combinatie krijg Bolan zijn gitaar niet juist gestemd. En Visconti besluit om hem hierop te wijzen. 
 
@@ -372,7 +372,7 @@ Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst=
 {% include end_slides.html %}
 {% include next_section.html %}
 
-In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige T.Rex album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. Rolan Bolan is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
+In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige <span class="engels">T.Rex</span> album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. Rolan Bolan is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
 
 <a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/31736372355306447/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
@@ -544,7 +544,7 @@ In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij sti
 
 {% include next_section.html %}
 
-{% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} en {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %} (vier leden die een belangrijke invloed hadden op de muziek van T.Rex) kregen er herdenkplaten. 
+{% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} en {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %} (vier leden die een belangrijke invloed hadden op de muziek van <span class="engels">T.Rex</span>) kregen er herdenkplaten. 
 
 En ook voor June Feld Bolan werd er in 2005 een plaat toegevoegd. 
 
