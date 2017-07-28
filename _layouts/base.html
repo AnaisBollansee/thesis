@@ -37,9 +37,10 @@
 			for (i = 0; i < tooltips.length; ++i) {
 				tooltipList.append('<li value=' + tooltips[i].index + '>' + tooltips[i].value + '</li>')
 			}
-			$('.content').append('<h2>Voetnoten</h2>')
-			$('.content').append(tooltipList)
-
+			if (tooltips.length > 0) {
+				$('.content').append('<h2>Voetnoten</h2>')
+				$('.content').append(tooltipList)
+			}
 			$(".timeline").each(function(index){
 				var timeline = $( this )
 
