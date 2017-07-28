@@ -113,6 +113,15 @@
 			$("iframe").each(function(index){
 				$( this ).after('<div>' + ($( this ).attr('src') || $( this ).attr('data-src')) + '</div>')
 			})
+			
+			function adjustTop() {
+				var height = $('.navigation_bar').height() || 0;
+				$('body').css({'padding-top': height + 'px'});
+			}
+			adjustTop();
+			$(window).resize(function(){
+				adjustTop();
+			});
 		</script>
 		{% if layout.extra_js %}
 		{% for js_file in layout.extra_js %}
