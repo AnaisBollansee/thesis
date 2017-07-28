@@ -17,7 +17,7 @@ order: 1
   
 {% include next_section.html %}
  
-### Jeugdjaren
+## Jeugdjaren
 <div class="witregel"> </div>
  
 Marc Bolan, geboren als Mark Feld op 30 september 1947, is de zoon van Simeon en Phyllis Feld. Hij groeit op in het Joodse gezin met één oudere broer: Harry. Zijn moeder werkte als marktkramer op Brewicks Street Market, een van de bekendste openlucht markten in Londen. Zijn vader was een van origine Pools-Russische vrachtwagenchauffeur. 
@@ -112,7 +112,7 @@ Althans dat is hoe Marc Bolan er zelf over dacht. De platenmaatschappijen in Lon
 
 {% include start_slides.html %}
 
-### John's Children
+## John's Children
 
 <span tooltip="Simon Napier-Bell is een Brits manager, muziekproducent en journalist. Hij is geboren op 22 april 1939 in Ealing, een wijk in Londen. Sinds 2013 werkt hij als adviseur. Zo leert hij (jonge) managers hoe ze hun artiesten kunnen lanceren.">Simon Napier-Bell</span> had ook John’s Children onder zijn vleugels. De groep had geen al te beste gitarist en niemand die het talent bezat om goede nummers te schrijven. Tijdens een etentje besluit Napier-Bell om Bolan te overtuigen deel te worden van de groep:
 
@@ -154,7 +154,7 @@ Marc’s laatste optreden met de band was tijdens een benefietconcert: <span cla
 
 {% include next_section.html anchor="TyrannosaurusRex" %}
 
-### Tyrannosaurus Rex
+## Tyrannosaurus Rex
 
 Na zo’n vier maanden verlaat Bolan John’s Children. 
 In augustus 1967 richt hij Tyrannosaurus Rex op, een duo met Percussionist {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}.
@@ -230,7 +230,7 @@ Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_t
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/EiYxPFitUz4?start=07&end=174" frameborder="0" allowfullscreen></iframe>
 
 {% include next_slide.html %}
-### Glamrock
+## Glamrock
 
 Begin jaren ‘70 begint Marc Bolan zijn hippie-stijl te veranderen. En hij zet een nieuw genre in gang: GlamRock. De kleding van de muzikanten wordt steeds belangrijker. Bolan verschijnt op het podium in hakken en kleurrijke boa’s. En hij is ook niet vies van een beetje make-up of glitters op zijn gezicht. 
 
@@ -263,7 +263,7 @@ In october van dat jaar scoort Bolan zijn eerste {% include link.html url="/arti
 
 {% include next_section.html anchor="T.Rex" %}
 
-### T.Rex
+## T.Rex
 
 Vanaf dan begint de groep aan haar gloriejaren. 
 
@@ -294,7 +294,7 @@ De film werd geregisseerd door <span tooltip="Ringo Starr was de drummer van de 
 
 {% include next_slide.html %}
 
-### T.Rextasy
+## T.Rextasy
 
 Deze periode van glorie en krijsende tienermeisjes kreeg de naam <span class="engels">T.Rextasy</span>. Het was geleden van het begin van de <span class="engels">Beatlemania</span>, ongeveer tien jaar eerder, dat jonge meisjes (en jongens) zo vielen voor een artiest.
 
@@ -320,7 +320,7 @@ En ook voor producer en vriend {% include link.html url="/artist_info/Minor/Tony
 
 {% include next_slide.html %}
 
-### Alter ego
+## Alter ego
 
 Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend <span tooltip="David Bowie is een van de meest invloedrijke rockmuzikanten uit de jaren 60. Dit omdat hij er als geen ander in slaagt om zich elke keer opnieuw uit te vinden en in de huid te kruipen van een nieuw personage. Bowie werd geboren in Londen op 8 januari 1947. En hij stierf in New York, twee dagen na zijn 69ste verjaardag, op 10 januari 2016.">David Bowie</span> het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. 
 
@@ -350,7 +350,7 @@ Tot hij gevraagd wordt om te verschijnen op de Britse TV-show <span tooltip="Bri
 {% include next_section.html %}
 {% include start_slides.html %}
 
-### Rolan Bolan
+## Rolan Bolan
 
 Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaat op zoek naar hulp en laat zich opnemen in een ontwenningkliniek. Maar een echte doorbraak komt er pas wanneer zijn vriendin, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, zwanger blijkt te zijn. 
 
@@ -386,7 +386,7 @@ Op het eerste zicht misschien een vreemde combinatie. <span tooltip="Marc Bolan 
 
 {% include next_section.html achor="16091977" %}
 
-### 16 september 1977
+## 16 september 1977
 
 Nadat {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} een periode heeft doorgebracht in Amerika, komt ze op 16 september 1977 opnieuw aan in Londen. Bolan was een gelukkig man. Jones is opnieuw in het land en zijn TV show <span class="engels">Marc</span> was een succes. 
 
@@ -407,7 +407,7 @@ Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/li6bNrZrmGw?start=163&end=236" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
-### Inbraken
+## Inbraken
 
 Niet lang na Bolan’s dood word er ingebroken in zijn huis. Verschillende van zijn persoonlijke spullen, zoals zijn gitaren en kleren, waren plots verdwenen. En ook de begrafenis-ondernemer waagde zijn kans. In
 <span tooltip="The Telegraph – Behind the glitter, gepubliceerd op 31/08/2002, geraadpleegd op 07/07/2017 {% include link.html tekst='bron' url='http://www.telegraph.co.uk/culture/4728611/Behind-the-glitter.html' escaped=true new_tab=true %}">The Telegraph </span> staat te lezen hoe Marc Bolan’s broer, Harry Feld, in 1987 op de hoogte werd gebracht over het feit dat deze de kleren probeerde te verkopen waarin Bolan overleden was. Feld had nochtans opgedragen om de kleren na Bolan’s crematie te vernietigen. De begrafenis-ondernemer zegt dat hij de kleren gevonden heeft toen hij met pensioen ging. Hij wilde ze verkopen om de kas te spijzen van een goed doel. Harry Feld heeft dan het heft in eigen handen genomen en de kleren verbrand. 
@@ -415,7 +415,7 @@ Niet lang na Bolan’s dood word er ingebroken in zijn huis. Verschillende van z
 {% include next_section.html %}
 {% include start_slides.html %}
 
-### Begrafenis
+## Begrafenis
 
 Vier dagen na het ongeluk, op dinsdag 20 september 1977, ontwaakt {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} uit haar coma. Pas dan komt ze te weten dat haar geliefde, Marc Bolan, gestorven is en dat diezelfde dag zijn assen nog worden uitgestrooid. Jones is op dat moment nog niet sterk genoeg om de plechtigheid bij te wonen. 
 
@@ -499,20 +499,20 @@ Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis nie
 
 {% include next_section.html %}
 
-### Na zijn dood
+## Na zijn dood
 
 Bolan werd gecremeerd en uitgestrooid op dezelfde plek waar 14 jaar later ook zijn ouders, Simeon en Phyllis Feld, hun laatste rustplek vinden. Van Bolan’s erfenis ging slechts een klein stuk naar {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} omdat hij toen hij stierf nog steeds getrouwd was met June Feld Bolan. 
 
 Gloria Jones en hun zoon Rolan Bolan verhuizen naar Amerika van zodra Jones hersteld is van het ongeluk. 
 
 {% include next_section.html %}
-### Postuum
+## Postuum
 
 Ook na de dood van Marc Bolan verschijnen er nog platen van <span class="engels">T.Rex</span>. Zo kwam in 1979 <span class="engels">Solid Gold</span> uit, een <span tooltip="Op een compilatie cd staan nummers die al eerder uitgebracht zijn op andere cd’s. Er wordt dus materiaal van op verschillende cd’s samengebracht op één cd. Meestal gaat het dan om een cd met de grootste hits van de artiest. Of de meest gespeelde liedjes van dat moment.">compilatie cd</span> met verschillende grote <span class="engels">T.Rex</span> hits op. In 1981 kwam de plaat <span class="engels">T.Rex in Concert</span> uit. Een live-album dat werd opgenomen tijdens de <span class="engels">Electric Warrior</span> tournee in 1971. In 1980 komt het album <span class="engels">The Unobtainable T.Rex</span> uit. Met daarop 16 nooit eerder uitgebrachte <span class="engels">T.Rex</span> nummers.In 1985 en 1991 verschijnen twee compilatie cd’s: <span class="engels">Best of the 20th Century Boy</span> en <span class="engels">The Ultimate Collection</span>. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee <span class="engels">best of</span> cd’s: <span class="engels">The Essential Collection</span> (2002) en <span class="engels">Greatest Hits</span> (2007). Deze moeten het doen met een plaats in de top 20.In 2012 werd het best scorende <span class="engels">T.Rex</span> album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende <span class="engels">bonustracks</span> te vinden zijn. 
 
 {% include next_section.html %}
 
-### Sleutelfiguren
+## Sleutelfiguren
 
 June Feld Bolan sterft in 1994 in Turkije aan een hartaanval. Haar relatie met Marc Bolan is ze nooit vergeten. 
 
