@@ -194,6 +194,10 @@ font-size: 80%;
 	height: 320pt;
 }
 
+.home_artists .slick-arrow {
+	visibility: hidden;
+}
+
 .slick-prev::before, .slick-next::before {
 	color: $verydark;
 }
