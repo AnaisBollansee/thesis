@@ -5,10 +5,7 @@ layout: base
 
 <div class="content" markdown="1">
 
-# Music <br> 
-### over <br> 
-# Mind
-
+{% include image.html url="/images/icon.png%}
 </div>
 
 {% include artists_coverflow.html settings='{"focusOnSelect": true, "variableWidth": true, "centerMode": true, "slidesToShow": 4, "dots": true}'%}
