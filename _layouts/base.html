@@ -208,7 +208,16 @@
 					resultsFormat: 'Proficiat, je hebt %score van de %total antwoorden juist!'
 				})
 			})
-			$(".grafiek-tabel").dynatable();
+			$(".grafiek-tabel").dynatable()
+			
+			function adjustTop() {
+				var height = $('.navigation_bar').height();
+				$('body').css({'padding-top': height + 'px'});
+			}
+			adjustTop();
+			$(window).resize(function(){
+				adjustTop();
+			});
 		</script>
 		{% if layout.extra_js %}
 		{% for js_file in layout.extra_js %}
