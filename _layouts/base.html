@@ -16,7 +16,6 @@
 		{% endfor %}
 		{% endif %}
 
-		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/css/jquery.quiz-min.css' %}">
 		<link rel="stylesheet" type="text/css" href="{% include fix_url.html url='/css/styles.css' %}">
 	</head>
 
@@ -27,7 +26,6 @@
 	
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-		<script src="{% include fix_url.html url='/js/jquery.quiz-min.js' %}"></script>
 		<script>
 			$( document ).tooltip({
 				hide: { effect: "" }, //fadeOut
@@ -73,26 +71,18 @@
 			$(".quiz").each(function(index){
 				var quiz = $( this )
 
-				var question = ""
 				var corrResp = ""
 				var incorrResp = ""
-				var answers = []
-				var correctAnswer = -1
 
-				var questions = []
-
-				console.log(quiz.children(".questions"))
 				quiz.children(".questions").each(function(index){
-					console.log($( this ))
 					$( this ).children().each(function(index){
-						console.log($( this ))
 						var child = $( this )
 						if (index % 2 == 0) { //even are (should be) questions, odd answer list
 							if (child.is('p')) { // what it should be
-								question = child.text()
+								child.prepend('Vraag: ')
 							}
 							else {
-								question = "Incorrect format"
+								child.text('Incorrect format')
 							}
 						}
 						else {
@@ -101,43 +91,29 @@
 								child.children().each(function(index){
 									if (index == 0){
 										corrResp = $( this ).text()
+										$( this ).remove()
 									}
 									else if (index == 1) {
 										incorrResp = $( this ).text()
+										$( this ).remove()
 									}
 									else {
 										var text = $( this ).text().trim()
 										if (text.startsWith("=")) {
-											answers.push(text.substr(1).trim())
-											correctAnswer = index - 2 //-2 for the corr and incorr response
+											$( this ).text(text.substr(1).trim())
+											$( this ).addClass('correct')
 										}
 										else {
 											answers.push(text)
 										}
 									}
 								})
-								questions.push({
-									q: question,
-									options: answers,
-									correctIndex: correctAnswer,
-									correctResponse: corrResp,
-									incorrectResponse: incorrResp
-								})
-								answers = []
-								correctAnswer = -1
+
+								child.after('<div>Reactie bij fout antwoord: ' + incorrResp + '</div>')
+								child.after('<div>Reactie bij juist antwoord: ' + corrResp + '</div>')
 							}
 						}
 					})
-				})
-
-				console.log(questions)
-				quiz.children(".questions").empty()
-				quiz.quiz({
-					questions: questions,
-					nextButtonText: 'Volgende',
-					finishButtonText: 'Einde',
-					restartButtonText: 'Herstart',
-					resultsFormat: 'Proficiat, je hebt %score van de %total antwoorden juist!'
 				})
 			})
 		</script>

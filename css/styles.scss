@@ -329,6 +329,14 @@ table.grafiek-tabel {
 	margin:0 auto;
 }
 
+.quiz #quiz-start-screen {
+	visibility: hidden;
+}
+
+.quiz .correct {
+	background-color: green;
+}
+
 footer {
 	padding-top: 15pt;
 	max-width: 580pt;
