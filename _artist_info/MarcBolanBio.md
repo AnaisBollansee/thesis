@@ -17,10 +17,10 @@ order: 1
   
 {% include next_section.html %}
  
-### Jeugdjaren
+## Jeugdjaren
 <div class="witregel"> </div>
  
-Marc Bolan, geboren als Mark Feld op 30 september 1947, is de zoon van Simeon en Phyllis Feld. Hij groeit op in het joodse gezin met één oudere broer: Harry. Zijn moeder werkte als marktkramer op Brewicks Street Market, een van de bekendste openlucht markten in Londen. Zijn vader was een van origine pools-russische vrachtwagenchauffeur. 
+Marc Bolan, geboren als Mark Feld op 30 september 1947, is de zoon van Simeon en Phyllis Feld. Hij groeit op in het Joodse gezin met één oudere broer: Harry. Zijn moeder werkte als marktkramer op Brewicks Street Market, een van de bekendste openlucht markten in Londen. Zijn vader was een van origine Pools-Russische vrachtwagenchauffeur. 
 
 <a data-pin-do="embedPin" data-pin-lang="nl" href="https://www.pinterest.com/pin/300122762650685337/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
@@ -46,7 +46,7 @@ Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie &
 
 {% include next_section.html %}
 
-Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de manier waarop hij zich kleedde. Als jonge tiener geraakte Bolan geobsedeerd door kleren en zag hij er altijd piekfijn uit. Zo werd hij in 1962 gespot door het <span class="engels">lifestyle</span> magazine <span class="engels">Town</span>. En iets later, op 16 jarige leeftijd, is hij te zien in een aflevering van de Britse TV-serie <span class="engels">Orlando</span>
+Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de manier waarop hij zich kleedde. Als jonge tiener geraakte Bolan geobsedeerd door kleren en zag hij er altijd piekfijn uit. Zo werd hij in 1962 gespot door het <span class="engels">lifestyle</span> magazine <span class="engels">Town</span>. En iets later, op 16 jarige leeftijd, is hij te zien in een aflevering van de Britse TV-serie <span class="engels">Orlando</span>.
 <div class="witregel"> </div>
  
 <iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=274&end=356" frameborder="0" allowfullscreen></iframe>
@@ -70,7 +70,7 @@ De ontmoeting leidt tot het nummer <span class="engels">The Wizard</span>, zijn 
 <div class="witregel"></div>
 <iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/mfSSmy8B5GA" frameborder="0" allowfullscreen></iframe>
 <div class="witregel"></div>
-In 1970 komt het nummer terecht komt op het eerste T.Rex album {% include link.html url="/ albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.Rex" new_tab=true %}.
+In 1970 komt het nummer terecht komt op het eerste <span class="engels">T.Rex</span> album {% include link.html url="/ albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.Rex" new_tab=true %}.
 
 {% include next_section.html anchor="JohnsChildren" %}
 
@@ -112,7 +112,7 @@ Althans dat is hoe Marc Bolan er zelf over dacht. De platenmaatschappijen in Lon
 
 {% include start_slides.html %}
 
-### John's Children
+## John's Children
 
 <span tooltip="Simon Napier-Bell is een Brits manager, muziekproducent en journalist. Hij is geboren op 22 april 1939 in Ealing, een wijk in Londen. Sinds 2013 werkt hij als adviseur. Zo leert hij (jonge) managers hoe ze hun artiesten kunnen lanceren.">Simon Napier-Bell</span> had ook John’s Children onder zijn vleugels. De groep had geen al te beste gitarist en niemand die het talent bezat om goede nummers te schrijven. Tijdens een etentje besluit Napier-Bell om Bolan te overtuigen deel te worden van de groep:
 
@@ -148,13 +148,13 @@ Uiteindelijk stapt Marc Bolan in de groep en schrijft hij verschillende van hun 
 
 {% include next_section.html %}
 
-Marc’s laatste optrede met de band was tijdens een benefietconcert: <span class="engels">The 14 Hour Technicolor Dream</span>. Dat vond plaats in <span class="engels">Alexandra Palace</span>, een zaal in Londen. De headliner van het event was de Londense band {% include link.html url="/artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}.
+Marc’s laatste optreden met de band was tijdens een benefietconcert: <span class="engels">The 14 Hour Technicolor Dream</span>. Dat vond plaats in <span class="engels">Alexandra Palace</span>, een zaal in Londen. De headliner van het event was de Londense band {% include link.html url="/artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}.
 
 <iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/0ysSPIKriAg" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html anchor="TyrannosaurusRex" %}
 
-### Tyrannosaurus Rex
+## Tyrannosaurus Rex
 
 Na zo’n vier maanden verlaat Bolan John’s Children. 
 In augustus 1967 richt hij Tyrannosaurus Rex op, een duo met Percussionist {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}.
@@ -216,7 +216,7 @@ En tijdens dat alles vindt Bolan ook de tijd om poëzie te schrijven. Zo komt in
 
 {% include next_section.html %}
 
-Maar de relatie tussen Marc Bolan en {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %} werd steeds slechter. En na de Amerikaanse tournee in 1969 was de maat voor Bolan vol. En vervangt hij Took door {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}. Producer {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} herinnert de split als volgt: 
+Maar de relatie tussen Marc Bolan en {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %} werd steeds slechter. En na de Amerikaanse tournee in 1969 was de maat voor Bolan vol. En hij vervangt Took door {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}. Producer {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} herinnert de split als volgt: 
 
 <span class="quote" tooltip="‘Steve had makkelijk deel kunnen uitmaken van T.Rex, maar als persoon was hij beschadigd. Hij was van een andere planeet. Van tijd tot tijd leefde hij op straat, hij nam drugs en hij werd betrapt. Dit is waar het voor Marc veranderde – Steve zat twee weken of een maand vast, en dat was dat. Marc zei: “Mijn publiek zijn tieners, ik kan niet langer een drugsverslaafde in mijn band hebben.” De druppel was toen Steve zei: “ik zou nu graag enkele van mijn eigen nummers brengen.” Zijn druggebruik en het feit dat hij 50% van de nummers wou schrijven was te veel, Marc kon dit niet meer aan. Maar ik hield van hem.’">‘Steve could have lasted right into the T Rex days, but he was kind of a damaged person. He was from another planet. He lived on the street occasionally, he used drugs a lot, and he got busted. That was the turning point for Marc – Steve had to do two weeks or a month in remand, and that was it. Marc said: “My audience are teenagers, I can’t have a drug addict in my band anymore.” The last straw was when Steve said: “I’d like to do some of my own songs now.” His drug abuse and wanting to be a 50/50 creator was too much, Marc couldn’t take it, but I loved him.’</span>
 
@@ -225,12 +225,12 @@ Maar de relatie tussen Marc Bolan en {% include link.html url="/artist_info/Mino
 {% include next_section.html %}
 {% include start_slides.html %}
 
-Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_tab=true %} aan zijn zij begint een nieuw tijdperk. Elektrische gitaren zijn steeds meer aanwezig in de muziek. En na een laatste album onder de naam Tyrannosaurus Rex ({% include link.html url="/albums/1970-03-13-MarcBolan-ABeardOfStars/" tekst="A Beard of Stars" new_tab=true %}), wordt de groepsnaam officieel T.Rex. Bolan smijt zijn hippielook uit het raam en vindt zichzelf opnieuw uit met make-up en boa’s. 
+Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_tab=true %} aan zijn zij begint een nieuw tijdperk. Elektrische gitaren zijn steeds meer aanwezig in de muziek. En na een laatste album onder de naam Tyrannosaurus Rex ({% include link.html url="/albums/1970-03-13-MarcBolan-ABeardOfStars/" tekst="A Beard of Stars" new_tab=true %}), wordt de groepsnaam officieel <span class="engels">T.Rex</span>. Bolan smijt zijn hippielook uit het raam en vindt zichzelf opnieuw uit met make-up en boa’s. 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/EiYxPFitUz4?start=07&end=174" frameborder="0" allowfullscreen></iframe>
 
 {% include next_slide.html %}
-### Glamrock
+## Glamrock
 
 Begin jaren ‘70 begint Marc Bolan zijn hippie-stijl te veranderen. En hij zet een nieuw genre in gang: GlamRock. De kleding van de muzikanten wordt steeds belangrijker. Bolan verschijnt op het podium in hakken en kleurrijke boa’s. En hij is ook niet vies van een beetje make-up of glitters op zijn gezicht. 
 
@@ -263,7 +263,7 @@ In october van dat jaar scoort Bolan zijn eerste {% include link.html url="/arti
 
 {% include next_section.html anchor="T.Rex" %}
 
-### T.Rex
+## T.Rex
 
 Vanaf dan begint de groep aan haar gloriejaren. 
 
@@ -272,7 +272,7 @@ Vanaf dan begint de groep aan haar gloriejaren.
 {% include next_section.html %}
 {% include start_slides.html %}
 
-{% include link.html url="/albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.rex" new_tab=true %} is het eerste album dat zijn weg vindt naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in de {% include link.html url="http://www.officialcharts.com//" tekst="Britse hitlijsten" new_tab=true %}. En met {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} breken ze helemaal door. Dit album staat maar liefst acht weken op nummer 1, en 44 weken in de top 100. <span tooltip="Official Charts, All The Numer 1 Albums, Auteur onbekend, geraadpleegd op 20/06/2017, {% include link.html tekst='Bron' url='http://www.officialcharts.com/chart-news/all-the-number-1-albums__7949/' escaped=true new_tab=true %}">Zo is het een van de best scorende platen uit 1971</span>.
+{% include link.html url="/albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.Rex" new_tab=true %} is het eerste album dat zijn weg vindt naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in de {% include link.html url="http://www.officialcharts.com//" tekst="Britse hitlijsten" new_tab=true %}. En met {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} breken ze helemaal door. Dit album staat maar liefst acht weken op nummer 1, en 44 weken in de top 100. <span tooltip="Official Charts, All The Numer 1 Albums, Auteur onbekend, geraadpleegd op 20/06/2017, {% include link.html tekst='Bron' url='http://www.officialcharts.com/chart-news/all-the-number-1-albums__7949/' escaped=true new_tab=true %}">Zo is het een van de best scorende platen uit 1971</span>.
 
 <a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/219761656793315291/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
@@ -294,7 +294,7 @@ De film werd geregisseerd door <span tooltip="Ringo Starr was de drummer van de 
 
 {% include next_slide.html %}
 
-### T.Rextasy
+## T.Rextasy
 
 Deze periode van glorie en krijsende tienermeisjes kreeg de naam <span class="engels">T.Rextasy</span>. Het was geleden van het begin van de <span class="engels">Beatlemania</span>, ongeveer tien jaar eerder, dat jonge meisjes (en jongens) zo vielen voor een artiest.
 
@@ -303,12 +303,12 @@ Deze periode van glorie en krijsende tienermeisjes kreeg de naam <span class="en
 {% include end_slides.html %}
 {% include next_section.html %}
 
-Hierna vallen de platen van Marc Bolan en T.Rex uit de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} en zullen ze nooit terugkeren. <span tooltip="Marc Bolan – The Final Word, Mark Tinkler, Universal, 2007, 57:53-58:19">Volgens producer Tony Visconti veranderde Bolan zijn muziek niet vaak genoeg. En verloor Bolan’s publiek interesse. Bolan aan de andere kant vond het belangrijk om platen te blijven maken ‘for the kids’. Want het waren deze tieners die zijn platen kochten. Een te drastische verandering zou er volgens hem voor zorgen dat zijn publiek helemaal zou afhaken.</span>
+Hierna vallen de platen van Marc Bolan en <span class="engels">T.Rex</span> uit de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} en zullen ze nooit terugkeren. <span tooltip="Marc Bolan – The Final Word, Mark Tinkler, Universal, 2007, 57:53-58:19">Volgens producer Tony Visconti veranderde Bolan zijn muziek niet vaak genoeg. En verloor Bolan’s publiek interesse. Bolan aan de andere kant vond het belangrijk om platen te blijven maken ‘for the kids’. Want het waren deze tieners die zijn platen kochten. Een te drastische verandering zou er volgens hem voor zorgen dat zijn publiek helemaal zou afhaken.</span>
 
 {% include next_section.html %}
 {% include start_slides.html %}
 
-Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constante stress en druk begint zijn tol te eisen. En ook de T.Rex line-up begint te veranderen. Bolan begint een samenwerking met {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %} en maakt steeds vaker gebruik van studio-artiesten tijdens het opnemen van zijn muziek. Aan de andere kant verlaat {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %} de band in 1973 en {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} eind 1974.  
+Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constante stress en druk begint zijn tol te eisen. En ook de <span class="engels">T.Rex</span> line-up begint te veranderen. Bolan begint een samenwerking met {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %} en maakt steeds vaker gebruik van studio-artiesten tijdens het opnemen van zijn muziek. Aan de andere kant verlaat {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %} de band in 1973 en {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} eind 1974.  
 
 En ook voor producer en vriend {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} is het over en uit. Visconti herinnert zich de dag dat Bolan verschillende groupies, cocaïne en cognac meenam naar de studio. Door deze dodelijke combinatie krijg Bolan zijn gitaar niet juist gestemd. En Visconti besluit om hem hierop te wijzen. 
 
@@ -320,7 +320,7 @@ En ook voor producer en vriend {% include link.html url="/artist_info/Minor/Tony
 
 {% include next_slide.html %}
 
-### Alter ego
+## Alter ego
 
 Marc Bolan’s succes glipt hem uit de handen, maar hij is niet van plan om dit zomaar te laten gebeuren. Op dat moment doet zijn vriend <span tooltip="David Bowie is een van de meest invloedrijke rockmuzikanten uit de jaren 60. Dit omdat hij er als geen ander in slaagt om zich elke keer opnieuw uit te vinden en in de huid te kruipen van een nieuw personage. Bowie werd geboren in Londen op 8 januari 1947. En hij stierf in New York, twee dagen na zijn 69ste verjaardag, op 10 januari 2016.">David Bowie</span> het wel goed met zijn <span class="engels">Ziggy Stardust and the Spiders from Mars</span>. Dus probeert Bolan het ook met een alter ego: Zinc Alloy. 
 
@@ -350,7 +350,7 @@ Tot hij gevraagd wordt om te verschijnen op de Britse TV-show <span tooltip="Bri
 {% include next_section.html %}
 {% include start_slides.html %}
 
-### Rolan Bolan
+## Rolan Bolan
 
 Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaat op zoek naar hulp en laat zich opnemen in een ontwenningkliniek. Maar een echte doorbraak komt er pas wanneer zijn vriendin, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, zwanger blijkt te zijn. 
 
@@ -372,21 +372,21 @@ Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst=
 {% include end_slides.html %}
 {% include next_section.html %}
 
-In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige T.Rex album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. Rolan Bolan is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
+In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige <span class="engels">T.Rex</span> album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. Rolan Bolan is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
 
 <a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/31736372355306447/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
-Na zo’n drie jaar in een dip te hebben gezeten, lijkt ineens terug alles mogelijk voor Marc Bolan & T.Rex. En de groep begint aan hun laatste tour met als voorprogramma de Britse punkband <span class="engels">The Damned</span>. 
+Na zo’n drie jaar in een dip te hebben gezeten, lijkt ineens terug alles mogelijk voor Marc Bolan & <span class="engels">T.Rex</span>. En de groep begint aan hun laatste tour met als voorprogramma de Britse punkband <span class="engels">The Damned</span>. 
 
-Op het eerste zicht misschien een vreemde combinatie. <span tooltip="marc bolan music, An Interview with CAPTAIN SENSIBLE, Marc Arscott, geraadpleegd op 14/07/2017 {% include link.html tekst='bron' url='http://www.marcbolanmusic.com/captain-sensible.aspx' escaped=true new_tab=true %}">Maar Captain Sensible ,zanger van The Damned, was al een hele tijd fan van T.Rex. En droeg hun T-shirts wel eens tijdens optredens. Een foto van zo’n optrede kwam terecht in het Brits muziektijdschrift Sounds magazine. Bolan zag deze foto en besloot om contact op te nemen met The Damned. </span>
+Op het eerste zicht misschien een vreemde combinatie. <span tooltip="Marc Bolan music, An Interview with CAPTAIN SENSIBLE, Marc Arscott, geraadpleegd op 14/07/2017 {% include link.html tekst='bron' url='http://www.marcbolanmusic.com/captain-sensible.aspx' escaped=true new_tab=true %}">Maar Captain Sensible, zanger van <span class="engels">The Damned</span>, was al een hele tijd fan van <span class="engels">T.Rex</span>. En droeg hun T-shirts wel eens tijdens optredens. Een foto van zo’n optrede kwam terecht in het Brits muziektijdschrift <span class="engels">Sounds magazine</span>. Bolan zag deze foto en besloot om contact op te nemen met <span class="engels">The Damned</span>. </span>
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/pOss9PYsPvg" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html achor="16091977" %}
 
-### 16 september 1977
+## 16 september 1977
 
 Nadat {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} een periode heeft doorgebracht in Amerika, komt ze op 16 september 1977 opnieuw aan in Londen. Bolan was een gelukkig man. Jones is opnieuw in het land en zijn TV show <span class="engels">Marc</span> was een succes. 
 
@@ -394,7 +394,7 @@ Nadat {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria J
 
 {% include next_section.html %}
 
-Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een restaurant op Berkeley Square in Londen. Op weg naar huis verliest {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} controle over de auto. En het koppel belandt in de balustrade. Marc Bolan overleeft het ongeluk niet en sterft 2 weken voor zijn 30ste verjaardag. Gloria Jones belandt in een coma. Ze word ervan beschuldigd dat ze dronken was toen ze met de auto reed. Maar dit is nooit bewezen. Jones zelf ontkent dit. 
+Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een restaurant op Berkeley Square in Londen. Op weg naar huis verliest {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} controle over de auto. En het koppel belandt in de balustrade. Marc Bolan overleeft het ongeluk niet en sterft 2 weken voor zijn 30ste verjaardag. Gloria Jones belandt in een coma. Ze wordt ervan beschuldigd dat ze dronken was toen ze met de auto reed. Maar dit is nooit bewezen. Jones zelf ontkent dit. 
 
 <a data-pin-do="embedPin" data-pin-lang="nl" data-pin-terse="true" href="https://www.pinterest.com/pin/313422455293328317/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
@@ -407,15 +407,15 @@ Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/li6bNrZrmGw?start=163&end=236" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
-### Inbraken
+## Inbraken
 
 Niet lang na Bolan’s dood word er ingebroken in zijn huis. Verschillende van zijn persoonlijke spullen, zoals zijn gitaren en kleren, waren plots verdwenen. En ook de begrafenis-ondernemer waagde zijn kans. In
-<span tooltip="The Telegraph – Behind the glitter, gepubliseerd op 31/08/2002, geraadpleegd op 07/07/2017 {% include link.html tekst='bron' url='http://www.telegraph.co.uk/culture/4728611/Behind-the-glitter.html' escaped=true new_tab=true %}">The Telegraph </span> staat te lezen hoe Marc Bolan’s broer, Harry Feld, in 1987 op de hoogte werd gebracht over het feit dat deze de kleren probeerde te verkopen waarin Bolan overleden was. Feld had nochtans opgedragen om de kleren na Bolan’s crematie te vernietigen. De begrafenis-ondernemer zegt dat hij de kleren gevonden heeft toen hij met pensioen ging. Hij wilde ze verkopen om de kas te spijzen van een goed doel. Harry Feld heeft dan het heft in eigen handen genomen en de kleren verbrand. 
+<span tooltip="The Telegraph – Behind the glitter, gepubliceerd op 31/08/2002, geraadpleegd op 07/07/2017 {% include link.html tekst='bron' url='http://www.telegraph.co.uk/culture/4728611/Behind-the-glitter.html' escaped=true new_tab=true %}">The Telegraph </span> staat te lezen hoe Marc Bolan’s broer, Harry Feld, in 1987 op de hoogte werd gebracht over het feit dat deze de kleren probeerde te verkopen waarin Bolan overleden was. Feld had nochtans opgedragen om de kleren na Bolan’s crematie te vernietigen. De begrafenis-ondernemer zegt dat hij de kleren gevonden heeft toen hij met pensioen ging. Hij wilde ze verkopen om de kas te spijzen van een goed doel. Harry Feld heeft dan het heft in eigen handen genomen en de kleren verbrand. 
 
 {% include next_section.html %}
 {% include start_slides.html %}
 
-### Begrafenis
+## Begrafenis
 
 Vier dagen na het ongeluk, op dinsdag 20 september 1977, ontwaakt {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} uit haar coma. Pas dan komt ze te weten dat haar geliefde, Marc Bolan, gestorven is en dat diezelfde dag zijn assen nog worden uitgestrooid. Jones is op dat moment nog niet sterk genoeg om de plechtigheid bij te wonen. 
 
@@ -444,7 +444,7 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 <div class="witregel"> </div>
 
-<p class="dagboek"><span tooltip="‘Sindsdien ging ik naar zo veel mogelijk concerten en TV shows. Ik zorgde ervoor dat ik altijd één of twee studentenjobs had waarmee ik genoeg geld verdiende om platen, T-shirt en andere memorabilia te kopen. Mijn eerste échte job zorgde ervoor dat ik concerten kon bijwonen in heel Groot-Britannië. Zo ging ik in 1975 helemaal in mijn eentje naar Hastings (zuidoost Engeland). Ik zocht uit waar hij verbleef en zocht hem op voor foto’s en handtekeningen. Mijn hele leven draaide rond Marc.’">‘After that I continued to go to as many concerts, TV shows as I could. I always had some sort of a job even taking on two jobs to earn enough money while I was at school to buy T-shirts, records and any other memorabilia that I could find. When I left school and was finally earning a wage I travelled all over the UK to concerts, even going to Hastings on my own in 75, finding out where he was staying and meeting him for a picture and autograph. My whole life revolved around Marc.’</span></p>
+<p class="dagboek"><span tooltip="‘Sindsdien ging ik naar zo veel mogelijk concerten en TV shows. Ik zorgde ervoor dat ik altijd één of twee studentenjobs had waarmee ik genoeg geld verdiende om platen, T-shirt en andere memorabilia te kopen. Mijn eerste échte job zorgde ervoor dat ik concerten kon bijwonen in heel Groot-Britannië. Zo ging ik in 1975 helemaal in mijn eentje naar Hastings (Zuidoost-Engeland). Ik zocht uit waar hij verbleef en zocht hem op voor foto’s en handtekeningen. Mijn hele leven draaide rond Marc.’">‘After that I continued to go to as many concerts, TV shows as I could. I always had some sort of a job even taking on two jobs to earn enough money while I was at school to buy T-shirts, records and any other memorabilia that I could find. When I left school and was finally earning a wage I travelled all over the UK to concerts, even going to Hastings on my own in 75, finding out where he was staying and meeting him for a picture and autograph. My whole life revolved around Marc.’</span></p>
 
 {% include next_slide.html %}
 
@@ -452,13 +452,13 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 <div class="witregel"> </div>
 
-<p class="dagboek"><span tooltip="‘In augustus van dat jaar filmde Marc zijn TV serie Marc. Op dat moment had ik mijn tijdelijke job beindigd en kon in bijna elke dag naar Manchester (Noordwest Engeland) reizen om hem te zien. Tijdens deze trips ontmoette ik verschillende van zijn fans uit Manchester. Ook tijdens de laatste opnamedag ging ik naar Manchester. Toen we ’s avonds aan het wachten waren op de trein zag ik David Bowie staan. Hij was aan het wachten op zijn trein en rookte ondertussen een sigaret. Ik zei tegen mijn vrienden ‘David Bowie is daar!’, maar iedereen dacht dat het om een lookalike ging. Dus liep ik in mijn eentje op hem af voor een foto en een handtekening. Pas hierna hadden de anderen door dat het écht David Bowie was die stond te wachten.’
+<p class="dagboek"><span tooltip="‘In augustus van dat jaar filmde Marc zijn TV serie Marc. Op dat moment had ik mijn tijdelijke job beindigd en kon in bijna elke dag naar Manchester (Noordwest-Engeland) reizen om hem te zien. Tijdens deze trips ontmoette ik verschillende van zijn fans uit Manchester. Ook tijdens de laatste opnamedag ging ik naar Manchester. Toen we ’s avonds aan het wachten waren op de trein zag ik David Bowie staan. Hij was aan het wachten op zijn trein en rookte ondertussen een sigaret. Ik zei tegen mijn vrienden ‘David Bowie is daar!’, maar iedereen dacht dat het om een lookalike ging. Dus liep ik in mijn eentje op hem af voor een foto en een handtekening. Pas hierna hadden de anderen door dat het écht David Bowie was die stond te wachten.’
 ">‘In August Marc was filming his Granada TV series Marc and as I had finished my temporary job by then I was able to go to Manchester most days to see him. I met a few other fans from Manchester. On his last day of filming I went as usual and as we waited at the train station for him I spotted David Bowie on the platform having a cigarette. I said David Bowie is there! but everyone thought he was just a lookalike so I ran down to him to get a picture and autograph. The others soon came running down when they realised who it was!’
 </span></p>
 
 <div class="witregel"> </div>
 
-<p class="dagboek"><span tooltip="‘David Bowie nam die avond een vroegere trein terug naar Londen, dus wij bleven wachten op Marc die pas een trein om middernacht zou nemen. Zelf miste ik mijn laatste trein terug naar huis. Omdat ik de volgende ochtend mijn opleiding begon stelde een vriendin voor dat ik bij haar bleef slapen, zodat ik da volgende ochtend een taxi kon nemen naar school. Ik zou deze avond voor geen geld van de wereld missen. En hier ben ik blij om, want op dat moment was het al 7 september. Het was de laatste keer dat we Marc zagen.’">‘David went back to London on an earlier train than Marc. We then waited for Marc. He was getting the midnight train. By then I had missed my last train back home and I was a bit worried as I was due in class the following morning. My friend offered for me to stay at her house and I would need to get a taxis early morning back to the school. I would not have missed that evening for the world and so glad I didn't as it was the 7th of Sept. and was to be the last time we saw Marc alive.’</span></p>
+<p class="dagboek"><span tooltip="‘David Bowie nam die avond een vroegere trein terug naar Londen, dus wij bleven wachten op Marc die pas een trein om middernacht zou nemen. Zelf miste ik mijn laatste trein terug naar huis. Omdat ik de volgende ochtend mijn opleiding begon stelde een vriendin voor dat ik bij haar bleef slapen, zodat ik de volgende ochtend een taxi kon nemen naar school. Ik zou deze avond voor geen geld van de wereld missen. En hier ben ik blij om, want op dat moment was het al 7 september. Het was de laatste keer dat we Marc zagen.’">‘David went back to London on an earlier train than Marc. We then waited for Marc. He was getting the midnight train. By then I had missed my last train back home and I was a bit worried as I was due in class the following morning. My friend offered for me to stay at her house and I would need to get a taxis early morning back to the school. I would not have missed that evening for the world and so glad I didn't as it was the 7th of Sept. and was to be the last time we saw Marc alive.’</span></p>
 
 {% include next_slide.html %}
 
@@ -466,7 +466,7 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 <div class="witregel"> </div>
 
-<p class="dagboek"><span tooltip="‘De volgende ochtend nam ik zoals gepland een taxi naar school. Ik was vijf minuten te laat en kan me nog zo herinneren hoe de hoofdverpleger door zijn gordijnen naar me keek. Op dat moment was een verpleegsteropleiding nog erg strict en was te laat komen uit de boze.’">‘I got my taxi back to the school the following morning but was about 5 mins late. I can still remember the head of nursing standing up from his seat and moving the blind to see who was running in at that time of the morning. Nurse training was very strict in those days.’</span></p>
+<p class="dagboek"><span tooltip="‘De volgende ochtend nam ik zoals gepland een taxi naar school. Ik was vijf minuten te laat en kan me nog zo herinneren hoe de hoofdverpleger door zijn gordijnen naar me keek. Op dat moment was een verpleegstersopleiding nog erg strict en was te laat komen uit de boze.’">‘I got my taxi back to the school the following morning but was about 5 mins late. I can still remember the head of nursing standing up from his seat and moving the blind to see who was running in at that time of the morning. Nurse training was very strict in those days.’</span></p>
 
 <div class="witregel"> </div>
 
@@ -499,20 +499,20 @@ Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis nie
 
 {% include next_section.html %}
 
-### Na zijn dood
+## Na zijn dood
 
 Bolan werd gecremeerd en uitgestrooid op dezelfde plek waar 14 jaar later ook zijn ouders, Simeon en Phyllis Feld, hun laatste rustplek vinden. Van Bolan’s erfenis ging slechts een klein stuk naar {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} omdat hij toen hij stierf nog steeds getrouwd was met June Feld Bolan. 
 
-Jones en hun zoon Rolan Bolan verhuisen naar Amerika van zodra ze hersteld is van het ongeluk. 
+Gloria Jones en hun zoon Rolan Bolan verhuizen naar Amerika van zodra Jones hersteld is van het ongeluk. 
 
 {% include next_section.html %}
-### Postuum
+## Postuum
 
-Ook na de dood van Marc Bolan verschijnen er nog platen van T.Rex. Zo kwam in 1979 Solid Gold uit, een <span tooltip="Op een compilatie cd staan nummers die al eerder uitgebracht zijn op andere cd’s. Er wordt dus materiaal van op verschillende cd’s samengebracht op één cd. Meestal gaat het dan om een cd met de grootste hits van de artiest. Of de meest gespeelde liedjes van dat moment.">compilatie cd</span> met verschillende grote T.Rex hits op. In 1981 kwam de plaat T.Rex in Concert uit. Een live-album dat werd opgenomen tijdens de Electric Warrior tournee in 1971. In 1980 komt het album The unobtainable T. Rex uit. Met daarop 16 nooit eerder uitgebrachte T.Rex nummers.In 1985 en 1991 verschijnen twee compilatie cd’s: Best of the 20th Century Boy en The Ultimate Collection. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee best of cd’s: The Essential Collection (2002) en Greatest Hits (2007). Deze moeten het doen met een plaats in de top 20.In 2012 werd het best scorende T.Rex album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende bonustracks te vinden zijn. 
+Ook na de dood van Marc Bolan verschijnen er nog platen van <span class="engels">T.Rex</span>. Zo kwam in 1979 <span class="engels">Solid Gold</span> uit, een <span tooltip="Op een compilatie cd staan nummers die al eerder uitgebracht zijn op andere cd’s. Er wordt dus materiaal van op verschillende cd’s samengebracht op één cd. Meestal gaat het dan om een cd met de grootste hits van de artiest. Of de meest gespeelde liedjes van dat moment.">compilatie cd</span> met verschillende grote <span class="engels">T.Rex</span> hits op. In 1981 kwam de plaat <span class="engels">T.Rex in Concert</span> uit. Een live-album dat werd opgenomen tijdens de <span class="engels">Electric Warrior</span> tournee in 1971. In 1980 komt het album <span class="engels">The Unobtainable T.Rex</span> uit. Met daarop 16 nooit eerder uitgebrachte <span class="engels">T.Rex</span> nummers.In 1985 en 1991 verschijnen twee compilatie cd’s: <span class="engels">Best of the 20th Century Boy</span> en <span class="engels">The Ultimate Collection</span>. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee <span class="engels">best of</span> cd’s: <span class="engels">The Essential Collection</span> (2002) en <span class="engels">Greatest Hits</span> (2007). Deze moeten het doen met een plaats in de top 20.In 2012 werd het best scorende <span class="engels">T.Rex</span> album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende <span class="engels">bonustracks</span> te vinden zijn. 
 
 {% include next_section.html %}
 
-### Sleutelfiguren
+## Sleutelfiguren
 
 June Feld Bolan sterft in 1994 in Turkije aan een hartaanval. Haar relatie met Marc Bolan is ze nooit vergeten. 
 
@@ -520,7 +520,7 @@ June Feld Bolan sterft in 1994 in Turkije aan een hartaanval. Haar relatie met M
 
 {% include next_section.html %}
 
-{% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}  trouwt in 1995 Jones en verhuist naar Sierra Leone in West-Afrika, waar ze <span tooltip="{% include link.html tekst='http://www.marcbolanschool.com' url='http://www.marcbolanschool.com' escaped=true new_tab=true %}">The Marc Bolan School of Music and film</span> start. Een project dat lokale kinderen de kans geeft om een instrument te leren spelen en hen indien nodig onderdak biedt. 
+{% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}  trouwt in 1995 en verhuist naar Sierra Leone in West-Afrika, waar ze <span tooltip="{% include link.html tekst='http://www.marcbolanschool.com' url='http://www.marcbolanschool.com' escaped=true new_tab=true %}">The Marc Bolan School of Music and film</span> start. Een project dat lokale kinderen de kans geeft om een instrument te leren spelen en hen indien nodig onderdak biedt. 
 
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/bn7DV1EC9BM" frameborder="0" allowfullscreen></iframe>
 
@@ -544,7 +544,7 @@ In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij sti
 
 {% include next_section.html %}
 
-{% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} en {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %} (vier leden die een belangrijke invloed hadden op de muziek van T.Rex) kregen er herdenkplaten. 
+{% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}, {% include link.html url="/artist_info/Minor/SteveCurrie/" tekst="Steve Currie" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} en {% include link.html url="/artist_info/Minor/DinoDines/" tekst="Dino Dines" new_tab=true %} (vier leden die een belangrijke invloed hadden op de muziek van <span class="engels">T.Rex</span>) kregen er herdenkplaten. 
 
 En ook voor June Feld Bolan werd er in 2005 een plaat toegevoegd. 
 
