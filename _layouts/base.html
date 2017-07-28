@@ -27,26 +27,19 @@
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 		<script>
-			$( document ).tooltip({
-				hide: { effect: "" }, //fadeOut
-				items: '[tooltip]',
-				track: true,
-				content: function () {
-					return $(this).attr('tooltip');
-				},
-				close: function(event, ui){
-					ui.tooltip.hover(
-						function () {
-							$(this).stop(true).fadeTo(400, 1); 
-						},
-						function () {
-							$(this).fadeOut("400", function(){
-								$(this).remove(); 
-							})
-						}
-					);
-				}  
-			});
+			var tooltips = []
+			$( '[tooltip]' ).each(function(index){
+				index = index+1
+				tooltips.push({index: index, value: $(this).attr('tooltip')})
+				$(this).after('<span>(' + index + ')</span>')
+			})
+			var tooltipList = $( '<ol></ol>' )
+			for (i = 0; i < tooltips.length; ++i) {
+				tooltipList.append('<li value=' + tooltips[i].index + '>' + tooltips[i].value + '</li>')
+			}
+			$('.content').append('<h2>Voetnoten</h2>')
+			$('.content').append(tooltipList)
+
 			$(".timeline").each(function(index){
 				var timeline = $( this )
 
