@@ -1,7 +1,9 @@
 <div class="carousel home_artists" data-slick='{{ include.settings }}'>
 {% for artist in site.artists %}
 	<div data-artist-url="{% include fix_url.html url=artist.url %}">
-		<img src="{% include fix_url.html url=artist.image %}">
+		<a href="{% include fix_url.html url=artist.url %}">
+			<img src="{% include fix_url.html url=artist.image %}">
+		</a>
 	</div>
 {% endfor %}
 </div>
