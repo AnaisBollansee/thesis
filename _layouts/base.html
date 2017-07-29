@@ -23,6 +23,7 @@
 		{% include footer.html %}
 	
 		<script src="{% include fix_url.html url='/js/jquery-3.2.1.js' %}"></script>
+		<script src="{% include fix_url.html url='/js/lazysizes.min.js' %}"></script>
 		<script>
 			var tooltips = []
 			$( '[tooltip]' ).each(function(index){
@@ -121,7 +122,7 @@
 					url = "http://img.youtube.com/vi/" + videoid[1] + "/0.jpg"
 				}
 				else if (url.includes('soundcloud')) {
-					url = "{{ site.baseurl }}/images/missing.jpg"
+					url = element.attr('img-alternative') || "{{ site.baseurl }}/images/missing.jpg"
 				}
 				else {
 					return;
@@ -130,13 +131,18 @@
 				//newElement.css({ 'background-image': 'url("' + url +'")' })
 				element.replaceWith('<img class="replaced_iframe" src="' + url + '">')
 			})
+			$('[href*="pinterest"]').each(function(index){
+				var element = $( this )
+				element.after('<div>' + $( this ).attr('href') + '</div>')
+				url = element.attr('img-alternative') || "{{ site.baseurl }}/images/missing.jpg"
+				element.replaceWith('<img class="replaced_iframe" src="' + url + '">')
+			})
 		</script>
 		{% if layout.extra_js %}
 		{% for js_file in layout.extra_js %}
 		<script src="{% include fix_url.html url=js_file %}" type="text/javascript"></script>
 		{% endfor %}
 		{% endif %}
-		<script src="{% include fix_url.html url='/js/lazysizes.min.js' %}" async=""></script>
 		{% include live_js.html %}
 	</body>
 </html>
