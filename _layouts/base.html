@@ -110,7 +110,6 @@
 				})
 			})
 			$("iframe").each(function(index){
-				console.log('iframe')
 				var element = $( this )
 				element.after('<div>' + ($( this ).attr('src') || $( this ).attr('data-src')) + '</div>')
 
@@ -136,6 +135,10 @@
 				element.after('<div>' + $( this ).attr('href') + '</div>')
 				url = element.attr('img-alternative') || "{{ site.baseurl }}/images/missing.jpg"
 				element.replaceWith('<img class="replaced_iframe" src="' + url + '">')
+			})
+			$("a").not(".navigation_bar a").each(function(index){
+				var element = $( this )
+				element.append(' (' + $( this ).attr('href').trim() + ')')
 			})
 		</script>
 		{% if layout.extra_js %}
