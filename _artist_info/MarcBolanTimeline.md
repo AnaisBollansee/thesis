@@ -23,7 +23,7 @@ De eerste opstelling van Tyrannosaurus Rex bestaat uit Marc Bolan als gitarist e
 	
 	<div marker="1975-1976" title="T.Rex"> In 1975 verlaat Mickey Finn T.Rex. En half 1976 vertrekken ook Davey Lutton en Steve Currie. Met deze line-up brengt de band één album uit: Futuristic Dragon.	</div>
 	
-	<div marker="1976-1977" title="T.Rex"> In 1976 verandert de bezetting van de band nog een laatste keer. Bolan werkt nu samen met erg veel verschillende mensen. De meeste hiervan zijn sessiemuzikanten, en maar op enkele nummers te horen.<br><br>Bolan heeft steeds meer vaste muzikanten. De band bestaat op dat moment uit Marc Bolan (zang en gitaar), Dino Dines (keyboard), Tony Newman(drums), Herbie Flowers(bass) en Miller Anderson (gitaar).<br><br>Met deze line-up wordt het laatste T.Rex album uitgebracht: Dandy in the Underworld. 	</div>
+	<div marker="1976-1977" title="T.Rex"> In 1976 verandert de bezetting van de band nog een laatste keer. Bolan werkt nu samen met erg veel verschillende mensen. De meeste hiervan zijn sessiemuzikanten, en maar op enkele nummers te horen.<br><br>Tock heeft Bolan nog steeds verschillende vaste muzikanten. De band bestaat op dat moment uit Marc Bolan (zang en gitaar), Dino Dines (keyboard), Tony Newman(drums), Herbie Flowers(bass) en Miller Anderson (gitaar).<br><br>Met deze line-up wordt het laatste T.Rex album uitgebracht: Dandy in the Underworld. 	</div>
 
 </div>
 
