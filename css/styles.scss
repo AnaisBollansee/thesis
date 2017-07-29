@@ -24,6 +24,14 @@ hr {
 	page-break-after: always;
 }
 
+.pagebreak {
+	page-break-before: always;
+}
+
+.pagebreak_after {
+	page-break-after: always;
+}
+
 h1 {
 	text-align: center;
 	font-size: 300%;
