@@ -144,7 +144,7 @@
 			$("a").not(".navigation_bar a").not("footer a").each(function(index){
 				index = idOf(index)
 				links.push({index: index, value: $(this).attr('href')})
-				$(this).append('(' + index + ')')
+				$(this).append(' (' + index + ')')
 			})
 			var linkList = $( '<ol type="a"></ol>' )
 			for (i = 0; i < links.length; ++i) {
