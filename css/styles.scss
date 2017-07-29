@@ -21,7 +21,8 @@ body {
 }
 
 hr {
-	page-break-after: always;
+	//page-break-after: always;
+	margin-bottom: 40pt;
 }
 
 .pagebreak {
@@ -40,15 +41,18 @@ h1 {
 	text-align: center;
 	font-size: 300%;
 	margin: 5pt;
+	page-break-inside: avoid;
 }
 
 h2 {
-	font-size: 130%
+	font-size: 130%;
+	page-break-inside: avoid;
 }
 
 h5 {
 	text-align: center;
 	font-size: 120%;
+	page-break-inside: avoid;
 }
 
 h6 {
@@ -56,12 +60,14 @@ h6 {
 	font-size: 160%;
 	padding-bottom: -5pt;
 	margin: 6pt;
+	page-break-inside: avoid;
 }
 
 h3 {
 	text-align: center;
 	font-size: 100%;
 	margin: 0pt;
+	page-break-inside: avoid;
 }
 
 a {
@@ -210,6 +216,7 @@ ul.navigation_bar {
 	text-align: center;
 	font-size: 165%;
 	font-weight: bold;
+	page-break-inside: avoid;
 }
 
 .extra_uitleg {
