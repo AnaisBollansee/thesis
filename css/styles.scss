@@ -32,6 +32,10 @@ hr {
 	page-break-after: always;
 }
 
+img {
+	page-break-inside: avoid;
+}
+
 h1 {
 	text-align: center;
 	font-size: 300%;
