@@ -55,7 +55,7 @@ Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de m
 
 Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby Tyler. En is hij voor het eerst muzikaal aan het werk te horen met een cover van <span tooltip="Bob Dylan is een van de belangrijkste Amerikaanse singer-songwriters van de twintigste eeuw. In 2016 kreeg hij de Nobelprijs voor Literatuur. Hij werd op 24 mei 1941 geboren onder de naam Robert Allen Zimmerman.">Bob Dylan</span>: <span class="engels">Blowin’ In The Wind</span>.
 
-<iframe class="lazyload"  width="100%" height="450" scrolling="no" frameborder="no" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe class="lazyload"  width="100%" height="450" scrolling="no" frameborder="no" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38909034&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" img-alternative="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SoundCloud_logo%2C_orange_color%2C_plain.svg/1200px-SoundCloud_logo%2C_orange_color%2C_plain.svg.png"></iframe>
 
 {% include next_section.html %}
 
@@ -234,7 +234,7 @@ Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_t
 
 Begin jaren ‘70 begint Marc Bolan zijn hippie-stijl te veranderen. En hij zet een nieuw genre in gang: GlamRock. De kleding van de muzikanten wordt steeds belangrijker. Bolan verschijnt op het podium in hakken en kleurrijke boa’s. En hij is ook niet vies van een beetje make-up of glitters op zijn gezicht. 
 
-<a data-pin-do="embedPin" data-pin-lang="nl" href="https://www.pinterest.com/pin/436004807653537776/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/42/97/36/4297364b8f986e54925a906ea595e2d9.jpghttps://www.pinterest.com/pin/219761656793315291/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" href="https://www.pinterest.com/pin/436004807653537776/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/42/97/36/4297364b8f986e54925a906ea595e2d9.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_slide.html %}
 
@@ -339,7 +339,7 @@ Bolan stort zich op drank en drugs. En op korte tijd komt hij heel wat bij.
 
 Bolan’s team raadt hem aan om Groot Britannië (tijdelijk) te verlaten en zo taxes te ontlopen. Bolan trekt naar Amerika en Monte Carlo in Monaco. Hier neemt hij de tijd om tot rust te komen.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23256435&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23256435&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" img-alternative="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SoundCloud_logo%2C_orange_color%2C_plain.svg/1200px-SoundCloud_logo%2C_orange_color%2C_plain.svg.png"></iframe>
 
 {% include next_section.html %}
 

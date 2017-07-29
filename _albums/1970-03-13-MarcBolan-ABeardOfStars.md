@@ -20,7 +20,7 @@ Als je niet van al dat zweverige gedoe houdt, dan is dit een goede plaat om mee 
 
 Nadat Bolan {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %} uit zijn band gewerkt heeft, is er plaats voor nieuw talent. In het vierde {% include link.html url="/artist_info/MarcBolanBio#TyrannosaurusRex" tekst="Tyrannosaurus Rex" new_tab=true %} album, <span class="engels">A Beard of Stars</span>, debuteert Mickey Finn. Dit zorgt niet alleen voor een nieuw geluid, waarin plaats is voor een elektrische gitaar, maar ook voor een eeuwig durende discussie tussen fans. Wie is de betere <span class="engels">sidekick</span>? Took of Finn? 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/64121201&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/64121201&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" img-alternative="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SoundCloud_logo%2C_orange_color%2C_plain.svg/1200px-SoundCloud_logo%2C_orange_color%2C_plain.svg.png"></iframe>
 
 ## Dansende gitaar
 

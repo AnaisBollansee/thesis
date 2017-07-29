@@ -6,7 +6,7 @@ image: /images/Unicorn.jpg
 
 # Unicorn
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/64119361&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/64119361&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" img-alternative="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SoundCloud_logo%2C_orange_color%2C_plain.svg/1200px-SoundCloud_logo%2C_orange_color%2C_plain.svg.png"></iframe>
 
 <span class="bio-cd">
 {% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}<br>
@@ -24,7 +24,7 @@ image: /images/Unicorn.jpg
 
 Het goede aan dit album is dat er eigenlijk geen slechte nummers inzitten. Het slechte, dat er eigenlijk ook geen echt super goede nummers op te vinden zijn. Gelukkig zijn er enkele nummers waar ik toch net iets meer zin in heb. Zo heb je <span class="engels">‘Pon a Hill</span>. Een nummer dat me altijd doet denken aan een of andere videogame die ik vroeger speelde. Al weet ik niet meer zeker welke game. Het kan natuurlijk ook zijn dat ik deze herinnering verwissel met ons kippenhok. En hoe mijn vader vroeger een nieuw hok bouwde in het midden van de tuin voor de kuikentjes. Een ander nummer dat het altijd voor mij doet is <span class="engels">The Throat of Winter</span>. Ik zie de sneeuwvlokken vallen. Iets wat niet meer snel gebeurt in ons Belgiëland. En de kers op de taart is bij dit nummer ongetwijfeld het onverwachte einde. 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327449870&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327449870&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" img-alternative="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SoundCloud_logo%2C_orange_color%2C_plain.svg/1200px-SoundCloud_logo%2C_orange_color%2C_plain.svg.png"></iframe>
 
 Een persoonlijke favoriet is <span class="engels">Cat Black</span>. En niet alleen omdat ik van zwarte katten hou. Maar vooral omdat dit weer zo een sprookjes-nummer is. Een tijdcapsule terug naar mijn kindertijd. Een ander nummer met dit effect is <span class="engels">She Was Born to be My Unicorn</span>. Luisteren naar dit nummer is als door het sprookjesbos in de <span tooltip="De Efteling is een sprookjespark in Kaatsheuvel, Nederland. Het park opende op 31 mei 1952.">Efteling</span> wandelen, zonder al de vermoeiende krijsende kinderen. <div class = "uitgelicht">‘The skull of jade was pearl inlaid’ <br> – Cat Black (The Wizard’s Hat)</div>
 
