@@ -114,27 +114,30 @@
 				element.after('<div>' + ($( this ).attr('src') || $( this ).attr('data-src')) + '</div>')
 
 				var url = element.attr('src') || element.attr('data-src')
+				var cla = "replaced"
 
 				if (url.includes('youtube')) {
 					var reg = new RegExp('(?:https?://)?(?:www\\.)?(?:youtu\\.be/|youtube\\.com(?:/embed/))([\\w-]{10,12})', 'g')
 					var videoid = reg.exec(url)
 					url = "http://img.youtube.com/vi/" + videoid[1] + "/0.jpg"
+					cla += "_youtube" 
 				}
 				else if (url.includes('soundcloud')) {
 					url = element.attr('img-alternative') || "{{ site.baseurl }}/images/missing.jpg"
+					cla += "_soundcloud" 
 				}
 				else {
 					return;
 				}
 				//var newElement = $( '<div class="replaced_iframe"></div>' )
 				//newElement.css({ 'background-image': 'url("' + url +'")' })
-				element.replaceWith('<img class="replaced_iframe" src="' + url + '">')
+				element.replaceWith('<img class="' + cla + '" src="' + url + '">')
 			})
 			$('[href*="pinterest"]').each(function(index){
 				var element = $( this )
 				element.after('<div>' + $( this ).attr('href') + '</div>')
 				url = element.attr('img-alternative') || "{{ site.baseurl }}/images/missing.jpg"
-				element.replaceWith('<img class="replaced_iframe" src="' + url + '">')
+				element.replaceWith('<img class="replaced_pinterest" src="' + url + '">')
 			})
 
 			function idOf(i) {

@@ -82,9 +82,18 @@ p {
 	text-align: justify;
 }
 
-iframe[src*="youtube.com"], iframe[data-src*="youtube.com"], .replaced_iframe {
+iframe[src*="youtube.com"], iframe[data-src*="youtube.com"], .replaced_youtube {
 	width: 100%;
 	height: 300pt;
+}
+
+.replaced_soundcloud {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.replaced_pinterest {
+	margin: 0 auto;
 }
 
 img {
