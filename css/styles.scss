@@ -20,6 +20,10 @@ body {
 	margin: 0 auto;
 }
 
+hr {
+	page-break-after: always;
+}
+
 h1 {
 	text-align: center;
 	font-size: 300%;
