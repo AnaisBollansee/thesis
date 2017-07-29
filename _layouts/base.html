@@ -122,7 +122,7 @@
 
 					var newElement = $('<div class="replaced_youtube"></div>')
 					newElement.append('<img src="' + url + '">')
-					newElement.append('<img class="play_btn" src="' + '{{ site.baseurl }}/images/youtube-play.png' + '">')
+					newElement.append('<img class="overlay" src="' + '{{ site.baseurl }}/images/youtube-play.png' + '">')
 					element.replaceWith(newElement)
 				}
 				else if (url.includes('soundcloud')) {
@@ -135,7 +135,9 @@
 				var element = $( this )
 				element.after('<div>' + $( this ).attr('href') + '</div>')
 				url = element.attr('img-alternative') || "{{ site.baseurl }}/images/missing.jpg"
-				var newElement = '<div class="replaced_pinterest"><img src="' + url + '"></div>'
+				var newElement = $('<div class="replaced_pinterest"></div>')
+				newElement.append('<img src="' + url + '">')
+				newElement.append('<img class="overlay" src="' + '{{ site.baseurl }}/images/pinterest-logo.png' + '">')
 				element.replaceWith(newElement)
 			})
 

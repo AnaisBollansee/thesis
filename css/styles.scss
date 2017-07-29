@@ -96,7 +96,7 @@ iframe[src*="youtube.com"], iframe[data-src*="youtube.com"] {
 	height: 300pt;
 }
 
-.replaced_youtube img.play_btn {
+.replaced_youtube img.overlay {
 	width: 10%;
 	height: auto;
 	position: absolute;
@@ -110,8 +110,21 @@ iframe[src*="youtube.com"], iframe[data-src*="youtube.com"] {
 	margin: 0 auto;
 }
 
+.replaced_pinterest {
+	position: relative;
+}
+
 .replaced_pinterest img {
 	margin: 0 auto;
+}
+
+.replaced_pinterest img.overlay {
+	width: 20%;
+	height: auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 img {
