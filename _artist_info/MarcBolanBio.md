@@ -42,7 +42,7 @@ Op zijn negende krijgt hij zijn eerste gitaar. Broer Harry herinnert zich nog ho
 Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie & The Hula-Hoops, met als zangeres de toen nog twaalfjarige <span tooltip="Helen Shapiro is een Britse zangeres, geboren in Londen op 28 september 1946. Haar doorbraak kwam er in 1961 met het nummer Don’t treat me like a child. Shapiro was toen nog geen 15 jaar. Nu organiseert Helen Shapiro muzikale avonden en spreekt ze over haar verbondenheid met  Jezus.">Helen Shapiro</span>. Tot hij op 14jarige leeftijd geschorst wordt.
 <span tooltip="Marc Bolan The Final Word, Mark Tinkler, Universal, 2007, 6:05 – 6:32">Bolan zelf zegt dat hij op school geen dingen leerde die hij de moeite waard vond om te leren. Waardoor hij niet vaak naar school ging tot zijn school hier genoeg van had. En dat was het einde van zijn schoolcarrière. Nu hij niet meer naar school ging had hij verschillende jobs, maar bleef Bolan werken aan zijn doel om muzikant te worden.</span> 
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-terse="true" href="https://www.pinterest.com/pin/187743878196044449/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-terse="true" href="https://www.pinterest.com/pin/187743878196044449/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/64/0f/4d/640f4d39758e89a75eced89b2f38f171.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
@@ -234,7 +234,7 @@ Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_t
 
 Begin jaren ‘70 begint Marc Bolan zijn hippie-stijl te veranderen. En hij zet een nieuw genre in gang: GlamRock. De kleding van de muzikanten wordt steeds belangrijker. Bolan verschijnt op het podium in hakken en kleurrijke boa’s. En hij is ook niet vies van een beetje make-up of glitters op zijn gezicht. 
 
-<a data-pin-do="embedPin" data-pin-lang="nl" href="https://www.pinterest.com/pin/436004807653537776/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" href="https://www.pinterest.com/pin/436004807653537776/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/42/97/36/4297364b8f986e54925a906ea595e2d9.jpghttps://www.pinterest.com/pin/219761656793315291/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_slide.html %}
 
@@ -274,7 +274,7 @@ Vanaf dan begint de groep aan haar gloriejaren.
 
 {% include link.html url="/albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.Rex" new_tab=true %} is het eerste album dat zijn weg vindt naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in de {% include link.html url="http://www.officialcharts.com//" tekst="Britse hitlijsten" new_tab=true %}. En met {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} breken ze helemaal door. Dit album staat maar liefst acht weken op nummer 1, en 44 weken in de top 100. <span tooltip="Official Charts, All The Numer 1 Albums, Auteur onbekend, geraadpleegd op 20/06/2017, {% include link.html tekst='Bron' url='http://www.officialcharts.com/chart-news/all-the-number-1-albums__7949/' escaped=true new_tab=true %}">Zo is het een van de best scorende platen uit 1971</span>.
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/219761656793315291/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/219761656793315291/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/e1/f8/6a/e1f86a113194c0102860ff604b991ed2.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_slide.html %}
 Marc Bolan wordt ineens voor vele jongeren een inspiratiebron. Zo ook voor Andy Riff Socratous:
@@ -354,7 +354,7 @@ Tot hij gevraagd wordt om te verschijnen op de Britse TV-show <span tooltip="Bri
 
 Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaat op zoek naar hulp en laat zich opnemen in een ontwenningkliniek. Maar een echte doorbraak komt er pas wanneer zijn vriendin, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, zwanger blijkt te zijn. 
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/454793262360987674/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/454793262360987674/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/36/5a/6a/365a6a0c1a81dc1399d44c989e8360b6.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_slide.html %}
 
@@ -374,7 +374,7 @@ Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst=
 
 In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige <span class="engels">T.Rex</span> album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. Rolan Bolan is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/31736372355306447/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/31736372355306447/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/11/67/8e/11678e92d582add6aebb4ffbe60f96b0.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
@@ -396,11 +396,11 @@ Nadat {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria J
 
 Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een restaurant op Berkeley Square in Londen. Op weg naar huis verliest {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} controle over de auto. En het koppel belandt in de balustrade. Marc Bolan overleeft het ongeluk niet en sterft 2 weken voor zijn 30ste verjaardag. Gloria Jones belandt in een coma. Ze wordt ervan beschuldigd dat ze dronken was toen ze met de auto reed. Maar dit is nooit bewezen. Jones zelf ontkent dit. 
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-terse="true" href="https://www.pinterest.com/pin/313422455293328317/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-terse="true" href="https://www.pinterest.com/pin/313422455293328317/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/3f/31/70/3f31700bcdfa7e71dacbcd71050edac5.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" href="https://www.pinterest.com/pin/348677196132704322/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" href="https://www.pinterest.com/pin/348677196132704322/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/d9/67/bf/d967bf7b52e8fea5ceaf4fa8b714b39c.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
@@ -421,7 +421,7 @@ Vier dagen na het ongeluk, op dinsdag 20 september 1977, ontwaakt {% include lin
 
 Het nieuws dat superster Marc Bolan overleden is komt bij fans over de hele wereld hard aan. En velen weten nog exact wat ze aan het doen waren op het moment dat ze het nieuws vernomen. 
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="large" data-pin-terse="true" href="https://www.pinterest.com/pin/97742254385373254/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="large" data-pin-terse="true" href="https://www.pinterest.com/pin/97742254385373254/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/69/5a/a7/695aa7313968ba68be93d26727b82c40.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_slide.html %}
 
@@ -495,7 +495,7 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 Maar ook de muziekwereld is geshockt door zijn dood. Zo werd zijn begrafenis niet alleen bijgewoond door familie en fans, maar ook door verschillende bevriende muzikanten zoals <span tooltip="David Bowie is een van de meest invloedrijke rockmuzikanten uit de jaren 60. Dit omdat hij er als geen ander in slaagt om zich elke keer opnieuw uit te vinden en in de huid te kruipen van een nieuw personage. Bowie werd geboren in Londen op 8 januari 1947. En hij stierf in New York, twee dagen na zijn 69ste verjaardag, op 10 januari 2016.">David Bowie</span> en {% include link.html url="/artists/09_RodStewart/" tekst="Rod Stewart" new_tab=true %}.
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="large" data-pin-terse="true" href="https://www.pinterest.com/pin/342836590353571337/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="large" data-pin-terse="true" href="https://www.pinterest.com/pin/342836590353571337/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/5a/88/7b/5a887b7fdf1da8d7e82727a802d8ca2d.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_section.html %}
 
@@ -548,4 +548,4 @@ In 2002 wordt er een bronzen buste van Bolan geplaatst op de plaats waar hij sti
 
 En ook voor June Feld Bolan werd er in 2005 een plaat toegevoegd. 
 
-<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="large" href="https://www.pinterest.com/pin/512988213787181568/"></a>
+<a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="large" href="https://www.pinterest.com/pin/512988213787181568/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/29/f6/30/29f630c8ddd0d44fba96ee8eb8c23b62.jpg"></a>
