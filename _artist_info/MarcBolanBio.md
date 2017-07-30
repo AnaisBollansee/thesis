@@ -167,22 +167,20 @@ In 1968 brengt het duo hun eerste plaat uit: {% include link.html url="/albums/1
 
 Voor het eerst proeft Bolan het succes en scoort hij enkele {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hits" new_tab=true %}. Maar hoger dan een vijftiende plaats in de hitlijsten geraakt de band op dat moment nog niet.
 
-TODO TIJDLIJN IMAGE
-
 <div class="timeline">
-	{% include image.html url="/images/FOTO.jpg" marker="05/07/1968" title="My People Were Fair And Had Sky In Their Hair...<br> But Now They're Content To Wear Stars On Their Brows" content=" " %}
+	{% include image.html url="/images/MyPeople.jpg" marker="05/07/1968" title="My People Were Fair And Had Sky In Their Hair...<br> But Now They're Content To Wear Stars On Their Brows" content=" " %}
 	
 	{% include image.html url="/images/Prophets.jpg" marker="15/10/1968" title="Prophets, Seers & Sages: The Angel Of The Ages" content=" " %}
 	
 		{% include image.html url="/images/Unicorn.jpg" marker="16/05/1969" title="Unicorn" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="13/03/1970" title="A Beard Of Stars" content=" " %}
+	{% include image.html url="/images/Stars.jpg" marker="13/03/1970" title="A Beard Of Stars" content=" " %}
 	
 		{% include image.html url="/images/T.RexCD.jpg" marker="18/12/1970" title="T.Rex" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="14/09/1971" title="Electric Warrior" content=" " %}
+	{% include image.html url="/images/Electric.jpg" marker="14/09/1971" title="Electric Warrior" content=" " %}
 	
-		{% include image.html url="/images/FOTO.jpg" marker="21/07/1971" title="The Slider" content=" " %}
+		{% include image.html url="/images/T.Rex.jpg" marker="21/07/1971" title="The Slider" content=" " %}
 		
 	{% include image.html url="/images/Tanx.jpg" marker="16/03/1973" title="Tanx" content=" " %}
 	
