@@ -1,7 +1,7 @@
 ---
 artist: The Cure
 title:  "The Cure"
-image: /images/piggy-bank.png
+image: /images/TheCure.jpg
 ---
 
 # The Cure

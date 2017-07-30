@@ -1,7 +1,7 @@
 ---
 artist: Pink Floyd
 title:  "Pink Floyd"
-image: /images/piggy-bank.png
+image: /images/PinkFloyd.jpg
 ---
 
 # Pink Floyd

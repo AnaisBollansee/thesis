@@ -1,7 +1,7 @@
 ---
 artist: Sting
 title:  "Sting"
-image: /images/piggy-bank.png
+image: /images/Sting.jpg
 ---
 
 # Sting

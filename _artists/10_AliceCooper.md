@@ -1,7 +1,7 @@
 ---
 artist: Alice Cooper
 title:  "Alice Cooper"
-image: /images/piggy-bank.png
+image: /images/Cooper.jpg
 ---
 
 # Alice Cooper

@@ -1,7 +1,7 @@
 ---
 artist: Lynyrd Skynyrd
 title:  "Lynyrd Skynyrd"
-image: /images/piggy-bank.png
+image: /images/Skynyrd.jpg
 ---
 
 # Lynyrd Skynyrd
