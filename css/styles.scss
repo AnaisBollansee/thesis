@@ -317,6 +317,7 @@ table.grafiek-tabel {
 	background-color: white;
 	background-image: unset;
 	position: unset;
+	height: 290pt;
 }
 
 .timeline .arrow {
@@ -326,6 +327,10 @@ table.grafiek-tabel {
 .timeline .title {
 	padding-bottom: 7pt;
 	padding-top: 3pt;
+}
+
+.timeline #timeline-slider {
+	margin-top: 10pt;
 }
 
 [data-pin-href] {
