@@ -1,7 +1,7 @@
 ---
 artist: Guns N' Roses
 title:  "Guns N' Roses"
-image: /images/piggy-bank.png
+image: /images/Guns.jpg
 ---
 
 # Guns N' Roses

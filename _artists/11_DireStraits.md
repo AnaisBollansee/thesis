@@ -1,7 +1,7 @@
 ---
 artist: Dire Straits
 title:  "Dire Straits"
-image: /images/piggy-bank.png
+image: /images/DireStraits.jpg
 ---
 
 # Dire Straits

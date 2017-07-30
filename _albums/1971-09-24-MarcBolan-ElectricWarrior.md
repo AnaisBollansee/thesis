@@ -1,7 +1,7 @@
 ---
 artist: Marc Bolan
 title: Electric Warrior
-image: /images/Electric.jpg
+image: /images/Warrior.jpg
 ---
 
 # Electric Warrior

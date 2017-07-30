@@ -1,7 +1,7 @@
 ---
 artist: Marc Bolan
 title: My People Were Fair and Had Sky in Their Hair... But Now They're Content to Wear Stars on Their Brows
-image: /images/piggy-bank.png
+image: /images/MyPeople.jpg
 ---
 
 # My People Were Fair and Had Sky in Their Hair... But Now They're Content to Wear Stars on Their Brows

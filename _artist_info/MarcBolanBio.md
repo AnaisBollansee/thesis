@@ -167,22 +167,20 @@ In 1968 brengt het duo hun eerste plaat uit: {% include link.html url="/albums/1
 
 Voor het eerst proeft Bolan het succes en scoort hij enkele {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hits" new_tab=true %}. Maar hoger dan een vijftiende plaats in de hitlijsten geraakt de band op dat moment nog niet.
 
-TODO TIJDLIJN IMAGE
-
 <div class="timeline">
-	{% include image.html url="/images/FOTO.jpg" marker="05/07/1968" title="My People Were Fair And Had Sky In Their Hair...<br> But Now They're Content To Wear Stars On Their Brows" content=" " %}
+	{% include image.html url="/images/MyPeople.jpg" marker="05/07/1968" title="My People Were Fair And Had Sky In Their Hair...<br> But Now They're Content To Wear Stars On Their Brows" content=" " %}
 	
 	{% include image.html url="/images/Prophets.jpg" marker="15/10/1968" title="Prophets, Seers & Sages: The Angel Of The Ages" content=" " %}
 	
 		{% include image.html url="/images/Unicorn.jpg" marker="16/05/1969" title="Unicorn" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="13/03/1970" title="A Beard Of Stars" content=" " %}
+	{% include image.html url="/images/Stars.jpg" marker="13/03/1970" title="A Beard Of Stars" content=" " %}
 	
 		{% include image.html url="/images/T.RexCD.jpg" marker="18/12/1970" title="T.Rex" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="14/09/1971" title="Electric Warrior" content=" " %}
+	{% include image.html url="/images/Electric.jpg" marker="14/09/1971" title="Electric Warrior" content=" " %}
 	
-		{% include image.html url="/images/FOTO.jpg" marker="21/07/1971" title="The Slider" content=" " %}
+		{% include image.html url="/images/T.Rex.jpg" marker="21/07/1971" title="The Slider" content=" " %}
 		
 	{% include image.html url="/images/Tanx.jpg" marker="16/03/1973" title="Tanx" content=" " %}
 	
@@ -288,7 +286,7 @@ Marc Bolan wordt ineens voor vele jongeren een inspiratiebron. Zo ook voor Andy 
 Ook de twee volgende albums, {% include link.html url="/albums/1972-07-21-MarcBolan-TheSlider/" tekst="The Slider" new_tab=true %} en {% include link.html url="/albums/1973-01-28-MarcBolan-Tanx/" tekst="Tanx" new_tab=true %}, vinden vlot hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %}. 
 En tussen alles door vindt Marc Bolan de tijd om een film te maken: <span class="engles">Born to Boogie</span>. 
 
-De film werd geregisseerd door <span tooltip="Ringo Starr was de drummer van de bekende Liverpoolse band The Beatles. Sinds 1970 werkt Starr aan zijn solo-carrière. Hiij werd geboren op 7 july 1940, onder de naam Richard Starkley.">Ringo Starr</span>. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en <span tooltip="Elton John is een Britse zanger, componist en pianist. Hij is een van de bestverkopende artiesten allertijden. Hij staat ook bekend als voorvechter van de holebi en transgender gemeenschap. Elton John is geboren op 25 maart 1947. Hij is actief in de muziekwereld sinds 1967.">Elton John</span> samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van <span tooltip="John Lennon is geboren op 9 oktober 1940. Hij was de zanger en gitarist van de Liverpoolse pop-rockband The Beatles, die actief was van 1960 tot 1970. Na zijn ontmoeting met muzikante Yoko Ono scheurde hij af van de Beatles. Hierna begon hij zijn solo-carrière en werd hij het gezicht van de hippiebeweging. Een van zijn bekendste solo-hits is Imagine. Hij is neergeschoten op 8 december 1980 in New York.">John Lennon</span>. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
+De film werd geregisseerd door <span tooltip="Ringo Starr was de drummer van de bekende Liverpoolse band The Beatles. Sinds 1970 werkt Starr aan zijn solo-carrière. Hiij werd geboren op 7 juli 1940, onder de naam Richard Starkley.">Ringo Starr</span>. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en <span tooltip="Elton John is een Britse zanger, componist en pianist. Hij is een van de bestverkopende artiesten allertijden. Hij staat ook bekend als voorvechter van de holebi en transgender gemeenschap. Elton John is geboren op 25 maart 1947. Hij is actief in de muziekwereld sinds 1967.">Elton John</span> samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van <span tooltip="John Lennon is geboren op 9 oktober 1940. Hij was de zanger en gitarist van de Liverpoolse pop-rockband The Beatles, die actief was van 1960 tot 1970. Na zijn ontmoeting met muzikante Yoko Ono scheurde hij af van de Beatles. Hierna begon hij zijn solo-carrière en werd hij het gezicht van de hippiebeweging. Een van zijn bekendste solo-hits is Imagine. Hij is neergeschoten op 8 december 1980 in New York.">John Lennon</span>. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9Md9AGcMbA" frameborder="0" allowfullscreen></iframe>
 

@@ -1,13 +1,12 @@
 ---
 artist: Marc Bolan
 title: A Beard of Stars
-image: /images/piggy-bank.png
+image: /images/ABeard.jpg
 ---
 
 # A Beard of Stars
 
-TODO FOTO
-{% include image.html url="/images/piggy-bank.png" alt="Piggy Bank" %}
+{% include image.html url="/images/ABeard_plat.jpg" alt="Piggy Bank" %}
 
 <span class="bio-cd">
 {% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}<br>
@@ -26,7 +25,7 @@ Nadat Bolan {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tek
 
 <div class="uitgelicht">‘When the great apple falls/She'll be queen of your halls’ – Great Horse</div>
 
-Geweldig aan dit album is de {% include link.html url="/artists/02_Prince/" tekst="Prince" new_tab=true %}-achtige intro: <span class="engels">Prelude</span>. Maar dan wel al enkele jaren voor <span class="engels">His Royal Badness</span> aan zijn carrière begon. En het best van al: hoe vaker je er naar luistert, hoe genialer het klinkt. Misschien is dit dan ook wel ineens het goede moment om eens stil te staan bij wat voor een geweldig gitarist Bolan eigenlijk is. Want dit wordt toch net iets te vaak over het hoofd gekeken. En als je me niet gelooft, luister dan nog maar eens goed naar wat er allemaal te horen is op (onder anderen) dit album. Je kan misschien beginnen met het nummer <span class="engels">A Beard Of Stars</span>. 
+Geweldig aan dit album is de {% include link.html url="/artists/02_Prince/" tekst="Prince" new_tab=true %}-achtige intro: <span class="engels">Prelude</span>. Maar dan wel al enkele jaren voor <span class="engels">His Royal Badness</span> aan zijn carrière begon. En het best van al: hoe vaker je er naar luistert, hoe genialer het klinkt. Misschien is dit dan ook wel ineens het goede moment om eens stil te staan bij wat voor een geweldig gitarist Bolan eigenlijk is. Want dit wordt toch net iets te vaak over het hoofd gezien. En als je me niet gelooft, luister dan nog maar eens goed naar wat er allemaal te horen is op (onder anderen) dit album. Je kan misschien beginnen met het nummer <span class="engels">A Beard Of Stars</span>. 
 
 Een ander absoluut hoogtepunt is <span class="engels">By the Light of the Magical Moon</span>. Als ik alleen nog maar de titel zie begin ik het nummer al te zingen. En als het dan ook echt begint is stilzitten geen optie meer. Je moet alleen wel oppassen met dit nummer, want eens je het één keer hebt beluisterd ga je niets anders meer willen doen.
 

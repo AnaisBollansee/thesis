@@ -6,7 +6,7 @@ order: 7
 ---
 
 # Hoeveel weet jij over Marc Bolan?
-Misschien kende je de muziek van Marc Bolan al, of misschien heb je net erg veel nieuwe dingen bijgeleerd. Hoe dan ook kan je hier je kennis testen. En mocht je twijfelen, alle antwoorden vind je terug in een van de teksten over de <span class="engels">Godfather of Punk</span>.
+Misschien kende je de muziek van {% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %} al, of misschien heb je net erg veel nieuwe dingen bijgeleerd. Hoe dan ook kan je hier je kennis testen. En mocht je twijfelen, alle antwoorden vind je terug in een van de teksten over de <span class="engels">Godfather of Punk</span>.
 
 {% include start_quiz.html title=" " %}
 

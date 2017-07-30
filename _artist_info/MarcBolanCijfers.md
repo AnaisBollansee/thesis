@@ -6,7 +6,7 @@ order: 5
 ---
 # Marc Bolan & T.Rex in de Vlaamse hitlijsten
 
-In Vlaanderen halen Marc Bolan en T.Rex een aantal keer de hitlijsten. Maar de resultaten in ons land stellen niets voor tegenover die in Groot-Brittanië. Enkele singles doen het goed, maar de albums van T.Rex zijn niet terug te vinden in de hitlijsten.
+In Vlaanderen halen {% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %} en {% include link.html url="/artist_info/MarcBolanBio/#T.Rex" tekst="T.Rex" new_tab=true %} een aantal keer de hitlijsten. Maar de resultaten in ons land stellen niets voor tegenover die in Groot-Brittanië. Enkele singles doen het goed, maar de albums van <span class="engels">T.Rex</span> zijn niet terug te vinden in de hitlijsten.
 
 ## Singles
 <table class="grafiek-tabel" id="1">
