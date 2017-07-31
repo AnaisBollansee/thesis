@@ -1,6 +1,6 @@
 ---
 artist: Marc Bolan
-title:  "Timeline"
+title:  "Door de jaren"
 link-title: "Door de jaren"
 order: 6
 ---
