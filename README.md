@@ -15,5 +15,3 @@
 * vermelding links: (bio) verwijder duplicaten
 * kun je maken dat ge bij die foto's op de homepage helemaal kunt scrollen en dat ge ook op een foto kunt klikken zonder da die in het midden staat?
 * Bij de printversie staat nog localhost ipv de echte url
-* De printversie van door de jaren: daar beginnen de links al in de helft van de tekst waardoor da zo'n broebeltje wordt, hetzelfde met de tijdlijn in de bio (de foto's zitten daar door de tekst ervoor en erna)
-* 
