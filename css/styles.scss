@@ -138,6 +138,13 @@ img {
 	margin: 0 auto;
 }
 
+@media print {
+	.navigation_bar {
+		visibility: hidden;
+		height: 0;
+	}
+}
+
 ul.navigation_bar {
 	//position: fixed;
 	//top: 0;
