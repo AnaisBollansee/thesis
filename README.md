@@ -11,5 +11,3 @@
 
 
 # TODO PABLO
-
-* vermelding links: (bio) verwijder duplicaten
