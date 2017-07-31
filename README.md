@@ -11,3 +11,4 @@
 
 
 # TODO PABLO
+* bij albums staan onderaan geen linken
