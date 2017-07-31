@@ -46,6 +46,8 @@
 				var dates = [];
 				timeline.children().each(function(index) {
 					element = $( this )
+					var wrapper = $( "<div class='moment'></div>" )
+					element.wrap(wrapper)
 					element.before('<h3>' + element.attr('marker') + ' - ' + element.attr('title') + '</h3>')
 					if (element.is('div')) {
 						element.replaceWith('<p>' + (element.attr('content') || element.html()) + '</p>')

@@ -304,6 +304,10 @@ font-size: 80%;
 	width: 580pt;
 }
 
+.timeline .moment {
+	page-break-inside: avoid;
+}
+
 #forward.arrow{
 	left: 535pt;
 }
