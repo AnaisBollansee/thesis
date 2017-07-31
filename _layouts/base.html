@@ -148,13 +148,21 @@
 			}
 			var links = []
 			$("a").not(".navigation_bar a").not("footer a").each(function(index){
-				index = idOf(index)
-				links.push({index: index, value: $(this).attr('href')})
-				$(this).append(' (' + index + ')')
+				var href = $(this).attr('href')
+				var existingIndex = links.indexOf(href)
+				if (existingIndex == -1) { // doesn't exist
+					index = idOf(links.length)
+					links.push(href)
+					$(this).append(' (' + index + ')')
+				}
+				else { // does already exist
+					index = idOf(existingIndex)
+					$(this).append(' (' + index + ')')
+				}
 			})
 			var linkList = $( '<ol type="a"></ol>' )
 			for (i = 0; i < links.length; ++i) {
-				linkList.append('<li value="' + links[i].index + '">' + links[i].value + '</li>')
+				linkList.append('<li value="' + idOf(i) + '">' + links[i] + '</li>')
 			}
 			if (links.length > 0) {
 				$('.content').append('<h2>Links</h2>')
