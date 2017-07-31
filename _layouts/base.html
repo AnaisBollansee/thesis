@@ -27,14 +27,22 @@
 		<script>
 			var tooltips = []
 			$( '[tooltip]' ).each(function(index){
-				index = index+1
-				tooltips.push({index: index, value: $(this).attr('tooltip')})
-				$(this).removeAttr('tooltip')
-				$(this).after('<span>(' + index + ')</span>')
+				var tt = $(this).attr('tooltip')
+				var existingIndex = tooltips.indexOf(tt)
+				if (existingIndex == -1) { // doesn't exist
+					index = index + 1
+					tooltips.push(tt)
+					$(this).after('<span>(' + index + ')</span>')
+				}
+				else {
+					index = existingIndex + 1
+					$(this).after('<span>(' + index + ')</span>')
+					console.log("Duplicate: " + tt)
+				}
 			})
 			var tooltipList = $( '<ol></ol>' )
 			for (i = 0; i < tooltips.length; ++i) {
-				tooltipList.append('<li value=' + tooltips[i].index + '>' + tooltips[i].value + '</li>')
+				tooltipList.append('<li value=' + (i+1) + '>' + tooltips[i] + '</li>')
 			}
 			if (tooltips.length > 0) {
 				$('.content').append('<h2>Voetnoten</h2>')
