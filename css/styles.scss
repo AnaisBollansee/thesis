@@ -138,13 +138,6 @@ img {
 	margin: 0 auto;
 }
 
-@media print {
-	.navigation_bar {
-		visibility: hidden;
-		height: 0;
-	}
-}
-
 ul.navigation_bar {
 	//position: fixed;
 	//top: 0;
@@ -437,4 +430,11 @@ footer ul {
 footer li {
 	flex: 0 1 auto; /* Default */
 	list-style-type: none;
+}
+
+@media print {
+	.navigation_bar, footer {
+		visibility: hidden;
+		height: 0;
+	}
 }
