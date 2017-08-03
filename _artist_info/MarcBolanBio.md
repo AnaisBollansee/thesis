@@ -186,7 +186,7 @@ Voor het eerst proeft Bolan het succes en scoort hij enkele {% include link.html
 	
 		{% include image.html url="/images/ZincAlloy.jpg" marker="01/02/1974" title="Zinc Alloy And The Hidden Riders Of Tomorrow" content=" " %}
 		
-	{% include image.html url="/images/FOTO.jpg" marker="?/08/1974" title="Light Of Love" content=" " %}
+	{% include image.html url="/images/LightOfLove.jpg" marker="?/08/1974" title="Light Of Love" content=" " %}
 	
 		{% include image.html url="/images/ZipGun.jpg" marker="15/02/1975" title="Bolan's Zip Gun" content=" " %}
 		
