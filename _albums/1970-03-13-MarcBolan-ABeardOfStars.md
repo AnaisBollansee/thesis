@@ -6,7 +6,7 @@ image: /images/ABeard.jpg
 
 # A Beard of Stars
 
-{% include image.html url="/images/ABeard_plat.jpg" alt="Piggy Bank" %}
+{% include image.html url="/images/ABeard_plat.jpg" alt=" " %}
 
 <span class="bio-cd">
 {% include link.html url="/artist_info/MarcBolanBio/" tekst="Marc Bolan" new_tab=true %}, {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %}<br>
