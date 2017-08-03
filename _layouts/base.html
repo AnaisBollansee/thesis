@@ -157,6 +157,11 @@
 			var links = []
 			$("a").not(".navigation_bar a").not("footer a").each(function(index){
 				var href = $(this).attr('href')
+
+				if (href.indexOf("//") == -1) { // is relative link
+					href = "{{ site.relative_link_prefix }}" + href.trim()
+				}
+
 				var existingIndex = links.indexOf(href)
 				if (existingIndex == -1) { // doesn't exist
 					index = idOf(links.length)
