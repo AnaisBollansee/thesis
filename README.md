@@ -11,8 +11,4 @@
 
 
 # TODO PABLO
-<<<<<<< HEAD
 * bij albums staan onderaan geen linken
-=======
-* Als je naar de echte website gaat (dus anaisbollansee.github.io/thesis/) en dan klikt op Anaïs Bollansée voor de copyright te lezen, die link werkt niet.. dus deze https://anaisbollansee.github.io/thesis/copyright/ . 404 file not found staat er bij mij
->>>>>>> master
