@@ -11,6 +11,4 @@
 
 
 # TODO PABLO
-* Bio slide #18, er zit kei veel plaats tussen die tekst en tijdlijn, kan da mindeR? (bij alle tijdlijnen)
-* kun je maken dat ge bij die foto's op de homepage helemaal kunt scrollen en dat ge ook op een foto kunt klikken zonder da die in het midden staat?
-* 
+* Als je naar de echte website gaat (dus anaisbollansee.github.io/thesis/) en dan klikt op Anaïs Bollansée voor de copyright te lezen, die link werkt niet.. dus deze https://anaisbollansee.github.io/thesis/copyright/ . 404 file not found staat er bij mij
