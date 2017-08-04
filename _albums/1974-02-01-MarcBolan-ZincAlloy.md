@@ -28,7 +28,7 @@ Het eerste nummer waar ik me niet aan te pletter erger op dit album is <span cla
 En ja, je kan zeggen dat er nog enkele nummers zijn die ‘wel oké’ zijn. Zoals <span class="engels">You’ve Got to Jive to Stay Alive – Spanish Midnight</span> of <span class="engels">Interstellar Soul</span>. Maar van ‘wel oké’ word ik persoonlijk niet echt gelukkig. Vooral niet wanneer je van het overige op het album (een beetje) hoofdpijn krijgt door de <span class="engels">overkill</span> aan hoge, piepende achtergrond zangeressen. In het vorig album, {% include link.html url="/albums/1973-01-28-MarcBolan-Tanx/" tekst="Tanx" new_tab=true %}, wist Bolan deze goed te gebruiken en zo een meerwaarde te geven aan zijn nummers. Maar op deze <span class="engels">Zinc Alloy</span> is het gewoon té veel en té vaak. Een goed voorbeeld hiervan is <span class="engels">Liquid Gang</span>. Een nummer dat ik liever uit- dan aanzet. Als grote fan doet het me pijn om dit te zeggen, maar van zo’n nummers wordt ik eigenlijk gewoon misselijk. 
 <div class="uitgelicht">‘All I want to do is love you tonight’<br> – Spanish Midnight</div>
 
-<span class="pagebreak"> </span>
+<div class="pagebreak"> </div>
 ## cover
 
 Ik denk dat iedereen het er over eens is dat dit niet de beste <span class="engels">T.Rex</span> plaat is. En mocht ik zelf niet zo gesteld zijn op de volledigheid van mijn platencollectie, zou deze <span class="engels">Zinc Alloy and the Hidden Riders of Tomorrow</span> waarschijnlijk de eerste zijn die uit mijn <span class="engels">T.Rex</span>-collectie vliegt. Al zou ik de coverfoto bijhouden. Want zo’n blik. Hemel!
