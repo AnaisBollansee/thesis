@@ -1,4 +1,6 @@
 baseurl: /thesis
+relative_link_prefix: https://anaisbollansee.github.io
+permalink: pretty
 
 collections:
   artists:
