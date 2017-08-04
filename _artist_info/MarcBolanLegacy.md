@@ -14,6 +14,8 @@ Bolan’s muziek inspireert nog steeds mensen. Muzikanten als {% include link.ht
 
 <span class="engels">Detroit Rock City</span> gaat over vier jonge gasten met een liefde voor de hardrockband <span tooltip="De hardrockgroep KISS is een van de meest succesvolle bands aller tijden. Ze zijn vooral bekend voor hun opvallende make-up en live optredens met erg veel vuur en bloed. Kiss is opgericht in 1973 en werd wereldbekend in 1979 met het nummer I Was Made for Lovin’ You. De originele bezetting bestond uit Paul Stanley (gitaar & zang), Gene Simmons (bass & zang), Ace Frehley (gitaar & zang) en Peter Criss (drums & zang).">KISS</span>. Hun ouders zijn hier iets minder blij mee. Zij aanzien <span class="engels">KISS</span> als de muziek van de duivel. Dit kan de jongens geen fluit schelen. En wanneer de band optreedt in Detroit, is het voor hen meteen duidelijk dat ze naar het optreden gaan. Jam, Hawk, Lek en Trip kopen meteen hun tickets. Maar op het optreden geraken is net iets moeilijker dan dat. 
 
+<div class="pagebreak"> </div>
+
 #### Nummer: <br>
 <span class="engels">20th Century Boy</span>.
 
@@ -27,6 +29,8 @@ Billy Elliot moet van zijn vader leren boksen. Want dat is een goede sport voor 
 
 #### Nummers: <br>
 <span class="engels">Children of the Revolution</span>, <span class="engels">Cosmic Danser</span>, <span class="engels">Bang a Gong (Get it On)</span>, <span class="engels">I Love to Boogie</span> & <span class="engels">Ride A White Swan</span>.
+
+<div class="pagebreak"> </div>
 
 #### Waarom is dit een niet te missen film?: <br>
 Deze film is perfect voor het moment waarop je even vergeten bent dat het oké is om anders te zijn. 
@@ -43,6 +47,8 @@ Deze film is perfect voor het moment waarop je even vergeten bent dat het oké i
 <span class="engels">20th Century Boy</span>.
 #### Waarom is dit een niet te missen film?: <br>
 Welke twintiger van deze tijd heeft niet ooit een skateboard gehad, of geprobeerd om recht te blijven staan op het houten plankje van een vriend? <span class="engels">Lords of Dogtown</span> neemt je mee naar het begin van de grote namen in de skatewereld. En wanneer je deze film ziet zou je willen dat je er bij was.
+
+<div class="pagebreak"> </div>
 
 ## 1) Dallas Buyers Club 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8utPuIFVnU" frameborder="0" allowfullscreen></iframe>
