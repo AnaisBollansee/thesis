@@ -421,8 +421,8 @@ table.grafiek-tabel {
 	background-color: green;
 }
 
-h2.voetnoten, h2.links {
-	page-break-after: avoid;
+.voetnoten, .links {
+	page-break-inside: avoid;
 }
 
 ol.voetnoten, ol.links {
