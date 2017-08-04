@@ -46,12 +46,12 @@
 					}
 				}
 			})
-			var tooltipList = $( '<ol></ol>' )
+			var tooltipList = $( '<ol class="voetnoten"></ol>' )
 			for (i = 0; i < tooltips.length; ++i) {
 				tooltipList.append('<li value=' + (i+1) + '>' + tooltips[i] + '</li>')
 			}
 			if (tooltips.length > 0) {
-				$('.content').append('<h2>Voetnoten</h2>')
+				$('.content').append('<h2 class="voetnoten">Voetnoten</h2>')
 				$('.content').append(tooltipList)
 			}
 			$(".timeline").each(function(index){
@@ -186,12 +186,12 @@
 					$(this).append(' (' + index + ')')
 				}
 			})
-			var linkList = $( '<ol type="a"></ol>' )
+			var linkList = $( '<ol class="links" type="a"></ol>' )
 			for (i = 0; i < links.length; ++i) {
 				linkList.append('<li value="' + idOf(i) + '">' + links[i] + '</li>')
 			}
 			if (links.length > 0) {
-				$('.content').append('<h2>Links</h2>')
+				$('.content').append('<h2 class="links">Links</h2>')
 				$('.content').append(linkList)
 			}
 		</script>
