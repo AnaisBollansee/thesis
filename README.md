@@ -15,3 +15,4 @@
 * bij albums staan onderaan geen linken
 * Soms valt er zo één laatste zin af het blad, en dan heb je nog een tweede blad nodig voor 1 stom zinneke. Kan da simpel opgelost worden? 
 
+* soms is er achter 'link' ineens een pagebreak maar dat mag wel niet hé seg!
