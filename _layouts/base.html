@@ -121,7 +121,14 @@
 			})
 			$("iframe").each(function(index){
 				var element = $( this )
-				element.after('<div>' + ($( this ).attr('src') || $( this ).attr('data-src')) + '</div>')
+				var src = $( this ).attr('src') || $( this ).attr('data-src')
+				// shorten soundcloud urls
+				if (src.indexOf("soundcloud") != -1) {
+					// remove al params except for the first
+					var paramStart = src.indexOf('&')
+					src = src.substring(0, paramStart)
+				}
+				element.after('<div>' + src + '</div>')
 
 				var url = element.attr('src') || element.attr('data-src')
 
