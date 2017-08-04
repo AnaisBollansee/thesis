@@ -26,18 +26,24 @@
 		<script src="{% include fix_url.html url='/js/lazysizes.min.js' %}"></script>
 		<script>
 			var tooltips = []
-			$( '[tooltip]' ).each(function(index){
+			var i = 0
+			$( '[tooltip]' ).each(function(_i){
 				var tt = $(this).attr('tooltip')
-				var existingIndex = tooltips.indexOf(tt)
-				if (existingIndex == -1) { // doesn't exist
-					index = index + 1
-					tooltips.push(tt)
-					$(this).after('<span>(' + index + ')</span>')
+				if ($(this).is("img")) {
+					$(this).after('<span>' + tt + '</span>')
 				}
 				else {
-					index = existingIndex + 1
-					$(this).after('<span>(' + index + ')</span>')
-					console.log("Duplicate: " + tt)
+					var existingIndex = tooltips.indexOf(tt)
+					if (existingIndex == -1) { // doesn't exist
+						index = i + 1
+						tooltips.push(tt)
+						$(this).after('<span>(' + index + ')</span>')
+						i += 1
+					}
+					else {
+						index = existingIndex + 1
+						$(this).after('<span>(' + index + ')</span>')
+					}
 				}
 			})
 			var tooltipList = $( '<ol></ol>' )
