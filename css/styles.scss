@@ -425,6 +425,10 @@ h2.voetnoten, h2.links {
 	page-break-after: avoid;
 }
 
+ol.voetnoten, ol.links {
+	page-break-before: avoid;
+}
+
 footer {
 	padding-top: 15pt;
 	max-width: 580pt;
