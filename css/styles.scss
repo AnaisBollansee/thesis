@@ -421,6 +421,10 @@ table.grafiek-tabel {
 	background-color: green;
 }
 
+.quiz .question {
+	page-break-inside: avoid;
+}
+
 .voetnoten, .links {
 	page-break-inside: avoid;
 }
