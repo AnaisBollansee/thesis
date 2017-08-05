@@ -86,9 +86,11 @@
 				var incorrResp = ""
 
 				quiz.children(".questions").each(function(index){
+					var question
 					$( this ).children().each(function(index){
 						var child = $( this )
 						if (index % 2 == 0) { //even are (should be) questions, odd answer list
+							question = child
 							if (child.is('p')) { // what it should be
 								child.prepend('Vraag: ')
 							}
@@ -119,7 +121,8 @@
 										}
 									}
 								})
-
+								child.wrap('<div class="question"></div>')
+								child.before(question)
 								child.after('<div>Reactie bij fout antwoord: ' + incorrResp + '</div>')
 								child.after('<div>Reactie bij juist antwoord: ' + corrResp + '</div>')
 							}
