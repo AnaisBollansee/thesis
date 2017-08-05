@@ -74,6 +74,8 @@ In 1970 komt het nummer terecht komt op het eerste <span class="engels">T.Rex</s
 
 {% include next_section.html anchor="JohnsChildren" %}
 
+<div class="pagebreak"> </div>
+
 <span class="quote" tooltip="‘‘Niemand was ooit zo zeker van zichzelf, of zo rechtuit als Marc Bolan. 
 Hij had mijn nummer te pakken gekregen en belde me vroeg op een avond. 
 ‘Ik ben een zanger en ik ga de grootste Britse rockster ooit worden. Dus ik heb een goede manager nodig om alles te regelen.’
@@ -115,6 +117,8 @@ Althans dat is hoe Marc Bolan er zelf over dacht. De platenmaatschappijen in Lon
 ## John's Children
 
 <span tooltip="Simon Napier-Bell is een Brits manager, muziekproducent en journalist. Hij is geboren op 22 april 1939 in Ealing, een wijk in Londen. Sinds 2013 werkt hij als adviseur. Zo leert hij (jonge) managers hoe ze hun artiesten kunnen lanceren.">Simon Napier-Bell</span> had ook John’s Children onder zijn vleugels. De groep had geen al te beste gitarist en niemand die het talent bezat om goede nummers te schrijven. Tijdens een etentje besluit Napier-Bell om Bolan te overtuigen deel te worden van de groep:
+
+<div class="pagebreak"> </div>
 
 <span class="quote" tooltip="‘‘De groep vervolledigen zal je een duwtje in de rug geven richting grote bekendheid. En je moet beginnen met rijk worden als je een Porsche wil kopen en zijn zoals James Dean.’
 ‘O nee,’ zei Marc. ‘Een Porsche is niets voor mij. Ik ben te klein. Ik denk dat een Mini een betere auto voor mij is. Als ik zou sterven in een auto-ongeluk, zou het in een Mini moeten zijn. Ik denk dat ik dat goed zou vinden. Het zou leuk zijn.’’">‘’Joining the group will start you off on the path to eventual stardom. And you gotta start getting rich soon if you’re going to be like James dean and buy a Porsche.’ 
@@ -276,7 +280,7 @@ Vanaf dan begint de groep aan haar gloriejaren.
 
 {% include next_slide.html %}
 Marc Bolan wordt ineens voor vele jongeren een inspiratiebron. Zo ook voor Andy Riff Socratous:
-<span class="quote" tooltip="‘Ik was 15 toen Hot Love en Bang a Gong (Get it On) uitkwamen. Ik werd onmiddelijk verliefd en begon naar al Marc Bolan’s muziek te luisteren. In 1972 kreeg ik mijn eerste gitaar en begon ik mee te spelen met de muziek van T.Rex. In 1978 speelde ik voor het eerst in een band. Onze muziek werd geïnspireerd door alle mensen die op dat moment anders waren. En Marc was daar natuurlijk één van.’">‘I was 15 years old when Hot Love and Bang a Gong (Get It On) came out. I immediately fell in love and started to listen to all of Marc’s stuff. In 1972 I got my first guitar and started to play along to T.Rex. In 1978 I joined my first band. Our music was inspired by all the people that stood out at that time. And Marc, of course, was one of them.’</span><span class="quote" tooltip="‘Marc was anders en uniek. Ik hou van de manier waarop hij beweegt op het podium. En hoe hij bijvoorbeeld zijn gitaar gebruikt als een wapen. Hij schreef geweldige gitaarlijnen en prachtige teksten. Hij was een echte ster. Hij heeft me geïnspireerd om zelf iets te doen. Door hem ben ik muziek beginnen spelen. En door hem speel ik vandaag nog steeds.’">‘Marc was unique and different. I like the way he moved on stage. For example, how he used his guitar as a weapon on stage. He also wrote great riffs and phenomenal lyrics. He was a real star. He inspired me to do something myself. I started playing music because of him. And I still play because of him.’</span>
+<span class="quote" tooltip="‘Ik was 15 toen Hot Love en Bang a Gong (Get it On) uitkwamen. Ik werd onmiddelijk verliefd en begon naar al Marc Bolan’s muziek te luisteren. In 1972 kreeg ik mijn eerste gitaar en begon ik mee te spelen met de muziek van T.Rex. In 1978 speelde ik voor het eerst in een band. Onze muziek werd geïnspireerd door alle mensen die op dat moment anders waren. En Marc was daar natuurlijk één van.’">‘I was 15 years old when Hot Love and Bang a Gong (Get It On) came out. I immediately fell in love and started to listen to all of Marc’s stuff. In 1972 I got my first guitar and started to play along to T.Rex. In 1978 I joined my first band. Our music was inspired by all the people that stood out at that time. And Marc, of course, was one of them.’</span><div class="pagebreak"> </div><span class="quote" tooltip="‘Marc was anders en uniek. Ik hou van de manier waarop hij beweegt op het podium. En hoe hij bijvoorbeeld zijn gitaar gebruikt als een wapen. Hij schreef geweldige gitaarlijnen en prachtige teksten. Hij was een echte ster. Hij heeft me geïnspireerd om zelf iets te doen. Door hem ben ik muziek beginnen spelen. En door hem speel ik vandaag nog steeds.’">‘Marc was unique and different. I like the way he moved on stage. For example, how he used his guitar as a weapon on stage. He also wrote great riffs and phenomenal lyrics. He was a real star. He inspired me to do something myself. I started playing music because of him. And I still play because of him.’</span>
 
 {% include end_slides.html %}
 
@@ -309,6 +313,8 @@ Hierna vallen de platen van Marc Bolan en <span class="engels">T.Rex</span> uit 
 Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constante stress en druk begint zijn tol te eisen. En ook de <span class="engels">T.Rex</span> line-up begint te veranderen. Bolan begint een samenwerking met {% include link.html url="/artist_info/Minor/JackGreen/" tekst="Jack Green" new_tab=true %} en maakt steeds vaker gebruik van studio-artiesten tijdens het opnemen van zijn muziek. Aan de andere kant verlaat {% include link.html url="/artist_info/Minor/BillLegend/" tekst="Bill Legend" new_tab=true %} de band in 1973 en {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Mickey Finn" new_tab=true %} eind 1974.  
 
 En ook voor producer en vriend {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} is het over en uit. Visconti herinnert zich de dag dat Bolan verschillende groupies, cocaïne en cognac meenam naar de studio. Door deze dodelijke combinatie krijg Bolan zijn gitaar niet juist gestemd. En Visconti besluit om hem hierop te wijzen. 
+
+<div class="pagebreak"> </div>
 
 <span class="quote" tooltip="”Fuck you! Mijn gitaar staat niet vals – ik heb hem juist gestemd.” Iedereen schrok en Marc stormde naar buiten – mijn wangen werden lichtjes rood. Ik glipte snel de studio in en stemde zijn gitaar, iets wat ik al vaker had gedaan. (…) Ik had hem al mijn energie gegeven, maar een team-speler zijn voor een waanzinnige leider was niet wat ik me voorstelde bij een rijke, creatieve ervaring – of een ‘vriendschap’.”">‘“Fuck you! My guitar isn’t out of tune – I just tuned it.”Everyone froze and Marc stormed out – my cheeks went slightly rouge. I quickly moved from the control room into the studio and tuned his guitar properly, as I’d done many times in the past. (…) I’d given him my all, but being a team player to a maniacal leader wans’t my idea of a rich, creative experience – or a so-called friendship.’"</span>
 
@@ -348,6 +354,8 @@ Tot hij gevraagd wordt om te verschijnen op de Britse TV-show <span tooltip="Bri
 {% include next_section.html %}
 {% include start_slides.html %}
 
+<div class="pagebreak"> </div>
+
 ## Rolan Bolan
 
 Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaat op zoek naar hulp en laat zich opnemen in een ontwenningkliniek. Maar een echte doorbraak komt er pas wanneer zijn vriendin, {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}, zwanger blijkt te zijn. 
@@ -355,6 +363,8 @@ Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaa
 <a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/454793262360987674/" img-alternative="https://s-media-cache-ak0.pinimg.com/564x/36/5a/6a/365a6a0c1a81dc1399d44c989e8360b6.jpg"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_slide.html %}
+
+<div class="pagebreak"> </div>
 
 <h1><span tooltip="‘Jones werd zwanger in 1975. Dit veroorzaakte een drastische verandering in Bolan. Hij had zichzelf nog maar net laten opnemen in een ontwenningskliniek waar hem verteld werd dat hij de “harslag van een 70 jarige man had” (hij was toen 25).’
 ">‘in 1975, Jones became pregnant. The change in Bolan was dramatic. It was only recently that he had checked into a health farm and been told that he had “the heartbeat of a 70-year-old” (he was 25).’</span></h1>
@@ -369,6 +379,8 @@ Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst=
 
 {% include end_slides.html %}
 {% include next_section.html %}
+
+<div class="pagebreak"> </div>
 
 In februari 1975 brengt Bolan nog {% include link.html url="/albums/1975-02-16-MarcBolan-Bolan'sZipGun/" tekst="Bolan's Zip Gun" new_tab=true %} uit. Op {% include link.html url="/albums/1968-10-14-MarcBolan-Prophets,Seers&Sages/" tekst="Prophets, Seers & Sages" new_tab=true %} (Tyrannosaurus Rex) na is dat het enige <span class="engels">T.Rex</span> album dat de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %} in in het Verenigd Koninkrijk niet haalde. Maar na de geboorte van zijn zoon gaat het duidelijk weer beter. Rolan Bolan is slechts vier maanden oud wanneer vader, Marc Bolan, een nieuwe plaat uitbrengt: {% include link.html url="/albums/1976-01-30-MarcBolan-FuturisticDragon/" tekst="Futuristic Dragon" new_tab=true %}. En een dik jaar later {% include link.html url="/albums/1977-03-11-MarcBolan-DandyInTheUnderworld/" tekst="Dandy in the Underworld" new_tab=true %}, waarmee Bolan opnieuw de top 100 weet binnen te dringen.  
 
@@ -391,6 +403,8 @@ Nadat {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria J
 <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Q0NEfm_Y-io" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
+
+<div class="pagebreak"> </div>
 
 Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een restaurant op Berkeley Square in Londen. Op weg naar huis verliest {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} controle over de auto. En het koppel belandt in de balustrade. Marc Bolan overleeft het ongeluk niet en sterft 2 weken voor zijn 30ste verjaardag. Gloria Jones belandt in een coma. Ze wordt ervan beschuldigd dat ze dronken was toen ze met de auto reed. Maar dit is nooit bewezen. Jones zelf ontkent dit. 
 
