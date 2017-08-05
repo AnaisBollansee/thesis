@@ -27,13 +27,13 @@ Deze plaat blijft me steeds verbazen. En dat begint al bij de titel <span class=
 
 Wanneer ik het dan eindelijk voor elkaar krijg om naar het volgende nummer over te gaan, <span class="engels">is New York City</span> zeker een goede opvolger. Een nummer dat me altijd een beetje het gevoel geeft dat ik naar een jaren ’70 sci fi film aan het kijken ben. En eerlijk, wie zakt nu niet graag weg bij <span class="engels">Star Trek</span> of <span class="engels">Close Encounters of the Third Kind</span>?!
 
-Na <span class="engels">Calling All Destroyers</span> valt <span class="engels">Futuristic Dragon</span> jammer genoeg een beetje plat. Als een flesje frisdrank waaruit alle prik verdwenen is. Gelukkig zijn er nog Bolan’s vocale turnoefeningen om het geheel wat te pimpen
+Na <span class="engels">Calling All Destroyers</span> valt <span class="engels">Futuristic Dragon</span> jammer genoeg een beetje plat. Als een flesje frisdrank waaruit alle prik verdwenen is. Gelukkig zijn er nog Bolan’s vocale turnoefeningen om het geheel wat te pimpen.
 
 <div class="uitgelicht">‘Night is the right time/To get acquainted with my head’ – Dreamy Lady</div>
 
 ## Draak met toekomst
 
-Na de platte band die <span class="engels">T.Rex</span> had met <span class="engels">Bolan’s Zip Gun</span>, toont deze <span class="engels">Futuristic Dragon</span> dat er geen reden is tot paniek. <span class="engels">T.Rex</span> is nog lang niet klaar om afgeschreven te worden. En Bolan begint opnieuw te vechten voor zijn <span class="engels">stardom</span>. Dit keer met een futuristische draak als hulpmiddel. 
+Na de platte band die <span class="engels">T.Rex</span> had met <span class="engels">Bolan’s Zip Gun</span>, toont deze <span class="engels">Futuristic Dragon</span> dat er geen reden is tot paniek. <span class="engels">T.Rex</span> is nog lang niet klaar om afgeschreven te worden. En Bolan begint opnieuw te vechten voor zijn <span class="engels">stardom</span>. Dit keer met een futuristische draak aan zijn zij. 
 <div class="witregel"> </div>
 
 <table>
