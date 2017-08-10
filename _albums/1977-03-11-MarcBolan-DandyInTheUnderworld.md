@@ -33,6 +33,8 @@ En het album is nog niet voorbij. <span class="engels">Jason B. Sad</span> verwe
 Toch blijf ik op het einde van <span class="engels">Dandy in the Underworld</span> altijd  met een lastig gevoel zitten. Ik kan niet anders dan me de vraag stellen: ‘wat als Bolan niet overleden was, welke muziek zou hij dan nu maken?’. Hierover nadenken is niet goed voor mijn humeur. Dus, probeer ik mijzelf gerust te stellen met het feit dat in zijn laatste werk opnieuw licht tevoorschijn kwam. Gedaan met de duisternis. En wanneer deze gedachte me toch niet gelukkig maakt, heb ik nog steeds de muziek om dat wel te doen.
 <div class="witregel"> </div>
 
+<div class="pagebreak"> </div>
+
 <table>
 	<tr>
 		<td>Dandy in the Underworld</td>
