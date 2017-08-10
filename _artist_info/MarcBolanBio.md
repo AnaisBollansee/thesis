@@ -128,7 +128,7 @@ En hoewel Bolan zelf niet kon rijden, zou deze voorspelling tien jaar later uitk
 
 Zijn vroegere manager <span tooltip=" Tony Secunda was een manager van rockgroepen. Hij werd geboren op 24 augustus 1940 in Surrey, Engeland. In 1971 startte hij zijn samenwerking met T.Rex en hielp Bolan bij het oprichten van zijn eigen record label T.Rex Wax Co. Tijdens de Jaren ’80 begon hij zijn eigen uitgeverij voor muziekbiografieën in Californië. Hij overleed op 12 februari 1995 in Californië.">Tony Secunda</span> zei hierover: 
 
-<h1 tooltip="‘Hij reedt nooit met de auto, hij had altijd schrik. Marc heeft nooit een rijbewijs gehad en hij weigerde om te leren rijden’">‘‘He would never drive a car, he was always scared - Marc never had a driving licence, he refused to learn’</h1>
+<h1 tooltip="‘Hij reed nooit met de auto, hij had altijd schrik. Marc heeft nooit een rijbewijs gehad en hij weigerde om te leren rijden’">‘‘He would never drive a car, he was always scared - Marc never had a driving licence, he refused to learn’</h1>
 
 <span class="bronvermelding">{% include link.html url="http://news.bbc.co.uk/onthisday/hi/dates/stories/september/16/newsid_2519000/2519173.stm" tekst="Bron" new_tab=true %}: BBC, 1977: T-Rex singer killed in car smash, auteur onbekend, geraadpleegd op 10/07/2017 </span>
 
@@ -142,7 +142,7 @@ Toch herinnert June Child (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze 
 
 {% include next_section.html %}
 
-Uiteindelijk stapt Marc Bolan in de groep en schrijft hij verschillende van hun nummers. Een van de die nummers is<span class="engels"> Desdemona</span>, dat in 1967 uitgebracht wordt als single. Het nummer wordt veel gedraaid door piratenzenders. Maar de <span tooltip="De Britse publieke omroep.">BBC</span> bant het al snel, omdat in het refrein de woorden ‘<span class="engels">lift up your skirt and fly </span>’ voorkomen. Wat zoveel betekend als ‘til je rok op en vlieg’.
+Uiteindelijk stapt Marc Bolan in de groep en schrijft hij verschillende van hun nummers. Een van de die nummers is<span class="engels"> Desdemona</span>, dat in 1967 uitgebracht wordt als single. Het nummer wordt veel gedraaid door piratenzenders. Maar de <span tooltip="De Britse publieke omroep.">BBC</span> bant het al snel, omdat in het refrein de woorden ‘<span class="engels">lift up your skirt and fly </span>’ voorkomen. Wat zoveel betekent als ‘til je rok op en vlieg’.
 
 <iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/VGtgacHMIec" frameborder="0" allowfullscreen></iframe>
 
@@ -407,7 +407,7 @@ Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een
 {% include next_section.html %}
 ## Inbraken
 
-Niet lang na Bolan’s dood word er ingebroken in zijn huis. Verschillende van zijn persoonlijke spullen, zoals zijn gitaren en kleren, waren plots verdwenen. En ook de begrafenis-ondernemer waagde zijn kans. In
+Niet lang na Bolan’s dood wordt er ingebroken in zijn huis. Verschillende van zijn persoonlijke spullen, zoals zijn gitaren en kleren, waren plots verdwenen. En ook de begrafenis-ondernemer waagde zijn kans. In
 <span tooltip="The Telegraph – Behind the glitter, gepubliceerd op 31/08/2002, geraadpleegd op 07/07/2017 {% include link.html tekst='bron' url='http://www.telegraph.co.uk/culture/4728611/Behind-the-glitter.html' escaped=true new_tab=true %}">The Telegraph </span> staat te lezen hoe Marc Bolan’s broer, Harry Feld, in 1987 op de hoogte werd gebracht over het feit dat deze de kleren probeerde te verkopen waarin Bolan overleden was. Feld had nochtans opgedragen om de kleren na Bolan’s crematie te vernietigen. De begrafenis-ondernemer zegt dat hij de kleren gevonden heeft toen hij met pensioen ging. Hij wilde ze verkopen om de kas te spijzen van een goed doel. Harry Feld heeft dan het heft in eigen handen genomen en de kleren verbrand. 
 
 {% include next_section.html %}
@@ -415,7 +415,7 @@ Niet lang na Bolan’s dood word er ingebroken in zijn huis. Verschillende van z
 
 ## Begrafenis
 
-Vier dagen na het ongeluk, op dinsdag 20 september 1977, ontwaakt {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} uit haar coma. Pas dan komt ze te weten dat haar geliefde, Marc Bolan, gestorven is en dat diezelfde dag zijn assen nog worden uitgestrooid. Jones is op dat moment nog niet sterk genoeg om de plechtigheid bij te wonen. 
+Vier dagen na het ongeluk, op dinsdag 20 september 1977, ontwaakt {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Jones" new_tab=true %} uit haar coma. Pas dan komt ze te weten dat haar geliefde, Marc Bolan, gestorven is en dat diezelfde dag zijn as nog worden uitgestrooid. Jones is op dat moment nog niet sterk genoeg om de plechtigheid bij te wonen. 
 
 Het nieuws dat superster Marc Bolan overleden is komt bij fans over de hele wereld hard aan. En velen weten nog exact wat ze aan het doen waren op het moment dat ze het nieuws vernomen. 
 
@@ -464,7 +464,7 @@ Dit is het verhaal van Deborah Loads (59), een Britse vrouw die als tiener super
 
 <div class="witregel"> </div>
 
-<p class="dagboek"><span tooltip="‘De volgende ochtend nam ik zoals gepland een taxi naar school. Ik was vijf minuten te laat en kan me nog zo herinneren hoe de hoofdverpleger door zijn gordijnen naar me keek. Op dat moment was een verpleegstersopleiding nog erg strict en was te laat komen uit de boze.’">‘I got my taxi back to the school the following morning but was about 5 mins late. I can still remember the head of nursing standing up from his seat and moving the blind to see who was running in at that time of the morning. Nurse training was very strict in those days.’</span></p>
+<p class="dagboek"><span tooltip="‘De volgende ochtend nam ik zoals gepland een taxi naar school. Ik was vijf minuten te laat en kan me nog zo herinneren hoe de hoofdverpleger door zijn gordijnen naar me keek. Op dat moment was een verpleegstersopleiding nog erg strict en was te laat komen uit den boze.’">‘I got my taxi back to the school the following morning but was about 5 mins late. I can still remember the head of nursing standing up from his seat and moving the blind to see who was running in at that time of the morning. Nurse training was very strict in those days.’</span></p>
 
 <div class="witregel"> </div>
 
