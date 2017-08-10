@@ -19,16 +19,16 @@ Maandag 27 maart 2017. 03.30 uur, de wekker gaat. Op elke andere dag is dat een 
 #### Bolan’s Rock Shrine
 Ik laat de slapende stad achter me om een paar uur later toe te komen in een andere wereld: Londen tijdens de ochtendspits. Iedereen heeft haast om god weet waar te geraken. Iedereen duwt en trekt. En niemand heeft de tijd om mijn vraag te beantwoorden: ‘hoe geraak ik op <span class="engels">10 Gipsy Lane</span>’. Daar sta ik dan verdwaald rond te staren. Tot een vriendelijke metrobegeleider me opmerkt. <span class="engels">Rock Shrine, here I come</span>.
 
-<p class="dagboek">‘Ik kwam hier zes maand geleden al. Toen besloot ik van St. Pancras Station naar 10 Gipsy Lane te stappen. Volgens Google Maps een wandeling van bijna drie uur. Maar drie  uur werd vier uur. Een vier uur werd vijf uur. Uiteindelijk was het donker en koud toen in bij Bolan’s shrine aankwam. Nooit waren mijn voeten zo blij en m’n hart zo zwaar. Er toekomen was als op bezoek gaan bij een oude vriend, waar je neerploft en een frisse pint inschenkt. Vertrekken was als een pijnlijk afscheid. </p>
+<p class="dagboek">‘Ik kwam hier zes maand geleden al. Toen besloot ik van St. Pancras Station naar 10 Gipsy Lane te stappen. Volgens Google Maps een wandeling van bijna drie uur. Maar drie uur werd vier uur. En vier uur werd vijf uur. Uiteindelijk was het donker en koud toen ik bij Bolan’s shrine aankwam. Nooit waren mijn voeten zo blij en m’n hart zo zwaar. Er toekomen was als op bezoek gaan bij een oude vriend, waar je neerploft en een frisse pint inschenkt. Vertrekken was als een pijnlijk afscheid. </p>
 
-<p class="dagboek">Nu is het zes maanden later en belsuit ik om gebruik te maken van het openbaar vervoer. Want dit keer heb ik geen acht dagen de tijd om tot bij Bolan te geraken. In tegenstelling tot mijn vorige bezoek, is Londen nog volop aan het ontwaken wanneer ik aankom. Mijn oude vriend ziet er anders uit in het daglicht, eenzaam en verloederd. Alsof er al jaren niemand meer op bezoek is geweest. Het briefje dat ik een half jaar eerder achterliet, is opgebrand, samen met alle andere boodschappen die toen talrijk omhoog hingen. En het enige dat nog overblijft is een hoopje assen, met hier en daar nog een halve herinnering.</p>
+<p class="dagboek">Nu is het zes maanden later en besluit ik om gebruik te maken van het openbaar vervoer. Want dit keer heb ik geen acht dagen de tijd om tot bij Bolan te geraken. In tegenstelling tot mijn vorige bezoek, is Londen nog volop aan het ontwaken wanneer ik aankom. Mijn oude vriend ziet er anders uit in het daglicht, eenzaam en verloederd. Alsof er al jaren niemand meer op bezoek is geweest. Het briefje dat ik een half jaar eerder achterliet, is opgebrand, samen met alle andere boodschappen die toen talrijk omhoog hingen. En het enige dat nog overblijft is een hoopje as, met hier en daar nog een halve herinnering.</p>
 
 <p class="dagboek">Ik kan niet anders dan een enorme leegte voelen, een immense droefheid om deze shrine die op amper zes maanden tijd veranderde in een klein stort. Het is alsof ook Bolan’s standbeeld dit voelt. Want waar eerst een Electric Warrior stond, staat nu een lege man die met een dode blik eindeloos in de verte staart.’</p>
 
 <span class="witregel"> </span>
 <div class="carousel">
 	<div>
-		{% include image.html url="/images/Herdenksteen1.jpg" tooltip="20jaar na Bolan's dood wordt de eerste herdenkingsplaat geïnstalleerd op de plek waar hij overleed." %}
+		{% include image.html url="/images/Herdenksteen1.jpg" tooltip="20 jaar na Bolan's dood wordt de eerste herdenkingsplaat geïnstalleerd op de plek waar hij overleed." %}
 	</div>
 	<div>
 	{% include image.html url="/images/Herdenksteen2.jpg" tooltip="Het onderschrift van de bronzen buste die Rolan Bolan in 2002 liet plaatsen op de plek waar zijn vader om het leven kwam."%}
@@ -94,7 +94,7 @@ Het is al laat wanneer ik mezelf terug van het bankje gerukt krijg. En inmiddels
 
 #### {% include link.html url="https://sisterrayace.tmstor.es/" tekst="Sister Ray" new_tab=true %}
 
-Ik begin mijn tweede dag met een bezoekje aan <span class="engels">The Birthplace of rock 'n roll</span>. Of de vroegere <span class="engels">2i’s Coffee Bar</span>. Een koffiehuis waar menig Britse rockartiesten ontdekt werd in de jaren ’50. Maar nu moet je het stellen met een groene plaat die je nog maar eens vertelt waar je bent. 
+Ik begin mijn tweede dag met een bezoekje aan <span class="engels">The Birthplace of rock 'n roll</span>. Of de vroegere <span class="engels">2i’s Coffee Bar</span>. Een koffiehuis waar menig Brits rockartiest ontdekt werd in de jaren ’50. Maar nu moet je het stellen met een groene plaat die je nog maar eens vertelt waar je bent. 
 
 Hierna trek ik naar <span class="engels">Middle Earth</span>, een hippie-club waar Bolan en {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Took" new_tab=true %} met {% include link.html url="/artist_info/MarcBolanBio#TyrannosaurusRex/" tekst="Tyrannosaurus Rex" new_tab=true %} nog al eens op bezoek kwamen. Beide plaatsen maken weinig indruk op mij en geven me het gevoel dat niets of niemand in Londen leeft.
 
