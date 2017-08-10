@@ -20,7 +20,7 @@ Bolan’s muziek inspireert nog steeds mensen. Muzikanten als {% include link.ht
 <span class="engels">20th Century Boy</span>.
 
 #### Waarom is dit een niet te missen film?: <br>
-<span class="engels">Detroit Rock City</span> is misschien niet de meest intelectuele film. Maar soms is het ook eens toegelaten om gewoon lekker onderuit te zakken en je brein 90 minuten rust te gunnen. Daar is deze film pérfect voor.
+<span class="engels">Detroit Rock City</span> is misschien niet de meest intellectuele film. Maar soms is het ook eens toegelaten om gewoon lekker onderuit te zakken en je brein 90 minuten rust te gunnen. Daar is deze film pérfect voor.
 
 ## 4) Billy Elliot
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CHt2us5ULA0" frameborder="0" allowfullscreen></iframe>

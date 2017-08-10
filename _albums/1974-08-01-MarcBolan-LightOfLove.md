@@ -22,7 +22,7 @@ En alsof dat allemaal nog niet genoeg was, moest Bolan het ook voor het eerst do
 
 ## 3 + 8 = album
 
-<span class="engels">Light of Love</span> kan je bekijken als een ‘tussenalbum’. Bolan gebruikte drie nummers van zijn vorige album {% include link.html url="/albums/1974-02-01_MarcBolan-ZincAlloy/" tekst="Zinc Alloy and the Hidden Rider of Tommorow" new_tab=true %}. En acht nummers die een jaar later ook zouden verschijnen op <span class="engels">Bolan's Zip Gun</span>. Misschien niet het beste idee. Maar als als je <span class="engels">Light of Love</span> en <span class="engels">Bolan's Zip Gun</span> naast elkaar legt, is deze <span class="engels">Light of Love</span> zeker en vast de betere van de twee.
+<span class="engels">Light of Love</span> kan je bekijken als een ‘tussenalbum’. Bolan gebruikte drie nummers van zijn vorige album {% include link.html url="/albums/1974-02-01_MarcBolan-ZincAlloy/" tekst="Zinc Alloy and the Hidden Rider of Tommorow" new_tab=true %}. En acht nummers die een jaar later ook zouden verschijnen op <span class="engels">Bolan's Zip Gun</span>. Misschien niet het beste idee. Maar als je <span class="engels">Light of Love</span> en <span class="engels">Bolan's Zip Gun</span> naast elkaar legt, is deze <span class="engels">Light of Love</span> zeker en vast de betere van de twee.
 <div class="witregel"> </div>
 
 <table>

@@ -29,7 +29,7 @@ Deze plaat blijft me steeds verbazen. En dat begint al bij de titel <span class=
 
 Wanneer ik het dan eindelijk voor elkaar krijg om naar het volgende nummer over te gaan, <span class="engels">is New York City</span> zeker een goede opvolger. Een nummer dat me altijd een beetje het gevoel geeft dat ik naar een jaren ’70 sci fi film aan het kijken ben. En eerlijk, wie zakt nu niet graag weg bij <span class="engels">Star Trek</span> of <span class="engels">Close Encounters of the Third Kind</span>?!
 
-Na <span class="engels">Calling All Destroyers</span> valt <span class="engels">Futuristic Dragon</span> jammer genoeg een beetje plat. Als een flesje frisdrank waaruit alle prik verdwenen is. Gelukkig zijn er nog Bolan’s vocale turnoefeningen om het geheel wat te pimpen.
+Na <span class="engels">Calling All Destroyers</span> valt <span class="engels">Futuristic Dragon</span> jammer genoeg een beetje plat, als een flesje frisdrank waaruit alle prik verdwenen is. Gelukkig zijn er nog Bolan’s vocale turnoefeningen om het geheel wat te pimpen.
 
 <div class="uitgelicht">‘Night is the right time/To get acquainted with my head’ – Dreamy Lady</div>
 
