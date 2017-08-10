@@ -33,7 +33,7 @@ Laat me beginnen bij het begin: <span class="engels">Mambo Sun</span>. Een numme
 
 ## Eiland
 
-Na het beluisteren van deze plaat is de enige conclusie die ik kan trekken: ‘ik moet deze plaat opnieuw beluisteren’. Dat is dan ook wat ik altijd meteen weer doe. <span class="engels">Electric Warrior</span> is het ene muzikale orgasme na het andere. Met het hoogtepunt op <span class="engels">Life’s A Gas</span> en de heerlijke oergeluiden waarmee Bolan verwent. Eén ding is zeker. Als ik ooit verbannen wordt naar een onbewoond eiland en ik mag slechts slechts vijf platen meenemen, dan is deze <span class="engels">Electric Warrior</span> er één van!
+Na het beluisteren van deze plaat is de enige conclusie die ik kan trekken: ‘ik moet deze plaat opnieuw beluisteren’. Dat is dan ook wat ik altijd meteen weer doe. <span class="engels">Electric Warrior</span> is het ene muzikale orgasme na het andere. Met het hoogtepunt op <span class="engels">Life’s A Gas</span> en de heerlijke oergeluiden waarmee Bolan verwent. Eén ding is zeker. Als ik ooit verbannen word naar een onbewoond eiland en ik mag slechts slechts vijf platen meenemen, dan is deze <span class="engels">Electric Warrior</span> er één van!
 <div class="witregel"> </div>
 
 <div class="pagebreak"> </div>

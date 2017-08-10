@@ -15,7 +15,7 @@ image: /images/Unicorn.jpg
 </span>
 16 mei 1969<br>Studio album
 
-<span class="engels">Unicorn</span> is het eerste {% include link.html url="/artist_info/MarcBolanBio#TyrannosaurusRex" tekst="Tyrannosaurus Rex" new_tab=true %} album dat zijn weg vindt naar Amerika. Toch is <span class="engels">Unicorn</span> al hun derde album op één jaar tijd. Maar een échte hoogvlieger kan je het album niet noemen. Ze bereiken een twaalfde plaats in de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %}. Maar na slechts drie weken is het album niet meer te vinden in de top 100. 
+<span class="engels">Unicorn</span> is het eerste {% include link.html url="/artist_info/MarcBolanBio#TyrannosaurusRex" tekst="Tyrannosaurus Rex" new_tab=true %} album dat zijn weg vindt naar Amerika. Toch is <span class="engels">Unicorn</span> al hun derde album op één jaar tijd. Maar een échte hoogvlieger kan je het album niet noemen. Het bereikt een twaalfde plaats in de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="hitlijsten" new_tab=true %}. Maar na slechts drie weken is het album niet meer te vinden in de top 100. 
 
 
 ## Kuikentjes
