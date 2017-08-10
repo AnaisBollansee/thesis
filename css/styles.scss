@@ -9,6 +9,8 @@ body {
 	font-family: "Verdana", Arial, Helvetica, sans-serif;
 	margin: 0;
 	//padding-top: 50pt;
+	word-break: keep-all;
+	hyphens: none;
 }
 
 .content {
