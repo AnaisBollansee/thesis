@@ -12,8 +12,7 @@ order: 1
 # Marc Bolan
 ##### Het leven van een 20th century boy
 
-<iframe id="ytplayer" type="text/html" width="640" height="390"
-  src="https://www.youtube.com/embed/Iv2JA1fshgg" frameborder="0" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdKI2Ow9NRY" frameborder="0" allowfullscreen></iframe>
   
 {% include next_section.html %}
  
