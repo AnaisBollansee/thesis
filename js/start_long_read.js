@@ -9,7 +9,6 @@ $(document).ready(function() {
             sections.push("" + (index+1))
         }
     })
-    console.log(sections)
 
     /*$.each(sections, function(index, value) {
         $('#menu').append('<li data-menuanchor="' + value + '"><a href="#' + value + '">' + value + '</a></li>')
