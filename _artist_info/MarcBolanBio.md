@@ -12,7 +12,7 @@ order: 1
 # Marc Bolan
 ##### Het leven van een 20th century boy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdKI2Ow9NRY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdKI2Ow9NRY?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
   
 {% include next_section.html %}
  
@@ -25,7 +25,7 @@ Marc Bolan, geboren als Mark Feld op 30 september 1947, is de zoon van Simeon en
 
 {% include next_section.html %}
 
-<iframe class="lazyload"  width="100%" height="400" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=90&end=165" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="100%" height="400" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=90&end=165&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
@@ -48,7 +48,7 @@ Tijdens zijn schoolperiode maakte hij als gitarist deel uit van de groep Susie &
 Toch had zijn eerste doorbraak niets te maken met zijn muziek, maar wel met de manier waarop hij zich kleedde. Als jonge tiener geraakte Bolan geobsedeerd door kleren en zag hij er altijd piekfijn uit. Zo werd hij in 1962 gespot door het <span class="engels">lifestyle</span> magazine <span class="engels">Town</span>. En iets later, op 16 jarige leeftijd, is hij te zien in een aflevering van de Britse TV-serie <span class="engels">Orlando</span>.
 <div class="witregel"> </div>
  
-<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=274&end=356" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=274&end=356&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
@@ -61,13 +61,13 @@ Toch blijft muziek zijn droom. In 1964 verandert hij zijn artiesten naam in Toby
 Maar het nummer slaat niet aan. Dus trekt Bolan naar Parijs met de Britse acteur Riggs O’Hara, op zoek naar inspiratie. Op deze trip zou Bolan (naar eigen zeggen) in contact zijn gekomen met een tovenaar. 
 <span class="witregel"> </span>
  
-<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/vShOZjYqWZk?start=580&end=630" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/vShOZjYqWZk?start=580&end=630&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 De ontmoeting leidt tot het nummer <span class="engels">The Wizard</span>, zijn debuut single als Marc Bolan (toen nog geschreven als Bölan), in 1965.
 <div class="witregel"></div>
-<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/mfSSmy8B5GA" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/mfSSmy8B5GA?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 <div class="witregel"></div>
 In 1970 komt het nummer terecht komt op het eerste <span class="engels">T.Rex</span> album {% include link.html url="/ albums/1970-12-18-MarcBolan-T.Rex/" tekst="T.Rex" new_tab=true %}.
 
@@ -96,7 +96,7 @@ Zo gezegd, zo gedaan. Bolan begint met spelen en na een klein uur beslist <span 
 Bolan’s nieuwe manager besluit dat hij een hit nodig heeft. En hoewel dit niet is zoals Marc Bolan het wou, besluit hij uiteindelijk om toch toe te geven. En hij begint te werken aan het nummer <span class="engels">Hippo Gumbo</span>.
 <div class="witregel"> </div>
  
-<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/aibZLwN2GWM" frameborder="0" allowfullscreen></iframe> 
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/aibZLwN2GWM?enablejsapi=1" frameborder="0" allowfullscreen></iframe> 
 
 {% include next_section.html %}
 
@@ -135,7 +135,7 @@ Zijn vroegere manager <span tooltip=" Tony Secunda was een manager van rockgroep
 
 Toch herinnert June Child (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze Marc Bolan zijn eerste en enige rijles gaf.
 
-<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/aEhtfNmceaE?start=344&end=421" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/aEhtfNmceaE?start=344&end=421&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include end_slides.html %}
 
@@ -143,13 +143,13 @@ Toch herinnert June Child (de vrouw met wie hij in 1970 trouwt) zich nog hoe ze 
 
 Uiteindelijk stapt Marc Bolan in de groep en schrijft hij verschillende van hun nummers. Een van de die nummers is<span class="engels"> Desdemona</span>, dat in 1967 uitgebracht wordt als single. Het nummer wordt veel gedraaid door piratenzenders. Maar de <span tooltip="De Britse publieke omroep.">BBC</span> bant het al snel, omdat in het refrein de woorden ‘<span class="engels">lift up your skirt and fly </span>’ voorkomen. Wat zoveel betekent als ‘til je rok op en vlieg’.
 
-<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/VGtgacHMIec" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/VGtgacHMIec?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 Marc’s laatste optreden met de band was tijdens een benefietconcert: <span class="engels">The 14 Hour Technicolor Dream</span>. Dat vond plaats in <span class="engels">Alexandra Palace</span>, een zaal in Londen. De headliner van het event was de Londense band {% include link.html url="/artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}.
 
-<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/0ysSPIKriAg" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/0ysSPIKriAg?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html anchor="TyrannosaurusRex" %}
 
@@ -158,7 +158,7 @@ Marc’s laatste optreden met de band was tijdens een benefietconcert: <span cla
 Na zo’n vier maanden verlaat Bolan John’s Children. 
 In augustus 1967 richt hij Tyrannosaurus Rex op, een duo met Percussionist {% include link.html url="/artist_info/Minor/StevePeregrinTook/" tekst="Steve Peregrin Took" new_tab=true %}.
 
-<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/LWYP0V-UDnc" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload"  width="560" height="315" data-src="https://www.youtube.com/embed/LWYP0V-UDnc?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
@@ -200,7 +200,7 @@ Voor het eerst proeft Bolan het succes en scoort hij enkele {% include link.html
 
 Een grote Tyrannosaurus Rex-fan is radiopersoonlijkheid {% include link.html url="/artist_info/Minor/JohnPeel/" tekst="John Peel" new_tab=true %}, die hun nummers vaak speelt in zijn radioprogramma.
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/vShOZjYqWZk?start=942&end=1000" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/vShOZjYqWZk?start=942&end=1000&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
@@ -224,7 +224,7 @@ Maar de relatie tussen Marc Bolan en {% include link.html url="/artist_info/Mino
 
 Met {% include link.html url="/artist_info/Minor/MickeyFinn/" tekst="Finn" new_tab=true %} aan zijn zij begint een nieuw tijdperk. Elektrische gitaren zijn steeds meer aanwezig in de muziek. En na een laatste album onder de naam Tyrannosaurus Rex ({% include link.html url="/albums/1970-03-13-MarcBolan-ABeardOfStars/" tekst="A Beard of Stars" new_tab=true %}), wordt de groepsnaam officieel <span class="engels">T.Rex</span>. Bolan smijt zijn hippielook uit het raam en vindt zichzelf opnieuw uit met make-up en boa’s. 
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/EiYxPFitUz4?start=07&end=174" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/EiYxPFitUz4?start=07&end=174&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_slide.html %}
 ## Glamrock
@@ -237,26 +237,26 @@ Begin jaren ‘70 begint Marc Bolan zijn hippie-stijl te veranderen. En hij zet 
 
 GlamRock of glitterrock was vooral populair in de jaren ’70 in Groot Britannië. Maar ook in Amerika verschijnen steeds vaker opgetutte artiesten op het podium. Maar anders dan in Groot Britannië, wordt hier {% include link.html url="/artists/10_AliceCooper/" tekst="Alice Cooper" new_tab=true %} aanzien als het begin van de Glamrock, toen hij in 1970 zijn eerste hit I’m Eighteen uitbracht.
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/OSxuXsyanCI" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/OSxuXsyanCI?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_slide.html %}
 
 De eerste helft van de jaren ‘70 staat bekend als de hoogdagen van Marc Bolan. En dat is het moment waarop hij opnieuw een verrassende voorspelling doet. Net zoals enkele jaren eerder spreekt hij over zijn dood en voorspelt hij (onbewust) dat hij niet lang zal leven. 
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/fZ6PxuhnGUg?start=215&end=240" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/fZ6PxuhnGUg?start=215&end=240&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include end_slides.html %}
 {% include next_section.html %}
 
 Op 30 januari 1970 trouwt Marc Bolan met June Child. Zij was de ex-secretaresse van Syd Barrett ({% include link.html url="/artists/06_PinkFloyd/" tekst="Pink Floyd" new_tab=true %}) en wist dus wel wat van de muziekwereld af. Dit gaf haar de kans om haar man een handje te helpen bij zijn carrière die niet veel later in een stroomversnelling komt. 
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/aEhtfNmceaE?start=0&end=76" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/aEhtfNmceaE?start=0&end=76&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 In october van dat jaar scoort Bolan zijn eerste {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10 hit" new_tab=true %}: <span class="engels">Ride A White Swan</span>.
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/y9rFoPyqFoA" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/y9rFoPyqFoA?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html anchor="T.Rex" %}
 
@@ -264,7 +264,7 @@ In october van dat jaar scoort Bolan zijn eerste {% include link.html url="/arti
 
 Vanaf dan begint de groep aan haar gloriejaren. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=238&end=274" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aEhtfNmceaE?start=238&end=274&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 {% include start_slides.html %}
@@ -274,8 +274,11 @@ Vanaf dan begint de groep aan haar gloriejaren.
 <a data-pin-do="embedPin" data-pin-lang="nl" data-pin-width="medium" data-pin-terse="true" href="https://www.pinterest.com/pin/219761656793315291/"></a><script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 {% include next_slide.html %}
-Marc Bolan wordt ineens voor vele jongeren een inspiratiebron. Zo ook voor Andy Riff Socratous:
-<span class="quote" tooltip="‘Ik was 15 toen Hot Love en Bang a Gong (Get it On) uitkwamen. Ik werd onmiddelijk verliefd en begon naar al Marc Bolan’s muziek te luisteren. In 1972 kreeg ik mijn eerste gitaar en begon ik mee te spelen met de muziek van T.Rex. In 1978 speelde ik voor het eerst in een band. Onze muziek werd geïnspireerd door alle mensen die op dat moment anders waren. En Marc was daar natuurlijk één van.’">‘I was 15 years old when Hot Love and Bang a Gong (Get It On) came out. I immediately fell in love and started to listen to all of Marc’s stuff. In 1972 I got my first guitar and started to play along to T.Rex. In 1978 I joined my first band. Our music was inspired by all the people that stood out at that time. And Marc, of course, was one of them.’</span><span class="quote" tooltip="‘Marc was anders en uniek. Ik hou van de manier waarop hij beweegt op het podium. En hoe hij bijvoorbeeld zijn gitaar gebruikt als een wapen. Hij schreef geweldige gitaarlijnen en prachtige teksten. Hij was een echte ster. Hij heeft me geïnspireerd om zelf iets te doen. Door hem ben ik muziek beginnen spelen. En door hem speel ik vandaag nog steeds.’">‘Marc was unique and different. I like the way he moved on stage. For example, how he used his guitar as a weapon on stage. He also wrote great riffs and phenomenal lyrics. He was a real star. He inspired me to do something myself. I started playing music because of him. And I still play because of him.’</span>
+Marc Bolan wordt ineens voor vele jongeren een inspiratiebron. Zo ook voor Andy Riff Socratous:
+
+<span class="quote" tooltip="‘Ik was 15 toen Hot Love en Bang a Gong (Get it On) uitkwamen. Ik werd onmiddelijk verliefd en begon naar al Marc Bolan’s muziek te luisteren. In 1972 kreeg ik mijn eerste gitaar en begon ik mee te spelen met de muziek van T.Rex. In 1978 speelde ik voor het eerst in een band. Onze muziek werd geïnspireerd door alle mensen die op dat moment anders waren. En Marc was daar natuurlijk één van.’">‘I was 15 years old when Hot Love and Bang a Gong (Get It On) came out. I immediately fell in love and started to listen to all of Marc’s stuff. In 1972 I got my first guitar and started to play along to T.Rex. In 1978 I joined my first band. Our music was inspired by all the people that stood out at that time. And Marc, of course, was one of them.’</span>
+
+<span class="quote" tooltip="‘Marc was anders en uniek. Ik hou van de manier waarop hij beweegt op het podium. En hoe hij bijvoorbeeld zijn gitaar gebruikt als een wapen. Hij schreef geweldige gitaarlijnen en prachtige teksten. Hij was een echte ster. Hij heeft me geïnspireerd om zelf iets te doen. Door hem ben ik muziek beginnen spelen. En door hem speel ik vandaag nog steeds.’">‘Marc was unique and different. I like the way he moved on stage. For example, how he used his guitar as a weapon on stage. He also wrote great riffs and phenomenal lyrics. He was a real star. He inspired me to do something myself. I started playing music because of him. And I still play because of him.’</span>
 
 {% include end_slides.html %}
 
@@ -287,7 +290,7 @@ En tussen alles door vindt Marc Bolan de tijd om een film te maken: <span class=
 
 De film werd geregisseerd door <span tooltip="Ringo Starr was de drummer van de bekende Liverpoolse band The Beatles. Sinds 1970 werkt Starr aan zijn solo-carrière. Hiij werd geboren op 7 juli 1940, onder de naam Richard Starkley.">Ringo Starr</span>. En bestaat voornamelijk uit live-beelden in combinatie met opnamesessies waar je Bolan, Ringo Starr en <span tooltip="Elton John is een Britse zanger, componist en pianist. Hij is een van de bestverkopende artiesten allertijden. Hij staat ook bekend als voorvechter van de holebi en transgender gemeenschap. Elton John is geboren op 25 maart 1947. Hij is actief in de muziekwereld sinds 1967.">Elton John</span> samen aan het werk kan zien. En er is de befaamde ‘<span class="engels">tea party scene</span>’, die werd opgenomen op het landgoed van <span tooltip="John Lennon is geboren op 9 oktober 1940. Hij was de zanger en gitarist van de Liverpoolse pop-rockband The Beatles, die actief was van 1960 tot 1970. Na zijn ontmoeting met muzikante Yoko Ono scheurde hij af van de Beatles. Hierna begon hij zijn solo-carrière en werd hij het gezicht van de hippiebeweging. Een van zijn bekendste solo-hits is Imagine. Hij is neergeschoten op 8 december 1980 in New York.">John Lennon</span>. Op dezelfde plek waar de muziekvideo voor Lennon’s hit Imagine werd opgenomen.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k9Md9AGcMbA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k9Md9AGcMbA?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_slide.html %}
 
@@ -295,7 +298,7 @@ De film werd geregisseerd door <span tooltip="Ringo Starr was de drummer van de 
 
 Deze periode van glorie en krijsende tienermeisjes kreeg de naam <span class="engels">T.Rextasy</span>. Het was geleden van het begin van de <span class="engels">Beatlemania</span>, ongeveer tien jaar eerder, dat jonge meisjes (en jongens) zo vielen voor een artiest.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VMAUkldhseI?start=44&end=120" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VMAUkldhseI?start=44&end=120&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include end_slides.html %}
 {% include next_section.html %}
@@ -309,7 +312,9 @@ Op dat moment is Marc Bolan al vijf jaar non-stop aan het werk. En deze constant
 
 En ook voor producer en vriend {% include link.html url="/artist_info/Minor/TonyVisconti/" tekst="Tony Visconti" new_tab=true %} is het over en uit. Visconti herinnert zich de dag dat Bolan verschillende groupies, cocaïne en cognac meenam naar de studio. Door deze dodelijke combinatie krijg Bolan zijn gitaar niet juist gestemd. En Visconti besluit om hem hierop te wijzen. 
 
-<span class="quote" tooltip="”Fuck you! Mijn gitaar staat niet vals – ik heb hem juist gestemd.” Iedereen schrok en Marc stormde naar buiten – mijn wangen werden lichtjes rood. Ik glipte snel de studio in en stemde zijn gitaar, iets wat ik al vaker had gedaan. (…) Ik had hem al mijn energie gegeven, maar een team-speler zijn voor een waanzinnige leider was niet wat ik me voorstelde bij een rijke, creatieve ervaring – of een ‘vriendschap’.”">‘“Fuck you! My guitar isn’t out of tune – I just tuned it.”Everyone froze and Marc stormed out – my cheeks went slightly rouge. I quickly moved from the control room into the studio and tuned his guitar properly, as I’d done many times in the past. (…) I’d given him my all, but being a team player to a maniacal leader wans’t my idea of a rich, creative experience – or a so-called friendship.’"</span>
+<span class="quote" tooltip="”Fuck you! Mijn gitaar staat niet vals – ik heb hem juist gestemd.” 
+Iedereen schrok en Marc stormde naar buiten – mijn wangen werden lichtjes rood. Ik glipte snel de studio in en stemde zijn gitaar, iets wat ik al vaker had gedaan. (…) Ik had hem al mijn energie gegeven, maar een team-speler zijn voor een waanzinnige leider was niet wat ik me voorstelde bij een rijke, creatieve ervaring – of een ‘vriendschap’.”">‘“Fuck you! My guitar isn’t out of tune – I just tuned it.”
+Everyone froze and Marc stormed out – my cheeks went slightly rouge. I quickly moved from the control room into the studio and tuned his guitar properly, as I’d done many times in the past. (…) I’d given him my all, but being a team player to a maniacal leader wans’t my idea of a rich, creative experience – or a so-called friendship.’"</span>
 
 <span class="bronvermelding"> Bowie,Bolan and the Brooklyn Boy: Tony Visconti the autobiography – Tony Visconti, HarperCollins (2007), p.208-209</span>
 
@@ -328,7 +333,7 @@ Met {% include link.html url="/albums/1974-02-01-MarcBolan-ZincAlloy/" tekst="Zi
 
 En niet alleen zijn platen scoren steeds minder, ook in Bolan’s huwelijk loopt het mis. Het is al de derde keer dat Bolan het gezelschap zoekt van een andere vrouw. Maar dit keer is het serieus. Uiteindelijk ruilt hij zijn vrouw June Feld Bolan in voor zijn achtergrondzangeres {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}. Al zal het paar nooit scheiden. 
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=3386&end=3464" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/CgCNm6eNLAw?start=3386&end=3464&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
@@ -342,7 +347,7 @@ Bolan’s team raadt hem aan om Groot Britannië (tijdelijk) te verlaten en zo t
 
 Tot hij gevraagd wordt om te verschijnen op de Britse TV-show <span tooltip="Britse Muziek-serie voor kinderen.">Supersonic</span> Bolan beslist hier op in te gaan. En keert, na ongeveer een jaar, terug naar Engeland. 
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/qs9raocclnk" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/qs9raocclnk?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 {% include start_slides.html %}
@@ -364,7 +369,7 @@ Nu Bolan opnieuw aan het werk te zien is, besluit hij om af te kicken. Bolan gaa
 
 Het nieuws van {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria" new_tab=true %}’s zwangerschap ontsteekt een nieuw vuur in Marc Bolan. Op 26 september 1975 wordt Rolan Bolan geboren. Vier dagen voor Bolan’s 28ste verjaardag.
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/UHYuGMGXeKc?start=63&end=100" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/UHYuGMGXeKc?start=63&end=100&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include end_slides.html %}
 {% include next_section.html %}
@@ -379,7 +384,7 @@ Na zo’n drie jaar in een dip te hebben gezeten, lijkt ineens terug alles mogel
 
 Op het eerste zicht misschien een vreemde combinatie. <span tooltip="Marc Bolan music, An Interview with CAPTAIN SENSIBLE, Marc Arscott, geraadpleegd op 14/07/2017 {% include link.html tekst='bron' url='http://www.marcbolanmusic.com/captain-sensible.aspx' escaped=true new_tab=true %}">Maar Captain Sensible, zanger van <span class="engels">The Damned</span>, was al een hele tijd fan van <span class="engels">T.Rex</span>. En droeg hun T-shirts wel eens tijdens optredens. Een foto van zo’n optrede kwam terecht in het Brits muziektijdschrift <span class="engels">Sounds magazine</span>. Bolan zag deze foto en besloot om contact op te nemen met <span class="engels">The Damned</span>. </span>
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/pOss9PYsPvg" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/pOss9PYsPvg?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html achor="16091977" %}
 
@@ -387,7 +392,7 @@ Op het eerste zicht misschien een vreemde combinatie. <span tooltip="Marc Bolan 
 
 Nadat {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %} een periode heeft doorgebracht in Amerika, komt ze op 16 september 1977 opnieuw aan in Londen. Bolan was een gelukkig man. Jones is opnieuw in het land en zijn TV show <span class="engels">Marc</span> was een succes. 
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Q0NEfm_Y-io" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Q0NEfm_Y-io?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
@@ -401,7 +406,7 @@ Om dit te vieren, gaat het koppel op stap. Die avond kiezen ze voor Mortons, een
 
 {% include next_section.html %}
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/li6bNrZrmGw?start=163&end=236" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/li6bNrZrmGw?start=163&end=236&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 ## Inbraken
@@ -505,7 +510,15 @@ Gloria Jones en hun zoon Rolan Bolan verhuizen naar Amerika van zodra Jones hers
 {% include next_section.html %}
 ## Postuum
 
-Ook na de dood van Marc Bolan verschijnen er nog platen van <span class="engels">T.Rex</span>. Zo kwam in 1979 <span class="engels">Solid Gold</span> uit, een <span tooltip="Op een compilatie cd staan nummers die al eerder uitgebracht zijn op andere cd’s. Er wordt dus materiaal van op verschillende cd’s samengebracht op één cd. Meestal gaat het dan om een cd met de grootste hits van de artiest. Of de meest gespeelde liedjes van dat moment.">compilatie cd</span> met verschillende grote <span class="engels">T.Rex</span> hits op. In 1981 kwam de plaat <span class="engels">T.Rex in Concert</span> uit. Een live-album dat werd opgenomen tijdens de <span class="engels">Electric Warrior</span> tournee in 1971. In 1980 komt het album <span class="engels">The Unobtainable T.Rex</span> uit. Met daarop 16 nooit eerder uitgebrachte <span class="engels">T.Rex</span> nummers.In 1985 en 1991 verschijnen twee compilatie cd’s: <span class="engels">Best of the 20th Century Boy</span> en <span class="engels">The Ultimate Collection</span>. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee <span class="engels">best of</span> cd’s: <span class="engels">The Essential Collection</span> (2002) en <span class="engels">Greatest Hits</span> (2007). Deze moeten het doen met een plaats in de top 20.In 2012 werd het best scorende <span class="engels">T.Rex</span> album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende <span class="engels">bonustracks</span> te vinden zijn. 
+Ook na de dood van Marc Bolan verschijnen er nog platen van <span class="engels">T.Rex</span>. Zo kwam in 1979 <span class="engels">Solid Gold</span> uit, een <span tooltip="Op een compilatie cd staan nummers die al eerder uitgebracht zijn op andere cd’s. Er wordt dus materiaal van op verschillende cd’s samengebracht op één cd. Meestal gaat het dan om een cd met de grootste hits van de artiest. Of de meest gespeelde liedjes van dat moment.">compilatie cd</span> met verschillende grote <span class="engels">T.Rex</span> hits op. 
+
+In 1981 kwam de plaat <span class="engels">T.Rex in Concert</span> uit. Een live-album dat werd opgenomen tijdens de <span class="engels">Electric Warrior</span> tournee in 1971. 
+
+In 1980 komt het album <span class="engels">The Unobtainable T.Rex</span> uit. Met daarop 16 nooit eerder uitgebrachte <span class="engels">T.Rex</span> nummers.
+
+In 1985 en 1991 verschijnen twee compilatie cd’s: <span class="engels">Best of the 20th Century Boy</span> en <span class="engels">The Ultimate Collection</span>. Beiden vinden ze hun weg naar de {% include link.html url="/artist_info/MarcBolanCijfers/" tekst="top 10" new_tab=true %} in Groot-Britannië. Hierna volgen nog twee <span class="engels">best of</span> cd’s: <span class="engels">The Essential Collection</span> (2002) en <span class="engels">Greatest Hits</span> (2007). Deze moeten het doen met een plaats in de top 20.
+
+In 2012 werd het best scorende <span class="engels">T.Rex</span> album {% include link.html url="/albums/1971-09-24-MarcBolan-ElectricWarrior/" tekst="Electric Warrior" new_tab=true %} opnieuw uitgegeven. Dit keer als dubbel-cd, waarop verschillende <span class="engels">bonustracks</span> te vinden zijn. 
 
 {% include next_section.html %}
 
@@ -513,19 +526,19 @@ Ook na de dood van Marc Bolan verschijnen er nog platen van <span class="engels"
 
 June Feld Bolan sterft in 1994 in Turkije aan een hartaanval. Haar relatie met Marc Bolan is ze nooit vergeten. 
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/dOEZdK6woGI" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/dOEZdK6woGI?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 {% include link.html url="/artist_info/Minor/GloriaJones/" tekst="Gloria Jones" new_tab=true %}  trouwt in 1995 en verhuist naar Sierra Leone in West-Afrika, waar ze <span tooltip="{% include link.html tekst='http://www.marcbolanschool.com' url='http://www.marcbolanschool.com' escaped=true new_tab=true %}">The Marc Bolan School of Music and film</span> start. Een project dat lokale kinderen de kans geeft om een instrument te leren spelen en hen indien nodig onderdak biedt. 
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/bn7DV1EC9BM" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/bn7DV1EC9BM?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
 Hun zoon Rolan Bolan woont in Los Angeles (Californië), waar hij als muzikant in de voetsporen van zijn ouders treedt. 
 
-<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Xx1UZg0Px8Q" frameborder="0" allowfullscreen></iframe>
+<iframe class="lazyload" width="560" height="315" data-src="https://www.youtube.com/embed/Xx1UZg0Px8Q?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 
 {% include next_section.html %}
 
